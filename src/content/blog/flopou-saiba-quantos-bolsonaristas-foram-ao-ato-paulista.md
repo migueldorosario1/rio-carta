@@ -7,8 +7,8 @@ slug: "flopou-saiba-quantos-bolsonaristas-foram-ao-ato-paulista"
 wp_id: 3476
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Monitor do Debate Político no Meio Digital, vinculado à Universidade de São Paulo (USP), divulgou uma análise sobre as manifestações na Avenida Paulista, destacando um maior número de participantes em um ato bolsonarista em comparação com a manifestação que celebrou a vitória de Luiz Inácio Lula da Silva nas eleições de 2022. </p>
 <!-- /wp:paragraph -->

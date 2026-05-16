@@ -7,8 +7,8 @@ slug: "o-globo-ataca-postura-diplomatica-de-lula-sobre-venezuela"
 wp_id: 3679
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>No recente editorial publicado na sexta-feira, <strong><a href="https://oglobo.globo.com/opiniao/editorial/coluna/2024/03/sao-inexplicaveis-os-afagos-de-lula-a-ditadura-de-maduro.ghtml">O Globo</a></strong> abordou a postura do ex-presidente Luiz Inácio Lula da Silva em relação à Venezuela, criticando as manifestações de apoio de Lula ao governo de Nicolás Maduro. </p>
 <!-- /wp:paragraph -->

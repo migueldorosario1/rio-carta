@@ -7,8 +7,8 @@ slug: "jose-dirceu-preve-reeleicao-de-lula-em-2026-e-discute-desafios-politicos"
 wp_id: 5425
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma recente entrevista com a jornalista Mônica Bergamo, da Folha de S. Paulo, José Dirceu, ex-ministro e uma das lideranças do PT, projetou que o presidente Luiz Inácio Lula da Silva concorrerá à reeleição em 2026, com grandes chances de vitória.</p>
 <!-- /wp:paragraph -->

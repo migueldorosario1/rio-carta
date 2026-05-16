@@ -7,8 +7,8 @@ slug: "cristo-redentor-e-a-atracao-mais-procurada-por-gringos"
 wp_id: 6657
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O Rio segue como o destino mais reservado por estrangeiros e domina as buscas turísticas com o Cristo Redentor no topo. Campanha reforça seu apelo global</h3>
 <!-- /wp:heading -->

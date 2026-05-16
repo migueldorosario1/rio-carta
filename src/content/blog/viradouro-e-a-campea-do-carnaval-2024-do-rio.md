@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A escola de samba Viradouro conquistou o título do Grupo Especial do Carnaval do Rio de Janeiro de 2024, com um enredo inspirado nas crenças voduns de povos africanos e na força das mulheres guerreiras. </p>
 <!-- /wp:paragraph -->

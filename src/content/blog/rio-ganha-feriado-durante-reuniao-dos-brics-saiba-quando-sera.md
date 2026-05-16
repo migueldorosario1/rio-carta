@@ -7,8 +7,8 @@ slug: "rio-ganha-feriado-durante-reuniao-dos-brics-saiba-quando-sera"
 wp_id: 6807
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Feriado não vale para comércio, turismo e serviços essenciais; capital fluminense se prepara para nova rodada de debates globais no cenário carioca</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "deputada-dani-balbi-oficia-mp-e-policia-civil-por-agressao-de-mulheres-tr
 tags:
   - 'lapa'
 wp_id: 2541
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A violência ocorreu no Casarão do Firmino</strong></em></p>
 <!-- /wp:paragraph -->

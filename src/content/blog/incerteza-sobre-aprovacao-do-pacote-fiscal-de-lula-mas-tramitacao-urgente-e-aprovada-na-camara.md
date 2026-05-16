@@ -7,8 +7,8 @@ slug: "incerteza-sobre-aprovacao-do-pacote-fiscal-de-lula-mas-tramitacao-urgente
 tags:
   - 'nacional'
 wp_id: 6132
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do PT, deputada Gleisi Hoffmann (PR), expressou incerteza sobre a aprovação do pacote fiscal do governo Lula ainda este ano. </p>
 <!-- /wp:paragraph -->

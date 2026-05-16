@@ -8,8 +8,8 @@ wp_id: 7343
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Após o enfraquecimento de Rodrigo Bacellar, partido de Bolsonaro mira o ex-ministro da Saúde como possível sucessor de Cláudio Castro nas eleições de 2026</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-critica-fiesp-por-oposicao-a-aumento-de-tributacao-sobre-
 tags:
   - 'nacional'
 wp_id: 5061
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do Partido dos Trabalhadores (PT) e deputada federal, Gleisi Hoffmann, criticou nesta terça-feira (3) a Federação das Indústrias do Estado de São Paulo (Fiesp) após a entidade divulgar nota contra a proposta do governo federal de aumentar a tributação sobre os lucros de empresas e acionistas.</p>
 <!-- /wp:paragraph -->

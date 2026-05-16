@@ -7,8 +7,8 @@ slug: "vasco-comemora-lei-que-institui-dia-da-resposta-historica-contra-o-racism
 wp_id: 656
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Este ano foi marcado pelo centenário da Resposta Histórica</em></p>
 <!-- /wp:paragraph -->

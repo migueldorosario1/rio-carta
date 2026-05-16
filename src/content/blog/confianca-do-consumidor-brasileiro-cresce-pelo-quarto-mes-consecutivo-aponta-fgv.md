@@ -7,8 +7,8 @@ slug: "confianca-do-consumidor-brasileiro-cresce-pelo-quarto-mes-consecutivo-apo
 tags:
   - 'nacional'
 wp_id: 5447
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Fundação Getúlio Vargas (FGV) divulgou nesta terça-feira que a confiança dos consumidores brasileiros registrou aumento pelo quarto mês consecutivo em setembro, alcançando 93,7 pontos, uma alta de 0,5 ponto em relação ao mês anterior. </p>
 <!-- /wp:paragraph -->

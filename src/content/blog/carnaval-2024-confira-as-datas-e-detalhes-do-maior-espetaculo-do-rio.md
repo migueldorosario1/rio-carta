@@ -8,8 +8,8 @@ wp_id: 1724
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>O Carnaval de 2024 já tem data marcada e promete ser mais uma celebração grandiosa no Rio de Janeiro. Os foliões terão a oportunidade de desfrutar dos desfiles das escolas de samba da Série Ouro e do Grupo Especial na icônica Marquês de Sapucaí, no coração da cidade maravilhosa</em>.</p>
 <!-- /wp:paragraph -->

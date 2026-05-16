@@ -7,8 +7,8 @@ slug: "mercadante-defende-continuidade-de-prates-na-petrobras-e-sinaliza-comprom
 tags:
   - 'nacional'
 wp_id: 4073
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Aloízio Mercadante, presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), manifestou interesse em permanecer no comando da instituição e expressou apoio à manutenção de Jean Paul Prates na presidência da Petrobras. </p>
 <!-- /wp:paragraph -->

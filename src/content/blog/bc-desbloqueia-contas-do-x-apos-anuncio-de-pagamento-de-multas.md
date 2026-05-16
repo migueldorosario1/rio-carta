@@ -7,8 +7,8 @@ slug: "bc-desbloqueia-contas-do-x-apos-anuncio-de-pagamento-de-multas"
 tags:
   - 'nacional'
 wp_id: 5583
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Banco Central do Brasil retirou o bloqueio das contas bancárias da rede social X, conforme informação publicada pelo jornal O Globo nesta quinta-feira, 3. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "abin-paralela-de-bolsonaro-tambem-espionou-autoridades-estrangeiras"
 wp_id: 2792
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A quebra de sigilo das espionagens realizadas ilegalmente pela Agência Brasileira de Inteligência (Abin) durante o governo de Jair Bolsonaro, utilizando o software israelense FirstMile, tem gerado preocupações entre investigadores da Polícia Federal quanto a possíveis consequências diplomáticas para o Brasil, de acordo com informações de <strong>Rodrigo Rangel</strong>, do <strong><a href="https://www.metropoles.com/colunas/rodrigo-rangel/abin-usou-software-para-espionar-diplomatas-e-suspeitos-de-terrorismo">Metrópoles</a></strong>.</p>
 <!-- /wp:paragraph -->

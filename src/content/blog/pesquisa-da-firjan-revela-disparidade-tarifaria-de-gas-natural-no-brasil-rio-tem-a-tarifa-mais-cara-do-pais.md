@@ -8,8 +8,8 @@ wp_id: 3192
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A jornalista <strong>Míriam Leitão</strong>, em sua coluna no jornal <strong><a href="https://oglobo.globo.com/blogs/miriam-leitao/coluna/2024/02/rio-tem-a-tarifa-de-gas-mais-cara-para-consumo-residencial-para-industria-sao-paulo-e-ceara-estao-no-topo.ghtml">O GLOBO</a></strong>, revelou que os moradores da Região Metropolitana do Rio pagam quase três vezes mais pelo metro cúbico do gás em suas casas do que os consumidores do Rio Grande do Norte. </p>
 <!-- /wp:paragraph -->

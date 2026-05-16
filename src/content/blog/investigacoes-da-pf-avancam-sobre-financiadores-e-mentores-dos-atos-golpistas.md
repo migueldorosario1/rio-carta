@@ -8,8 +8,8 @@ wp_id: 3201
 tags:
   - 'campos'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Os últimos passos da Polícia Federal nas investigações sobre a ofensiva antidemocrática revelaram avanços significativos em relação aos financiadores e mentores da tentativa de golpe de Estado que resultou na invasão e depredação das sedes dos três Poderes em 8 de janeiro de 2023. </p>
 <!-- /wp:paragraph -->

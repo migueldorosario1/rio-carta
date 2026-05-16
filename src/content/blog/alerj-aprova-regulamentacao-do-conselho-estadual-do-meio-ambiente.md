@@ -8,8 +8,8 @@ wp_id: 375
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><a href="https://www.alerj.rj.gov.br/Visualizar/Noticia/56005">Com informações da ALERJ</a></em></p>
 <!-- /wp:paragraph -->

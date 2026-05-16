@@ -7,8 +7,8 @@ slug: "movimentos-sociais-realizam-ato-contra-a-ditadura-na-porta-do-antigo-dops
 wp_id: 4022
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O protesto lembrou os 60 anos do golpe militar no Brasil</strong></em>; <em><strong>diversas lideranças como Jandira Feghali e Rafaela Albergaria estiveram presentes</strong></em></p>
 <!-- /wp:paragraph -->

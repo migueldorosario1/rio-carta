@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-sul", "botafogo", "catete", "bicicletas-eletricas", "acidentes", "seguranca-publica", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150005-acidentes-com-bikes-eletricas-disparam-no-rio-e-preocupam-pedestres-na-zona-sul.jpg"
+categoria_macro: politica
 ---
 Rio
 

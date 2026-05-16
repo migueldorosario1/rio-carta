@@ -7,8 +7,8 @@ slug: "prefeitura-de-marica-e-policia-civil-fecham-dois-ferros-velhos-em-operaca
 tags:
   - 'marica'
 wp_id: 7597
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Ação integrada tem como objetivo reduzir prejuízos aos cofres públicos e manter iluminação para não impactar a população</h4>
 <!-- /wp:heading -->

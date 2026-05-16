@@ -7,8 +7,8 @@ slug: "tiroteio-em-vila-isabel-deixa-quatro-mortos-e-tres-baleados-durante-festa
 wp_id: 4873
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na madrugada desta segunda-feira, um tiroteio em Vila Isabel, Zona Norte do Rio de Janeiro, resultou na morte de quatro pessoas e deixou outras três feridas. O incidente ocorreu na Praça Barão de Drumond, também conhecida como Praça Sete, próxima ao Morro dos Macacos.</p>
 <!-- /wp:paragraph -->

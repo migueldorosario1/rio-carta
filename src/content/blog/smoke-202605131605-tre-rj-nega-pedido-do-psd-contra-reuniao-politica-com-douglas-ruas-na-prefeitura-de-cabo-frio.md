@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:33Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "tre-rj", "politica-rj", "douglas-ruas", "prefeitura-cabo-frio", "regiao-metropolitana", "belford-roxo", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605131605-tre-rj-nega-pedido-do-psd-contra-reuniao-politica-com-douglas-ruas-na-prefeitura-de-cabo-frio.jpeg"
+categoria_macro: politica
 ---
 A Justiça Eleitoral negou o pedido de liminar do PSD para impedir o prefeito de Cabo Frio, Dr. Serginho (PL), o presidente da Assembleia Legislativa do Rio (Alerj), Douglas Ruas (PL), e o pré-candidato ao Senado Márcio Canella (União) de realizarem encontros políticos em prédios públicos.
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:35Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "alerj", "saude", "politica-rj", "sul-fluminense", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605150205-deputado-munir-neto-cobra-regulamentacao-de-leis-estaduais.jpg"
+categoria_macro: politica
 ---
 RIO/VOLTA REDONDA
 

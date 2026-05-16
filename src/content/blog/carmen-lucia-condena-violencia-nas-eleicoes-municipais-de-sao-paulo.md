@@ -7,8 +7,8 @@ slug: "carmen-lucia-condena-violencia-nas-eleicoes-municipais-de-sao-paulo"
 wp_id: 5462
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do Tribunal Superior Eleitoral (TSE), ministra Cármen Lúcia, afirmou nesta terça-feira que a Justiça Eleitoral não tolerará agressões no processo eleitoral.</p>
 <!-- /wp:paragraph -->

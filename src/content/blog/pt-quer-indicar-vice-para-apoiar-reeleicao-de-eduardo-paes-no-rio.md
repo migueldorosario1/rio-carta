@@ -8,8 +8,8 @@ wp_id: 2593
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do Partido dos Trabalhadores (PT), Gleisi Hoffmann, sinalizou que o partido está disposto a apoiar a reeleição de Eduardo Paes (PSD) à prefeitura do Rio de Janeiro, com a condição de que o PT tenha o direito de indicar o candidato a vice-prefeito na chapa. Essa posição foi destacada por Gleisi em uma conversa com a coluna de Bela Megale, do jornal O Globo.</p>
 <!-- /wp:paragraph -->

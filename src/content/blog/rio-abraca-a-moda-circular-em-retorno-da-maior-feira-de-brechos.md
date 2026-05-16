@@ -7,8 +7,8 @@ slug: "rio-abraca-a-moda-circular-em-retorno-da-maior-feira-de-brechos"
 wp_id: 759
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A Ecobrechó Park chega a sua terceira edição na Zona Oeste do Rio</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "arthur-lira-busca-candidatura-unica-a-presidencia-da-camara-mas-enfrenta-
 wp_id: 5145
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente da Câmara dos Deputados, Arthur Lira (PP-AL), intensificou as articulações para viabilizar uma candidatura única ao comando da Casa em 2025. </p>
 <!-- /wp:paragraph -->

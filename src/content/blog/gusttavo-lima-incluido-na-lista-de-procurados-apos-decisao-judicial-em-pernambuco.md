@@ -7,8 +7,8 @@ slug: "gusttavo-lima-incluido-na-lista-de-procurados-apos-decisao-judicial-em-pe
 tags:
   - 'nacional'
 wp_id: 5394
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Justiça de Pernambuco decretou na segunda-feira (23) a prisão do cantor sertanejo Gusttavo Lima, segundo informações do portal IG.</p>
 <!-- /wp:paragraph -->

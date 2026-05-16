@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:25Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "libras", "poupatempo", "acessibilidade", "deficiencia-auditiva", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "leme", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605130605-alerj-aprova-atendimento-em-libras-nas-unidades-do-poupatempo.png"
+categoria_macro: politica
 ---
 Pessoas com deficiência auditiva poderão passar a contar com atendimento por tradutor ou intérprete da Língua Brasileira de Sinais (Libras) nas unidades estaduais do Poupatempo, caso seja sancionado o Projeto de Lei 5. 487/22, aprovado em segunda discussão pela Assembleia Legislativa do Estado do Rio de Janeiro (Alerj).
 

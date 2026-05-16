@@ -7,8 +7,8 @@ slug: "bicheiro-jose-caruzzo-escafura-conhecido-como-piruinha-e-internado-com-pa
 wp_id: 2098
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>José Caruzzo Escafura, mais conhecido pelo apelido "Piruinha", uma figura notória no mundo da contravenção no Rio de Janeiro, foi internado no último dia 8 no Hospital Vitória, localizado na Barra da Tijuca. Aos 94 anos, Escafura é tratado por pancreatite, uma condição médica grave que afeta o pâncreas. Detalhes específicos sobre seu estado de saúde atual ainda não foram divulgados.</p>
 <!-- /wp:paragraph -->

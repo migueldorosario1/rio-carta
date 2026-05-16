@@ -4,8 +4,8 @@ description: "No dia 26 de março o precandidato ao governo do Rio Eduardo Paes 
 pubDate: "2026-05-14T18:30:02Z"
 heroImage: "/hero/smoke-smoke-202605131026-ricardo-couto-acelera-cortes-e-desliga-147-funcionarios-em-dois-dias.jpg"
 tags: ["eleicoes-2026", "Rio de Janeiro", "Eduardo Paes", "Ricardo Couto"]
+categoria_macro: politica
 ---
-
 <p>No dia 26 de março o precandidato ao governo do Rio Eduardo Paes (PSD) defendeu que ocorressem eleições diretas no estado depois da condenação do ex-governador Cláudio Castro (PL) pelo Tribunal Superior Eleitoral (TSE). Dois dias depois, seu principal adversário, o deputado estadual Douglas Ruas (PL), gravou um vídeo concordando com uma votação popular antes de outubro para concluir o mandato deixado vago por Castro no Palácio Guanabara.</p>
 <p>Passados 50 dias do posicionamento dos dois principais grupos políticos do Rio, o presidente do Tribunal de Justiça, desembargador Ricardo Couto, segue como governador, e os dois lados não fazem barulho sobre a interinidade do magistrado, baseada numa liminar do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF).</p>
 <p>O silêncio dos grupos tem explicação: a turma ligada a Paes se calou por conveniência. A de Ruas, por medo.</p>

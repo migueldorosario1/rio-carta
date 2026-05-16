@@ -7,8 +7,8 @@ slug: "operacao-policial-desmantela-ssquema-de-fraudes-no-metro-da-pavuna-com-11
 tags:
   - 'pavuna'
 wp_id: 2352
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta quarta-feira (10), uma operação conjunta realizada pelas polícias Civil e Militar resultou na prisão de onze pessoas e na apreensão de um adolescente por envolvimento em um esquema de fraudes no metrô da Pavuna. A ação policial, que contou com o apoio da coordenação de segurança do MetrôRio, desvendou um esquema onde cartões de crédito virtuais eram criados ilegalmente para a venda de passagens do metrô a preços reduzidos.</p>
 <!-- /wp:paragraph -->

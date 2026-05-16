@@ -7,8 +7,8 @@ slug: "deputada-lilian-behring-e-homenageada-com-titulo-de-cidada-itatiaiense-em
 wp_id: 6889
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Parlamentar foi reconhecida por sua atuação em defesa da saúde e participou da mesa oficial da cerimônia que celebrou os 36 anos do município de Itatiaia</em></p>
 <!-- /wp:paragraph -->

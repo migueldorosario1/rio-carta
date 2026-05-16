@@ -7,8 +7,8 @@ slug: "irma-de-ex-jogador-do-flamengo-e-presa-por-venda-de-ingressos-falsos-para
 wp_id: 3187
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta terça-feira, 13, a Polícia Civil e o Ministério Público do Estado do Rio de Janeiro efetuaram a prisão de Lívia Moura, irmã do ex-jogador de futebol Léo Moura, sob a acusação de estelionato relacionado à venda de ingressos falsos para camarotes na Marquês de Sapucaí.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 663
 tags:
   - 'campos'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Família Garotinho buscará a reeleição de Wladimir em 2024; famílias Vianna e Bacellar também se preparam para a disputa</em></p>
 <!-- /wp:paragraph -->

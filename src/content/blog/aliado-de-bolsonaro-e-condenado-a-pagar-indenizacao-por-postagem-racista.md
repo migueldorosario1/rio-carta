@@ -7,8 +7,8 @@ slug: "aliado-de-bolsonaro-e-condenado-a-pagar-indenizacao-por-postagem-racista"
 wp_id: 4195
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A 28ª Vara Federal do Rio de Janeiro determinou que o ex-deputado estadual Alexandre Freitas arque com R$ 30 mil em indenização por uma postagem racista realizada em 2020. O caso foi reportado inicialmente por <strong>Ancelmo Gois</strong>, do <strong><a href="https://oglobo.globo.com/blogs/ancelmo-gois/post/2024/04/ex-deputado-e-condenado-a-pagar-r-30-mil-por-postagem-racista-no-twitter.ghtml">Globo</a></strong>.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 7462
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Executivas do PT no Rio afirmam que nunca houve reunião, convite ou diálogo institucional envolvendo Oruam para uma eventual candidatura em 2026</h3>
 <!-- /wp:heading -->

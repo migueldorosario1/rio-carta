@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:34Z"
 draft: true
 tags: ["rio-de-janeiro", "vidigal", "zona-sul", "demolicao", "construcao-ilegal", "ordem-publica", "rio-capital-zona-sul-e-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131605-predio-comercial-e-demolido-no-vidigal-a-construcao-era-ilegal.png"
+categoria_macro: politica
 ---
 Prédio comercial é demolido no Vidigal, a construção era ilegal
 

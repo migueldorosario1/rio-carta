@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-propoe-emendas-contra-alteracoes-no-calculo-do-bpc-em-pac
 tags:
   - 'nacional'
 wp_id: 6243
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na tarde desta terça-feira (17), a presidente nacional do PT e deputada federal, Gleisi Hoffmann (PT-PR), apresentou emendas ao projeto de lei do pacote de cortes de gastos do Ministério da Fazenda, segundo informações do site Congresso em Foco. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 6743
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Prefeito de Maricá quer aliança do PT com o PSD em 2026</strong></em></p>
 <!-- /wp:paragraph -->

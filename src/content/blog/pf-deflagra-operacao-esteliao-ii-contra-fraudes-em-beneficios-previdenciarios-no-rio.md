@@ -10,8 +10,8 @@ tags:
   - 'baixada'
   - 'cabo-frio'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta quarta-feira (11), a Polícia Federal lançou a Operação Estelião II, com o objetivo de desarticular uma associação criminosa envolvida em fraudes em benefícios previdenciários em diversos municípios do Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

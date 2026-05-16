@@ -8,8 +8,8 @@ wp_id: 6594
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading"><em>Em tempos de proposição de mais uma polícia ostensiva uniformizada municipal, um ser ainda indefinido, quase um “genérico de drogaria”, e já temos a GM-RIO armada, vale encaminhar alguns recados para as autoridades municipal e estadual do Rio, responsáveis pela segurança publica, queiram elas ou não</em></h4>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "ministra-das-mulheres-inaugura-centro-de-referencia-da-mulher-no-rio"
 wp_id: 574
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Governo federal investiu R$ 830 mil na unidade</em></p>
 <!-- /wp:paragraph -->

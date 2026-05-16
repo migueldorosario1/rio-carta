@@ -7,8 +7,8 @@ slug: "mprj-e-policia-civil-investigam-morte-em-show-de-taylor-swift-fas-demanda
 wp_id: 1980
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O Ministério Público do Rio de Janeiro (MPRJ) e a Polícia Civil iniciaram investigações sobre a morte de Ana Clara Benevides, de 23 anos, durante o show de Taylor Swift no Estádio Nilton Santos, Zona Norte do Rio. A jovem teria passado mal devido ao forte calor. O MPRJ acionou a T4F, responsável pela organização do evento, para tomar medidas preventivas. Promotores estarão de plantão no estádio para garantir a segurança do público.</em></strong></p>
 <!-- /wp:paragraph -->

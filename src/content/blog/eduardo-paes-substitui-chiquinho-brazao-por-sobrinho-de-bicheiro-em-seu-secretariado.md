@@ -7,8 +7,8 @@ slug: "eduardo-paes-substitui-chiquinho-brazao-por-sobrinho-de-bicheiro-em-seu-s
 tags:
   - 'politica-rj'
 wp_id: 3957
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Ricardo Abrão é sobrinho de Anísio Abrão David, um dos maiores bicheiros do Rio</strong></em></p>
 <!-- /wp:paragraph -->

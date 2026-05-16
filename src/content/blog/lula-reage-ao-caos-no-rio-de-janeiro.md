@@ -7,8 +7,8 @@ slug: "lula-reage-ao-caos-no-rio-de-janeiro"
 wp_id: 7287
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A disputa de narrativas expõe contradições: blindados pedidos em janeiro viram argumento político, mas não têm relação com a tragédia desta semana</h3>
 <!-- /wp:heading -->

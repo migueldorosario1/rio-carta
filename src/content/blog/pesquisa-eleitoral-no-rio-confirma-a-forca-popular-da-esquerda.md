@@ -8,8 +8,8 @@ wp_id: 7283
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O levantamento confirma o favoritismo de Paes, a força popular de Benedita e a resistência de Lula em um estado ainda rachado entre extremos</h3>
 <!-- /wp:heading -->

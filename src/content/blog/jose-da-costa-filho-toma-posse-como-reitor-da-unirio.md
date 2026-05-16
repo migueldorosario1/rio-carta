@@ -8,8 +8,8 @@ wp_id: 763
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Cerimônia aconteceu na tarde da última sexta-feira, 7 de julho, no Ministério da Educação, em Brasília</em></strong></p>
 <!-- /wp:paragraph -->

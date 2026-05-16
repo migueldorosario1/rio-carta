@@ -7,8 +7,8 @@ slug: "marcal-e-intimado-a-depor-sobre-acusacoes-de-agressao-em-reality-show"
 wp_id: 6039
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Pablo Marçal, empresário de extrema direita e ex-candidato à Prefeitura de São Paulo pelo PRTB, foi intimado pela Polícia Civil de São Paulo para prestar depoimento relacionado a denúncias de agressão e tortura no reality show "La Casa Digital 3". </p>
 <!-- /wp:paragraph -->

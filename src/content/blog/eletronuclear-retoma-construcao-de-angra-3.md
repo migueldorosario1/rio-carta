@@ -7,8 +7,8 @@ slug: "eletronuclear-retoma-construcao-de-angra-3"
 tags:
   - 'angra-dos-reis'
 wp_id: 859
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Reativação plena está prevista para 2024, após licitação internacional</em></strong></p>
 <!-- /wp:paragraph -->

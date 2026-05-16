@@ -7,8 +7,8 @@ slug: "doacoes-eleitorais-ultrapassam-r-1-bilhao-as-vesperas-do-segundo-turno"
 wp_id: 5814
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>As contribuições de pessoas físicas para as campanhas eleitorais deste ano já excederam a marca de R$ 1 bilhão, atingindo o total de R$ 1.028.972.795,10, conforme divulgado pelo Tribunal Superior Eleitoral (TSE) neste sábado (19).</p>
 <!-- /wp:paragraph -->

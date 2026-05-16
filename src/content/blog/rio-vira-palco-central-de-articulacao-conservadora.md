@@ -10,8 +10,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading">Aliança liderada por Flávio Bolsonaro confirma aliado de Altineu ao governo do Rio de Janeiro e define bloco conservador para 2026</h5>
 <!-- /wp:heading -->

@@ -8,8 +8,8 @@ wp_id: 543
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <em>Por Dani Balbi, no Jornal <a href="https://odia.ig.com.br/opiniao/2023/06/6659817-dani-balbi-e-por-dignidade-nos-re-sistimos.html">O Dia</a></em>
 
 Desde a Rebelião de Stonewall, em 28 de junho de 1969, nos EUA, data marcada por uma série de manifestações de membros da comunidade LGBT contra uma invasão da polícia de Nova York e pela garantia de direitos da comunidade, não podemos dizer que avançamos pouco na caminhada pelo respeito à diversidade no mundo. Nesta semana, comemoramos mundialmente o Dia Internacional do Orgulho LGBTQIA+ e, desde 1969, foram muitas as conquistas destes direitos no Brasil e no mundo. Mas ainda há muito a ser conquistado. Afinal, como falar de dignidade humana sem falar em respeito à diversidade e direitos para todas, todos e todes?

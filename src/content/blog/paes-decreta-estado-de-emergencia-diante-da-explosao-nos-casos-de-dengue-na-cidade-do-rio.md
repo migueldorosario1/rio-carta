@@ -7,8 +7,8 @@ slug: "paes-decreta-estado-de-emergencia-diante-da-explosao-nos-casos-de-dengue-
 wp_id: 2943
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito <strong>Eduardo Paes</strong> instituiu o estado de emergência de saúde pública no Rio de Janeiro em resposta à crescente epidemia de dengue. O decreto foi oficializado e publicado no <strong>Diário Oficial do município</strong> nesta segunda-feira, 5.</p>
 <!-- /wp:paragraph -->

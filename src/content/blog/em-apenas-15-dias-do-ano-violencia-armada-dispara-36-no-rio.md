@@ -7,8 +7,8 @@ slug: "em-apenas-15-dias-do-ano-violencia-armada-dispara-36-no-rio"
 wp_id: 6485
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><strong><em>Números de mortos e feridos cresceu 36% e 106%, respectivamente</em></strong></p>
 <!-- /wp:paragraph -->

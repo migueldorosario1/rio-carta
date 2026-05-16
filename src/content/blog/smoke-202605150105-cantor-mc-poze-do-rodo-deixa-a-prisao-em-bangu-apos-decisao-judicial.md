@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "mc-poze-do-rodo", "justica-federal", "seguranca-publica", "rio-capital-zona-oeste", "capital-estado", "gericino", "joa", "complexo", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150105-cantor-mc-poze-do-rodo-deixa-a-prisao-em-bangu-apos-decisao-judicial.jpg"
+categoria_macro: seguranca
 ---
 Rio
 

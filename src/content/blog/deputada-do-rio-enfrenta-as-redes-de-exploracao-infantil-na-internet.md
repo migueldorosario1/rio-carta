@@ -7,8 +7,8 @@ slug: "deputada-do-rio-enfrenta-as-redes-de-exploracao-infantil-na-internet"
 wp_id: 7061
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading"><em>Após escândalos recentes de exploração infantojuvenil, proposta cria programa estadual no Rio de Janeiro para fiscalizar mídias, escolas e plataformas digitais, além de garantir campanhas educativas permanentes</em></h3>
 <!-- /wp:heading -->

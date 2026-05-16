@@ -7,8 +7,8 @@ slug: "ministra-luciana-santos-recebe-apoio-de-reitores-no-rio"
 wp_id: 997
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O receio de uma mudança na pasta nasceu após o surgimento de notícias sobre cobranças de partidos do Centrão por espaço no governo. Ocupar postos no primeiro escalão seria uma das condições para garantir apoio ao Palácio do Planalto</em></strong></p>
 <!-- /wp:paragraph -->

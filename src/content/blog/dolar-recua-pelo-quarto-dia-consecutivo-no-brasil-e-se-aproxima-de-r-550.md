@@ -7,8 +7,8 @@ slug: "dolar-recua-pelo-quarto-dia-consecutivo-no-brasil-e-se-aproxima-de-r-550"
 tags:
   - 'nacional'
 wp_id: 5264
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O dólar à vista registrou queda de 1,01% nesta segunda-feira, fechando a R$ 5,5111, marcando o quarto dia consecutivo de baixa no mercado brasileiro. A moeda norte-americana acumulou uma queda de 2,55% nos últimos quatro dias úteis.</p>
 <!-- /wp:paragraph -->

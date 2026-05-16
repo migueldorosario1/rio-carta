@@ -7,8 +7,8 @@ slug: "cpi-da-alerj-especialista-em-psicologia-cognitiva-questiona-reconheciment
 wp_id: 1128
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A CPI presidida pela deputada Renata Souza (PSOL) trata do Reconhecimento Fotográfico nas Delegacias</em></strong></p>
 <!-- /wp:paragraph -->

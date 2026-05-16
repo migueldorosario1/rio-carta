@@ -8,8 +8,8 @@ wp_id: 5028
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Rafaela Albergaria, candidata a vereadora do PCdoB, foi apresentada pela deputada federal Jandira Feghali para jovens fazedores de cultura </strong></em></p>
 <!-- /wp:paragraph -->

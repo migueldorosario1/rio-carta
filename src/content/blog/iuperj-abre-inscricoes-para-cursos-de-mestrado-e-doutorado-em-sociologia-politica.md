@@ -7,8 +7,8 @@ slug: "iuperj-abre-inscricoes-para-cursos-de-mestrado-e-doutorado-em-sociologia-
 wp_id: 7249
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>As inscrições estão abertas até o dia 30 de novembro; há bolsas disponíveis.</strong></em></p>
 <!-- /wp:paragraph -->

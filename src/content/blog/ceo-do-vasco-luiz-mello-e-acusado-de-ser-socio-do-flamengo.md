@@ -7,8 +7,8 @@ slug: "ceo-do-vasco-luiz-mello-e-acusado-de-ser-socio-do-flamengo"
 tags:
   - 'vasco-da-gama'
 wp_id: 356
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>O CEO do Vasco da Gama, Luiz Mello, era sócio torcedor do Flamengo na época em que assinou contrato em São Januário.</em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 2047
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O recém-nomeado secretário de Segurança do Rio de Janeiro, Victor César Carvalho dos Santos, foi homenageado pelo falecido fundador da maior milícia do Rio, Jerônimo Guimarães Filho, conhecido como Jerominho. Em 17 de março de 2004, Jerominho, então vereador, solicitou a concessão da Medalha Pedro Ernesto, a maior honraria da Câmara de Vereadores do Rio, a Santos. Nove dias depois, a homenagem foi aprovada em plenário.</em></strong></p>
 <!-- /wp:paragraph -->

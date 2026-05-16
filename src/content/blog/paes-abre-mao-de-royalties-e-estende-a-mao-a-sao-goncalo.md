@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Acordo entre Paes e Capitão Nelson marca nova fase na redistribuição dos royalties e pode mudar cenário econômico da segunda maior cidade do estado</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "educadora-elen-ferreira-recebe-premio-dandara-na-alerj-por-atuacao-contra
 wp_id: 7350
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Homenagem proposta pela deputada Dani Balbi reconhece trabalho da pedagoga na valorização da cultura negra e na formação de meninas leitoras</em></strong></p>
 <!-- /wp:paragraph -->

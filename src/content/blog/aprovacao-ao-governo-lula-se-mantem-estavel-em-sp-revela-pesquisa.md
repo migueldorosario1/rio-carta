@@ -7,8 +7,8 @@ slug: "aprovacao-ao-governo-lula-se-mantem-estavel-em-sp-revela-pesquisa"
 wp_id: 4694
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Um levantamento realizado pelo instituto Paraná Pesquisas e divulgado hoje, terça-feira (25), aponta que a aprovação ao governo do presidente Luiz Inácio Lula da Silva permaneceu estável na cidade de São Paulo, oscilando dentro da margem de erro de 2,6 pontos percentuais.</p>
 <!-- /wp:paragraph -->

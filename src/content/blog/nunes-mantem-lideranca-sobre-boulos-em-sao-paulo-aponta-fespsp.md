@@ -7,8 +7,8 @@ slug: "nunes-mantem-lideranca-sobre-boulos-em-sao-paulo-aponta-fespsp"
 wp_id: 5884
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente realizada pela Fundação Escola de Sociologia e Política de São Paulo (Fespsp) e divulgada neste domingo de segundo turno das eleições municipais, mostra o atual prefeito e candidato à reeleição, Ricardo Nunes (MDB), à frente na corrida pela prefeitura de São Paulo, com 54% dos votos válidos. Seu oponente, Guilherme Boulos (Psol), segue com 46%, segundo o mesmo levantamento.</p>
 <!-- /wp:paragraph -->

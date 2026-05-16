@@ -7,8 +7,8 @@ slug: "vereadores-do-rio-aprovam-projeto-que-retira-das-ruas-estatuas-e-homenage
 wp_id: 1702
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A lei precisa ser sancionada pelo prefeito Eduardo Paes (PSD)</strong></em></p>
 <!-- /wp:paragraph -->

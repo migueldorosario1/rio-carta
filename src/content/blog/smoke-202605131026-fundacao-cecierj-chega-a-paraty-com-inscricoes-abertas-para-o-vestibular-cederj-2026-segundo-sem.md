@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:26:56Z"
 draft: true
 tags: ["rio-de-janeiro", "paraty", "fundacao-cecierj", "vestibular-cederj", "educacao", "ensino-superior", "sul-fluminense", "sul-fluminense-costa-verde"]
 heroImage: "/hero/smoke-smoke-202605131026-fundacao-cecierj-chega-a-paraty-com-inscricoes-abertas-para-o-vestibular-cederj-2026-segundo-sem.jpeg"
+categoria_macro: geral
 ---
 PARATY
 

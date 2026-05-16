@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite de sábado, na cidade de Queimados, localizada na Baixada Fluminense, o pré-candidato a vereador, Clayton Damaceno, foi brutalmente assassinado a tiros. O crime ocorreu na Rua Olímpia Silva, no bairro Inconfidência, deixando a população local em choque.</p>
 <!-- /wp:paragraph -->

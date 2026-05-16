@@ -7,8 +7,8 @@ slug: "madonna-sacode-copacabana-com-show-historico"
 tags:
   - 'copacabana'
 wp_id: 4409
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Madonna surpreendeu o Brasil ao subir ao palco gigante montado na praia de Copacabana neste sábado, 4. Com quase uma hora de atraso, a cantora foi recebida por uma multidão estimada em 1,6 milhão de pessoas, segundo a Riotur, empresa de turismo vinculada à prefeitura.</p>
 <!-- /wp:paragraph -->

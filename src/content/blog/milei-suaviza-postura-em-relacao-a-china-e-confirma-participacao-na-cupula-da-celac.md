@@ -7,8 +7,8 @@ slug: "milei-suaviza-postura-em-relacao-a-china-e-confirma-participacao-na-cupul
 wp_id: 5533
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente argentino Javier Milei tem mostrado uma mudança significativa em sua abordagem diplomática em relação à China, conforme indicado em suas declarações recentes e ações políticas. </p>
 <!-- /wp:paragraph -->

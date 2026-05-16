@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal irá apoiar a prefeitura de Petrópolis em mais um passo para transformar o imóvel no bairro&nbsp;do Caxambu, conhecido como Casa da Morte -&nbsp;apontado como equipamento usado durante a ditadura militar para tortura e morte de presos políticos -,&nbsp;no Memorial de Liberdade, Verdade e Justiça, que tem como objetivo a preservação da história para que crimes como o que ocorreram naquele período&nbsp;não ocorram mais.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1578925&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1578925&amp;o=node"></p>
 <!-- /wp:paragraph -->

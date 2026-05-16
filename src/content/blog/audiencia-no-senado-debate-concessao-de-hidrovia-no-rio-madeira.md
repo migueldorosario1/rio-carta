@@ -7,8 +7,8 @@ slug: "audiencia-no-senado-debate-concessao-de-hidrovia-no-rio-madeira"
 tags:
   - 'nacional'
 wp_id: 5156
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Parlamentares, empresários e representantes do governo discutiram nesta terça-feira (10) a concessão de uma hidrovia no Rio Madeira, que visa melhorar o escoamento da produção de grãos entre os estados de Rondônia e Amazonas. </p>
 <!-- /wp:paragraph -->

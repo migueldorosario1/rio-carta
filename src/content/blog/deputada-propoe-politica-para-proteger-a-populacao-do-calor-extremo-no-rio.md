@@ -7,8 +7,8 @@ slug: "deputada-propoe-politica-para-proteger-a-populacao-do-calor-extremo-no-ri
 wp_id: 6597
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Com temperaturas recordes, o Rio enfrenta uma emergência climática. A proposta da deputada estadual Verônica Lima busca proteger a população e mitigar os efeitos do calor extremo</h4>
 <!-- /wp:heading -->

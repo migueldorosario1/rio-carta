@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "saude", "gravidez-adolescencia", "planejamento-reprodutivo", "capital-estado", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605150205-gravidez-na-adolescencia-cai-62-em-dez-anos-no-rio.jpg"
+categoria_macro: geral
 ---
 Rio
 

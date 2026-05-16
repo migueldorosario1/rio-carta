@@ -9,8 +9,8 @@ tags:
   - 'campos'
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Cláudio Antônio Guerra confessou ter levado os corpos de 12 pessoas para serem incinerados em Campos dos Goytacazes-RJ entre 1973 e 1975. Os corpos foram retirados de locais como a ‘Casa da Morte’, em Petrópolis, na Região Serrana do Rio.</em> <em>Deputada do PCdoB, Dani Balbi propõe que casa seja transformada em Museu da Memória e da Verdade.</em></strong></p>
 <!-- /wp:paragraph -->

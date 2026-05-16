@@ -7,8 +7,8 @@ slug: "pior-para-o-pobre-temperatura-chega-a-53-graus-nos-onibus-do-rio"
 wp_id: 1440
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Muitos ônibus estão sem ar condicionado na cidade do Rio</strong></em></p>
 <!-- /wp:paragraph -->

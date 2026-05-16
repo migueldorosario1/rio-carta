@@ -7,8 +7,8 @@ slug: "camara-do-rio-institui-24-de-junho-como-dia-do-jongo"
 wp_id: 1330
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Ritmo de origem africana deu origem ao samba carioca.</strong></em> <strong><em>Iniciativa é da vereadora Monica Cunha (PSOL)</em></strong></p>
 <!-- /wp:paragraph -->

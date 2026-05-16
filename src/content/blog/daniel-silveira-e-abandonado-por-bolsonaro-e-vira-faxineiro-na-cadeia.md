@@ -7,8 +7,8 @@ slug: "daniel-silveira-e-abandonado-por-bolsonaro-e-vira-faxineiro-na-cadeia"
 wp_id: 3433
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-deputado federal Daniel Silveira, cumprindo pena em regime fechado por crimes contra a ordem institucional, solicita a redução de sua sentença mediante trabalho e estudos realizados no presídio.</p>
 <!-- /wp:paragraph -->

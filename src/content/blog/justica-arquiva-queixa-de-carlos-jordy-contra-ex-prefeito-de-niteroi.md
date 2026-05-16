@@ -8,8 +8,8 @@ wp_id: 2549
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Justiça do Rio de Janeiro, em conjunto com o Ministério Público, decidiu arquivar a queixa-crime por injúria apresentada pelo deputado Carlos Jordy (PL) contra Rodrigo Neves, ex-prefeito de Niterói. Além disso, Jordy foi condenado a arcar com as custas do processo. O desfecho da audiência, que ocorreu na terça-feira, 23, foi anunciado após ambos comparecerem ao Tribunal em Niterói.</p>
 <!-- /wp:paragraph -->

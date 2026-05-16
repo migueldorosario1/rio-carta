@@ -7,8 +7,8 @@ slug: "quem-sao-os-principais-suspeitos-pelo-assassinato-de-marielle"
 wp_id: 3934
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma operação coordenada entre a Procuradoria Geral da República, o Ministério Público do Estado do Rio de Janeiro e a Polícia Federal levou à prisão de figuras-chave ligadas ao caso do assassinato da vereadora Marielle Franco e seu motorista, Anderson Gomes, ocorrido em março de 2018.</p>
 <!-- /wp:paragraph -->

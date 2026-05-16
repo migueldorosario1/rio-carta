@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Prática de reconhecimento da polícia do Rio é responsável pela prisão de inocentes</strong></em></p>
 <!-- /wp:paragraph -->

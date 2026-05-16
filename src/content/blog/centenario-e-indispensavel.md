@@ -8,8 +8,8 @@ wp_id: 3954
 tags:
   - 'niteroi'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Dirigentes do PCdoB em Petrópolis-RJ, Lívia Miranda e Guilherme Gomes escrevem sobre os 102 anos do partido</em></strong></p>
 <!-- /wp:paragraph -->

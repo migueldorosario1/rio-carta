@@ -7,8 +7,8 @@ slug: "faferj-entra-como-parte-interessada-no-processo-de-interdicao-de-sao-janu
 tags:
   - 'vasco-da-gama'
 wp_id: 1197
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Federação de Favelas (FAFERJ) considera interdição do campo do Vasco um ato de racismo</em></strong></p>
 <!-- /wp:paragraph -->

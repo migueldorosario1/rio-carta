@@ -7,8 +7,8 @@ slug: "queda-de-aviao-em-praia-de-ubatuba-sp-deixa-quatro-feridos-e-piloto-preso
 tags:
   - 'nacional'
 wp_id: 6390
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta quinta-feira, um avião de pequeno porte caiu na praia de Itaguá, em Ubatuba, litoral norte de São Paulo. De acordo com relatos do portal Metrópoles, a aeronave saiu da pista do aeroporto local, perdeu o controle e dirigiu-se ao mar.</p>
 <!-- /wp:paragraph -->

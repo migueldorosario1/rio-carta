@@ -8,8 +8,8 @@ wp_id: 960
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma cena chocante causou revolta e perplexidade na UPP Fazendinha, localizada no Complexo do Alemão, Zona Norte do Rio de Janeiro, após dois policiais serem presos em uma situação inaceitável dentro da unidade. O episódio, registrado na noite dessa sexta-feira, chamou a atenção após um colega desconfiar da atitude suspeita e denunciar aos superiores.</p>
 <!-- /wp:paragraph -->

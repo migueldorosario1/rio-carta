@@ -7,8 +7,8 @@ slug: "memoria-e-verdade-nas-salas-de-aula-projeto-quer-discutir-ditadura-nas-es
 wp_id: 7758
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada estadual Dani Balbi (PCdoB) apresentou um projeto de lei que propõe incluir o debate sobre memória e verdade, com foco na ditadura militar, nas escolas da rede estadual do Rio de Janeiro.</em></strong></p>
 <!-- /wp:paragraph -->

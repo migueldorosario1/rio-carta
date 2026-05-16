@@ -7,8 +7,8 @@ slug: "pesquisa-revela-que-lira-e-pacheco-sao-os-politicos-mais-rejeitados-do-br
 tags:
   - 'nacional'
 wp_id: 4449
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa Atlas, divulgada na terça-feira, 7, pelo jornal <strong><a href="https://www.estadao.com.br/politica/arthur-lira-e-rodrigo-pacheco-sao-os-politicos-com-as-maiores-taxas-de-desaprovacao-afirma-pesquisa-nprp/?utm_source=estadao:whatsapp&amp;utm_medium=link&amp;app_absent=0">Estado de S.Paulo</a></strong>, revelou que Arthur Lira, presidente da Câmara dos Deputados, e Rodrigo Pacheco, presidente do Senado Federal, são os parlamentares com maior rejeição entre os brasileiros. </p>
 <!-- /wp:paragraph -->

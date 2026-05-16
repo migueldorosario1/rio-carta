@@ -7,8 +7,8 @@ slug: "governo-lula-vai-mandar-tirar-do-ar-mais-de-600-sites-de-apostas"
 tags:
   - 'nacional'
 wp_id: 5530
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro da Fazenda, Fernando Haddad, anunciou o iminente fechamento de entre 500 e 600 sites de apostas esportivas no Brasil. Durante uma entrevista concedida à Rádio CBN nesta segunda-feira (30), Haddad detalhou que o desligamento ocorrerá em decorrência da implementação de novas regulamentações federais.</p>
 <!-- /wp:paragraph -->

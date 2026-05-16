@@ -7,8 +7,8 @@ slug: "tiroteio-em-jacarepagua-deixa-dois-homens-feridos"
 wp_id: 1790
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na tarde desta sexta-feira, dois homens foram baleados na Estrada dos Bandeirantes, próximo ao número 7.200, na região de Curicica, Jacarepaguá, Zona Oeste do Rio de Janeiro. As vítimas estavam a bordo de um veículo preto quando foram alvejadas por disparos de arma de fogo.</p>
 <!-- /wp:paragraph -->

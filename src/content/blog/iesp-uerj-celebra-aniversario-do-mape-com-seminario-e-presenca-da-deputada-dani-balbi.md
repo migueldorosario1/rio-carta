@@ -7,8 +7,8 @@ slug: "iesp-uerj-celebra-aniversario-do-mape-com-seminario-e-presenca-da-deputad
 wp_id: 7367
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O Instituto de Estudos Sociais e Políticos (IESP-UERJ) celebra, no dia 12 de dezembro, o aniversário do Laboratório de Monitoramento e Avaliação de Políticas e Eleições (MAPE) com um seminário presencial que reúne pesquisadores, coordenadores e a deputada estadual Dani Balbi (PCdoB) para discutir os principais projetos e avanços do laboratório.</strong></em></p>
 <!-- /wp:paragraph -->

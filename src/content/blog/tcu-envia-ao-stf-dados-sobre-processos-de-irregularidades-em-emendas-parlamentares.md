@@ -7,8 +7,8 @@ slug: "tcu-envia-ao-stf-dados-sobre-processos-de-irregularidades-em-emendas-parl
 tags:
   - 'nacional'
 wp_id: 4886
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal de Contas da União (TCU) enviou ao Supremo Tribunal Federal (STF), nesta segunda-feira (19), informações detalhadas sobre todos os processos relacionados a irregularidades na execução de recursos derivados de RP 9, conhecida como "emenda de relator". </p>
 <!-- /wp:paragraph -->

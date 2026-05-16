@@ -7,8 +7,8 @@ slug: "rio-garante-patrocinio-para-lady-gaga-e-mais-3-shows-internacionais"
 wp_id: 6545
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"textAlign":"center","level":4} -->
 <h4 class="wp-block-heading has-text-align-center">A prefeitura fechou patrocínio para o show de Lady Gaga e outros três eventos internacionais na praia de Copacabana, com estrutura grandiosa e apoio do Santander</h4>
 <!-- /wp:heading -->

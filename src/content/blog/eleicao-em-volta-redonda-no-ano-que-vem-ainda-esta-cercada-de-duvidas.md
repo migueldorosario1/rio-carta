@@ -8,8 +8,8 @@ wp_id: 738
 tags:
   - 'volta-redonda'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Prefeito Antonio Francisco Neto buscará reeleição</em></strong>; <strong><em>esquerda deve apoiar Jari Oliveira</em></strong> <em><strong>(PSB)</strong></em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 5877
 tags:
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nova pesquisa realizada pelo instituto Prefab Future indica que Hingo Hammes lidera a disputa pela prefeitura de Petrópolis no segundo turno das eleições municipais. O levantamento mostra Hammes com 72,6% dos votos válidos, frente a 27,4% atribuídos a Yuri Moura.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "rapper-negra-e-impedida-de-se-apresentar-em-festival-apos-criticar-bolson
 tags:
   - 'nacional'
 wp_id: 4342
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No festival “Made In Brazza”, ocorrido neste sábado, 27, em Florianópolis, a rapper Dre Araújo fez sérias acusações através de suas redes sociais. </p>
 <!-- /wp:paragraph -->

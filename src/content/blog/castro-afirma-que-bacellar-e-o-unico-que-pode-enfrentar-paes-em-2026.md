@@ -7,8 +7,8 @@ slug: "castro-afirma-que-bacellar-e-o-unico-que-pode-enfrentar-paes-em-2026"
 wp_id: 6607
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>“Se eu vier a me candidatar a alguma coisa, será ao Senado.”, confirmou o governador</strong></em></p>
 <!-- /wp:paragraph -->

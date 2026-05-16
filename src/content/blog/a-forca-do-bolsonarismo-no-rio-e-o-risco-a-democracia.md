@@ -8,8 +8,8 @@ wp_id: 4312
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A eleição do presidente Lula em 2022 foi um momento de defesa dos valores democráticos e dos direitos civis e sociais. Uma vitória conquistada por uma ampla frente, que contou com o apoio das forças progressistas, camadas populares, do empresariado consequente, de parte da imprensa, da intelectualidade e da área da cultura.</p>
 <!-- /wp:paragraph -->

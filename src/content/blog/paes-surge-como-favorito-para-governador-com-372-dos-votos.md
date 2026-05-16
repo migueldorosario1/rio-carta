@@ -8,8 +8,8 @@ wp_id: 6583
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">A pesquisa Prefab Rio aponta Eduardo Paes com 37,2% das intenções de voto na corrida para governador, seguido por Wladimir Garotinho e Washington Reis</h4>
 <!-- /wp:heading -->

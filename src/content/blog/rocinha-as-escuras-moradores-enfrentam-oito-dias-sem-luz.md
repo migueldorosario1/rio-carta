@@ -7,8 +7,8 @@ slug: "rocinha-as-escuras-moradores-enfrentam-oito-dias-sem-luz"
 wp_id: 1977
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A falta de luz na favela da Rocinha, Zona Sul do Rio de Janeiro, já completa oito dias, impactando severamente a vida dos moradores. Entre eles está Maria do Carmo Bezerra, de 73 anos, que divide a casa com quatro pessoas, três cachorros e um gato. Com a geladeira sem funcionar, as refeições se limitam a alimentos não perecíveis, enquanto ela aguarda uma resposta da fornecedora de energia, a Light.</em></strong></p>
 <!-- /wp:paragraph -->

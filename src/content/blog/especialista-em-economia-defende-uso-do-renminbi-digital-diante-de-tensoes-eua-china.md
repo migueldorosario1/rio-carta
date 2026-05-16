@@ -7,8 +7,8 @@ slug: "especialista-em-economia-defende-uso-do-renminbi-digital-diante-de-tensoe
 tags:
   - 'geopolitica'
 wp_id: 6291
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>As crescentes tensões geopolíticas entre os Estados Unidos e a China estão colocando em xeque a hegemonia do dólar, com discussões sobre o fortalecimento do renminbi em um cenário global incerto.</p>
 <!-- /wp:paragraph -->

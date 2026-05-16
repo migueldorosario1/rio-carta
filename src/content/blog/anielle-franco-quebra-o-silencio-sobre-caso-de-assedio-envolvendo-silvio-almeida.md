@@ -7,8 +7,8 @@ slug: "anielle-franco-quebra-o-silencio-sobre-caso-de-assedio-envolvendo-silvio-
 tags:
   - 'nacional'
 wp_id: 5573
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A ministra da Igualdade Racial, Anielle Franco, em entrevista concedida à revista Veja, abordou pela primeira vez o incidente de assédio envolvendo o ex-ministro dos Direitos Humanos, Silvio Almeida. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "metro-do-rio-funcionara-24-horas-durante-o-carnaval-confira-os-horarios"
 wp_id: 3020
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A partir da próxima sexta-feira, o metrô do Rio de Janeiro adotará um esquema especial de funcionamento durante os cinco dias de carnaval. O serviço será ininterrupto, operando 24 horas por dia, das 5h de sexta-feira até meia-noite de terça-feira da próxima semana. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 7538
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Dados da Justiça Eleitoral mostram aumento patrimonial de 832% entre 2018 e 2022, enquanto o presidente da Alerj enfrenta acusações ligadas a vazamento de informações sigilosas</h3>
 <!-- /wp:heading -->

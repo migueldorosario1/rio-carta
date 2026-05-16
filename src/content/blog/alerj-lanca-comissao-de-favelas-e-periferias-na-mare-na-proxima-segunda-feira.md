@@ -7,8 +7,8 @@ slug: "alerj-lanca-comissao-de-favelas-e-periferias-na-mare-na-proxima-segunda-f
 wp_id: 7217
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A Comissão tem como presidenta Renata Souza e como vice Dani Balbi</em></strong></p>
 <!-- /wp:paragraph -->

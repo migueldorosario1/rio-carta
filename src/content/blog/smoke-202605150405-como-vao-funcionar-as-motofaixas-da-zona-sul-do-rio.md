@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:05Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-sul", "gavea", "lagoa", "motofaixas", "prefeitura", "eduardo-cavaliere", "cet-rio", "rio-capital-zona-sul-grande-tijuca", "capital", "leme", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150405-como-vao-funcionar-as-motofaixas-da-zona-sul-do-rio.jpg"
+categoria_macro: politica
 ---
 Como vão funcionar as motofaixas da Zona Sul do Rio
 

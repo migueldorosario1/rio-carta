@@ -7,8 +7,8 @@ slug: "mec-comeca-a-fazer-recuperacao-de-escolas-apos-desastre-no-rio-grande-do-
 tags:
   - 'nacional'
 wp_id: 4413
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Educação, Camilo Santana, visitou o Rio Grande do Sul no domingo, 5 de maio, acompanhado de comitiva presidencial para coordenar as ações de assistência e socorro após o desastre que atingiu o estado. </p>
 <!-- /wp:paragraph -->

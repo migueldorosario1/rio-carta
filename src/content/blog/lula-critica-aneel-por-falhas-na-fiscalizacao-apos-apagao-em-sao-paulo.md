@@ -7,8 +7,8 @@ slug: "lula-critica-aneel-por-falhas-na-fiscalizacao-apos-apagao-em-sao-paulo"
 wp_id: 5782
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva atribuiu à Agência Nacional de Energia Elétrica (Aneel) parte da responsabilidade pelo recente apagão em São Paulo, apontando falhas na fiscalização da empresa Enel.</p>
 <!-- /wp:paragraph -->

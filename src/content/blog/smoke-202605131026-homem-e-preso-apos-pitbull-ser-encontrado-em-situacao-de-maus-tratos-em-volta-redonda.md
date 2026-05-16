@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:27:15Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "bairro-roma", "maus-tratos-animais", "seguranca-publica", "sul-fluminense-costa-verde", "transporte-mobilidade", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131026-homem-e-preso-apos-pitbull-ser-encontrado-em-situacao-de-maus-tratos-em-volta-redonda.jpeg"
+categoria_macro: politica
 ---
 Volta Redonda
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "santuario-de-fatima", "cultura-e-carnaval-rj", "rio-capital-centro", "politica-rj", "centro-do-rio", "riachuelo", "santissimo"]
 heroImage: "/hero/smoke-smoke-202605130905-santuario-de-fatima-tera-programacao-especial-nesta-terca.jpg"
+categoria_macro: politica
 ---
 O Santuário Arquidiocesano de Nossa Senhora de Fátima, no Centro do Rio, preparou uma programação especial para celebrar o Dia de Nossa Senhora de Fátima, comemorado nesta terça-feira (13).
 

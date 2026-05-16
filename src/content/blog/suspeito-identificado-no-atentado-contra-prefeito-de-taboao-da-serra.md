@@ -7,8 +7,8 @@ slug: "suspeito-identificado-no-atentado-contra-prefeito-de-taboao-da-serra"
 wp_id: 5791
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Civil de São Paulo anunciou neste sábado (19) a identificação de um suspeito envolvido no ataque a tiros contra José Aprígio da Silva, prefeito de Taboão da Serra e candidato à reeleição. O incidente, ocorrido na região metropolitana de São Paulo, deixou o prefeito gravemente ferido.</p>
 <!-- /wp:paragraph -->

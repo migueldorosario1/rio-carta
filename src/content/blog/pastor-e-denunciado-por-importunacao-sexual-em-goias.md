@@ -7,8 +7,8 @@ slug: "pastor-e-denunciado-por-importunacao-sexual-em-goias"
 tags:
   - 'nacional'
 wp_id: 4202
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público de Goiás (MPGO) apresentou uma denúncia contra o pastor Davi Passamani pelo crime de importunação sexual. Passamani encontra-se detido desde o dia 4 de abril. </p>
 <!-- /wp:paragraph -->

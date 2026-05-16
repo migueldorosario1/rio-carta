@@ -7,8 +7,8 @@ slug: "marcal-cai-na-quaest-apos-levar-cadeirada-de-datena"
 wp_id: 5300
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente do instituto Quaest, divulgada pelo g1, indica uma competição intensa pela prefeitura de São Paulo. O estudo, realizado entre 15 e 17 de setembro, apresenta Ricardo Nunes (MDB) com 24% das intenções de voto, seguido por Guilherme Boulos (Psol) com 23% e Pablo Marçal (PRTB) com 20%. A margem de erro é de três pontos percentuais, para mais ou para menos.</p>
 <!-- /wp:paragraph -->

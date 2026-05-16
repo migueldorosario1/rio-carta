@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "flamengo", "cultura", "teatro", "capacitismo", "inclusao", "cultura-e-carnaval-rj", "capital", "regiao-metropolitana", "leme", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605130605-musical-nosso-lugar-chega-ao-rio-com-reflexao-sobre-capacitismo.jpeg"
+categoria_macro: lazer
 ---
 O espetáculo “Nosso Lugar” chega ao Rio de Janeiro para uma curta temporada nos dias 23 e 24 de maio, no Teatro Futuros, no Flamengo, reunindo teatro, música e técnicas circenses em uma narrativa que trata de amor, inclusão e capacitismo. A montagem é protagonizada por Sara Bentes e Kiko do Valle e terá sessões às 17h, com recursos de acessibilidade como Libras e audiodescrição.
 

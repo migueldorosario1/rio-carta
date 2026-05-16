@@ -7,8 +7,8 @@ slug: "mprj-alerta-o-stf-sobre-descumprimento-das-diretrizes-em-operacoes-polici
 wp_id: 2290
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Procurador-Geral de Justiça do Rio de Janeiro, Luciano Mattos, enviou um ofício ao Supremo Tribunal Federal (STF), sinalizando indícios de que as polícias Militar e Civil do Rio de Janeiro não estão cumprindo as determinações da Arguição de Descumprimento de Preceito Fundamental (ADPF) 635, conhecida como ADPF das Favelas. O documento foi direcionado ao ministro Edson Fachin, relator da ADPF, e enfatiza a necessidade de adoção de providências diante dessa situação.</p>
 <!-- /wp:paragraph -->

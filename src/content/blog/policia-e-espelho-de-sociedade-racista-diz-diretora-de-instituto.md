@@ -7,8 +7,8 @@ slug: "policia-e-espelho-de-sociedade-racista-diz-diretora-de-instituto"
 wp_id: 1087
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Críticas à morte de adolescente em favela do RJ continuam</em></strong></p>
 <!-- /wp:paragraph -->

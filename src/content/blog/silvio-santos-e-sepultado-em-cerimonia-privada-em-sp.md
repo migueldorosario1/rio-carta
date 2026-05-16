@@ -7,8 +7,8 @@ slug: "silvio-santos-e-sepultado-em-cerimonia-privada-em-sp"
 tags:
   - 'nacional'
 wp_id: 4868
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Silvio Santos, que faleceu aos 93 anos no último sábado, foi enterrado na manhã deste domingo, 18, no Cemitério Israelita do Butantã, em São Paulo. </p>
 <!-- /wp:paragraph -->

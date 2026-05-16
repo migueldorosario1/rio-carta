@@ -7,8 +7,8 @@ slug: "gilson-machado-lidera-indice-de-rejeicao-em-recife-aponta-datafolha"
 wp_id: 5349
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Ex-ministro do Turismo no governo Jair Bolsonaro, Gilson Machado (PL) lidera o índice de rejeição entre os eleitores do Recife, com 43% afirmando que não votariam no candidato, de acordo com pesquisa Datafolha divulgada nesta quinta-feira (19).</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "expectativa-de-crescimento-do-pib-brasileiro-surpreende-analistas-apesar-
 tags:
   - 'nacional'
 wp_id: 5008
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Economistas projetam uma surpresa positiva no desempenho do Produto Interno Bruto (PIB) do Brasil para o segundo trimestre de 2024, apesar dos impactos iniciais das enchentes no Rio Grande do Sul. </p>
 <!-- /wp:paragraph -->

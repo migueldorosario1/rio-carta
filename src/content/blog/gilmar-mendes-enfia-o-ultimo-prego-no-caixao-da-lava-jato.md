@@ -7,8 +7,8 @@ slug: "gilmar-mendes-enfia-o-ultimo-prego-no-caixao-da-lava-jato"
 wp_id: 3372
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em entrevista ao Brazil Journal, especializado em Economia e Mercado, o Decano do Supremo Tribunal Federal (STF), Gilmar Mendes, expôs uma aliança prévia entre a operação Lava Jato e o grupo político associado a Jair Bolsonaro (PL), formada após o impeachment de Dilma Rousseff (PT) em 2016. </p>
 <!-- /wp:paragraph -->

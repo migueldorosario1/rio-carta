@@ -7,8 +7,8 @@ slug: "luisa-sonza-retorna-as-raizes-canta-versao-original-de-chico-apos-fim-do-
 tags:
   - 'cultura-carnaval'
 wp_id: 2070
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A cantora Luísa Sonza, de 25 anos, surpreendeu seus fãs ao compartilhar um vídeo em seu Instagram, na última sexta-feira (1), onde entoava a versão original da música "Chico". A canção foi dedicada ao ex-namorado Chico Moedas, com quem encerrou o relacionamento devido a um episódio de traição.</em></strong></p>
 <!-- /wp:paragraph -->

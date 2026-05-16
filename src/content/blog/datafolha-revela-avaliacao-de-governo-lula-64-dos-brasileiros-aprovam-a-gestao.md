@@ -7,8 +7,8 @@ slug: "datafolha-revela-avaliacao-de-governo-lula-64-dos-brasileiros-aprovam-a-g
 wp_id: 6240
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente do Datafolha, divulgada pela Folha de S. Paulo nesta terça-feira (17), indica que 64% dos brasileiros têm uma visão positiva da administração do presidente Lula (PT). </p>
 <!-- /wp:paragraph -->

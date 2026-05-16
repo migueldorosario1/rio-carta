@@ -8,8 +8,8 @@ wp_id: 3213
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O pré-candidato do PDT à Prefeitura de Niterói, Rodrigo Neves, expressou sua alegria pela vitória da Viradouro, tradicional agremiação do Barreto, no carnaval carioca. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 3377
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Índice CNN, desenvolvido em colaboração com o Ipespe Analítica, revelou que o prefeito Eduardo Paes (PSD) lidera a corrida para a Prefeitura do Rio de Janeiro em 2024, com 41% das intenções de voto. </p>
 <!-- /wp:paragraph -->

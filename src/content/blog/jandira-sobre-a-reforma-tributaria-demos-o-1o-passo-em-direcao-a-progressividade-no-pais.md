@@ -7,8 +7,8 @@ slug: "jandira-sobre-a-reforma-tributaria-demos-o-1o-passo-em-direcao-a-progress
 wp_id: 715
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Líder do PCdoB na Câmara faz balanço positivo da aprovação da reforma tributária</em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "ministerio-da-agricultura-recolhe-lotes-de-cafe-improprio-para-consumo"
 tags:
   - 'nacional'
 wp_id: 4748
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério da Agricultura divulgou uma lista de lotes de marcas de café torrado que foram considerados impróprios para consumo, após análise detalhada realizada pelo Departamento de Inspeção do órgão. </p>
 <!-- /wp:paragraph -->

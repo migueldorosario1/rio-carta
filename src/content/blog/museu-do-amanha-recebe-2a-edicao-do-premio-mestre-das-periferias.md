@@ -7,8 +7,8 @@ slug: "museu-do-amanha-recebe-2a-edicao-do-premio-mestre-das-periferias"
 wp_id: 2545
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Promovido pela UNIperiferias, cerimônia homenageou quatro personalidades: Dani Balbi, Sueli Carneiro, Daniel Munduruku e Frei David</strong></em></p>
 <!-- /wp:paragraph -->

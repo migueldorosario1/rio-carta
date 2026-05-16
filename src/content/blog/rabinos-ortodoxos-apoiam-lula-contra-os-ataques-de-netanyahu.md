@@ -7,8 +7,8 @@ slug: "rabinos-ortodoxos-apoiam-lula-contra-os-ataques-de-netanyahu"
 tags:
   - 'geopolitica'
 wp_id: 3309
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma reviravolta recente nas redes sociais, um grupo de rabinos ortodoxos associados ao Torah Judaism posicionou-se em defesa do presidente Luiz Inácio Lula da Silva. </p>
 <!-- /wp:paragraph -->

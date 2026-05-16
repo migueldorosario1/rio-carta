@@ -7,8 +7,8 @@ slug: "tragedia-em-marica-arvore-de-natal-flutuante-cai-durante-tempestade-e-dei
 wp_id: 6237
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma árvore de natal flutuante, com 56 metros de altura, desabou sobre trabalhadores em Maricá, na Região Metropolitana do Rio de Janeiro, resultando em um morto e dois feridos. </p>
 <!-- /wp:paragraph -->

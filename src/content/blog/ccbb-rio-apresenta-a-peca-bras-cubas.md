@@ -7,8 +7,8 @@ slug: "ccbb-rio-apresenta-a-peca-bras-cubas"
 tags:
   - 'cultura-carnaval'
 wp_id: 1174
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A temporada no CCBB Rio é até 1º de outubro, de quarta a sábado, às 19h, e domingos, às 18h. </strong></em></p>
 <!-- /wp:paragraph -->

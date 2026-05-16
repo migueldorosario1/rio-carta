@@ -8,8 +8,8 @@ wp_id: 7315
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O vídeo de uma tortura, gravado por um dos investigados, expõe o sadismo do crime e o uso da brutalidade como instrumento de poder</h3>
 <!-- /wp:heading -->

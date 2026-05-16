@@ -7,8 +7,8 @@ slug: "rs-se-prepara-para-novos-temporais"
 tags:
   - 'nacional'
 wp_id: 4453
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A partir desta sexta-feira, 10, o Rio Grande do Sul se prepara para enfrentar temporais após um período de chuvas localizadas. Segundo o Instituto Nacional de Meteorologia (Inmet), as regiões central-leste e nordeste do estado devem ser as mais afetadas.</p>
 <!-- /wp:paragraph -->

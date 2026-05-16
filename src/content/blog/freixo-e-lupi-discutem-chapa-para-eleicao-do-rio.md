@@ -8,8 +8,8 @@ wp_id: 923
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Movimento pode pressionar prefeito Eduardo Paes (PSD) a ceder vice para o PT</strong></em></p>
 <!-- /wp:paragraph -->

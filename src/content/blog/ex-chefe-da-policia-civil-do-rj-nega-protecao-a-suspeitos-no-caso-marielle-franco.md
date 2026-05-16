@@ -7,8 +7,8 @@ slug: "ex-chefe-da-policia-civil-do-rj-nega-protecao-a-suspeitos-no-caso-mariell
 wp_id: 5856
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-chefe da Polícia Civil do Rio de Janeiro, Rivaldo Barbosa de Araújo, atualmente detido, refutou as acusações de que teria atuado para impedir a punição dos irmãos Brazão, suspeitos de serem os mandantes do assassinato da ex-vereadora Marielle Franco (Psol) em março de 2018.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 1566
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><span style="color: rgb(10, 10, 10); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 17px; text-align: center; white-space-collapse: collapse; background-color: rgb(254, 254, 254);"><em><strong>Assistente social, técnica em Química e servidora pública aposentada, Heloísa Helena foi eleita para seu 3º mandato como conselheira de São Conrado/Rocinha</strong></em></span></p>
 <!-- /wp:paragraph -->

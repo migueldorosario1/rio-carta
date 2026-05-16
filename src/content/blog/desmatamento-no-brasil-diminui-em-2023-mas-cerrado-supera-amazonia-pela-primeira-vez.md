@@ -7,8 +7,8 @@ slug: "desmatamento-no-brasil-diminui-em-2023-mas-cerrado-supera-amazonia-pela-p
 tags:
   - 'nacional'
 wp_id: 4539
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Brasil perdeu 1.829.597 hectares de vegetação nativa em 2023, de acordo com o Relatório Anual de Desmatamento (RAD 2023) do MapBiomas, divulgado nesta terça-feira, 28. Essa cifra representa uma redução de 11,6% em relação a 2022, quando foram derrubados 2.069.695 hectares.</p>
 <!-- /wp:paragraph -->

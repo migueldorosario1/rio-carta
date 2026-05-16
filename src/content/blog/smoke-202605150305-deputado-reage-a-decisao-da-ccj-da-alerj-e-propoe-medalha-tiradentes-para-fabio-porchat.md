@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "fabio-porchat", "medalha-tiradentes", "yuri-moura", "rodrigo-amorim", "politica-rj", "regiao-metropolitana", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605150305-deputado-reage-a-decisao-da-ccj-da-alerj-e-propoe-medalha-tiradentes-para-fabio-porchat.png"
+categoria_macro: politica
 ---
 O humorista Fábio Porchat virou alvo de disputa dentro da Assembleia Legislativa (Alerj). Após a Comissão de Constituição e Justiça (CCJ) aprovar um projeto que declara o artista “persona non grata” no estado do Rio, o deputado Yuri Moura (Psol) apresentou um projeto de resolução para conceder ao humorista a Medalha Tiradentes, principal honraria do Parlamento.
 

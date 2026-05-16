@@ -7,8 +7,8 @@ slug: "ministra-defende-retomada-do-complexo-economico-industrial-da-saude"
 tags:
   - 'nacional'
 wp_id: 681
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Retomada da política industrial e do complexo econômico-industrial da saúde é uma oportunidade estratégica para o Brasil</em></p>
 <!-- /wp:paragraph -->

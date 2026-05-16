@@ -8,8 +8,8 @@ wp_id: 3281
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura de Niterói, em parceria com a Secretaria Municipal de Saúde, implementou medidas eficazes contra as arboviroses, conseguindo estabilizar a incidência dessas doenças em 0,9 por cem mil habitantes.</p>
 <!-- /wp:paragraph -->

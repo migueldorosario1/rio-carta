@@ -7,8 +7,8 @@ slug: "arthur-lira-em-busca-de-sucessor-na-camara-dos-deputados-desafios-e-dispu
 wp_id: 5002
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Arthur Lira, presidente da Câmara dos Deputados, enfrenta um período decisivo em suas negociações para escolher seu sucessor.</p>
 <!-- /wp:paragraph -->

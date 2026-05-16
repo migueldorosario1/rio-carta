@@ -8,8 +8,8 @@ wp_id: 2203
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A recente prisão de Luis Antônio da Silva Braga, mais conhecido como Zinho, pode vir a ser um divisor de águas na já tumultuada guerra entre as milícias do Rio de Janeiro. Zinho, apontado como o líder da maior milícia da região, entregou-se à Polícia Federal em um momento de vulnerabilidade acentuada para seu grupo, principalmente após a morte de seu irmão e líder anterior, Wellington da Silva Braga, o Ecko, em 2021.</p>
 <!-- /wp:paragraph -->

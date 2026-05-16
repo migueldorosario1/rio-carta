@@ -8,8 +8,8 @@ wp_id: 7654
 tags:
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-prefeito de Petrópolis, Rubens Bomtempo, vai se filiar ao Partido dos Trabalhadores (PT). O ato de filiação está marcado para a próxima terça-feira (10), às 18h30, na Câmara Municipal de Petrópolis.</p>
 <!-- /wp:paragraph -->

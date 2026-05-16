@@ -11,8 +11,8 @@ tags:
   - 'baixada'
   - 'campos'
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A economia do Rio de Janeiro mostrou um desempenho promissor no primeiro semestre deste ano, gerando um total de 74.387 novos postos de trabalho com carteira assinada. Esse resultado confirma a tendência de crescimento que se mantém há cinco meses consecutivos e coloca o estado entre os três que mais têm criado empregos formais em 2023. Os números foram divulgados pelo Ministério do Trabalho e Emprego por meio do Novo Cadastro Geral de Empregados e Desempregados (Caged) nesta quinta-feira (27/07).</p>
 <!-- /wp:paragraph -->

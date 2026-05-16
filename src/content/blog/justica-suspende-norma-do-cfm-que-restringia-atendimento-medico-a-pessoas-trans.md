@@ -7,8 +7,8 @@ slug: "justica-suspende-norma-do-cfm-que-restringia-atendimento-medico-a-pessoas
 wp_id: 7010
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A norma já havia sido criticada pela Comissão de Trabalho da Alerj presidida pela deputada Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

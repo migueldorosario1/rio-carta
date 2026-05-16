@@ -8,8 +8,8 @@ wp_id: 963
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Neste último domingo (30), a icônica orla de Copacabana, na zona sul do Rio de Janeiro, foi palco de uma emocionante e significativa manifestação: a 9ª Marcha das Mulheres Negras. Vindas de diversas regiões do estado, as mulheres negras uniram-se em prol de uma luta comum: o combate ao racismo, toda forma de opressão, violência e a busca por uma vida digna.</p>
 <!-- /wp:paragraph -->

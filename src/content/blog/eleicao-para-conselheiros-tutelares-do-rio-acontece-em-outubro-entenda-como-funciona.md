@@ -8,8 +8,8 @@ wp_id: 1463
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>No dia 1º de outubro, das 8h às 17h (horário de Brasília), ocorrerá em todo o Brasil a eleição para escolher os novos conselheiros tutelares. No Rio de Janeiro, serão eleitos 190 conselheiros tutelares, divididos em cinco titulares e cinco suplentes para cada Conselho Tutelar (CT) do município, que exercerão seus mandatos no período de 2024 a 2027.</p>
 <!-- /wp:paragraph -->

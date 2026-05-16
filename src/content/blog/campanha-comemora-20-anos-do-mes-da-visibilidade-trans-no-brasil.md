@@ -8,8 +8,8 @@ wp_id: 2538
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A deputada Dani Balbi (PCdoB) é uma das grandes líderes dessa pauta no Rio de Janeiro</strong></em></p>
 <!-- /wp:paragraph -->

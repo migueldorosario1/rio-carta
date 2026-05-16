@@ -7,8 +7,8 @@ slug: "lideres-do-congresso-comprometem-se-a-aprovar-projetos-cruciais-para-econ
 tags:
   - 'nacional'
 wp_id: 4953
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Fazenda, Fernando Haddad, anunciou nesta segunda-feira que recebeu garantias dos presidentes da Câmara dos Deputados, Arthur Lira (PP-AL), e do Senado, Rodrigo Pacheco (PSD-MG), de que uma série de projetos essenciais para a economia, incluindo a reforma tributária, serão aprovados até o final do ano. </p>
 <!-- /wp:paragraph -->

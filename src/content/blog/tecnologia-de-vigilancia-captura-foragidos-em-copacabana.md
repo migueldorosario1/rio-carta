@@ -7,8 +7,8 @@ slug: "tecnologia-de-vigilancia-captura-foragidos-em-copacabana"
 wp_id: 2266
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma operação policial utilizando tecnologia de reconhecimento facial resultou na captura de uma mulher foragida da justiça enquanto caminhava pela Avenida Atlântica, em Copacabana. Esta prisão marca o quarto sucesso recente do sistema implementado na área, evidenciando a eficácia desta ferramenta na segurança pública.</p>
 <!-- /wp:paragraph -->

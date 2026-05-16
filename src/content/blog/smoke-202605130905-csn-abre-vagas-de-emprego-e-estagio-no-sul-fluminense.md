@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "volta-redonda", "porto-real", "resende", "valenca", "csn", "vagas-de-emprego", "estagio", "industria", "regiao-metropolitana", "comunidade", "mage", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130905-csn-abre-vagas-de-emprego-e-estagio-no-sul-fluminense.jpg"
+categoria_macro: economia
 ---
 Sul Fluminense – A Companhia Siderúrgica Nacional está com processos seletivos abertos para a contratação de profissionais efetivos e para o Programa de Estágio 2026. A iniciativa reforça a intensificação das operações no setor industrial e a valorização de talentos no Sul Fluminense.
 

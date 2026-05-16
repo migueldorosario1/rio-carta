@@ -7,8 +7,8 @@ slug: "lula-passa-por-novos-exames-medicos-apos-acidente-domestico"
 tags:
   - 'nacional'
 wp_id: 5943
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva será submetido a novos exames médicos neste domingo, no hospital Sírio-Libanês em Brasília, cerca de duas semanas após ter sofrido um acidente no Palácio da Alvorada. Este procedimento marca a quarta avaliação médica desde o incidente.</p>
 <!-- /wp:paragraph -->

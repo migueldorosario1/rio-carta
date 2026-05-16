@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:01:50Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-oceanica", "eduardo-paes", "rodrigo-neves", "linha-3-do-metro", "eleicoes-2026", "politica-rj", "regiao-metropolitana", "anil", "sao-goncalo", "itaborai", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150001-rodrigo-neves-mobiliza-vereadores-e-fortalece-palanque-de-eduardo-paes-em-niteroi.jpg"
+categoria_macro: politica
 ---
 O prefeito de Niterói, Rodrigo Neves, promoveu nesta quinta-feira (14) um almoço político que reuniu vereadores da base governista em torno da pré-candidatura de Eduardo Paes ao Governo do Estado do Rio de Janeiro. O encontro ocorreu após uma agenda conjunta no Museu de Arte Contemporânea (MAC) e terminou no tradicional Seu Antônio, na Região Oceânica de Niterói, área historicamente ligada ao trabalhismo fluminense.
 

@@ -7,8 +7,8 @@ slug: "samia-pede-que-populacao-nao-baixe-a-guarda-sobre-pl-do-estupro"
 wp_id: 4684
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A proposta de lei que trata do aborto após a 22ª semana, conhecida como "PL do Estupro", pode ter sua votação adiada na Câmara dos Deputados devido a intensas reações negativas. O deputado Sóstenes Cavalcante (PL-RJ), autor da proposta e membro da bancada evangélica, admitiu a possibilidade de postergar a análise do projeto até após as eleições municipais, conforme reportado pelo Globo.</p>
 <!-- /wp:paragraph -->

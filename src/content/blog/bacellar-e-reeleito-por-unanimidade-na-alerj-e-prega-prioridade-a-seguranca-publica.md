@@ -8,8 +8,8 @@ wp_id: 6537
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Presidente da Casa destaca maturidade dos deputados e promete trabalho conjunto com governo e outros poderes para trazer resultados à população.</strong></em></p>
 <!-- /wp:paragraph -->

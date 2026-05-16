@@ -7,8 +7,8 @@ slug: "por-que-estado-do-rio-de-janeiro-possui-a-maior-taxa-de-mortalidade-por-t
 wp_id: 1230
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Especialistas afirmam que o dado reflete uma complexa situação socioeconômica da população fluminense</strong></em></p>
 <!-- /wp:paragraph -->

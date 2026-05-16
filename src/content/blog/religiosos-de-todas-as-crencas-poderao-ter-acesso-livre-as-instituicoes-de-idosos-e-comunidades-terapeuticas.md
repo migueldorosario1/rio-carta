@@ -7,8 +7,8 @@ slug: "religiosos-de-todas-as-crencas-poderao-ter-acesso-livre-as-instituicoes-d
 wp_id: 5481
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da deputada Dani Balbi (PCdoB). A medida foi aprovada em primeira discussão na ALERJ, mas ainda precisa ser aprovada em segunda discussão pela Casa.</em></strong></p>
 <!-- /wp:paragraph -->

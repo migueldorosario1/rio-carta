@@ -7,8 +7,8 @@ slug: "deputado-usou-verba-publica-para-biscoitar-no-instagram"
 tags:
   - 'politica-rj'
 wp_id: 4331
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Um estudo realizado pelo "Núcleo Jornalismo", utilizando dados de anúncios da plataforma Meta, revelou que o deputado federal<strong> Célio Studart (PSD-CE)</strong> destinou recursos públicos para promover imagens pessoais nas redes sociais. </p>
 <!-- /wp:paragraph -->

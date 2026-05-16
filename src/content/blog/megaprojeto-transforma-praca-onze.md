@@ -7,8 +7,8 @@ slug: "megaprojeto-transforma-praca-onze"
 wp_id: 7404
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Demolição do viaduto e abertura de novas vias visam recuperar ligações entre Centro, Estácio e Catumbi e restituir a fluidez perdida por décadas</h3>
 <!-- /wp:heading -->

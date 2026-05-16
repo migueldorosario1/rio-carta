@@ -7,8 +7,8 @@ slug: "xandao-empareda-defesa-e-bolsonaro-tera-que-depor-a-pf"
 tags:
   - 'nacional'
 wp_id: 3331
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), rejeitou na última segunda-feira, 19, a solicitação da defesa de Jair Bolsonaro, ex-presidente do Brasil, para adiar seu depoimento à Polícia Federal (PF).</p>
 <!-- /wp:paragraph -->

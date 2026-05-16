@@ -7,8 +7,8 @@ slug: "exportacoes-de-soja-do-brasil-para-os-eua-explodem-em-janeiro"
 tags:
   - 'nacional'
 wp_id: 3444
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Três navios cargueiros estão se preparando nos portos do Norte do Brasil para exportar soja para os Estados Unidos, marcando um movimento não habitual entre o maior exportador global de soja, o Brasil, e os Estados Unidos, que ocupam a segunda posição tanto em produção quanto em exportação. Essa operação seria a primeira do gênero desde o último ano, de acordo com registros oficiais.</p>
 <!-- /wp:paragraph -->

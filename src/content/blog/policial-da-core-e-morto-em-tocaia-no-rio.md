@@ -7,8 +7,8 @@ slug: "policial-da-core-e-morto-em-tocaia-no-rio"
 tags:
   - 'seguranca-publica'
 wp_id: 6706
+categoria_macro: seguranca
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Criminosos abriram fogo contra o veículo de Marquini, que não resistiu. Sua esposa, em carro blindado, saiu sem ferimentos. DH busca suspeitos</h3>
 <!-- /wp:heading -->

@@ -11,8 +11,8 @@ tags:
   - 'cabo-frio'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>José Bonifácio Ferreira Novellino lutava contra um câncer no fígado e deixa a esposa, duas filhas e um neto</strong></em></p>
 <!-- /wp:paragraph -->

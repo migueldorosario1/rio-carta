@@ -7,8 +7,8 @@ slug: "gigante-dos-mares-icon-of-the-seas-chega-a-miami-para-viagem-inaugural"
 tags:
   - 'geopolitica'
 wp_id: 2328
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Miami se Prepara para a Partida Inaugural do Colossal 'Icon of the Seas'</strong></p>
 <!-- /wp:paragraph -->

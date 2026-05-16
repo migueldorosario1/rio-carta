@@ -8,8 +8,8 @@ wp_id: 6550
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Prefeito de Campos, Wladimir Garotinho (PP) traria o Norte Fluminense para a campanha de Eduardo Paes (PSD)</em></strong></p>
 <!-- /wp:paragraph -->

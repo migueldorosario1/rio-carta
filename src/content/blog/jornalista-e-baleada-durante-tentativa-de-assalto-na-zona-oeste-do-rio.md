@@ -7,8 +7,8 @@ slug: "jornalista-e-baleada-durante-tentativa-de-assalto-na-zona-oeste-do-rio"
 wp_id: 3232
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na madrugada de segunda-feira, 12, a jornalista Nathalia Santos foi vítima de uma tentativa de assalto enquanto retornava do Sambódromo da Marques de Sapucaí, na Avenida Ayrton Sena, Zona Oeste do Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

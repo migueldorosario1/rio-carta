@@ -7,8 +7,8 @@ slug: "bomba-tre-do-parana-marca-julgamento-de-moro-para-1o-de-abril"
 wp_id: 3923
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal Regional Eleitoral do Paraná (TRE-PR) agendou para o dia 1º de abril o julgamento que poderá decidir pela cassação do mandato do senador Sergio Moro (União Brasil-PR), ex-juiz e figura conhecida no cenário político brasileiro.</p>
 <!-- /wp:paragraph -->

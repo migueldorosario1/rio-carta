@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "vila-isabel", "sapucai", "carnaval", "cultura", "cultura-e-carnaval-rj", "capital-estado", "encantado", "educacao", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605131505-unidos-de-vila-isabel-leva-torto-arado-de-itamar-vieira-junior-para-a-sapucai-em-2027.jpg"
+categoria_macro: lazer
 ---
 Carnaval
 

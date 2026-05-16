@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:38Z"
 draft: true
 tags: ["rio-de-janeiro", "jacare", "zona-norte", "seguranca-publica", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "/hero/smoke-smoke-202605150605-mulher-acusada-de-aliciamento-e-presa-em-operacao-contra-exploracao-sexual-infantil.jpg"
+categoria_macro: seguranca
 ---
 Rio
 

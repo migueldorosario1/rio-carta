@@ -7,8 +7,8 @@ slug: "vasco-anuncia-contratacao-do-tecnico-ramon-diaz"
 wp_id: 806
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Treinador argentino assina com o Cruz-Maltino até dezembro de 2024</strong></em></p>
 <!-- /wp:paragraph -->

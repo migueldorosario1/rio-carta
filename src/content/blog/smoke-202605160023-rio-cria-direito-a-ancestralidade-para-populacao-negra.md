@@ -5,6 +5,7 @@ pubDate: "2026-05-16T00:23:40Z"
 draft: false
 tags: ["rio-de-janeiro", "ancestralidade", "populacao-negra", "politica-rj", "capital-porto", "regiao-metropolitana", "leme", "comunidade", "saude", "educacao", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605160023-rio-cria-direito-a-ancestralidade-para-populacao-negra-qwen.jpg"
+categoria_macro: politica
 ---
 O Rio de Janeiro passou a ter uma lei municipal que institui o direito à ancestralidade para a população negra. A norma foi publicada no Diário Oficial na última terça-feira (5) e prevê a oferta de exames de DNA ou mapeamento genômico como forma de acesso a informações sobre origens ancestrais.
 

@@ -7,8 +7,8 @@ slug: "gab-van-se-filia-ao-pcdob-em-evento-marcado-por-representatividade-e-fort
 wp_id: 7436
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Coordenador da Marcha Trans no Rio, Gab Van se filiou ao PCdoB na noite desta sexta-feira (21/11), em evento na Casa Xica Manicongo, na Lapa, consolidando sua trajetória política ao lado da deputada estadual Dani Balbi - parlamentar que tem impulsionado novas lideranças trans no estado, como a advogada Diana Conrado, hoje Coordenadora de Diversidade Sexual do Rio.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "prefeito-de-fortaleza-exonera-secretarios-por-apoio-a-candidato-opositor-
 wp_id: 5808
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em Fortaleza, o prefeito José Sarto (PDT) realizou uma série de exonerações envolvendo secretários e servidores comissionados que declararam apoio a Evandro Leitão (PT) para o segundo turno das eleições municipais.</p>
 <!-- /wp:paragraph -->

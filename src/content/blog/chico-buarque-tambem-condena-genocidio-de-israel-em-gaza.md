@@ -7,8 +7,8 @@ slug: "chico-buarque-tambem-condena-genocidio-de-israel-em-gaza"
 tags:
   - 'geopolitica'
 wp_id: 3596
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O renomado artista brasileiro Chico Buarque expressou, através de uma publicação em sua conta no Instagram nesta sexta-feira, 1, críticas veladas às ações do governo israelense, liderado por Benjamin Netanyahu, na Faixa de Gaza. </p>
 <!-- /wp:paragraph -->

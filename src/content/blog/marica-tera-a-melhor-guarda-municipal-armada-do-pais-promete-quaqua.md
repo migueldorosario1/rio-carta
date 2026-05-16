@@ -8,8 +8,8 @@ wp_id: 6716
 tags:
   - 'volta-redonda'
   - 'sao-goncalo'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Prefeitura garante que controle rígido será adotado, com supervisão do Ministério Público e cursos de capacitação para evitar abusos e garantir transparência</h3>
 <!-- /wp:heading -->

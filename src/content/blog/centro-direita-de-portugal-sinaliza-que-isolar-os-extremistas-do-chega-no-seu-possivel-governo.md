@@ -7,8 +7,8 @@ slug: "centro-direita-de-portugal-sinaliza-que-isolar-os-extremistas-do-chega-no
 wp_id: 3695
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Luís Montenegro, líder da Aliança Democrática (AD), declarou a vitória de seu partido nas recentes Eleições Legislativas, afirmando que assumirá o posto de primeiro-ministro sem buscar alianças com o Chega, partido de extrema-direita. </p>
 <!-- /wp:paragraph -->

@@ -6,8 +6,8 @@ category: ["Pol\u00edtica"]
 tags: ["escala-6-x-1"]
 heroImage: "/hero/fim-da-escala-6x1-avan-a-no-congresso-e-prev-jornada-de-40-horas.webp"
 author: "Redação"
+categoria_macro: geral
 ---
-
 A proposta que prevê o fim da escala 6x1 e a redução da jornada semanal de 44 para 40 horas reacendeu o debate sobre qualidade de vida, saúde mental e direitos trabalhistas no Brasil. Em tramitação no Congresso Nacional, a medida promete transformar a rotina de milhões de trabalhadores que hoje cumprem seis dias seguidos com apenas um de descanso.
 A PEC, encampada pela deputada Erika Hilton (PSOL-SP) e apoiada por centrais sindicais e parlamentares do campo progressista, estabelece um novo padrão baseado na escala 5x2. O texto garante ao menos dois dias de repouso semanal remunerado, sem qualquer redução salarial para os trabalhadores atingidos.
 A mudança beneficiaria trabalhadores regidos pela CLT e categorias com legislações específicas, como empregadas domésticas, comerciários, atletas, aeronautas e radialistas. As informações foram detalhadas em reportagem do portal

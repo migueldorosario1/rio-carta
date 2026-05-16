@@ -7,8 +7,8 @@ slug: "lula-anuncia-apoio-a-waguinho-em-belford-roxo"
 wp_id: 5201
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva manifestou seu apoio ao prefeito de Belford Roxo, Waguinho Carneiro, do partido Republicanos, durante um evento nesta quinta-feira (12). A declaração foi feita em agradecimento ao apoio recebido nas eleições de 2022.</p>
 <!-- /wp:paragraph -->

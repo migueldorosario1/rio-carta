@@ -7,8 +7,8 @@ slug: "comissao-de-trabalho-da-alerj-discute-hoje-direitos-previdenciarios-dos-p
 wp_id: 1544
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da presidenta da Comissão, deputada Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

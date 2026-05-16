@@ -5,6 +5,7 @@ pubDate: "2026-05-16T12:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "capital", "seguranca-publica", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605161223-flavio-bolsonaro-antecipa-vazamentos-videos-com-vorcaro.webp"
+categoria_macro: politica
 ---
 O senador Flávio Bolsonaro adotou uma estratégia de contenção de danos ao admitir publicamente a possibilidade de novos vazamentos que comprovem sua ligação com o banqueiro Daniel Vorcaro. Em declarações contundentes, o parlamentar tentou esvaziar o potencial destrutivo de eventuais provas, classificando os registros como “videozinhos” de bastidores.
 

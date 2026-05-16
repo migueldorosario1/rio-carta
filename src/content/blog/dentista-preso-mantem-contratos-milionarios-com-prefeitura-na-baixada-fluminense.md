@@ -7,8 +7,8 @@ slug: "dentista-preso-mantem-contratos-milionarios-com-prefeitura-na-baixada-flu
 wp_id: 5548
 tags:
   - 'politica-rj'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta quinta-feira (03/10), a Polícia Federal prendeu o dentista Eduardo Penha Ribeiro, conhecido como Doutor Eduardo, em posse de quase R$ 2 milhões em espécie. O dentista possui laços estreitos com a Prefeitura de Duque de Caxias, na Baixada Fluminense, onde suas empresas detêm contratos milionários com o município.</p>
 <!-- /wp:paragraph -->

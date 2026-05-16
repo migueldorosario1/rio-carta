@@ -8,8 +8,8 @@ wp_id: 5978
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada federal Jandira Feghali (PCdoB) defende uma reforma tributária que crie o imposto sobre grandes fortunas.</em></strong></p>
 <!-- /wp:paragraph -->

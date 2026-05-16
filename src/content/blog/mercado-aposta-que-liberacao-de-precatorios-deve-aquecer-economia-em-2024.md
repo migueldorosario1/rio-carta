@@ -7,8 +7,8 @@ slug: "mercado-aposta-que-liberacao-de-precatorios-deve-aquecer-economia-em-2024
 tags:
   - 'nacional'
 wp_id: 2660
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O pagamento iminente de precatórios pelo governo brasileiro, previsto para o final de 2023, está despertando otimismo entre economistas consultados pelo jornal <strong>Estado de S. Paulo</strong>. </p>
 <!-- /wp:paragraph -->

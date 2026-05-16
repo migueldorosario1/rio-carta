@@ -7,8 +7,8 @@ slug: "incidente-nos-trilhos-em-botafogo-leva-ao-fechamento-de-cinco-estacoes-do
 wp_id: 2044
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Na noite desta terça-feira (28), cinco estações do Metrô Rio foram fechadas após um incidente nos trilhos na estação Botafogo, na Zona Sul do Rio de Janeiro. Um acesso indevido ocorreu por volta das 18h no sentido Central do Brasil.</em></strong></p>
 <!-- /wp:paragraph -->

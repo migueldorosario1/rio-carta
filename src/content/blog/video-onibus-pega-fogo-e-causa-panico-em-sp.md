@@ -7,8 +7,8 @@ slug: "video-onibus-pega-fogo-e-causa-panico-em-sp"
 tags:
   - 'nacional'
 wp_id: 6038
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na tarde desta segunda-feira, 25, um incidente grave ocorreu na Avenida Senador Teotônio Vilela, na Zona Sul de São Paulo, envolvendo um ônibus do transporte público que pegou fogo após uma pane elétrica. </p>
 <!-- /wp:paragraph -->

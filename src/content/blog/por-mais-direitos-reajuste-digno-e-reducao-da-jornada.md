@@ -7,8 +7,8 @@ slug: "por-mais-direitos-reajuste-digno-e-reducao-da-jornada"
 tags:
   - 'nacional'
 wp_id: 7769
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"textAlign":"center","level":5} -->
 <h5 class="wp-block-heading has-text-align-center"><em>Por unanimidade, foi aprovada a pauta com aumento de 10%</em></h5>
 <!-- /wp:heading -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:30Z"
 draft: false
 tags: ["rio-de-janeiro", "jardim-botanico", "abelhas", "pesquisa", "ecologia", "rio-capital-zona-sul-e-grande-tijuca", "capital", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130205-potencia-ecologica-pesquisa-monitora-condominio-de-abelhas-no-jb.png"
+categoria_macro: politica
 ---
 Potência ecológica: pesquisa monitora “condomínio” de abelhas no JB
 

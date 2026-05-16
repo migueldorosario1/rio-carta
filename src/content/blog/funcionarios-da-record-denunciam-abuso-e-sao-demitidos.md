@@ -7,8 +7,8 @@ slug: "funcionarios-da-record-denunciam-abuso-e-sao-demitidos"
 tags:
   - 'nacional'
 wp_id: 4352
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Funcionários da emissora Record reportam sentir-se ameaçados tanto por possíveis abusos quanto por demissões, conforme apurado pelo portal <strong><a href="https://noticiasdatv.uol.com.br/noticia/televisao/apos-casos-de-assedio-record-demite-vitimas-e-causa-inseguranca-nos-bastidores-118772">Notícias da TV</a></strong>. Alegações indicam que colaboradores que apresentaram queixas nos últimos anos foram demitidos.</p>
 <!-- /wp:paragraph -->

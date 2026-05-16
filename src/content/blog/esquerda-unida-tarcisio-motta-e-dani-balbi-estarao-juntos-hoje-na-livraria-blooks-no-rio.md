@@ -8,8 +8,8 @@ wp_id: 4192
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Pré-candidatos do PSOL e do PCdoB na disputa pela prefeitura do Rio estarão no debate de lançamento do livro "Direito à cidade no Rio de Janeiro"</strong></em></p>
 <!-- /wp:paragraph -->

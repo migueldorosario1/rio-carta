@@ -7,8 +7,8 @@ slug: "guarda-municipal-do-rio-volta-a-operar-com-escala-12x36h"
 wp_id: 559
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Emendas aprovadas pelos vereadores garantiram a carga horária semanal de 40 horas semanais, com pagamento de hora extra em caso que seja necessário ultrapassar período de expediente.</em></p>
 <!-- /wp:paragraph -->

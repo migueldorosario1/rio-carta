@@ -7,8 +7,8 @@ slug: "lula-fortalece-campanha-de-guilherme-boulos-para-prefeitura-de-sao-paulo-
 wp_id: 5192
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva planeja intensificar seu apoio a Guilherme Boulos, candidato à Prefeitura de São Paulo pelo PSOL, adicionando datas extras à sua agenda na capital. </p>
 <!-- /wp:paragraph -->

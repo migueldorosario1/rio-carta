@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente realizada pelo instituto Gerp, divulgada na última terça-feira (22/10), indica que Rodrigo Neves (PDT) está à frente na corrida pela Prefeitura de Niterói, na região Metropolitana do Rio de Janeiro, com 61% dos votos válidos.</p>
 <!-- /wp:paragraph -->

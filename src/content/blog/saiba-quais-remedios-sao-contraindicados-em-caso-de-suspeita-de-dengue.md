@@ -7,8 +7,8 @@ slug: "saiba-quais-remedios-sao-contraindicados-em-caso-de-suspeita-de-dengue"
 tags:
   - 'saude'
 wp_id: 3141
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Sociedade Brasileira de Infectologia (SBI) alertou, nesta quarta-feira (7), para os remédios contraindicados em caso de suspeita da doença. Segundo o Ministério da Saúde, do início deste ano até a última segunda-feira (5), a doença provocou 36 mortes no país.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1579967&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1579967&amp;o=node"></p>
 <!-- /wp:paragraph -->

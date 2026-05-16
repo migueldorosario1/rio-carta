@@ -7,8 +7,8 @@ slug: "secretario-executivo-do-mcti-ministrara-palestra-na-sede-da-abc-no-rio"
 wp_id: 1076
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Luis Fernandes abordará a estratégia do atual governo para a área e as prioridades no uso de verbas do FNDCT</strong></em></p>
 <!-- /wp:paragraph -->

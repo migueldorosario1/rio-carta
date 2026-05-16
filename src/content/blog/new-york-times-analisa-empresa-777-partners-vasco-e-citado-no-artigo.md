@@ -7,8 +7,8 @@ slug: "new-york-times-analisa-empresa-777-partners-vasco-e-citado-no-artigo"
 tags:
   - 'vasco-da-gama'
 wp_id: 1569
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Matéria do New York Times analisa como a empresa 777 Partners está atuando no mercado da bola.</strong></em></p>
 <!-- /wp:paragraph -->

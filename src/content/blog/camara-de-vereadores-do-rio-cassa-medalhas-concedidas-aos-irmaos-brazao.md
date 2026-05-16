@@ -8,8 +8,8 @@ wp_id: 4634
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Câmara de Vereadores do Rio de Janeiro cassou, por uma margem de 20 votos favoráveis e seis abstenções, as Medalhas Pedro Ernesto, uma das principais honrarias estaduais, atribuídas ao conselheiro do Tribunal de Contas do Estado (TCE), Domingos Brazão, e ao deputado federal, Chiquinho Brazão, sem partido. Esta foi a sétima votação sobre o assunto.</p>
 <!-- /wp:paragraph -->

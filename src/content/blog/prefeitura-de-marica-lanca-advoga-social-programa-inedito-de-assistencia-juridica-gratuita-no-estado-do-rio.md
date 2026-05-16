@@ -7,8 +7,8 @@ slug: "prefeitura-de-marica-lanca-advoga-social-programa-inedito-de-assistencia-
 tags:
   - 'regiao-metropolitana'
 wp_id: 7601
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading">Política pública amplia o acesso à Justiça para a população mais vulnerável e fortalece a advocacia local; cerimônia contou com a presença da presidente da OAB-RJ, Ana Tereza Basílio</h5>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "consumo-de-carne-aumentou-no-brasil-sob-governo-lula"
 tags:
   - 'nacional'
 wp_id: 4527
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente do The Good Food Institute Brasil, publicada pelo Valor, indica um aumento no consumo de carne bovina no Brasil desde o retorno de Lula à presidência em janeiro de 2023. </p>
 <!-- /wp:paragraph -->

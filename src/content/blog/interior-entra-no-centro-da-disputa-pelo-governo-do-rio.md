@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:58Z"
 draft: false
 tags: ["rio-de-janeiro", "interior-fluminense", "regiao-dos-lagos", "norte-fluminense", "macae", "saquarema", "cabofrio", "buzios", "araruama", "rio-das-ostras", "eleicoes-2026", "politica-rj", "eduardo-paes", "douglas-ruas"]
 heroImage: "/hero/interior-entra-no-centro-da-disputa-pelo-governo-do-rio.png"
+categoria_macro: politica
 ---
 Paes e Ruas aceleram agendas entre Macaé e Saquarema em corrida por prefeitos, royalties e influência política fora da capital
 

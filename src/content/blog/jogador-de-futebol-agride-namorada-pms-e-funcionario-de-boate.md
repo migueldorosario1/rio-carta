@@ -7,8 +7,8 @@ slug: "jogador-de-futebol-agride-namorada-pms-e-funcionario-de-boate"
 tags:
   - 'seguranca-publica'
 wp_id: 1883
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>No Recreio dos Bandeirantes, na Zona Oeste do Rio, uma noite que deveria ser tranquila acabou em tumulto envolvendo o jogador de futebol Larusso Pablo Viana da Silva, de 24 anos. O atleta, que já passou por clubes cariocas como Madureira e Cabofriense, e atualmente defende o Audax-RJ, protagonizou uma série de agressões que resultaram em sua detenção e de sua namorada.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "saude-anuncia-centro-de-emergencia-para-conter-epidemia-de-dengue"
 tags:
   - 'nacional'
 wp_id: 2847
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A ministra da Saúde, Nísia Trindade, anunciou nesta quinta-feira (1) o lançamento de um&nbsp;Centro de Operações de Emergência para&nbsp;controle da epidemia de dengue no Brasil. Durante reunião tripartite na sede da Organização Pan-americana da Saúde (Opas), em Brasília, Nísia fez um chamamento pedindo mobilização nacional por parte de estados e municípios.&nbsp;<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1578937&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1578937&amp;o=node"></p>
 <!-- /wp:paragraph -->

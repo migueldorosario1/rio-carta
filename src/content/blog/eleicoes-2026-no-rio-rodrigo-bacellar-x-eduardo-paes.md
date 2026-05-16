@@ -7,8 +7,8 @@ slug: "eleicoes-2026-no-rio-rodrigo-bacellar-x-eduardo-paes"
 wp_id: 6448
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Prefeito do Rio, Eduardo Paes deve ser o candidato do PSD ao governo do Rio em 2026; presidente da Alerj, Rodrigo Bacellar não descarta ser o candidato do União Brasil.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "sindicato-dos-comerciarios-convoca-ex-funcionarios-da-leader-para-assembl
 tags:
   - 'nacional'
 wp_id: 3369
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Sindicato dos Comerciários do Rio está convocando os ex-funcionários da Leader para uma assembleia, nesta segunda, dia 26, que debaterá as homologações e a forma de pagamento das rescisões dos contratos de trabalho, que a empresa precisa arcar.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "livraria-da-vinci-recebera-elias-jabbour-para-palestra-sobre-a-china"
 wp_id: 6530
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Elias Jabbour trabalhou como assessor econômico do Novo Banco de Desenvolvimento do BRICS; atualmente é o presidente do Instituto Pereira Passos (IPP)</strong></em></p>
 <!-- /wp:paragraph -->

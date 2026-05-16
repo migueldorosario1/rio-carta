@@ -8,8 +8,8 @@ wp_id: 5698
 tags:
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma virada nos eventos políticos de Petrópolis, a executiva estadual do PT decidiu apoiar oficialmente a candidatura de Yuri Moura (PSOL) para a prefeitura, contrariando a posição de neutralidade adotada pelo diretório municipal. A decisão foi divulgada através de uma nota onde a executiva orienta os filiados a votarem no candidato do PSOL.</p>
 <!-- /wp:paragraph -->

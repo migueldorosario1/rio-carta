@@ -7,8 +7,8 @@ slug: "corpo-de-joao-donato-sera-velado-no-theatro-municipal-do-rio"
 wp_id: 833
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Cerimônia está marcada para esta terça-feira (18), das 11h às 15h</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "planetario-do-rio-tera-agenda-especial-no-dia-12-10"
 tags:
   - 'rio-de-janeiro'
 wp_id: 1577
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><span style="font-family: &quot;Open Sans&quot;, sans-serif; white-space-collapse: collapse;"><em><strong>Dia das Crianças no Planetário do Rio terá programação especial para criançada aprender ciência e astronomia de forma lúdica e divertida</strong></em></span></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "pgr-e-stf-estao-prestes-a-marcar-julgamento-de-bolsonaro-por-liderar-tent
 wp_id: 3439
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Procuradoria-Geral da República e o Supremo Tribunal Federal estão analisando três possíveis calendários para o processo de Jair Bolsonaro, do Partido Liberal, conforme o colunista Guilherme Amado, do Metrópoles. </p>
 <!-- /wp:paragraph -->

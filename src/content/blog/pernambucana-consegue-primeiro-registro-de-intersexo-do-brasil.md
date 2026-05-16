@@ -7,8 +7,8 @@ slug: "pernambucana-consegue-primeiro-registro-de-intersexo-do-brasil"
 tags:
   - 'nacional'
 wp_id: 3704
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Céu Albuquerque, jornalista e ativista pernambucana, tornou-se a primeira pessoa no Brasil a ter a condição de intersexo oficialmente reconhecida em sua certidão de nascimento. </p>
 <!-- /wp:paragraph -->

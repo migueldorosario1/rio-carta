@@ -8,8 +8,8 @@ wp_id: 4368
 tags:
   - 'cabo-frio'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em Cabo Frio, Rio de Janeiro, Alexandre Kapiche, repórter e apresentador da InterTV, uma afiliada da Globo, está sendo acusado de assédio moral e sexual por quatro colegas de trabalho. </p>
 <!-- /wp:paragraph -->

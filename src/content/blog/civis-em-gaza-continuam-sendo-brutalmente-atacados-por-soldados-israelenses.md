@@ -7,8 +7,8 @@ slug: "civis-em-gaza-continuam-sendo-brutalmente-atacados-por-soldados-israelens
 tags:
   - 'geopolitica'
 wp_id: 2639
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A persistente guerra entre Israel e o povo palestino na Faixa de Gaza já se estende por 115 dias, causando uma profunda tragédia entre a população civil. </p>
 <!-- /wp:paragraph -->

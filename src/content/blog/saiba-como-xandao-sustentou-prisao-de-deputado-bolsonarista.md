@@ -7,8 +7,8 @@ slug: "saiba-como-xandao-sustentou-prisao-de-deputado-bolsonarista"
 wp_id: 3635
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF), por meio do ministro Alexandre de Moraes, determinou a prisão do deputado estadual Capitão Assumção (PL) do Espírito Santo. </p>
 <!-- /wp:paragraph -->

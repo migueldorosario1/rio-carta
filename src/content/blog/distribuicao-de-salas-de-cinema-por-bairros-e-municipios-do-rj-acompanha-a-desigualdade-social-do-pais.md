@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Estado aparece três vezes em lista das cinco cidades com mais de 500 mil habitantes com pior relação habitante/salas</em></strong></p>
 <!-- /wp:paragraph -->

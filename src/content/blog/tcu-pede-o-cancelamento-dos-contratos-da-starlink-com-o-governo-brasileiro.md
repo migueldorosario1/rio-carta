@@ -7,8 +7,8 @@ slug: "tcu-pede-o-cancelamento-dos-contratos-da-starlink-com-o-governo-brasileir
 tags:
   - 'nacional'
 wp_id: 4163
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público junto ao Tribunal de Contas da União (TCU) solicitou à corte detalhes a respeito de possíveis acordos entre o governo federal e a Starlink, empresa de internet via satélite liderada por Elon Musk. </p>
 <!-- /wp:paragraph -->

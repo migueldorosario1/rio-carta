@@ -9,8 +9,8 @@ tags:
   - 'nova-friburgo'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada do PT foi agredida em Lumiar</em></strong></p>
 <!-- /wp:paragraph -->

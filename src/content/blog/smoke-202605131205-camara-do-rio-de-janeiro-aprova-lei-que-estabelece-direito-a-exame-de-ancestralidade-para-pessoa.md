@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "ancestralidade", "politica-local", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "leme", "sao-goncalo", "itaborai", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605131205-camara-do-rio-de-janeiro-aprova-lei-que-estabelece-direito-a-exame-de-ancestralidade-para-pessoa.webp"
+categoria_macro: politica
 ---
 Câmara do Rio de Janeiro aprova lei que estabelece direito à exame de ancestralidade para pessoas negras
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T10:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte", "mobilidade", "transporte-mobilidade", "niteroi-metropolitana", "regiao-metropolitana", "leme", "niteroi", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605161023-uso-exclusivo-do-cartao-jae-nos-onibus-do-rio-sera-investigado-pelo-ministerio-publico.png"
+categoria_macro: politica
 ---
 O Ministério Público do Estado do Rio de Janeiro (MPRJ) instaurou, nesta sexta-feira (15), um inquérito civil para apurar a decisão da Prefeitura do Rio de encerrar o pagamento em dinheiro nas passagens dos ônibus municipais e adotar exclusivamente o sistema digital Jaé. A medida passa a ser analisada pela 3ª Promotoria de Justiça de Tutela do Consumidor, do Contribuinte e de Proteção de Dados Pessoais.
 

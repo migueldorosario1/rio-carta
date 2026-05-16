@@ -7,8 +7,8 @@ slug: "lula-e-arthur-lira-discutem-legalidade-das-emendas-parlamentares-apos-sus
 tags:
   - 'nacional'
 wp_id: 6303
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma reunião solicitada pelo presidente Luiz Inácio Lula da Silva, realizada na quinta-feira (26), com o presidente da Câmara dos Deputados, Arthur Lira (PP-AL), ambos discutiram a legalidade jurídica da divisão de emendas parlamentares. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "briga-apos-jogo-do-vasco-termina-com-um-homem-morto-no-entonor-de-sao-jan
 wp_id: 1553
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma trágica briga ocorreu nas imediações do Estádio São Januário, localizado na Barreira do Vasco, Zona Norte do Rio de Janeiro, resultando na morte de um homem e deixando outros dois feridos. De acordo com relatos de testemunhas, a confusão teve início logo após a partida de futebol entre o Vasco e o São Paulo, ocorrida no último sábado.</p>
 <!-- /wp:paragraph -->

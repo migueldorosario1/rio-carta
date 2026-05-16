@@ -7,8 +7,8 @@ slug: "sequestro-de-marcelinho-carioca-leva-a-seis-indiciamentos"
 tags:
   - 'seguranca-publica'
 wp_id: 2183
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Civil de São Paulo indiciou seis indivíduos por um conjunto de delitos que incluem sequestro, extorsão, formação de quadrilha, roubo, lavagem de dinheiro e receptação. Este caso envolve o ex-jogador de futebol Marcelinho Carioca e uma amiga, ambos sequestrados recentemente. O episódio ocorreu em Itaquaquecetuba, na região metropolitana de São Paulo.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 5889
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Rodrigo Neves (PDT) foi declarado vencedor na eleição para prefeito de Niterói neste domingo, alcançando 57% dos votos, que se traduzem em 156.067 votos. O adversário, Carlos Jordy (PL), obteve 43% dos votos, somando 116.000. A totalidade das urnas foi apurada, consolidando o resultado da disputa.</p>
 <!-- /wp:paragraph -->

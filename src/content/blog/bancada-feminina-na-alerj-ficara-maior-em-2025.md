@@ -10,8 +10,8 @@ tags:
   - 'resende'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Na foto, a presidenta do Conselho Estadual de Enfermagem (Coren), Lilian Behring (PCdoB), que assumirá uma cadeira na Alerj em janeiro de 2025.</em></strong></p>
 <!-- /wp:paragraph -->

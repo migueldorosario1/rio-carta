@@ -8,8 +8,8 @@ wp_id: 6052
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta terça-feira (26), a Câmara Municipal de Belford Roxo reprovou as contas do prefeito Wagner Carneiro, também conhecido como Waguinho, referentes ao exercício fiscal de 2022. </p>
 <!-- /wp:paragraph -->

@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Com a presença da deputada Dani Balbi (PCdoB), </em></strong><em><strong>o evento “Elas Transbordam: Literatura e Mulheridades” reúne, no dia 29 de novembro, no Teatro do IFRJ em São Gonçalo, autoras e pesquisadoras para um diálogo potente sobre o protagonismo feminino na literatura e a escrita como ato de resistência.</strong></em></p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "sul-fluminense", "educacao", "obmep", "medalha", "sul-fluminense-costa-verde", "colegio"]
 heroImage: "/hero/smoke-smoke-202605130605-estudante-de-itatiaia-conquista-medalhas-nacional-e-estadual-na-obmep-2025.jpg"
+categoria_macro: geral
 ---
 ITATIAIA
 

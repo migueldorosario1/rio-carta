@@ -7,8 +7,8 @@ slug: "alerj-concede-o-premio-dandara-para-a-cantora-preta-gil"
 wp_id: 1072
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa partiu da deputada estadual Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

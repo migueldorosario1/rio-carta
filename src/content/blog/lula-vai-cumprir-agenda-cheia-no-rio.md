@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na terça-feira (2), o presidente Luiz Inácio Lula da Silva visitará o Rio de Janeiro, com uma série de compromissos que destacam sua relação com o estado e seus esforços políticos locais. </p>
 <!-- /wp:paragraph -->

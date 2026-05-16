@@ -8,8 +8,8 @@ wp_id: 2568
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>No cenário político atual, surge a possibilidade de Flávio Bolsonaro ser reconsiderado como candidato à Prefeitura do Rio de Janeiro nas próximas eleições. No início de 2023, Flávio expressou interesse na candidatura, mas foi vetado por seu pai, o ex-presidente Jair Bolsonaro, devido a preocupações com a possibilidade de derrota no berço político da família.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 6677
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Secretaria das Culturas de Niterói, comandada por Leonardo Giordano, estabeleceu parceria com o Coletivo RJ Memória, Verdade, Justiça e Reparação e com a mandata da deputada estadual Dani Balbi (PCdoB), responsável pela emenda que viabilizou a produção da exposição</strong></em></p>
 <!-- /wp:paragraph -->

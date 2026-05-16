@@ -7,8 +7,8 @@ slug: "investimentos-chineses-no-brasil-crescem-33-em-2023-totalizando-us-173-bi
 tags:
   - 'geopolitica'
 wp_id: 5070
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os investimentos da China no Brasil aumentaram 33% em 2023, atingindo US$ 1,73 bilhão, conforme estudo divulgado pelo Conselho Empresarial Brasil-China (CEBC).</p>
 <!-- /wp:paragraph -->

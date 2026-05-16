@@ -7,8 +7,8 @@ slug: "urgente-incendio-de-grandes-proporcoes-atinge-mata-em-caxias-veja"
 wp_id: 951
 tags:
   - 'duque-de-caxias'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um incêndio de grandes proporções está causando preocupação neste momento, pois atinge uma área de mata às margens da BR-040, na região de Campos Elíseos, em Duque de Caxias, na Baixada Fluminense. O fogo se aproxima perigosamente da REDUC, uma das maiores refinarias de petróleo do país, aumentando a tensão entre os moradores e as autoridades.</p>
 <!-- /wp:paragraph -->

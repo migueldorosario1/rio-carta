@@ -8,8 +8,8 @@ wp_id: 5618
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A vereadora Tainá de Paula, do Partido dos Trabalhadores (PT), foi reeleita para a Câmara Municipal do Rio de Janeiro, alcançando 49.986 votos. Com esse resultado, ela se consolida como a mulher mais votada do estado nas eleições deste domingo, 6.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "tensoes-internas-no-uniao-brasil-sobre-apoio-a-lula-em-2026"
 wp_id: 6413
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O partido União Brasil enfrenta um dilema interno significativo em relação ao apoio nas eleições presidenciais de 2026. </p>
 <!-- /wp:paragraph -->

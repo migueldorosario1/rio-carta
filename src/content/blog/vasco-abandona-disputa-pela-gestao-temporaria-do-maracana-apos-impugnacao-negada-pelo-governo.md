@@ -7,8 +7,8 @@ slug: "vasco-abandona-disputa-pela-gestao-temporaria-do-maracana-apos-impugnacao
 wp_id: 1869
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O Clube de Regatas Vasco da Gama anunciou, nesta quinta-feira (9), sua retirada da concorrência pela gestão temporária do Maracanã. A decisão ocorre após o Governo do Rio de Janeiro negar o pedido de impugnação do edital do chamamento público feito pelo Vasco.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "projeto-propoe-que-entregadores-nao-tenham-vinculo-empregaticio-com-apps"
 tags:
   - 'nacional'
 wp_id: 2988
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O senador Wilder Morais (PL-GO) apresentou projeto de lei que define condições em que não se configuraria relação de emprego entre prestadores de serviços e plataformas tecnológicas de intermediação com usuários. Para ele, a proposta daria fim à insegurança jurídica quanto ao trabalho relacionado a aplicativos de celular, por meio de plataformas de entrega e de transporte.</p>
 <!-- /wp:paragraph -->

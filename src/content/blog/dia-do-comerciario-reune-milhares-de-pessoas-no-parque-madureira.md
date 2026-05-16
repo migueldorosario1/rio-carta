@@ -7,8 +7,8 @@ slug: "dia-do-comerciario-reune-milhares-de-pessoas-no-parque-madureira"
 tags:
   - 'madureira'
 wp_id: 1618
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento foi organizado pelo Sindicato dos Comerciários</strong></em></p>
 <!-- /wp:paragraph -->

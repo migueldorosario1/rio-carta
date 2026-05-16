@@ -7,8 +7,8 @@ slug: "prefeitura-recua-e-retira-projeto-da-forca-armada-no-rio"
 wp_id: 6679
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Prefeitura do Rio decide retirar projeto de força armada, mas Câmara mantém proposta que prevê guardas municipais com armas de fogo</h3>
 <!-- /wp:heading -->

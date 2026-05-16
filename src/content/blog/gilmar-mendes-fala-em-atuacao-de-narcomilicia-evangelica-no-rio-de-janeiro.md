@@ -7,8 +7,8 @@ slug: "gilmar-mendes-fala-em-atuacao-de-narcomilicia-evangelica-no-rio-de-janeir
 wp_id: 3720
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante uma reunião presidida pelo ministro Luís Roberto Barroso, Gilmar Mendes, ministro do Supremo Tribunal Federal (STF), levantou a discussão sobre um grupo pouco conhecido, descrito como "narcomilícia evangélica", atuando no Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

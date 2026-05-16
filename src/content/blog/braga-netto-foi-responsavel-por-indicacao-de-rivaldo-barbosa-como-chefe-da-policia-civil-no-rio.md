@@ -7,8 +7,8 @@ slug: "braga-netto-foi-responsavel-por-indicacao-de-rivaldo-barbosa-como-chefe-d
 wp_id: 3942
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Barbosa acolheu família da vereadora no dia seguinte ao assassinato e garantiu que o crime seria solucionado</strong></em></p>
 <!-- /wp:paragraph -->

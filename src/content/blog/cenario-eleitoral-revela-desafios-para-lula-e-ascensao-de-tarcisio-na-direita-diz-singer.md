@@ -7,8 +7,8 @@ slug: "cenario-eleitoral-revela-desafios-para-lula-e-ascensao-de-tarcisio-na-dir
 wp_id: 5952
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em recente entrevista ao jornal Estado de S. Paulo, o cientista político André Singer, professor do Departamento de Ciência Política da Universidade de São Paulo (USP), analisou as implicações das eleições municipais de 2024 para o panorama político brasileiro. </p>
 <!-- /wp:paragraph -->

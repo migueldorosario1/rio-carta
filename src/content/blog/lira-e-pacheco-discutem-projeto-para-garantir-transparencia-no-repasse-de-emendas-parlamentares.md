@@ -7,8 +7,8 @@ slug: "lira-e-pacheco-discutem-projeto-para-garantir-transparencia-no-repasse-de
 wp_id: 5832
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Os presidentes da Câmara dos Deputados, Arthur Lira (PP-AL), e do Senado, Rodrigo Pacheco (PSD-MG), se reunirão nesta terça-feira (22) com o senador Ângelo Coronel (PSD-BA), relator do Orçamento, para discutir alternativas que visam aumentar a transparência e a rastreabilidade no repasse das emendas parlamentares. </p>
 <!-- /wp:paragraph -->

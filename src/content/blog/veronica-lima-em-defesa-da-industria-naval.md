@@ -7,8 +7,8 @@ slug: "veronica-lima-em-defesa-da-industria-naval"
 tags:
   - 'nacional'
 wp_id: 3787
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Por Verônica Lima</strong></p>
 <!-- /wp:paragraph -->

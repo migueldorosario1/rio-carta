@@ -7,8 +7,8 @@ slug: "governo-netanyahu-faz-de-lula-persona-non-grata-apos-criticas-veladas-ao-
 tags:
   - 'geopolitica'
 wp_id: 3306
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro das Relações Exteriores de Israel, Israel Katz, declarou o presidente brasileiro, Lula (PT), persona non grata em resposta às declarações recentes do mandatário sobre o conflito na Faixa de Gaza. Katz afirmou: "Não esqueceremos nem perdoaremos". </p>
 <!-- /wp:paragraph -->

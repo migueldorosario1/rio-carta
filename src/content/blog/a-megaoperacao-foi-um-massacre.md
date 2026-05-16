@@ -7,8 +7,8 @@ slug: "a-megaoperacao-foi-um-massacre"
 wp_id: 7299
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="h-em-janeiro-de-2026-completarei-35-anos-da-minha-chegada-ao-rio-de-janeiro-uma-forasteira-paulista-do-interior-de-sao-paulo-de-florida-paulista-que-morou-e-estudou-em-campinas-por-cinco-anos-antes-de-chegar-ao-rio">Em janeiro de 2026 completarei 35 anos da minha chegada ao Rio de Janeiro. Uma forasteira, paulista do interior de São Paulo, de Florida Paulista, que morou e estudou em Campinas por cinco anos antes de chegar ao Rio</h3>
 <!-- /wp:heading -->

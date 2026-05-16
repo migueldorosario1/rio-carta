@@ -7,8 +7,8 @@ slug: "maconha-alemanha-autoriza-cultivo-domestico-e-criacao-de-clubes-recreativ
 tags:
   - 'geopolitica'
 wp_id: 4015
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Alemanha inicia uma nova fase na regulamentação do uso de maconha nesta segunda-feira, 1º de abril, com a implementação de leis que despenalizam parcialmente seu consumo por adultos. </p>
 <!-- /wp:paragraph -->

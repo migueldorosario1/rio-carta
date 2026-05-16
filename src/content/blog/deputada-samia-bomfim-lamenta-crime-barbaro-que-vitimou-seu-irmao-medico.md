@@ -7,8 +7,8 @@ slug: "deputada-samia-bomfim-lamenta-crime-barbaro-que-vitimou-seu-irmao-medico"
 tags:
   - 'nacional'
 wp_id: 1511
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A deputada federal Sâmia Bomfim (PSOL-SP) classificou como um “crime bárbaro” o assassinato de seu irmão, Diego Ralf Bomfim, e mais dois médicos na Barra da Tijuca, no Rio. Pelas redes sociais, o parlamentar agradeceu as mensagens de solidariedade e pediu celeridade nas investigações.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "__trashed"
 wp_id: 942
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma cena inusitada ocorreu na noite de quarta-feira (26) na Avenida Brasil, no Rio de Janeiro. Enquanto o ônibus da linha 397 (Campo Grande-Candelária), da Viação Campo Grande, estava lotado de passageiros, o motorista surpreendeu a todos ao abandonar o volante e pegar carona em outro coletivo que vinha atrás.</p>
 <!-- /wp:paragraph -->

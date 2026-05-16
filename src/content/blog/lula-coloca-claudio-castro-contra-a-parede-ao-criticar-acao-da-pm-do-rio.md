@@ -7,8 +7,8 @@ slug: "lula-coloca-claudio-castro-contra-a-parede-ao-criticar-acao-da-pm-do-rio"
 wp_id: 1079
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Em ato público na manhã desta quinta-feira (10/08) na zona oeste do Rio, Lula criticou o despreparo da política de segurança pública do estado</em></strong></p>
 <!-- /wp:paragraph -->

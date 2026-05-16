@@ -7,8 +7,8 @@ slug: "no-rio-curso-de-producao-cultural-abre-inscricoes-para-pessoas-nao-branca
 wp_id: 562
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Foto: Marcello Casal Jr / Agência Brasil</em></p>
 <!-- /wp:paragraph -->

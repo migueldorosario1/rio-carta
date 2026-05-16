@@ -7,8 +7,8 @@ slug: "governo-federal-reserva-r2-bilhoes-para-novos-concursos-publicos-em-2025"
 tags:
   - 'nacional'
 wp_id: 4987
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal alocou R$2 bilhões no Orçamento de 2025 para a realização de novos concursos públicos, conforme divulgado pelo Globo. </p>
 <!-- /wp:paragraph -->

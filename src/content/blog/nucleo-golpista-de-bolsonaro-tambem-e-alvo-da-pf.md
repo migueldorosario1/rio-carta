@@ -7,8 +7,8 @@ slug: "nucleo-golpista-de-bolsonaro-tambem-e-alvo-da-pf"
 wp_id: 3072
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na quinta-feira, 8 de fevereiro, a Polícia Federal efetuou a prisão de Marcelo Câmara, ex-assessor do presidente Jair Bolsonaro (PL), como parte da Operação Tempus Veritatis. </p>
 <!-- /wp:paragraph -->

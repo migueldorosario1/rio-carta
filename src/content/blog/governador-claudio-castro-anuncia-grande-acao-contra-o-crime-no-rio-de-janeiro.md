@@ -8,8 +8,8 @@ wp_id: 1456
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governador do Rio de Janeiro, Cláudio Castro, anunciou na última sexta-feira a preparação de uma "grande ação" destinada a combater o crime em diferentes pontos da cidade, com foco especial no Complexo da Maré, localizado na Zona Norte do Rio. O anúncio ocorreu após a divulgação de informações sobre um centro de treinamento de criminosos na Maré e um ataque com bomba a um ônibus na Avenida Brasil, ambos ocorridos na mesma semana.</p>
 <!-- /wp:paragraph -->

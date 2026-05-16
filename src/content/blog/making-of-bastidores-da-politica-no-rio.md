@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Por Carlos Marques</em></p>
 <!-- /wp:paragraph -->

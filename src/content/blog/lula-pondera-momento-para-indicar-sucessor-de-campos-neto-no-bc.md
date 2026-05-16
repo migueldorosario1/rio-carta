@@ -7,8 +7,8 @@ slug: "lula-pondera-momento-para-indicar-sucessor-de-campos-neto-no-bc"
 wp_id: 4287
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva discutiu nesta terça-feira sobre o timing para a indicação do sucessor de Roberto Campos Neto na presidência do Banco Central, destacando a possibilidade de antecipação ou de decisão próxima ao término de seu mandato em 31 de dezembro.</p>
 <!-- /wp:paragraph -->

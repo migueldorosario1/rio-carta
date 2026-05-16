@@ -8,8 +8,8 @@ wp_id: 6688
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento do Conselho Estadual dos Direitos da Mulher acontece na manhã desta quinta feira, 27, e conta com a presença de grandes mulheres como a deputada estadual Lilian Behring (PCdoB), a ativista Nair Jane, Helena Piragibe, primeira presidenta do CEDIM eleita pela sociedade civil, e Heloisa Aguiar, Secretária de Estado da Mulher</strong></em></p>
 <!-- /wp:paragraph -->

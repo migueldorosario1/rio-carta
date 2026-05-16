@@ -8,8 +8,8 @@ wp_id: 154
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Da redação</em></p>
 <!-- /wp:paragraph -->

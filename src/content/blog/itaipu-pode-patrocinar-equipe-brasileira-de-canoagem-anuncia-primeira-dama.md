@@ -7,8 +7,8 @@ slug: "itaipu-pode-patrocinar-equipe-brasileira-de-canoagem-anuncia-primeira-dam
 tags:
   - 'nacional'
 wp_id: 4946
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A primeira-dama Rosângela da Silva, conhecida como Janja, anunciou nesta segunda-feira (26) no Palácio do Planalto, que a Itaipu Binacional está considerando o patrocínio à equipe brasileira de canoagem.</p>
 <!-- /wp:paragraph -->

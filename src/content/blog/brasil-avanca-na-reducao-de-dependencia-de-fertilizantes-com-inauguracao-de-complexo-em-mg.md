@@ -7,8 +7,8 @@ slug: "brasil-avanca-na-reducao-de-dependencia-de-fertilizantes-com-inauguracao-
 tags:
   - 'nacional'
 wp_id: 3773
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em um movimento estratégico para fortalecer sua posição como um importante produtor de alimentos e energia renovável globalmente, o Brasil dá um passo significativo com a inauguração do Complexo Mineroindustrial da EuroChem, em Serra do Salitre, no Triângulo Mineiro, na quarta-feira, 13. </p>
 <!-- /wp:paragraph -->

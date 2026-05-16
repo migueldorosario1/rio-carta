@@ -7,8 +7,8 @@ slug: "senado-aprova-taxacao-de-20-sobre-compras-internacionais-de-ate-us-50"
 wp_id: 4595
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Senado Federal aprovou nesta quarta-feira (5) a taxação de 20% sobre compras internacionais de até US$ 50. A medida foi inserida como parte do Programa Mobilidade Verde e Inovação (Mover), que busca reduzir as emissões de carbono na indústria automobilística até 2030.</p>
 <!-- /wp:paragraph -->

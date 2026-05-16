@@ -7,8 +7,8 @@ slug: "marcos-dias-podemos-assume-secretaria-de-integracao-metropolitana-do-rio"
 wp_id: 1452
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Além do Podemos, fazem parte do secretariado de Paes partidos como PSD, Avante, Republicanos, PT, PSB e PDT.</em></strong></p>
 <!-- /wp:paragraph -->

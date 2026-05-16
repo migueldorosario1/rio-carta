@@ -7,8 +7,8 @@ slug: "toffoli-pode-restabelecer-afastamento-de-juizes-da-lava-jato"
 tags:
   - 'nacional'
 wp_id: 4247
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), está avaliando a possibilidade de restabelecer o afastamento dos juízes federais Gabriela Hardt e Danilo Pereira Júnior da 13ª Vara Federal de Curitiba, encarregada dos processos da Operação Lava Jato. </p>
 <!-- /wp:paragraph -->

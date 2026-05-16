@@ -7,8 +7,8 @@ slug: "caso-taylor-swift-projeto-de-lei-ana-benevides-e-protocolado-na-alerj"
 wp_id: 1987
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa é da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 2272
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma operação conjunta entre a Polícia Civil do Rio de Janeiro e a Polícia Rodoviária Federal resultou na prisão de uma mãe e seus dois filhos na Ponte Rio-Niterói. Eles são acusados do assassinato cruel de Celso Ferreira da Silva, um vendedor de água, ocorrido em 28 de dezembro, na Pavuna, Zona Norte do Rio.</p>
 <!-- /wp:paragraph -->

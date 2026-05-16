@@ -8,8 +8,8 @@ wp_id: 6402
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Giordano foi eleito vereador pelo PCdoB em 2024.</strong></em></p>
 <!-- /wp:paragraph -->

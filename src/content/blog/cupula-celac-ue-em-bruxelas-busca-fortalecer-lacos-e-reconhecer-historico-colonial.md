@@ -7,8 +7,8 @@ slug: "cupula-celac-ue-em-bruxelas-busca-fortalecer-lacos-e-reconhecer-historico
 tags:
   - 'geopolitica'
 wp_id: 5369
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A terceira cúpula entre a Comunidade de Estados Latino-Americanos e Caribenhos (CELAC) e a União Europeia (UE) será realizada em Bruxelas nos dias 17 e 18 de julho, reunindo 60 líderes dos dois blocos.</p>
 <!-- /wp:paragraph -->

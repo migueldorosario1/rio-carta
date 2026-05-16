@@ -8,8 +8,8 @@ wp_id: 6958
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O evento acontecerá no Armazém da Utopia neste sábado (28/06)</em></strong>.&nbsp;<strong><em>A entrada é gratuita.</em></strong></p>
 <!-- /wp:paragraph -->

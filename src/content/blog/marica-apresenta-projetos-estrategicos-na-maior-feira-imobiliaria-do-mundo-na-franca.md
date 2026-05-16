@@ -7,8 +7,8 @@ slug: "marica-apresenta-projetos-estrategicos-na-maior-feira-imobiliaria-do-mund
 wp_id: 7731
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading"><em>Município participa do MIPIM, em Cannes, com iniciativas que unem turismo, logística e economia criativa para atrair investimentos internacionais</em></h5>
 <!-- /wp:heading -->

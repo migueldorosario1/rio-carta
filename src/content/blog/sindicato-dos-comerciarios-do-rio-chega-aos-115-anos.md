@@ -8,8 +8,8 @@ wp_id: 944
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Após enfrentar gestão antidemocrática iniciada na ditadura e que durou 50 anos e levou a desvios milionários, entidade se reinventa para defender interesses da categoria</em></strong></p>
 <!-- /wp:paragraph -->

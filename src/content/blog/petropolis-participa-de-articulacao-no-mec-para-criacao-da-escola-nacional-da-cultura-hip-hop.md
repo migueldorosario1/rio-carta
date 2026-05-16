@@ -7,8 +7,8 @@ slug: "petropolis-participa-de-articulacao-no-mec-para-criacao-da-escola-naciona
 wp_id: 7618
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Com participação da vereadora Professora Lívia (PCdoB), Petrópolis integrou a articulação nacional promovida pelo Ministério da Educação para a criação da Escola Nacional da Cultura Hip Hop, iniciativa voltada ao fortalecimento de uma educação antirracista e conectada às culturas urbanas.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 173
 tags:
   - 'arraial-do-cabo'
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Por Ruann Lima</em></p>
 <!-- /wp:paragraph -->

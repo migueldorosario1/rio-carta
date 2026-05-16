@@ -7,8 +7,8 @@ slug: "marqueteiro-de-nunes-pede-nova-medida-protetiva-apos-ser-agredido-por-soc
 wp_id: 5495
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Duda Lima, marqueteiro da campanha de Ricardo Nunes (MDB), solicitou uma nova medida protetiva contra Nahuel Medina, assessor do influenciador e candidato Pablo Marçal (PRTB), após uma negativa inicial da Justiça de São Paulo. </p>
 <!-- /wp:paragraph -->

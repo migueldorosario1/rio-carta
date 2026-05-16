@@ -7,8 +7,8 @@ slug: "lula-cobra-retorno-ao-trabalho-em-janeiro-e-define-prioridades-para-2024"
 wp_id: 6285
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva reuniu, nesta sexta-feira (20), os ministros de seu governo em um almoço no Palácio da Alvorada, com uma mensagem objetiva: o descanso será breve, e todos devem retornar a Brasília até 8 de janeiro. O encontro marcou o encerramento do ano para o primeiro escalão do governo e estabeleceu diretrizes para o início de 2025.</p>
 <!-- /wp:paragraph -->

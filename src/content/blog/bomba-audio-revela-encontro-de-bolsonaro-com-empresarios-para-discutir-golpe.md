@@ -7,8 +7,8 @@ slug: "bomba-audio-revela-encontro-de-bolsonaro-com-empresarios-para-discutir-go
 wp_id: 3235
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Um áudio interceptado pela Polícia Federal (PF) no dispositivo móvel do tenente-coronel Mauro Cid, anteriormente ajudante de ordens do ex-presidente Jair Bolsonaro, expõe um encontro entre Bolsonaro e um grupo de empresários em novembro de 2022. </p>
 <!-- /wp:paragraph -->

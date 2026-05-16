@@ -7,8 +7,8 @@ slug: "brasil-pode-receber-quantia-anual-bilionaria-com-novo-fundo-para-preserva
 tags:
   - 'nacional'
 wp_id: 4859
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A ministra do Meio Ambiente e Mudança do Clima, Marina Silva, anunciou a criação de um fundo destinado a remunerar países que preservam suas florestas tropicais, denominado "Florestas Tropicais Para Sempre" (TFFF). </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "marica-instala-botao-do-panico-nos-onibus-municipais"
 tags:
   - 'regiao-metropolitana'
 wp_id: 7678
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Dispositivo com geolocalização aciona forças de segurança em tempo real e promete resposta rápida a casos de violência, assaltos e importunação no transporte municipal</h4>
 <!-- /wp:heading -->

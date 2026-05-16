@@ -7,8 +7,8 @@ slug: "lula-planeja-reformulacao-no-governo-e-promete-adotar-medidas-de-ajuste-f
 wp_id: 6273
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva anunciou, em um encontro com ministros na última sexta-feira, a intenção de promover mudanças no primeiro escalão do governo. </p>
 <!-- /wp:paragraph -->

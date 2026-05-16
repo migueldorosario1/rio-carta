@@ -7,8 +7,8 @@ slug: "mocidade-independente-apresenta-inovacao-com-cajueiros-cnoes-no-carnaval"
 tags:
   - 'cultura-carnaval'
 wp_id: 2525
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p>A Mocidade Independente de Padre Miguel vai trazer uma novidade verdejante para a Sapucaí este carnaval, incorporando mais de 500 mudas de caju em um de seus carros alegóricos. A iniciativa, em parceria com a Embrapa, que é referência mundial em pesquisa sobre o caju, visa celebrar e divulgar a importância do cajueiro-anão, uma tecnologia agrícola inovadora.</p>
 <!-- /wp:paragraph -->

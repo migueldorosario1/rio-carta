@@ -7,8 +7,8 @@ slug: "arthur-lira-busca-unificar-candidatura-para-comando-da-camara-em-2025-mas
 wp_id: 5198
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente da Câmara dos Deputados, Arthur Lira (PP-AL), intensificou esforços para consolidar uma candidatura única à liderança da Casa em 2025, buscando evitar uma eleição fragmentada. </p>
 <!-- /wp:paragraph -->

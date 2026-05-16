@@ -7,8 +7,8 @@ slug: "horario-de-verao-pode-gerar-economia-de-ate-r-400-milhoes-aponta-ons"
 tags:
   - 'nacional'
 wp_id: 5444
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nota técnica divulgada pelo Operador Nacional do Sistema Elétrico (ONS) indica que a adoção do horário de verão entre outubro e fevereiro poderia reduzir a demanda máxima de energia elétrica em até 2,9%, resultando em economias significativas para o Sistema Interligado Nacional (SIN). A estimativa aponta para uma economia de cerca de R$ 400 milhões no período analisado.</p>
 <!-- /wp:paragraph -->

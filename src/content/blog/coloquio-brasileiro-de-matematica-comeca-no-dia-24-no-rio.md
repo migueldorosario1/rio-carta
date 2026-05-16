@@ -7,8 +7,8 @@ slug: "coloquio-brasileiro-de-matematica-comeca-no-dia-24-no-rio"
 tags:
   - 'rio-de-janeiro'
 wp_id: 866
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Com participação de referências na área, Colóquio Brasil Matemático é organizado e realizado pelo Instituto de Matemática Pura e Aplicada (Impa)</em></p>
 <!-- /wp:paragraph -->

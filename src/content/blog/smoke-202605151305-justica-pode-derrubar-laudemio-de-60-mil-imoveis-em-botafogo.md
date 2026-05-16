@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:07:32Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "laudemio", "justica", "rio-capital-zona-sul-grande-tijuca", "capital-porto", "regiao-metropolitana", "marica", "leme", "joa", "saude", "educacao"]
 heroImage: "/hero/smoke-smoke-202605151305-justica-pode-derrubar-laudemio-de-60-mil-imoveis-em-botafogo-qwen.jpg"
+categoria_macro: lazer
 ---
 O Tribunal de Justiça do Rio marcou para o dia 10 de junho o julgamento de uma ação que pode mudar a situação de milhares de proprietários de imóveis em Botafogo, na Zona Sul.
 

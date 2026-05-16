@@ -8,8 +8,8 @@ wp_id: 6323
 tags:
   - 'niteroi'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Juliana Leite Rangel, de 26 anos, que foi baleada na cabeça durante uma abordagem da Polícia Rodoviária Federal (PRF) na véspera de Natal, apresenta sinais de recuperação. </p>
 <!-- /wp:paragraph -->

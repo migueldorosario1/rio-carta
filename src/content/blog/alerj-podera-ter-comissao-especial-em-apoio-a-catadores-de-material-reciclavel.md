@@ -7,8 +7,8 @@ slug: "alerj-podera-ter-comissao-especial-em-apoio-a-catadores-de-material-recic
 wp_id: 1262
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da deputada estadual Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

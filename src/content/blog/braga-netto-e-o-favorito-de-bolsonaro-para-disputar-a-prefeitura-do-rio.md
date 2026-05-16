@@ -7,8 +7,8 @@ slug: "braga-netto-e-o-favorito-de-bolsonaro-para-disputar-a-prefeitura-do-rio"
 wp_id: 32
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Por Augusto Werneck</p>
 <!-- /wp:paragraph -->

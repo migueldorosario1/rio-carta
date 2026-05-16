@@ -7,8 +7,8 @@ slug: "fsb-frustra-ataque-terrorista-contra-oficial-da-crimeia"
 tags:
   - 'geopolitica'
 wp_id: 3000
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>TASS</strong> - O Serviço Federal de Segurança Russo (FSB) frustrou um ataque terrorista organizado pelo Serviço de Segurança da Ucrânia (SBU) contra um alto funcionário da Crimeia; três suspeitos foram detidos, disse o centro de relações públicas do FSB à TASS.</p>
 <!-- /wp:paragraph -->

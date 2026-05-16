@@ -7,8 +7,8 @@ slug: "fed-mantem-atuais-taxas-de-juros-e-sinaliza-cautela-com-inflacao"
 tags:
   - 'geopolitica'
 wp_id: 2812
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Federal Reserve (Fed), banco central dos Estados Unidos, optou por manter as taxas de juros do país inalteradas, em uma decisão unânime durante a reunião desta quarta-feira (31). </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 1466
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><span style="color: rgb(85, 85, 85); font-family: rawline, helvetica, arial, sans-serif; white-space-collapse: collapse;"><strong><em>Com capacidade de processar 5,1 quatrilhões de operações matemáticas por segundo, Santos Dumont receberá nova atualização em 2024</em></strong></span></p>
 <!-- /wp:paragraph -->

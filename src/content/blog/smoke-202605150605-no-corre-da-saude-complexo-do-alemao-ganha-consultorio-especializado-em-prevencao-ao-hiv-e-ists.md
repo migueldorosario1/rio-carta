@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:36Z"
 draft: true
 tags: ["rio-de-janeiro", "complexo-do-alemao", "zona-norte", "saude", "hiv", "prevencao", "rio-capital-zona-norte", "favelas-comunidades", "favela", "comunidade", "complexo", "alemao", "problemas-estruturais", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605150605-no-corre-da-saude-complexo-do-alemao-ganha-consultorio-especializado-em-prevencao-ao-hiv-e-ists.jpg"
+categoria_macro: lazer
 ---
 Na próxima quinta, 21 de maio, o Complexo do Alemão, Zona Norte do Rio, dá um passo decisivo na luta pela democratização do acesso à saúde. A inauguração oficial do consultório do projeto No Corre da Prevenção, na sede da ONG EDUCAP, marca a chegada de um serviço especializado que une tecnologia de ponta, acolhimento e informação sem tabus.
 

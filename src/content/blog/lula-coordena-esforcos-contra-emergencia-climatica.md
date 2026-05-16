@@ -7,8 +7,8 @@ slug: "lula-coordena-esforcos-contra-emergencia-climatica"
 tags:
   - 'nacional'
 wp_id: 5307
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva liderou, nesta segunda-feira, 16 de setembro, uma série de reuniões com ministros e outros representantes governamentais para discutir a resposta à emergência climática do Brasil, intensificada por atividades criminosas ambientais.</p>
 <!-- /wp:paragraph -->

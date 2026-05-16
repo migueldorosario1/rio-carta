@@ -8,8 +8,8 @@ wp_id: 7081
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Objetivo dos partidos de esquerda no estado é evitar que a direita conquiste novamente as duas vagas do Senado.</strong></em></p>
 <!-- /wp:paragraph -->

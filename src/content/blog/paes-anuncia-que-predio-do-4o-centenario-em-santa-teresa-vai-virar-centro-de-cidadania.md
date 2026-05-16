@@ -7,8 +7,8 @@ slug: "paes-anuncia-que-predio-do-4o-centenario-em-santa-teresa-vai-virar-centro
 wp_id: 5227
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>"Rafaela Albergaria me convenceu da importância dessa obra", disse o prefeito</em></strong>. <strong><em>Albergaria é a candidata do PCdoB a vereadora do Rio</em></strong></p>
 <!-- /wp:paragraph -->

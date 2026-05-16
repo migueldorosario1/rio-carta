@@ -5,6 +5,7 @@ pubDate: "2026-05-14T01:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "senador-rj", "investigacao", "serrana", "regiao-serrana", "petropolis", "seguranca-publica"]
 heroImage: "/hero/smoke-smoke-202605132205-pagamentos-de-vorcaro-ao-filme-de-bolsonaro-superam-orcamento-de-indicados-ao-oscar.jpg"
+categoria_macro: politica
 ---
 Pagamentos de Vorcaro ao filme de Bolsonaro superam orçamento de indicados ao Oscar
 

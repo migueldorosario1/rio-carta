@@ -7,8 +7,8 @@ slug: "meta-encerra-programa-de-checagem-de-fatos-nos-eua-e-gera-preocupacao-no-
 wp_id: 6393
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A empresa Meta, responsável por plataformas como Facebook, Instagram, Threads e WhatsApp, anunciou o fim de seu programa de checagem de fatos nos Estados Unidos, decisão divulgada pelo CEO Mark Zuckerberg na última terça-feira (7). Essa medida, que inicialmente se aplicará apenas nos EUA, tem gerado preocupações no Brasil, especialmente com a aproximação das eleições de 2026.</p>
 <!-- /wp:paragraph -->

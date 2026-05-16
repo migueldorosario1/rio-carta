@@ -7,8 +7,8 @@ slug: "eduardo-paes-anuncia-possivel-corte-de-subsidios-para-onibus-sem-ar-condi
 wp_id: 1955
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta quinta-feira, em coletiva no Centro de Operações Rio, Eduardo Paes (PSD), prefeito da cidade, abordou questões relacionadas ao funcionamento inadequado dos aparelhos de ar-condicionado nos ônibus urbanos. Em resposta a essa problemática, Paes afirmou que as empresas que não mantiverem a refrigeração adequada em seus veículos podem ter seus subsídios cortados novamente.</p>
 <!-- /wp:paragraph -->

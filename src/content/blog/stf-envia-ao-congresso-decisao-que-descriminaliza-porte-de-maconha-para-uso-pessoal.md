@@ -7,8 +7,8 @@ slug: "stf-envia-ao-congresso-decisao-que-descriminaliza-porte-de-maconha-para-u
 wp_id: 4745
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) encaminhou ao Congresso Nacional, nesta segunda-feira (1°), a decisão que descriminaliza o porte de maconha para uso pessoal e estabelece a quantidade de 40 gramas como critério para diferenciar usuários de traficantes.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "presidente-do-psb-critica-falta-de-dialogo-de-lula-com-base-aliada"
 tags:
   - 'nacional'
 wp_id: 4348
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Carlos Siqueira, presidente do PSB, expressou descontentamento com a abordagem do presidente Luiz Inácio Lula da Silva (PT) e seu conselho político em relação às sugestões da base aliada. </p>
 <!-- /wp:paragraph -->

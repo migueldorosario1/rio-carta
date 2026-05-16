@@ -7,8 +7,8 @@ slug: "stf-forma-maioria-para-condenar-roberto-jefferson"
 wp_id: 6165
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) formou maioria nesta sexta-feira (13) para condenar o ex-deputado federal Roberto Jefferson pelos crimes de atentado ao exercício dos Poderes, calúnia, homofobia e incitação ao crime. </p>
 <!-- /wp:paragraph -->

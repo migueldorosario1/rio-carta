@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "volta-redonda", "porto-real", "resende", "valenca", "csn", "vagas", "emprego", "estagio", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605130605-csn-esta-com-vagas-abertas-para-profissionais-no-sul-fluminense.jpg"
+categoria_macro: geral
 ---
 SUL FLUMINENSE
 

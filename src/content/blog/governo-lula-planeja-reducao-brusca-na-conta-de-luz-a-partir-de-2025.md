@@ -7,8 +7,8 @@ slug: "governo-lula-planeja-reducao-brusca-na-conta-de-luz-a-partir-de-2025"
 tags:
   - 'nacional'
 wp_id: 4198
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo do presidente Lula está desenvolvendo estratégias para diminuir as tarifas de energia elétrica a partir de 2025, conforme reportado pela <strong><a href="https://www1.folha.uol.com.br/mercado/2024/04/governo-lula-procura-mais-r-35-bilhoes-para-baixar-conta-de-luz.shtml">Folha de S. Paulo</a></strong>. </p>
 <!-- /wp:paragraph -->

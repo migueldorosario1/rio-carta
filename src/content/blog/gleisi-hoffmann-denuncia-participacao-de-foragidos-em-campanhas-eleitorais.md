@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-denuncia-participacao-de-foragidos-em-campanhas-eleitorai
 wp_id: 5258
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do Partido dos Trabalhadores (PT), deputada Gleisi Hoffmann, usou suas redes sociais para denunciar a participação de foragidos dos atos de 8 de janeiro de 2023 em campanhas eleitorais.</p>
 <!-- /wp:paragraph -->

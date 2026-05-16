@@ -7,8 +7,8 @@ slug: "privatizacao-da-sabesp-e-concluida-com-prejuizo-bilionario-ao-estado-de-s
 tags:
   - 'nacional'
 wp_id: 4785
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A privatização da Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) foi finalizada nesta segunda-feira, 22, registrando uma perda estimada de pelo menos R$ 4,5 bilhões para os cofres públicos do estado. </p>
 <!-- /wp:paragraph -->

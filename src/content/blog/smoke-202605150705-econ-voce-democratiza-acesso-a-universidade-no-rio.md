@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "educacao", "periferia", "uerj", "enem", "capital", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605150705-econ-voce-democratiza-acesso-a-universidade-no-rio.webp"
+categoria_macro: geral
 ---
 O sonho da universidade pública ganha um aliado estratégico nos territórios vulneráveis do Rio de Janeiro. O projeto Econ+Você, braço de responsabilidade social da ECONRIO, consolidou-se em 2026 como uma ferramenta vital de justiça educacional, atingindo a marca histórica de 2.
 

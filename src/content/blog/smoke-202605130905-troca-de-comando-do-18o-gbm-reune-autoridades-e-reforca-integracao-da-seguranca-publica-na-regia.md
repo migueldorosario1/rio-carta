@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "bombeiros", "seguranca-publica", "regiao-metropolitana", "saude", "educacao", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130905-troca-de-comando-do-18o-gbm-reune-autoridades-e-reforca-integracao-da-seguranca-publica-na-regia.webp"
+categoria_macro: politica
 ---
 O 18º Grupamento de Bombeiros Militar (18º GBM) de Cabo Frio realizou, na manhã desta terça-feira (12), a solenidade de troca de comando da unidade. A equipe da RC acompanhou o evento, que marcou a posse do tenente-coronel Anderson Gomes no comando do grupamento, responsável pelo atendimento em Cabo Frio e em municípios da Região dos Lagos.
 

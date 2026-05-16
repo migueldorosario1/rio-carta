@@ -7,8 +7,8 @@ slug: "copom-corta-a-selic-e-mantem-postura-de-reducao-gradual-dos-juros"
 tags:
   - 'nacional'
 wp_id: 2816
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Comitê de Política Monetária (Copom) do Banco Central do Brasil anunciou, em sua reunião de quarta-feira (31), uma redução na taxa Selic de 11,75% para 11,25% ao ano. </p>
 <!-- /wp:paragraph -->

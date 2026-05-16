@@ -7,8 +7,8 @@ slug: "boulos-almoca-com-marta-e-da-inicio-a-pre-campanha-em-sp"
 wp_id: 2715
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Guilherme Boulos, deputado federal do Psol e candidato à Prefeitura de São Paulo, recebeu em seu apartamento, no último domingo (28), a ex-prefeita Marta Suplicy, que será vice em sua chapa para as eleições deste ano.</p>
 <!-- /wp:paragraph -->

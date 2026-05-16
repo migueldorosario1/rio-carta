@@ -7,8 +7,8 @@ slug: "industria-farmaceutica-brasileira-anuncia-investimento-biolionario-ate-20
 tags:
   - 'nacional'
 wp_id: 3835
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A indústria farmacêutica brasileira está projetando um significativo impulso em seus investimentos, estimando aportes da ordem de R$16 bilhões até o ano de 2026. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "rio-quer-ensinar-inclusao-antes-do-preconceito"
 wp_id: 6964
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="h-projeto-de-lei-propoe-a-criacao-da-disciplina-convivencia-inclusiva-para-criancas-da-educacao-infantil-e-ensino-fundamental-em-escolas-publicas-e-privadas-do-estado">Deputada Lilian Behring propõe nova matéria que reforça o papel da educação no combate à exclusão e na construção de uma cultura de acolhimento</h3>
 <!-- /wp:heading -->

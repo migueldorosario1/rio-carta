@@ -7,8 +7,8 @@ slug: "homem-tem-surto-psicotico-convulsoes-e-morre-em-pleno-voo-com-ministros-d
 tags:
   - 'nacional'
 wp_id: 3274
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um passageiro faleceu em circunstâncias dramáticas a bordo de um voo da Ethiopian Airlines, que decolou do Brasil em direção à Etiópia na madrugada de quinta-feira, 15. </p>
 <!-- /wp:paragraph -->

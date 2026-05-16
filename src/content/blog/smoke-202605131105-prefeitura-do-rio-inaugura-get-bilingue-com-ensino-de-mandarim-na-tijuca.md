@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "tijuca", "zona-norte", "educacao", "prefeitura-do-rio", "get", "ensino-bilingue", "mandarim", "rio-capital-zona-norte", "capital", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131105-prefeitura-do-rio-inaugura-get-bilingue-com-ensino-de-mandarim-na-tijuca.jpeg"
+categoria_macro: politica
 ---
 A Prefeitura do Rio inaugurou, nesta quarta-feira (13/05), o Ginásio Educacional Tecnológico CIEP Samuel Wainer, na Tijuca, Zona Norte. A unidade é o GET de número 307 da rede municipal e terá ensino bilíngue em português e mandarim para mais de 270 alunos do Ensino Fundamental.
 

@@ -7,8 +7,8 @@ slug: "dino-confirma-monitoramento-ilegal-pela-abin-durante-governo-bolsonaro"
 tags:
   - 'nacional'
 wp_id: 2739
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Justiça e Segurança Pública, Flávio Dino, declarou nesta terça-feira, 30, que existem "provas inequívocas" de que a Agência Brasileira de Inteligência (Abin) conduziu monitoramento ilegal de indivíduos durante o governo Bolsonaro. </p>
 <!-- /wp:paragraph -->

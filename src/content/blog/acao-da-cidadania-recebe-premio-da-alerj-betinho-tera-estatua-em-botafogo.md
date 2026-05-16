@@ -7,8 +7,8 @@ slug: "acao-da-cidadania-recebe-premio-da-alerj-betinho-tera-estatua-em-botafogo
 wp_id: 2089
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Movimento criado por Betinho completou 30 anos</strong></em>; <em><strong>Betinho ganhará estátua na Praia de Botafogo</strong></em></p>
 <!-- /wp:paragraph -->

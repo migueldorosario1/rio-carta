@@ -7,8 +7,8 @@ slug: "escolas-podem-ser-obrigadas-a-conscientizar-alunos-sobre-importancia-da-d
 wp_id: 385
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><a href="https://www.alerj.rj.gov.br/Visualizar/Noticia/55999">Com informações da ALERJ</a></em></p>
 <!-- /wp:paragraph -->

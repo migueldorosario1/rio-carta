@@ -7,8 +7,8 @@ slug: "moradores-do-complexo-da-mare-amanhecem-com-tiroteio-brutal"
 wp_id: 2686
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Moradores do Complexo da Maré, localizado na Zona Norte do Rio de Janeiro, relataram um intenso tiroteio na região durante a manhã desta terça-feira. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "rejeicao-a-marcal-dispara-em-sp-diz-datafolha"
 wp_id: 5322
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Pesquisa Datafolha divulgada nesta quinta-feira, 19, revela que a rejeição ao candidato Pablo Marçal (PRTB) aumentou 17 pontos percentuais nas últimas seis semanas. </p>
 <!-- /wp:paragraph -->

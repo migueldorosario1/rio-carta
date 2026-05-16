@@ -8,8 +8,8 @@ wp_id: 6972
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Projeto da Alerj reconhece manicures e cabeleireiras como agentes de escuta e cria guia digital para combater a violência doméstica com acolhimento</h3>
 <!-- /wp:heading -->

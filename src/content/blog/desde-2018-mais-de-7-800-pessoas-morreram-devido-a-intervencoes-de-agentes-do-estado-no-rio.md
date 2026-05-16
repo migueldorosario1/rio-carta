@@ -7,8 +7,8 @@ slug: "desde-2018-mais-de-7-800-pessoas-morreram-devido-a-intervencoes-de-agente
 tags:
   - 'seguranca-publica'
 wp_id: 1019
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>De acordo com O Globo, até junho deste ano, números do Instituto de Segurança Pública mostraram que foram, em média, quase quatro vítimas por dia</em></strong></p>
 <!-- /wp:paragraph -->

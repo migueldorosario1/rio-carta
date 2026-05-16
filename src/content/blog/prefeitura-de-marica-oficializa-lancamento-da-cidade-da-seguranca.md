@@ -7,8 +7,8 @@ slug: "prefeitura-de-marica-oficializa-lancamento-da-cidade-da-seguranca"
 wp_id: 7500
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Compra de terreno marca início do projeto que vai reunir no mesmo espaço Guarda Municipal, Centro Integrado de Comando e Controle com câmeras inteligentes e área de treinamentos para forças de segurança</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "pastor-anderson-silva-recebe-ligacao-da-pf-apos-oracao-contra-lula"
 tags:
   - 'nacional'
 wp_id: 2578
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O pastor Anderson Silva, líder da igreja Vivo por Ti, revelou ter recebido duas ligações da Polícia Federal referentes a um episódio ocorrido durante sua participação em um podcast com o deputado federal Nikolas Ferreira (PL-MG). Em maio, o pastor fez uma oração polêmica, pedindo: "senhor, arrebenta a mandíbula de Lula". O caso ganhou grande repercussão e levou o ministro da Justiça, Flávio Dino, a encaminhar a gravação para investigação pela Polícia Federal.</p>
 <!-- /wp:paragraph -->

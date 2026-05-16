@@ -7,8 +7,8 @@ slug: "brasil-dispara-em-ranking-global-de-liberdade-de-expressao-apos-lula-assu
 wp_id: 4486
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Brasil registrou um notável avanço no cenário internacional da liberdade de expressão, conforme indicado pelo Global Expression Report 2024, divulgado pela organização Artigo 19, com sede em Londres. O relatório avaliou a situação de 161 países em 2023, classificando-os em categorias que variam de "aberto" a "em crise".</p>
 <!-- /wp:paragraph -->

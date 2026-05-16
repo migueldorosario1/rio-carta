@@ -7,8 +7,8 @@ slug: "beneficiarios-do-bolsa-familia-gastaram-r-3-bilhoes-em-apostas-online"
 tags:
   - 'nacional'
 wp_id: 5468
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nota técnica do Banco Central (BC) divulgada recentemente aponta que beneficiários do programa Bolsa Família gastaram cerca de R$ 3 bilhões em apostas eletrônicas via Pix em agosto deste ano. </p>
 <!-- /wp:paragraph -->

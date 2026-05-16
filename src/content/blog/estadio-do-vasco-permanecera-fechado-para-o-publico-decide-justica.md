@@ -8,8 +8,8 @@ wp_id: 1241
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Decisão é da Segunda Câmara de Direito Privado do TJRJ</em></strong></p>
 <!-- /wp:paragraph -->

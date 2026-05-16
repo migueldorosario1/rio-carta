@@ -8,8 +8,8 @@ wp_id: 2200
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Advogada da Comissão de Direitos Humanos e Assistência Judiciária da OAB-RJ, Diana Conrado</strong></em> <strong><em>defende a implementação da tarifa Zero nos transportes públicos do Rio de Janeiro</em></strong></p>
 <!-- /wp:paragraph -->

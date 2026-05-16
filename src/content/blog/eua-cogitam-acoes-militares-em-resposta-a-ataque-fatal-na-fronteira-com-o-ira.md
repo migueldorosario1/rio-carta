@@ -7,8 +7,8 @@ slug: "eua-cogitam-acoes-militares-em-resposta-a-ataque-fatal-na-fronteira-com-o
 tags:
   - 'geopolitica'
 wp_id: 2636
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Após a fatalidade de três soldados norte-americanos em um ataque ocorrido próximo à fronteira entre a Jordânia e a Síria, os Estados Unidos estão analisando a possibilidade de empreender uma operação sigilosa.</p>
 <!-- /wp:paragraph -->

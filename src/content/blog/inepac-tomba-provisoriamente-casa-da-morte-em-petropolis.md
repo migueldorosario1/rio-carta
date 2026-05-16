@@ -8,8 +8,8 @@ wp_id: 641
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Casa da Morte em Petrópolis-RJ, conhecida por ter sido um centro clandestino de torturas e assassinatos durante a década de 1970, na Ditadura Militar no Brasil, foi tombada provisoriamente pelo Instituto Estadual do Patrimônio Cultural (Inepac). O pedido foi feito pelo Ministério Público Federal (MPF), com o apoio do Grupo Pró-Memorial Casa da Morte, que pretende transformar o local em centro de memória, aberto ao público.</p>
 <!-- /wp:paragraph -->

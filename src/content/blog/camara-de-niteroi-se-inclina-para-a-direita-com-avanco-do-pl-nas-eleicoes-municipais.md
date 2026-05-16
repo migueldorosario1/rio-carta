@@ -8,8 +8,8 @@ wp_id: 5707
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>As eleições municipais em Niterói marcaram uma mudança significativa na composição da Câmara Municipal, que se inclinou mais à direita, refletindo o crescimento do Partido Liberal (PL). </p>
 <!-- /wp:paragraph -->

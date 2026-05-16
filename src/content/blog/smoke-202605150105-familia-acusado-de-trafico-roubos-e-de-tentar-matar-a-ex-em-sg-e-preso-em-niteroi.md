@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:05:42Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "centro", "regiao-metropolitana", "seguranca-publica", "niteroi-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605150105-familia-acusado-de-trafico-roubos-e-de-tentar-matar-a-ex-em-sg-e-preso-em-niteroi.jpg"
+categoria_macro: seguranca
 ---
 Um homem apontado pela polícia como de alta periculosidade e com extensa ficha criminal foi preso nesta quinta-feira (14) no Centro de Niterói. A captura aconteceu após uma operação de inteligência da Polícia Civil, que localizou o suspeito em uma rua movimentada da região.
 

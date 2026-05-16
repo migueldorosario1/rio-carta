@@ -7,8 +7,8 @@ slug: "bomba-revelado-diario-do-golpe-que-detalha-os-planos-de-heleno-e-bolsonar
 tags:
   - 'nacional'
 wp_id: 3618
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um documento apreendido pela Polícia Federal, conhecido como "diário do golpe" e atribuído ao ex-ministro do Gabinete de Segurança Institucional, Augusto Heleno, revela tentativas de interferir na Polícia Federal e no Judiciário.</p>
 <!-- /wp:paragraph -->

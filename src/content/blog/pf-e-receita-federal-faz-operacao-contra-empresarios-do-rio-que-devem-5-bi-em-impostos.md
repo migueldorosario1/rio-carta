@@ -8,8 +8,8 @@ wp_id: 1609
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) e a Receita Federal do Brasil (RFB) desencadearam uma operação para combater um grupo de empresários que acumula uma dívida tributária de mais de R$ 5 bilhões com a União. A ação, denominada Operação Sucata, ocorre nesta quarta-feira, com agentes cumprindo 10 mandados de busca e apreensão em endereços no Rio de Janeiro e em Duque de Caxias, na Região Metropolitana do estado.</p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "operacao-pf", "marcelo-queiroz", "fraude-licitacao", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "sao-goncalo", "itaborai", "marica", "seguranca-publica", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605130105-deputado-federal-marcelo-queiroz-e-alvo-de-acao-da-pf.jpg"
+categoria_macro: politica
 ---
 Deputado federal Marcelo Queiroz é alvo de ação da PF
 

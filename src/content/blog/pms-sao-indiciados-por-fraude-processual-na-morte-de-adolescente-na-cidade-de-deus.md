@@ -7,8 +7,8 @@ slug: "pms-sao-indiciados-por-fraude-processual-na-morte-de-adolescente-na-cidad
 wp_id: 1205
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Corregedoria da Polícia Militar do Rio de Janeiro concluiu suas investigações sobre a morte do adolescente Thiago Menezes Flausino, de 13 anos, durante uma operação policial na Cidade de Deus, zona oeste do Rio. O resultado é estarrecedor: quatro policiais militares envolvidos no incidente foram indiciados por fraude processual.</p>
 <!-- /wp:paragraph -->

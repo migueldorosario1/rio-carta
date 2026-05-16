@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:48Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "pessoa-com-deficiencia", "inclusao", "emprego", "sul-fluminense-costa-verde", "leme", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605151405-plataforma-digital-para-conectar-pcds-e-empresas-e-lancada-pela-prefeitura-de-volta-redonda.jpeg"
+categoria_macro: politica
 ---
 VOLTA REDONDA
 

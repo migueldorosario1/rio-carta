@@ -7,8 +7,8 @@ slug: "stf-e-todas-group-lancam-programa-de-desenvolvimento-de-liderancas-femini
 tags:
   - 'nacional'
 wp_id: 5267
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) anunciou uma parceria com a edtech Todas Group para oferecer acesso à plataforma educacional da empresa, visando o desenvolvimento de lideranças femininas. </p>
 <!-- /wp:paragraph -->

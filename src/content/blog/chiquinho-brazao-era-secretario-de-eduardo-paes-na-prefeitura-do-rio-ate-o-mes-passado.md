@@ -7,8 +7,8 @@ slug: "chiquinho-brazao-era-secretario-de-eduardo-paes-na-prefeitura-do-rio-ate-
 wp_id: 3946
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>"Me causa náuseas dizer isso", declarou a viúva de Marielle, vereadora Monica Benício (PSOL).</em></strong></p>
 <!-- /wp:paragraph -->

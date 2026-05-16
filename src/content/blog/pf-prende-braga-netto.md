@@ -8,8 +8,8 @@ wp_id: 6192
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã deste sábado, a Polícia Federal realizou a prisão de Walter Braga Netto, general da reserva e ex-ministro da Casa Civil no governo de Jair Bolsonaro.</p>
 <!-- /wp:paragraph -->

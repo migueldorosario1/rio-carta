@@ -7,8 +7,8 @@ slug: "alerj-prorroga-por-90-dias-trabalho-da-comissao-especial-das-favelas"
 wp_id: 7777
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A Comissão é dirigida pelas deputadas Dani Balbi (PCdoB) e Renata Souza (PSOL)</strong></em></p>
 <!-- /wp:paragraph -->

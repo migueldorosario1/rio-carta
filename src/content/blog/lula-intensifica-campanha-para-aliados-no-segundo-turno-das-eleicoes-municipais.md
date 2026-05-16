@@ -7,8 +7,8 @@ slug: "lula-intensifica-campanha-para-aliados-no-segundo-turno-das-eleicoes-muni
 wp_id: 5672
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva programou intensificar sua participação nas campanhas de aliados políticos durante o segundo turno das eleições municipais, com agendas confirmadas em cidades como Fortaleza, Belém, Porto Alegre e São Paulo.</p>
 <!-- /wp:paragraph -->

@@ -9,8 +9,8 @@ tags:
   - 'angra-dos-reis'
   - 'cabo-frio'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Governo do Estado do Rio de Janeiro, através da Secretaria de Estado de Cultura e Economia Criativa (Sececrj), anunciou um investimento sem precedentes em apoio ao Carnaval em diversas regiões do estado. </p>
 <!-- /wp:paragraph -->

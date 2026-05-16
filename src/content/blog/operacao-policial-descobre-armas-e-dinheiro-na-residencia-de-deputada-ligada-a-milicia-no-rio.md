@@ -7,8 +7,8 @@ slug: "operacao-policial-descobre-armas-e-dinheiro-na-residencia-de-deputada-lig
 wp_id: 2161
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma ação conjunta, promotores do Ministério Público do Rio de Janeiro e agentes da Polícia Federal realizaram buscas na residência da deputada estadual Lucinha (PSD), revelando a apreensão de duas armas e R$ 148 mil em dinheiro. Este evento ocorreu nesta segunda-feira (18), marcando um ponto crucial nas investigações que sugerem a ligação da deputada com a milícia liderada por Luis Antônio da Silva Braga, conhecido como Zinho.</p>
 <!-- /wp:paragraph -->

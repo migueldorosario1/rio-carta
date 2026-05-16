@@ -7,8 +7,8 @@ slug: "clientes-ficam-presos-em-cinema-do-rio-apos-serem-esquecidos-pelos-funcio
 wp_id: 2927
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No último sábado, um incidente peculiar chamou a atenção nas redes sociais após clientes da última sessão do filme “Os Rejeitados” ficarem trancados dentro do cinema Estação NET Botafogo, na Zona Sul do Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

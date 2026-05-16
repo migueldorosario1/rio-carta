@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:01:53Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "costa-verde", "milicia", "jogo-do-bicho", "policia-federal", "sul-fluminense-costa-verde", "capital-estado", "regiao-metropolitana", "angra", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150001-policia-federal-aponta-vinculos-de-vorcaro-com-milicia-e-jogo-do-bicho-no-rio.jpg"
+categoria_macro: seguranca
 ---
 Rio
 

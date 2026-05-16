@@ -7,8 +7,8 @@ slug: "feira-de-acari-precificacao-anormal-e-irregularidades-elevam-preocupacoes
 wp_id: 1899
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A Feira de Acari, localizada na Zona Norte do Rio de Janeiro, ganhou destaque nas redes sociais nos últimos dias devido a imagens que circulam mostrando produtos sendo comercializados a preços significativamente abaixo dos praticados no mercado convencional. Esta feira, conhecida por apelidos como "roubatudo" e "robauto," opera aos domingos na Avenida Pastor Martin Luther King Jr., às margens da linha do trem.</em></strong></p>
 <!-- /wp:paragraph -->

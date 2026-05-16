@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>As cidades do Rio de Janeiro e Niterói deram um importante passo para sediar os Jogos Pan-Americanos de 2031. Na manhã de quarta-feira, 27, os prefeitos Eduardo Paes, do Rio, e Rodrigo Neves, de Niterói, anunciaram a intenção de uma candidatura conjunta durante uma videoconferência com Neven Ilic, presidente da Panam Sports. </p>
 <!-- /wp:paragraph -->

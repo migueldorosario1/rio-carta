@@ -9,8 +9,8 @@ tags:
   - 'arraial-do-cabo'
   - 'paraty'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"textAlign":"center","level":5} -->
 <h5 class="wp-block-heading has-text-align-center">Plano prevê expansão, digitalização e reforço estrutural até 2027</h5>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "ex-vereador-zico-bacana-testemunha-no-caso-marielle-franco-e-assassinado-
 wp_id: 1057
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A violência urbana no Rio de Janeiro atingiu um novo patamar de crueldade nesta segunda-feira (7), quando o ex-vereador Jair Barbosa Tavares, conhecido como Zico Bacana, e seu irmão, Jorge Tavares, foram mortos a tiros em uma padaria em Guadalupe, Zona Norte do Rio. Contudo, um fato que chocou ainda mais a opinião pública é que Zico Bacana era uma testemunha-chave nas investigações do emblemático caso Marielle Franco.</p>
 <!-- /wp:paragraph -->

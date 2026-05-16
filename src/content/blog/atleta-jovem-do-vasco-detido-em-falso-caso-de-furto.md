@@ -7,8 +7,8 @@ slug: "atleta-jovem-do-vasco-detido-em-falso-caso-de-furto"
 wp_id: 2465
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um atleta de remo de 15 anos do Vasco da Gama foi apreendido pela Polícia Militar do Rio de Janeiro com outros três adolescentes sob suspeita de furto de celulares. O incidente ocorreu em um ônibus da linha 472, onde o jovem negro tentou se identificar como remador do clube, mas ainda assim foi levado para a delegacia. Posteriormente, todos os adolescentes foram liberados.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "reportagem-revela-como-dallagnol-encheu-os-bolsos-de-dinheiro-com-a-lava-
 tags:
   - 'nacional'
 wp_id: 3614
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma investigação publicada pela <a href="https://piaui.folha.uol.com.br/materia/as-motivacoes-e-taticas-de-deltan-dallagnol-em-950-mil-mensagens-do-telegram/">Revista Piauí </a>nesta sexta-feira destaca atitudes controversas do ex-procurador e ex-deputado federal Deltan Dallagnol, conhecido por sua participação na Operação Lava Jato.</p>
 <!-- /wp:paragraph -->

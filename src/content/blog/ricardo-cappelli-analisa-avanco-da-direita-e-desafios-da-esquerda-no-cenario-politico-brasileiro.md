@@ -7,8 +7,8 @@ slug: "ricardo-cappelli-analisa-avanco-da-direita-e-desafios-da-esquerda-no-cena
 wp_id: 5694
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em entrevista ao programa Bom Dia 247, da TV 247, Ricardo Cappelli, presidente da Associação Brasileira do Desenvolvimento Industrial (ABDI) e interventor no Distrito Federal durante os eventos de 8 de janeiro, avaliou o atual cenário político do Brasil. </p>
 <!-- /wp:paragraph -->

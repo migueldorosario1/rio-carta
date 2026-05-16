@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "jardim-primavera", "baixada-fluminense", "saude", "clinica-da-familia", "regiao-metropolitana", "capital", "leme", "comunidade", "complexo", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150205-jardim-primavera-ganha-14a-clinica-da-familia-de-duque-de-caxias.jpg"
+categoria_macro: politica
 ---
 A Prefeitura de Duque de Caxias deu mais um passo significativo na expansão da rede de Atenção Básica com a inauguração da 14ª Clínica da Família do município. Localizada estrategicamente na Rua 2, em Jardim Primavera, a nova unidade foi projetada para ser um modelo de assistência humanizada, oferecendo uma infraestrutura de ponta com ambientes 100% climatizados e consultórios totalmente equipados.
 

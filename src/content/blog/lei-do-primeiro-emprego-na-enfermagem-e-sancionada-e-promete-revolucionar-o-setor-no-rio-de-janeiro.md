@@ -7,8 +7,8 @@ slug: "lei-do-primeiro-emprego-na-enfermagem-e-sancionada-e-promete-revolucionar
 wp_id: 6884
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Aprovada pela deputada Lilian Behring, lei assegura dignidade e inclusão social a quem enfrenta barreiras no início da carreira na área da saúde</h3>
 <!-- /wp:heading -->

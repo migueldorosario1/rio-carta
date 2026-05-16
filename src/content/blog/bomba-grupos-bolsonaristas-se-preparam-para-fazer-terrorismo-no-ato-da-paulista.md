@@ -7,8 +7,8 @@ slug: "bomba-grupos-bolsonaristas-se-preparam-para-fazer-terrorismo-no-ato-da-pa
 wp_id: 3408
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>À medida que se aproxima o ato convocado para este domingo, 25, em <strong>São Paulo</strong>, observa-se um ambiente de crescente tensão e incerteza entre os grupos bolsonaristas. </p>
 <!-- /wp:paragraph -->

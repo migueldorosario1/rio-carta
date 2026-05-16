@@ -7,8 +7,8 @@ slug: "dia-da-consciencia-negra-chega-em-meio-ao-impacto-da-maior-chacina-da-his
 wp_id: 7412
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Pesquisadores afirmam que a ausência do Estado em serviços básicos e sua presença quase exclusiva na repressão aprofundam desigualdades nas favelas</h3>
 <!-- /wp:heading -->

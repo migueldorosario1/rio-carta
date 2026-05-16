@@ -8,8 +8,8 @@ wp_id: 5874
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Neste domingo, 27 de outubro, mais de 30 milhões de eleitores estão habilitados a votar no segundo turno das eleições municipais de 2024, que acontece das 8h às 17h, horário de Brasília. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "bolsonaro-se-acovarda-e-fica-em-silencio-durante-depoimento-a-pf"
 wp_id: 3402
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-presidente Jair Bolsonaro foi ouvido pela Polícia Federal nesta quinta-feira, 22, como parte de uma investigação que examina alegações de uma possível tentativa de golpe de Estado. </p>
 <!-- /wp:paragraph -->

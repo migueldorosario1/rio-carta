@@ -7,8 +7,8 @@ slug: "governo-brasileiro-vai-regular-mercado-de-criptomoedas"
 tags:
   - 'nacional'
 wp_id: 4862
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo brasileiro anunciou a implementação do programa "Cripto Conforme" para este ano, com o objetivo de aumentar a regulamentação das transações com criptomoedas no país. </p>
 <!-- /wp:paragraph -->

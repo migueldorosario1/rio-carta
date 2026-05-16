@@ -7,8 +7,8 @@ slug: "resultado-fiscal-no-1o-ano-de-lula-e-melhor-que-a-media-do-governo-bolson
 tags:
   - 'nacional'
 wp_id: 2671
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Contas públicas terminam com déficit dentro do esperado e abaixo do governo Bolsonaro</strong></p>
 <!-- /wp:paragraph -->

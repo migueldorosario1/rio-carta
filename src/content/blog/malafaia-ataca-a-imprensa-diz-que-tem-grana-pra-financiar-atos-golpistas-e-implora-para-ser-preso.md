@@ -7,8 +7,8 @@ slug: "malafaia-ataca-a-imprensa-diz-que-tem-grana-pra-financiar-atos-golpistas-
 tags:
   - 'nacional'
 wp_id: 3510
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Silas Malafaia, conhecido líder religioso e extremista de direita, encontra-se potencialmente sob investigação da Polícia Federal (PF) por sua participação e discursos em um ato pró-Bolsonaro realizado na Avenida Paulista, no último domingo, 25. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "motorista-de-app-relata-se-idoso-estava-vivo-ou-nao-antes-de-chegar-ao-ba
 wp_id: 4244
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em um caso surpreendente ocorrido em uma agência do Itaú em Bangu, Rio de Janeiro, detalhes adicionais emergiram sobre o idoso Paulo Roberto Braga, 68 anos, levado ao banco após sua morte. </p>
 <!-- /wp:paragraph -->

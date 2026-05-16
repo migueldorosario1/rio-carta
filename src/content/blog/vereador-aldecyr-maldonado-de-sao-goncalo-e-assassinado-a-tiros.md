@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Na noite de terça-feira, 7 de novembro de 2023, o vereador Aldecyr Maldonado, popularmente conhecido como Cici Maldonado, foi vítima de um trágico assassinato a tiros em São Gonçalo, município do estado do Rio de Janeiro. O político estava em sua residência, no bairro Porto da Madama, quando o incidente ocorreu. Segundo informações veiculadas pela TV Globo, o crime foi cometido por homens armados que se aproximaram de sua casa, abrindo fogo contra o vereador.</em></strong></p>
 <!-- /wp:paragraph -->

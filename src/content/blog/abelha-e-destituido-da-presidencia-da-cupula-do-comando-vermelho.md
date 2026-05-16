@@ -7,8 +7,8 @@ slug: "abelha-e-destituido-da-presidencia-da-cupula-do-comando-vermelho"
 tags:
   - 'seguranca-publica'
 wp_id: 2035
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Wilton Carlos Rabello Quintanilha, conhecido como Abelha, foi destituído da presidência da cúpula da maior facção criminosa do Rio após dois anos no cargo. A Polícia Civil investiga a decisão, alegando que Marcinho VP, apontado como chefe da facção, teria ordenado a destituição de Abelha, sendo substituído por Luciano Martiniano da Silva, o Pezão.</em></strong></p>
 <!-- /wp:paragraph -->

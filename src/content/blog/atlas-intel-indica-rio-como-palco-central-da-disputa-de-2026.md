@@ -11,8 +11,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Levantamento mostra Paes à frente, mas ameaçado por Flávio Bolsonaro e dependente de aliança com Lula para consolidar a Frente Ampla Democrática</h3>
 <!-- /wp:heading -->

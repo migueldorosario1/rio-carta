@@ -7,8 +7,8 @@ slug: "projeto-em-areas-de-preservacao-permanente-avanca-na-camara-e-gera-critic
 wp_id: 4853
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Organizações ambientais criticaram a aprovação do Projeto de Lei 2.168/21, que autoriza a derrubada de vegetação nativa em áreas de preservação permanente (APPs) para obras de infraestrutura de irrigação e bebedouros para animais. </p>
 <!-- /wp:paragraph -->

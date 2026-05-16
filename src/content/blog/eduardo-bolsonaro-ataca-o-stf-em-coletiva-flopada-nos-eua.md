@@ -7,8 +7,8 @@ slug: "eduardo-bolsonaro-ataca-o-stf-em-coletiva-flopada-nos-eua"
 wp_id: 3755
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Durante uma coletiva de imprensa realizada nos Estados Unidos, onde se encontrou com o ex-presidente Donald Trump, o deputado federal Eduardo Bolsonaro (PL-SP) atacou o Judiciário do país. </p>
 <!-- /wp:paragraph -->

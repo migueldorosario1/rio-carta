@@ -7,8 +7,8 @@ slug: "ex-secretario-revela-desvio-de-verbas-para-fazer-o-camarote-de-castro-na-
 wp_id: 3028
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O advogado Victor Travancas, que recentemente pediu exoneração do cargo de subsecretário de gabinete do governador Cláudio Castro, causou um alvoroço ao alegar que o governo do estado desviou R$ 3 milhões de verbas destinadas a teatros para financiar a produção do camarote do governador na Marquês de Sapucaí. Travancas afirmou ter "informações preciosas" sobre o assunto.</p>
 <!-- /wp:paragraph -->

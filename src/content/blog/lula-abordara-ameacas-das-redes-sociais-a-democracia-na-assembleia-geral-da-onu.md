@@ -7,8 +7,8 @@ slug: "lula-abordara-ameacas-das-redes-sociais-a-democracia-na-assembleia-geral-
 tags:
   - 'geopolitica'
 wp_id: 5292
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva planeja destacar em seu discurso de abertura na Assembleia Geral da ONU os desafios que as redes sociais apresentam à democracia, particularmente o papel da desinformação. </p>
 <!-- /wp:paragraph -->

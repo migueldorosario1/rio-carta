@@ -7,8 +7,8 @@ slug: "cidade-do-rio-nao-esta-preparada-para-mudancas-climaticas-e-quem-mais-sof
 wp_id: 1946
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Advogada da Comissão de Direitos Humanos e Assistência Judiciária da OAB-RJ, Diana Conrado mostra como a prefeitura do Rio não está preparada para impedir que os cariocas mais pobres sofram com o aquecimento global</strong></em></p>
 <!-- /wp:paragraph -->

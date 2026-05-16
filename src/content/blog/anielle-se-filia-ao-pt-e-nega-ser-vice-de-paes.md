@@ -8,8 +8,8 @@ wp_id: 4046
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Anielle Franco, ministra da Igualdade Racial, oficializou sua filiação ao Partido dos Trabalhadores (PT) em um evento realizado nesta terça-feira, na presença do ex-presidente Luiz Inácio Lula da Silva. </p>
 <!-- /wp:paragraph -->

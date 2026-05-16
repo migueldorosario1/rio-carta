@@ -9,8 +9,8 @@ tags:
   - 'campos'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira, 14 de outubro, foi iniciada a Operação Postos de Midas pela Polícia Federal em conjunto com a Receita Federal e o Ministério Público Estadual do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

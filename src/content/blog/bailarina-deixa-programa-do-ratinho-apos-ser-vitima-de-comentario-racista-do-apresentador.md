@@ -7,8 +7,8 @@ slug: "bailarina-deixa-programa-do-ratinho-apos-ser-vitima-de-comentario-racista
 tags:
   - 'nacional'
 wp_id: 4256
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Cintia Mello anunciou sua saída do Programa do Ratinho, transmitido pelo SBT, após uma declaração do apresentador sobre seu cabelo. </p>
 <!-- /wp:paragraph -->

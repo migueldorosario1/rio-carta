@@ -8,8 +8,8 @@ wp_id: 6852
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Reimont e Leonel de Esquerda são lançados como candidatos às presidências do PT-RJ; Frente ampla reúne parlamentares, sindicalistas e militantes no lançamento das candidaturas</h3>
 <!-- /wp:heading -->

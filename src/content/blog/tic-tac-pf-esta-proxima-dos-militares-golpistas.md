@@ -7,8 +7,8 @@ slug: "tic-tac-pf-esta-proxima-dos-militares-golpistas"
 tags:
   - 'nacional'
 wp_id: 3346
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) prossegue com as investigações relacionadas à tentativa de golpe de 8 de janeiro, envolvendo o ex-presidente Jair Bolsonaro. </p>
 <!-- /wp:paragraph -->

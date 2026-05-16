@@ -7,8 +7,8 @@ slug: "carnaval-do-rio-promete-movimentar-r-5-bilhoes-em-2024"
 wp_id: 3151
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A terceira edição do estudo “Carnaval de Dados” prevê uma participação massiva no Carnaval do Rio de Janeiro de 2024, com expectativa de atrair sete milhões de foliões nos principais pontos de celebração, incluindo Sambódromo, Intendente Magalhães, Terreirão do Samba, Carnaval de Rua e bailes populares. A festividade está projetada para gerar uma movimentação econômica substancial de R$ 5 bilhões na cidade.</p>
 <!-- /wp:paragraph -->

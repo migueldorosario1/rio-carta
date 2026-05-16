@@ -7,8 +7,8 @@ slug: "theatro-municipal-do-rio-abre-as-cortinas-com-espetaculos-a-partir-de-r-7
 wp_id: 6713
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com ingressos acessíveis e exibições gratuitas, Theatro Municipal do Rio aposta na democratização da cultura e na formação de novos públicos</h3>
 <!-- /wp:heading -->

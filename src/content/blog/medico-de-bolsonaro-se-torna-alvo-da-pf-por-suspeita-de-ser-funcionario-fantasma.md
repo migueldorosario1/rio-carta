@@ -7,8 +7,8 @@ slug: "medico-de-bolsonaro-se-torna-alvo-da-pf-por-suspeita-de-ser-funcionario-f
 tags:
   - 'politica-rj'
 wp_id: 4220
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Ricardo Camarinha, que atuou como médico da Presidência da República durante a gestão de Jair Bolsonaro, é suspeito de ser um funcionário fantasma. </p>
 <!-- /wp:paragraph -->

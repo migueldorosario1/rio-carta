@@ -7,8 +7,8 @@ slug: "china-intensifica-esforcos-para-expandir-industria-aeroespacial"
 tags:
   - 'geopolitica'
 wp_id: 2984
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo municipal de Beijing está planejando o estabelecimento de uma "Rocket Street" (rua de foguete) dedicada como um centro de pesquisa e produção para o avanço da indústria aeroespacial comercial.</p>
 <!-- /wp:paragraph -->

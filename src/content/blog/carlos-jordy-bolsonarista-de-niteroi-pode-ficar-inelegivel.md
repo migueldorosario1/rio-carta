@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">MP Eleitoral pede inelegibilidade de Carlos Jordy por suposto uso indevido de veículo de comunicação em Niterói</h3>
 <!-- /wp:heading -->

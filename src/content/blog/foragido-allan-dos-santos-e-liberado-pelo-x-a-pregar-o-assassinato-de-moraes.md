@@ -7,8 +7,8 @@ slug: "foragido-allan-dos-santos-e-liberado-pelo-x-a-pregar-o-assassinato-de-mor
 wp_id: 4133
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Após a liberação de suas contas na plataforma X por Elon Musk, Allan dos Santos e Oswaldo Eustáquio, ambos considerados foragidos pelo Supremo Tribunal Federal (STF), fizeram novas aparições públicas. </p>
 <!-- /wp:paragraph -->

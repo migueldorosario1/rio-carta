@@ -7,8 +7,8 @@ slug: "enchentes-levam-moradores-a-deixarem-porto-alegre-em-massa"
 tags:
   - 'nacional'
 wp_id: 4434
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>As enchentes em Porto Alegre provocaram um êxodo significativo de moradores, causado pela falta de água e outros efeitos colaterais. </p>
 <!-- /wp:paragraph -->

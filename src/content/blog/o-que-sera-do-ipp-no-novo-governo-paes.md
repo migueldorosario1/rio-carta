@@ -9,8 +9,8 @@ tags:
   - 'cabo-frio'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Prefeito Eduardo Paes (PSD) sofre pressão para ignorar quadros técnicos e fazer indicações políticas no órgão. O Instituto Pereira Passos (IPP) é o principal espaço de pesquisas para a orientação de políticas públicas da prefeitura do Rio de Janeiro. </strong></em></p>
 <!-- /wp:paragraph -->

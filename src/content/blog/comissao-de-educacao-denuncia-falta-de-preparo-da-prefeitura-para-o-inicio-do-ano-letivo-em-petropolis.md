@@ -7,8 +7,8 @@ slug: "comissao-de-educacao-denuncia-falta-de-preparo-da-prefeitura-para-o-inici
 wp_id: 7608
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A vereadora Professora Lívia (PCdoB), presidenta da Comissão de Educação da Câmara Municipal de Petrópolis, denunciou a falta de planejamento da Prefeitura para o início do ano letivo da rede municipal, previsto para 2 de fevereiro, apontando fechamento de turmas, superlotação de salas e indefinição na posse de professores concursados.</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "fundos-do-rioprevidencia-avancam-sob-intervencao-federal"
 wp_id: 7424
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Rioprevidência resgata R$ 560 milhões antes da liquidação do Banco Master e garante pagamentos de fim de ano</h3>
 <!-- /wp:heading -->

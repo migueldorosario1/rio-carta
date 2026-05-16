@@ -10,8 +10,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Dados revelam queda histórica de roubos e mortes na cidade vizinha, em contraste com a escalada da violência na capital</h3>
 <!-- /wp:heading -->

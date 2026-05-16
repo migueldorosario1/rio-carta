@@ -7,8 +7,8 @@ slug: "bomba-eduardo-bolsonaro-usou-recursos-publicos-para-financiar-viagem-part
 tags:
   - 'nacional'
 wp_id: 4181
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Eduardo Bolsonaro (PL-SP) teve sua viagem para participar do evento conservador CPAC, em Washington, custeada pela cota parlamentar da Câmara dos Deputados. </p>
 <!-- /wp:paragraph -->

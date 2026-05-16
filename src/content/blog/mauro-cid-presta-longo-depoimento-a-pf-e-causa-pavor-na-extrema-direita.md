@@ -7,8 +7,8 @@ slug: "mauro-cid-presta-longo-depoimento-a-pf-e-causa-pavor-na-extrema-direita"
 wp_id: 3717
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma extensa sessão que ultrapassou oito horas, o tenente-coronel Mauro Cid, anteriormente ajudante de ordens do ex-presidente Jair Bolsonaro, prestou depoimento à Polícia Federal (PF) na segunda-feira. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "investimentos-no-brasil-atingem-nivel-mais-alto-desde-2020-segundo-brades
 tags:
   - 'nacional'
 wp_id: 5005
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os anúncios de investimentos no Brasil alcançaram o maior volume desde 2020, conforme levantamento do Bradesco.</p>
 <!-- /wp:paragraph -->

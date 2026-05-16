@@ -7,8 +7,8 @@ slug: "marica-registra-menor-indice-de-roubos-de-veiculos-na-regiao-metropolitan
 tags:
   - 'marica'
 wp_id: 7790
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading">Dados do ISP mostram avanços na segurança do município, com redução de 70% em índices de roubo e letalidade</h5>
 <!-- /wp:heading -->

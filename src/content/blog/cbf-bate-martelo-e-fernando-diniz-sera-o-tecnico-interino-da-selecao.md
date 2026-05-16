@@ -7,8 +7,8 @@ slug: "cbf-bate-martelo-e-fernando-diniz-sera-o-tecnico-interino-da-selecao"
 tags:
   - 'nacional'
 wp_id: 633
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Foto: Delmiro Junior/Photo Premium / Gazeta Press</em></p>
 <!-- /wp:paragraph -->

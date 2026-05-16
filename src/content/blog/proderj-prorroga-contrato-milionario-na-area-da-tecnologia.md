@@ -7,8 +7,8 @@ slug: "proderj-prorroga-contrato-milionario-na-area-da-tecnologia"
 wp_id: 3063
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Diário Oficial do Estado, em sua edição de 31 de janeiro, veiculou um termo aditivo do Proderj, órgão responsável pela tecnologia da informação no Estado do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "ministro-do-stf-manda-recado-a-bolsonaro-antes-da-manifestacao-com-extrem
 tags:
   - 'nacional'
 wp_id: 3410
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Após avanço das investigações sobre tentativa de golpe de Estado, o presidente Jair Bolsonaro (PL) convocou uma manifestação para o domingo, 25, na Avenida Paulista, em São Paulo. A convocação, supostamente em "defesa da democracia", visa demonstrar apoio popular e evitar possível prisão.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "deputada-propoe-regras-mais-duras-para-bets-no-rio-de-janeiro"
 wp_id: 7682
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa da deputada estadual Dani Balbi (PCdoB) proíbe publicidade de plataformas de apostas no estado</strong></em></p>
 <!-- /wp:paragraph -->

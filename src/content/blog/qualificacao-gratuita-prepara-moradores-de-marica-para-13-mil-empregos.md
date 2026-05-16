@@ -7,8 +7,8 @@ slug: "qualificacao-gratuita-prepara-moradores-de-marica-para-13-mil-empregos"
 wp_id: 7223
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Prefeitura e parceiros lançam 2.300 vagas gratuitas em cursos técnicos e de hotelaria para preparar moradores para mais de 13 mil empregos no complexo MARAEY</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "universal-e-condenada-por-demolicao-de-casaroes-historicos-em-bh"
 tags:
   - 'nacional'
 wp_id: 3220
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Igreja Universal do Reino de Deus teve sua condenação confirmada pela 1ª Turma do Superior Tribunal de Justiça (STJ) após uma série de recursos. </p>
 <!-- /wp:paragraph -->

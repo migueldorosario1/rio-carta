@@ -7,8 +7,8 @@ slug: "professor-de-jiu-jitsu-preso-por-agredir-ex-mulher-durante-seis-horas-no-
 wp_id: 2605
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Marcio de Oliveira Barreto, um professor de jiu-jítsu de 54 anos, foi preso nesta segunda-feira por policiais da 27ª DP (Vicente de Carvalho), acusado de agredir sua ex-mulher, a fisioterapeuta Adriana Freitas Barreto, de 48 anos, durante seis horas. O incidente ocorreu no Rio de Janeiro, no bairro Quintino Bocaiúva, na zona Norte.</p>
 <!-- /wp:paragraph -->

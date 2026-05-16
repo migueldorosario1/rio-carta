@@ -7,8 +7,8 @@ slug: "ons-sugere-retomada-do-horario-de-verao-decisao-final-sera-de-lula"
 wp_id: 5365
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Operador Nacional do Sistema Elétrico (ONS) propôs a volta do horário de verão em reunião realizada na última quinta-feira (19) no Rio de Janeiro com as principais autoridades do setor elétrico. </p>
 <!-- /wp:paragraph -->

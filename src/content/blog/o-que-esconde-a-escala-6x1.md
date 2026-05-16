@@ -7,8 +7,8 @@ slug: "o-que-esconde-a-escala-6x1"
 wp_id: 6734
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Roubo de tempo, saúde e convívio dos trabalhadores é revelado em estudo do Observatório do Estado Social Brasileiro com apoio do SECRJ</h3>
 <!-- /wp:heading -->

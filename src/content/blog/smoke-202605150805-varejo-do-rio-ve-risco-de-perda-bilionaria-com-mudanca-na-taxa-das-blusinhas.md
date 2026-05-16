@@ -5,6 +5,7 @@ pubDate: "2026-05-15T11:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-metropolitana", "varejo", "taxa-das-blusinhas", "comercio-local", "fecomercio-rj", "politica-rj", "capital", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150805-varejo-do-rio-ve-risco-de-perda-bilionaria-com-mudanca-na-taxa-das-blusinhas.jpg"
+categoria_macro: politica
 ---
 A chamada “taxa das blusinhas” pode ter impacto de até R$ 1,5 bilhão no varejo da Região Metropolitana do Rio de Janeiro, segundo levantamento do Instituto Fecomércio de Pesquisas e Análises (IFec RJ).
 

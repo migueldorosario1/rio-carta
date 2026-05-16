@@ -7,8 +7,8 @@ slug: "no-rio-parque-das-ruinas-e-renomeado-como-parque-gloria-maria"
 tags:
   - 'santa-teresa'
 wp_id: 850
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Decreto foi publicado nesta quinta-feira (20) pela prefeitura em reconhecimento ao legado da jornalista</em></strong></p>
 <!-- /wp:paragraph -->

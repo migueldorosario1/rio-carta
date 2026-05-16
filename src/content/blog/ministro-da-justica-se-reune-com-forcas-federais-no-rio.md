@@ -7,8 +7,8 @@ slug: "ministro-da-justica-se-reune-com-forcas-federais-no-rio"
 wp_id: 1596
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Força Nacional, PF e PRF participarão de ações no estado</strong></em></p>
 <!-- /wp:paragraph -->

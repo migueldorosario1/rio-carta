@@ -7,8 +7,8 @@ slug: "cinelandia-e-ocupada-por-mulheres-que-protestam-contra-pl-sobre-aborto"
 wp_id: 4662
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite desta quinta-feira, 13, a Cinelândia, no Centro do Rio de Janeiro, foi cenário de um vigoroso protesto contra um projeto de lei que equipara o aborto realizado após 22 semanas de gestação ao crime de homicídio. </p>
 <!-- /wp:paragraph -->

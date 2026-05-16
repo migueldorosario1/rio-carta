@@ -7,8 +7,8 @@ slug: "alerj-estuda-vetar-inteligencia-artificial-na-educacao"
 wp_id: 4265
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa é da deputada estadual Dani Balbi (PCdoB); ideia não é impedir desenvolvimento da IA, mas sim evitar que haja uma substituição de profissionais da educação pelo mecanismo tecnológico</strong></em></p>
 <!-- /wp:paragraph -->

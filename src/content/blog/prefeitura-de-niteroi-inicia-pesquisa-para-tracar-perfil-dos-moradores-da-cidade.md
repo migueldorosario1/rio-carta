@@ -7,8 +7,8 @@ slug: "prefeitura-de-niteroi-inicia-pesquisa-para-tracar-perfil-dos-moradores-da
 wp_id: 2260
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A partir de 2024, a prefeitura de Niterói lançará o programa "Niterói que Somos", uma pesquisa municipal por amostra de domicílios para coletar informações essenciais sobre os moradores da cidade. O objetivo é preencher as lacunas de dados, destacando as diferenças entre as regiões administrativas e populações de Niterói, complementando as estatísticas do Censo Demográfico do IBGE e outras pesquisas oficiais.</p>
 <!-- /wp:paragraph -->

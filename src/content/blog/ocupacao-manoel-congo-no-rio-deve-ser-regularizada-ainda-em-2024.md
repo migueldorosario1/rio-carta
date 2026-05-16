@@ -9,8 +9,8 @@ tags:
   - 'volta-redonda'
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Após 16 anos, movimento por moradia está perto de desfecho positivo</strong></em></p>
 <!-- /wp:paragraph -->

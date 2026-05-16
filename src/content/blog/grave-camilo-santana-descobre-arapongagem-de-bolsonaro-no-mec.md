@@ -7,8 +7,8 @@ slug: "grave-camilo-santana-descobre-arapongagem-de-bolsonaro-no-mec"
 tags:
   - 'nacional'
 wp_id: 3638
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Educação, Camilo Santana, do Partido dos Trabalhadores (PT), reportou a descoberta de uma sala que seria utilizada pela Agência Brasileira de Inteligência (Abin) dentro do Ministério da Educação (MEC), em Brasília. </p>
 <!-- /wp:paragraph -->

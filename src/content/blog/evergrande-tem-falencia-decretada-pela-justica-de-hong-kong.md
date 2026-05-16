@@ -7,8 +7,8 @@ slug: "evergrande-tem-falencia-decretada-pela-justica-de-hong-kong"
 tags:
   - 'geopolitica'
 wp_id: 2623
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O tribunal de Hong Kong ordenou nesta segunda-feira, 29, a liquidação da Evergrande Group, uma das maiores incorporadoras imobiliárias da China. </p>
 <!-- /wp:paragraph -->

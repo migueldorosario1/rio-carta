@@ -7,8 +7,8 @@ slug: "paes-vai-estatizar-o-transporte-publico-do-rio"
 wp_id: 3246
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em seu discurso de abertura do ano legislativo na Câmara Municipal do Rio de Janeiro, nesta quinta-feira, o prefeito Eduardo Paes revelou planos significativos para o sistema de transporte público da cidade.</p>
 <!-- /wp:paragraph -->

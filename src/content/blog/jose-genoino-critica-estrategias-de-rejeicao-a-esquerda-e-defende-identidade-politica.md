@@ -7,8 +7,8 @@ slug: "jose-genoino-critica-estrategias-de-rejeicao-a-esquerda-e-defende-identid
 wp_id: 5779
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>José Genoino, ex-presidente nacional do PT, expressou preocupação com as táticas empregadas pela extrema-direita e grandes conglomerados de comunicação para aumentar a rejeição à esquerda. </p>
 <!-- /wp:paragraph -->

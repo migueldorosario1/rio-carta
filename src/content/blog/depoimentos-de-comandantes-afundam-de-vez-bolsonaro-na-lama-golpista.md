@@ -7,8 +7,8 @@ slug: "depoimentos-de-comandantes-afundam-de-vez-bolsonaro-na-lama-golpista"
 tags:
   - 'nacional'
 wp_id: 3800
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal, sob a autoridade do Ministro Alexandre de Moraes, tornou público nesta sexta-feira, 15 de março, uma série de depoimentos relacionados à investigação de um possível plano de golpe.</p>
 <!-- /wp:paragraph -->

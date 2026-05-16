@@ -7,8 +7,8 @@ slug: "saiba-quanto-a-prefeitura-do-rio-vai-injetar-de-patrocinio-para-o-show-da
 wp_id: 4100
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura do Rio de Janeiro confirmou um aporte de R$ 10 milhões para o patrocínio do show da cantora Madonna, programado para 4 de maio, na praia de Copacabana. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "bomba-pf-so-aguarda-autorizacao-de-moraes-para-prender-bolsonaro"
 tags:
   - 'nacional'
 wp_id: 3737
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Segundo o jornalista Ricardo Noblat, a Polícia Federal (PF) está aguardando apenas uma autorização judicial para proceder com a prisão de Jair Bolsonaro (PL).</p>
 <!-- /wp:paragraph -->

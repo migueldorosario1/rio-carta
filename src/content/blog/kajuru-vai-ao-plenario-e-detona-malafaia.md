@@ -7,8 +7,8 @@ slug: "kajuru-vai-ao-plenario-e-detona-malafaia"
 tags:
   - 'nacional'
 wp_id: 3818
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante uma sessão recente do Senado, Jorge Kajuru (PSB) direcionou críticas ao empresário da fé Silas Malafaia. O senador referiu-se a Malafaia com termos fortes, destacando sua discordância com as ações do empresário.</p>
 <!-- /wp:paragraph -->

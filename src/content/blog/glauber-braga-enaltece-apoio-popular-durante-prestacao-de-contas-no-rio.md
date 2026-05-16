@@ -8,8 +8,8 @@ wp_id: 5261
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Glauber Braga (PSOL-RJ) destacou o apoio da base eleitoral e de movimentos sociais durante sua prestação de contas no Largo da Carioca, no Rio de Janeiro, nesta segunda-feira.</p>
 <!-- /wp:paragraph -->

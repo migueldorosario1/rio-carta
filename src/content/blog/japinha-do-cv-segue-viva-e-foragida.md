@@ -7,8 +7,8 @@ slug: "japinha-do-cv-segue-viva-e-foragida"
 wp_id: 7338
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Investigadores confirmam que nenhuma mulher está entre os mortos da megaoperação nos Complexos da Penha e do Alemão; identidade do corpo divulgado nas redes sociais foi esclarecida</h3>
 <!-- /wp:heading -->

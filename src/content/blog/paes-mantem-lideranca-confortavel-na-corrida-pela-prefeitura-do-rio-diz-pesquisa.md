@@ -8,8 +8,8 @@ wp_id: 4791
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O atual prefeito do Rio de Janeiro, Eduardo Paes (PSD), apresenta uma vantagem significativa nas intenções de voto para as eleições municipais de 2024, conforme revela a segunda pesquisa realizada pelo instituto Quaest. </p>
 <!-- /wp:paragraph -->

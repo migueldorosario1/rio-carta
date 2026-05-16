@@ -9,8 +9,8 @@ tags:
   - 'arraial-do-cabo'
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura de Niterói, localizada na Região Metropolitana do Rio de Janeiro, está considerando um aumento na tarifa de ônibus na cidade, passando dos atuais R$ 4,45 para R$ 5,15, previsto para entrar em vigor em janeiro de 2024. Esse aumento tem como base um estudo elaborado pela Universidade Federal do Rio de Janeiro (UFRJ) em setembro deste ano.</p>
 <!-- /wp:paragraph -->

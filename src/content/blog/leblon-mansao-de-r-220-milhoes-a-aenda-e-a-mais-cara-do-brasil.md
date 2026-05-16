@@ -7,8 +7,8 @@ slug: "leblon-mansao-de-r-220-milhoes-a-aenda-e-a-mais-cara-do-brasil"
 wp_id: 2400
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Leblon, conhecido bairro da Zona Sul carioca, abriga a casa mais cara do Brasil, atualmente avaliada em R$ 220 milhões. Esta mansão luxuosa está localizada no Jardim Pernambuco, um condomínio exclusivo dentro do Leblon, conhecido por sua segurança reforçada e privacidade. A propriedade, que não está oficialmente anunciada no mercado, aguarda ofertas de compra desde 2019.</p>
 <!-- /wp:paragraph -->

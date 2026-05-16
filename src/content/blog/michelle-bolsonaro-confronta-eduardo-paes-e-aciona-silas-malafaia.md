@@ -8,8 +8,8 @@ wp_id: 7503
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O veto à negociação com Eduardo Paes intensifica disputas internas e alimenta a percepção de que a ex-primeira-dama busca protagonismo num cenário sem liderança definida</h3>
 <!-- /wp:heading -->

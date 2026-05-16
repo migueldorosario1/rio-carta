@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nas eleições de Niterói, Carlos Jordy e Rodrigo Neves avançaram para o segundo turno com estratégias de campanha distintas em termos de investimento financeiro. </p>
 <!-- /wp:paragraph -->

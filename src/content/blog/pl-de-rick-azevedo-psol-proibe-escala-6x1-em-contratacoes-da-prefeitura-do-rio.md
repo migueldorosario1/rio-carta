@@ -7,8 +7,8 @@ slug: "pl-de-rick-azevedo-psol-proibe-escala-6x1-em-contratacoes-da-prefeitura-d
 wp_id: 6493
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Proposta estabelece jornada de 36 horas divididas em 4 dias na semana, chamada de escala 4x3</em></strong></p>
 <!-- /wp:paragraph -->

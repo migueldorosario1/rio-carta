@@ -8,8 +8,8 @@ wp_id: 5604
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes, celebrou sua reeleição com um grande evento no Parque Oeste, localizado em Inhoaiba, Zona Oeste da cidade. </p>
 <!-- /wp:paragraph -->

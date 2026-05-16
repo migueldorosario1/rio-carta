@@ -7,8 +7,8 @@ slug: "governo-aponta-aumento-na-disparidade-salarial-de-genero-no-brasil"
 tags:
   - 'nacional'
 wp_id: 5313
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um relatório divulgado em Brasília pelo Ministério das Mulheres e pelo Ministério do Trabalho e Emprego (MTE) revelou que a disparidade salarial entre homens e mulheres aumentou no Brasil. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 5118
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Rafaela Albergaria (PCdoB), Tatiana Roque (PSB) e Luciana Boiteux (PSOL) disputam os votos da comunidade da UFRJ</em></strong></p>
 <!-- /wp:paragraph -->

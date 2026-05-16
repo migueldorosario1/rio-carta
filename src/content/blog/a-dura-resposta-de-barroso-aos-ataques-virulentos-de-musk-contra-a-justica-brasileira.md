@@ -7,8 +7,8 @@ slug: "a-dura-resposta-de-barroso-aos-ataques-virulentos-de-musk-contra-a-justic
 tags:
   - 'nacional'
 wp_id: 4095
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Luís Roberto Barroso, presidente do Supremo Tribunal Federal (STF), emitiu uma nota nesta segunda-feira, 8, reafirmando a posição do tribunal de salvaguardar as instituições democráticas e a submissão de todas as empresas operantes no Brasil às leis e à Constituição do país. </p>
 <!-- /wp:paragraph -->

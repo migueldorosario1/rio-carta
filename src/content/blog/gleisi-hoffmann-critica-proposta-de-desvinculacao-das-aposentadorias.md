@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-critica-proposta-de-desvinculacao-das-aposentadorias"
 tags:
   - 'nacional'
 wp_id: 4891
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Gleisi Hoffmann, presidente do PT, expressou preocupação com a proposta de desvincular o aumento das aposentadorias do INSS da política de valorização do salário mínimo, em entrevista à agência Broadcast.</p>
 <!-- /wp:paragraph -->

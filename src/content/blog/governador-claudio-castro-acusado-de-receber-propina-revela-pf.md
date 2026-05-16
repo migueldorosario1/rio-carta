@@ -7,8 +7,8 @@ slug: "governador-claudio-castro-acusado-de-receber-propina-revela-pf"
 wp_id: 2471
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um relatório da Polícia Federal (PF) aponta que Cláudio Castro, atual governador do Rio de Janeiro, teria recebido pagamentos indevidos totalizando R$ 326 mil e US$ 20 mil, entre 2017 e 2019. Na época, ele ocupava os cargos de vereador e vice-governador. As acusações, que Castro nega veementemente, foram detalhadas em um documento do Superior Tribunal de Justiça (STJ), obtido pela GloboNews e o RJ2.</p>
 <!-- /wp:paragraph -->

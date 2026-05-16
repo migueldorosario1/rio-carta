@@ -8,8 +8,8 @@ wp_id: 891
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>4o. Festival da Comunicação Sindical e Popular aconteceu na Cinelândia</strong></em></p>
 <!-- /wp:paragraph -->

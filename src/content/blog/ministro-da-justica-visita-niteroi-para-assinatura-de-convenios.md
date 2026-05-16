@@ -8,8 +8,8 @@ wp_id: 422
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><a href="https://www.ofluminense.com.br/cidades/niteroi/2023/06/1264612-ministro-da-justica-visita-niteroi-para-assinatura-de-convenios.html">Com informações do O Fluminense</a></em></p>
 <!-- /wp:paragraph -->

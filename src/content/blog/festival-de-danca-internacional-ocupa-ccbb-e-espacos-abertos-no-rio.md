@@ -8,8 +8,8 @@ wp_id: 1022
 tags:
   - 'nova-friburgo'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Um dos espetáculos é inspirado em fotos de Sebastião Salgado</em></strong></p>
 <!-- /wp:paragraph -->

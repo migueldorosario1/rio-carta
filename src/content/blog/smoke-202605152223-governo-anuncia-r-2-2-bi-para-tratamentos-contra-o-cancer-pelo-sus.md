@@ -5,6 +5,7 @@ pubDate: "2026-05-15T22:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "saude", "sus", "oncologia", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605152223-governo-anuncia-r-2-2-bi-para-tratamentos-contra-o-cancer-pelo-sus.webp"
+categoria_macro: servicos
 ---
 O presidente Luiz Inácio Lula da Silva e o ministro da Saúde Alexandre Padilha anunciaram nesta sexta-feira (15) um investimento de R$ 2,2 bilhões para ampliar o atendimento oncológico pelo Sistema Único de Saúde (SUS). De acordo com o governo federal, trata-se do maior aporte já realizado na área dentro da rede pública.
 

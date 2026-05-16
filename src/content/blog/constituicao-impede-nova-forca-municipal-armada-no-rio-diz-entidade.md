@@ -8,8 +8,8 @@ wp_id: 6456
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Prefeito do RJ quer criar Força Municipal com uso de armamento</strong></em></p>
 <!-- /wp:paragraph -->

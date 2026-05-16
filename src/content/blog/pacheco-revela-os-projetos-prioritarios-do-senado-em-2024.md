@@ -7,8 +7,8 @@ slug: "pacheco-revela-os-projetos-prioritarios-do-senado-em-2024"
 wp_id: 2861
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Senado retoma os trabalhos na próxima semana e deve votar ao longo deste ano matérias consideradas prioritárias pelo presidente da Casa, senador Rodrigo Pacheco. Regulamentação da reforma tributária, revisão do Código Civil, uso de inteligência artificial, reoneração da folha de pagamentos e mudanças no sistema eleitoral são alguns dos projetos na ordem do dia.</p>
 <!-- /wp:paragraph -->

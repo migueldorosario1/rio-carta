@@ -7,8 +7,8 @@ slug: "pgr-cogita-reabrir-inquerito-da-cpi-da-covid-contra-bolsonaro"
 tags:
   - 'nacional'
 wp_id: 3866
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Paulo Gonet, o Procurador-Geral da República, está considerando a reabertura de um inquérito anteriormente arquivado ligado às investigações da CPI da Covid, que buscou apurar responsabilidades na gestão da pandemia no Brasil. </p>
 <!-- /wp:paragraph -->

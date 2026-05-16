@@ -7,8 +7,8 @@ slug: "maior-festival-do-teatro-universitario-comecou-nesta-quarta-no-rio"
 wp_id: 844
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Premiação consagra jovens talentos da dramaturgia</em></strong></p>
 <!-- /wp:paragraph -->

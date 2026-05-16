@@ -7,8 +7,8 @@ slug: "onibus-sao-incendiados-no-barro-vermelho-em-duque-de-caxias"
 wp_id: 2690
 tags:
   - 'duque-de-caxias'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Dois ônibus foram incendiados na tarde desta segunda-feira na Avenida Presidente Kennedy, próximo ao Barro Vermelho, em Duque de Caxias, na Baixada Fluminense.</p>
 <!-- /wp:paragraph -->

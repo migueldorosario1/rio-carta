@@ -7,8 +7,8 @@ slug: "estudos-mostram-beneficios-das-florestas-para-grandes-cidades"
 wp_id: 567
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Matas ajudam a limpar ar, controlar temperatura e drenar água</em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "magda-chambriard-assume-presidencia-da-petrobras-ainda-nesta-semana"
 wp_id: 4496
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Magda Chambriard, indicada pelo presidente Luiz Inácio Lula da Silva para presidir a Petrobras, assumirá oficialmente o cargo na próxima sexta-feira, 24. </p>
 <!-- /wp:paragraph -->

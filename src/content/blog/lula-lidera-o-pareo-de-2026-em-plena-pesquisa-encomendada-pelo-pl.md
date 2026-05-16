@@ -7,8 +7,8 @@ slug: "lula-lidera-o-pareo-de-2026-em-plena-pesquisa-encomendada-pelo-pl"
 wp_id: 2963
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa nacional encomendada pelo <strong>Partido Liberal (PL)</strong> aponta que os principais protegidos políticos do ex-presidente Jair Bolsonaro, Tarcísio de Freitas e Michelle Bolsonaro, estão distantes de se tornarem competidores fortes na corrida pela <strong>Presidência nas eleições de 2026</strong>.</p>
 <!-- /wp:paragraph -->

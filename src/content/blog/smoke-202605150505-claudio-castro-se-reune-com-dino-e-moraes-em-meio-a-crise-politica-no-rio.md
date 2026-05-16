@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:10Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "politica-rj", "royalties", "petroleo", "leme"]
 heroImage: "/hero/smoke-smoke-202605150505-claudio-castro-se-reune-com-dino-e-moraes-em-meio-a-crise-politica-no-rio.jpg"
+categoria_macro: politica
 ---
 Em meio à indefinição sobre a realização de eleições suplementares no Rio e às revelações bombásticas sobre o conteúdo da conversa entre Flávio Bolsonaro e Daniel Vorcaro, o ex-governador Cláudio Castro se reuniu em Brasília, nesta semana, com os ministros Flávio Dino e Alexandre de Moraes.
 

@@ -7,8 +7,8 @@ slug: "bivar-se-afunda-perde-controle-do-uniao-brasil-e-se-torna-alvo-do-proprio
 wp_id: 3668
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O União Brasil está vivenciando mudanças significativas em sua estrutura interna com a saída de Luciano Bivar da presidência do partido. Uma das primeiras ações da executiva recém-eleita, sob a liderança de Antônio Rueda, foi estabelecer uma Comissão de Ética com o objetivo de avaliar representações partidárias. </p>
 <!-- /wp:paragraph -->

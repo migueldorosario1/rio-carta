@@ -7,8 +7,8 @@ slug: "no-rio-espetaculo-antes-da-aula-entra-em-cartaz-nesta-semana-em-santa-ter
 wp_id: 786
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Peça aborda temas como a saúde mental dos professores e a relação entre a escola e o conhecimento dos alunos</em></strong></p>
 <!-- /wp:paragraph -->

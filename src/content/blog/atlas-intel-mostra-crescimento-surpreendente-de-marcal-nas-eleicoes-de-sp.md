@@ -7,8 +7,8 @@ slug: "atlas-intel-mostra-crescimento-surpreendente-de-marcal-nas-eleicoes-de-sp
 wp_id: 5163
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A mais recente pesquisa da Atlas Intel revela um cenário competitivo na corrida pela Prefeitura de São Paulo, com Guilherme Boulos (PSol) liderando com 28% das intenções de voto, seguido de perto por Pablo Marçal (PRTB) com 24,4%, marcando um empate técnico dentro da margem de erro. </p>
 <!-- /wp:paragraph -->

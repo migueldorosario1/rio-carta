@@ -7,8 +7,8 @@ slug: "fluminense-pode-perder-final-da-libertadores-no-maracana-por-conflito-com
 wp_id: 1630
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A tão aguardada final da Copa Libertadores, que envolve os times brasileiros Fluminense e Flamengo, juntamente com o argentino Boca Juniors, poderá estar em risco de mudar de local, deixando o icônico Maracanã em segundo plano. A polêmica gira em torno da insistência do Flamengo em utilizar o campo do Maracanã para partidas do Campeonato Brasileiro imediatamente antes da decisão da Libertadores. O clube carioca alega ser o dono do estádio e ainda pressiona por uma distribuição de ingressos e camarotes que ultrapassaria a soma dos destinados aos outros finalistas.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 3255
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O indivíduo responsável por detonar uma bomba caseira durante um evento político de Lula no Rio de Janeiro, identificado como André Stefani Dimitriu Alves de Brito, foi condenado pelo crime de explosão. </p>
 <!-- /wp:paragraph -->

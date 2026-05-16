@@ -7,5 +7,5 @@ slug: "reinaldo-azevedo-defende-prisao-dos-terroristas-apos-bolsonaro-pedir-anis
 tags:
   - 'nacional'
 wp_id: 3488
+categoria_macro: geral
 ---
-

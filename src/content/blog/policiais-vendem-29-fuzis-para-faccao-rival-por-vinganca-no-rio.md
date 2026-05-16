@@ -7,8 +7,8 @@ slug: "policiais-vendem-29-fuzis-para-faccao-rival-por-vinganca-no-rio"
 wp_id: 1639
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Quatro policiais civis foram presos em uma operação da Polícia Federal (PF) denominada "Operação Drake" sob a suspeita de apreender 31 fuzis de uma facção criminosa, mas oficialmente registraram apenas a apreensão de duas armas. Os agentes eram lotados na Delegacia de Roubos e Furtos de Cargas (DRFC) à época do incidente, e uma investigação apontou que os outros 29 fuzis teriam sido vendidos para um grupo criminoso rival à facção que sofreu a ação policial.</p>
 <!-- /wp:paragraph -->

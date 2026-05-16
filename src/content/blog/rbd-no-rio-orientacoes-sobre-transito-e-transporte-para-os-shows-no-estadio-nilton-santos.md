@@ -7,8 +7,8 @@ slug: "rbd-no-rio-orientacoes-sobre-transito-e-transporte-para-os-shows-no-estad
 wp_id: 1886
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O grupo mexicano Rebeldes (RBD) está prestes a iniciar sua tão aguardada turnê brasileira, e o Rio de Janeiro será a primeira parada. Com duas apresentações marcadas no Estádio Nilton Santos, no Engenho de Dentro, Zona Norte, a Prefeitura do Rio, através da CET-Rio, implementou um esquema especial de trânsito e transporte para acomodar centenas de fãs.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "anvisa-investiga-caso-suspeito-de-mpox-em-aeroporto-de-guarulhos"
 tags:
   - 'nacional'
 wp_id: 4950
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Agência Nacional de Vigilância Sanitária (Anvisa) foi notificada sobre um passageiro no Aeroporto de Guarulhos, em São Paulo, apresentando sintomas que podem ser de Mpox, conforme comunicado emitido na segunda-feira. </p>
 <!-- /wp:paragraph -->

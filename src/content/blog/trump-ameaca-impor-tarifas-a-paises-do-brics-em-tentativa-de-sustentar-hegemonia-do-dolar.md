@@ -7,8 +7,8 @@ slug: "trump-ameaca-impor-tarifas-a-paises-do-brics-em-tentativa-de-sustentar-he
 tags:
   - 'geopolitica'
 wp_id: 6091
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente eleito dos Estados Unidos intensificou suas ações contra a formação de alternativas ao dólar, exigindo que os países membros do BRICS abandonem seus planos de desenvolver uma moeda conjunta. </p>
 <!-- /wp:paragraph -->

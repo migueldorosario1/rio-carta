@@ -7,8 +7,8 @@ slug: "boletim-focus-traz-nova-elevacao-para-inflacao-e-pib"
 tags:
   - 'nacional'
 wp_id: 4866
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Segundo o mais recente Relatório Focus do Banco Central, divulgado nesta segunda-feira (19), as projeções para inflação, Produto Interno Bruto (PIB) e taxa Selic para os próximos anos mostram ajustes significativos. </p>
 <!-- /wp:paragraph -->

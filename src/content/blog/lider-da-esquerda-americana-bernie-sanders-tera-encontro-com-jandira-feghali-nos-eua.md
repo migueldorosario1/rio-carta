@@ -7,8 +7,8 @@ slug: "lider-da-esquerda-americana-bernie-sanders-tera-encontro-com-jandira-fegh
 tags:
   - 'nacional'
 wp_id: 4358
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O encontro tem por objetivo discutir o avanço da extrema direita no Brasil e nos Estados Unidos</strong></em></p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "senador", "banco-master", "investigacao", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "bancarios", "itaborai", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605132105-deputados-pedem-investigacao-sobre-relacao-entre-vorcaro-e-flavio.jpg"
+categoria_macro: politica
 ---
 Deputados pedem investigação sobre relação entre Vorcaro e Flávio
 

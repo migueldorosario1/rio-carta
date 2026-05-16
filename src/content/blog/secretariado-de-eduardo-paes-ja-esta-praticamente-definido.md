@@ -8,8 +8,8 @@ wp_id: 6179
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>PSD e PT terão a maior parte das indicações para o secretariado que inicia em janeiro de 2025.</em></strong></p>
 <!-- /wp:paragraph -->

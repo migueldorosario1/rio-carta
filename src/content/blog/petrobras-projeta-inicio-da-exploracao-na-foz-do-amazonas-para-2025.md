@@ -7,8 +7,8 @@ slug: "petrobras-projeta-inicio-da-exploracao-na-foz-do-amazonas-para-2025"
 wp_id: 5868
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Petrobras antecipa que a campanha exploratória na região da Foz do Amazonas, que é reconhecida por seu alto potencial petrolífero na Margem Equatorial, só deverá começar em 2025.</p>
 <!-- /wp:paragraph -->

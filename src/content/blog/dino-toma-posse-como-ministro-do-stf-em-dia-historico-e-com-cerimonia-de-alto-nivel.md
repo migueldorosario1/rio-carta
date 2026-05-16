@@ -7,8 +7,8 @@ slug: "dino-toma-posse-como-ministro-do-stf-em-dia-historico-e-com-cerimonia-de-
 tags:
   - 'nacional'
 wp_id: 3398
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na tarde desta quinta-feira, 22, Flávio Dino será empossado como novo ministro do Supremo Tribunal Federal (STF), em evento que contará com a presença de figuras proeminentes dos Três Poderes. </p>
 <!-- /wp:paragraph -->

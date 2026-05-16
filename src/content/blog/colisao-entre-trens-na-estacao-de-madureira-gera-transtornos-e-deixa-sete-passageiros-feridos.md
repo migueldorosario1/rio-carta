@@ -7,8 +7,8 @@ slug: "colisao-entre-trens-na-estacao-de-madureira-gera-transtornos-e-deixa-sete
 wp_id: 1909
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Na manhã desta segunda-feira (13), um incidente impactante ocorreu na estação de Madureira, na Zona Norte do Rio de Janeiro, quando dois vagões de trem colidiram no sentido Central do Brasil, na plataforma dos trens expressos. O incidente, reportado pela SuperVia, concessionária responsável pelo serviço ferroviário, resultou em sete passageiros que reclamaram de dores no corpo, sendo prontamente assistidos pela equipe da concessionária.</em></strong></p>
 <!-- /wp:paragraph -->

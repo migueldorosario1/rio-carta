@@ -7,8 +7,8 @@ slug: "haddad-anuncia-bloqueio-de-mais-de-2-000-sites-de-apostas-nao-autorizados
 tags:
   - 'nacional'
 wp_id: 5678
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Fazenda, Fernando Haddad, comunicou nesta quinta-feira que cerca de 2.040 sites de apostas não autorizados serão desativados a partir de amanhã, conforme legislação recentemente aprovada pelo Congresso Nacional. </p>
 <!-- /wp:paragraph -->

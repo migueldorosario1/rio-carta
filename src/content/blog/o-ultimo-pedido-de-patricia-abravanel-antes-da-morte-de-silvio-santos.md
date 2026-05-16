@@ -7,8 +7,8 @@ slug: "o-ultimo-pedido-de-patricia-abravanel-antes-da-morte-de-silvio-santos"
 tags:
   - 'nacional'
 wp_id: 4898
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante a última gravação do Programa Silvio Santos, Patrícia Abravanel solicitou à plateia que orasse pela saúde de seu pai, Silvio Santos, que se encontrava internado em estado delicado. </p>
 <!-- /wp:paragraph -->

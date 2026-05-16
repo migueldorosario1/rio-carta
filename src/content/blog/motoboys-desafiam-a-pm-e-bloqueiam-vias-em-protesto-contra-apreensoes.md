@@ -7,8 +7,8 @@ slug: "motoboys-desafiam-a-pm-e-bloqueiam-vias-em-protesto-contra-apreensoes"
 wp_id: 6831
 tags:
   - 'seguranca-publica'
+categoria_macro: seguranca
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A revolta tomou as ruas após fiscalização intensa; manifestações atingiram Nova Iguaçu, Meriti, Caxias e chegaram à zona oeste carioca</h3>
 <!-- /wp:heading -->

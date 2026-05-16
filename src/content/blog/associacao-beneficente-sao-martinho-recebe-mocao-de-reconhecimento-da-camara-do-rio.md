@@ -7,8 +7,8 @@ slug: "associacao-beneficente-sao-martinho-recebe-mocao-de-reconhecimento-da-cam
 wp_id: 6009
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Câmara Municipal do Rio de Janeiro concederá uma Moção de Reconhecimento à Associação Beneficente São Martinho, em homenagem à sua atuação de 40 anos em prol de jovens em situação de vulnerabilidade social. </p>
 <!-- /wp:paragraph -->

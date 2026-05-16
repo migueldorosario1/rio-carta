@@ -7,8 +7,8 @@ slug: "delacao-premiada-de-elcio-de-queiroz-muda-rumo-da-investigacao-no-caso-ma
 wp_id: 1484
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A recente delação premiada do ex-policial militar Élcio de Queiroz à Polícia Federal trouxe reviravoltas significativas para a investigação sobre a morte da vereadora Marielle Franco e do motorista Anderson Gomes. Além de fornecer detalhes sobre a participação de diversos envolvidos no crime, a colaboração de Queiroz levou à prisão do ex-bombeiro Maxwell Simões Corrêa, conhecido como Suel, e implicou o conselheiro do Tribunal de Contas do Estado (TCE) do Rio de Janeiro, Domingos Brazão, nos depoimentos prestados.</p>
 <!-- /wp:paragraph -->

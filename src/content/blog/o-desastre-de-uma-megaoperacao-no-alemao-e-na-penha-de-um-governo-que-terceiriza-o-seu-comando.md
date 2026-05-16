@@ -8,8 +8,8 @@ wp_id: 7265
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Por Jacqueline Muniz - UFF</strong></p>
 <!-- /wp:paragraph -->

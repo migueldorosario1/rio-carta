@@ -8,8 +8,8 @@ wp_id: 6510
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A iniciativa é da vereadora Professora Lívia Miranda (PCdoB); Lívia Miranda foi a primeira mulher lésbica eleita na história de Petrópolis</em></strong>; <strong><em>Deputada Dani Balbi diz que lutará para que essa lei seja reproduzida em todos os municípios do estado.</em></strong></p>
 <!-- /wp:paragraph -->

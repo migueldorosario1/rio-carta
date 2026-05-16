@@ -7,8 +7,8 @@ slug: "alerj-aprova-lei-do-emprego-verde-no-estado-do-rio-de-janeiro"
 wp_id: 1249
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A nova lei foi proposta pela deputada estadual Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

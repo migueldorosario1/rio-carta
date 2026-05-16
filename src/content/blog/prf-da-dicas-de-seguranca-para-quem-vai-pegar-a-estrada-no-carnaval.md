@@ -7,8 +7,8 @@ slug: "prf-da-dicas-de-seguranca-para-quem-vai-pegar-a-estrada-no-carnaval"
 tags:
   - 'nacional'
 wp_id: 3117
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Prestes a iniciar a Operação Carnaval, a Polícia Rodoviária Federal (PRF) divulgou uma série de dicas de segurança para quem vai pegar a estrada durante os dias de folia.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1580162&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1580162&amp;o=node"></p>
 <!-- /wp:paragraph -->

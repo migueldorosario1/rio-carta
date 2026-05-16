@@ -7,8 +7,8 @@ slug: "senado-aprova-galipolo-como-novo-presidente-do-banco-central"
 wp_id: 5622
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na sessão plenária desta terça-feira (8), o Senado aprovou a indicação de Gabriel Galípolo para presidente do Banco Central.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "equipe-de-haddad-estaria-pressionando-lula-para-pagar-os-dividendos-extra
 tags:
   - 'nacional'
 wp_id: 3909
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério da Fazenda está em negociações com o presidente Luiz Inácio Lula da Silva para persuadi-lo a permitir que a Petrobras distribua dividendos extraordinários, retidos anteriormente por orientação do próprio presidente. </p>
 <!-- /wp:paragraph -->

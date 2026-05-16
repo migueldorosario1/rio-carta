@@ -7,8 +7,8 @@ slug: "stf-defende-regulamentacao-de-plataformas-digitais-para-combater-fake-new
 tags:
   - 'nacional'
 wp_id: 5752
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Supremo Tribunal Federal (STF), ministro Luís Roberto Barroso, destacou a necessidade urgente de regulamentar as plataformas digitais para conter a disseminação de notícias falsas e discursos de ódio. </p>
 <!-- /wp:paragraph -->

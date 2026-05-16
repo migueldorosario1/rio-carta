@@ -8,8 +8,8 @@ wp_id: 5017
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A candidata Rafaela Albergaria (PCdoB) esteve com a deputada Dani Balbi em reunião com lideranças LGBT do Rio de Janeiro</em></strong></p>
 <!-- /wp:paragraph -->

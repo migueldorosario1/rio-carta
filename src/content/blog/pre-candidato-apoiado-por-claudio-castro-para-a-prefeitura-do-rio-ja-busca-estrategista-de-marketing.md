@@ -8,8 +8,8 @@ wp_id: 79
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <div class="text">
 
 O indicado pelo governador do Rio de Janeiro, Cláudio Castro (PL), como potencial concorrente à prefeitura da capital fluminense, o secretário estadual de Saúde, Dr. Luizinho (PP-RJ), já está em negociações para sua possível campanha em 2024. Uma dessas conversas ocorreu com o consultor de marketing Paulo Vasconcelos, originário de Minas Gerais, que anteriormente coordenou a campanha de Castro para o cargo de governador no ano passado.

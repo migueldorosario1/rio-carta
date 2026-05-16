@@ -11,8 +11,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>PT deve lançar ao menos seis nomes fortes na região metropolitana</em></strong></p>
 <!-- /wp:paragraph -->

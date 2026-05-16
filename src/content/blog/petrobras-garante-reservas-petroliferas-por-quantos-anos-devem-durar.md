@@ -7,8 +7,8 @@ slug: "petrobras-garante-reservas-petroliferas-por-quantos-anos-devem-durar"
 wp_id: 2668
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Petrobras divulgou recentemente que suas reservas de petróleo são suficientes para sustentar a produção atual por um período de 12,2 anos. </p>
 <!-- /wp:paragraph -->

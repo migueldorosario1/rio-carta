@@ -7,8 +7,8 @@ slug: "traficante-internacional-e-preso-com-bicicleta-roubada-na-zona-sul-do-rio
 wp_id: 3303
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite da última sexta-feira, 16, Wellington Soares Brasileiro, de 43 anos, foragido da justiça e condenado por tráfico internacional de drogas sintéticas, foi preso enquanto transitava de bicicleta elétrica na ciclovia da Lagoa Rodrigo de Freitas, na Zona Sul do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

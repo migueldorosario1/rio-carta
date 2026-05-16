@@ -7,8 +7,8 @@ slug: "pesquisa-revela-desigualdades-nas-favelas-brasileiras"
 wp_id: 1930
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Estudo da UFF mostra que essas comunidades não são homogêneas</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "vegetti-fz-44-gols-pelo-vasco-e-se-torna-o-maior-artilheiro-estrangeiro-d
 tags:
   - 'vasco-da-gama'
 wp_id: 6795
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Atacante argentino ultrapassa Germán Cano e só está atrás de Villadoniga como maior artilheiro estrangeiro da história do Vasco</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lula-defende-ampliacao-da-isencao-do-imposto-de-renda-e-politicas-para-no
 wp_id: 5682
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva afirmou que a faixa de isenção do Imposto de Renda da Pessoa Física (IRPF) deve ser maior do que o limite de R$ 5 mil, prometido durante a campanha presidencial. </p>
 <!-- /wp:paragraph -->

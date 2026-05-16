@@ -7,8 +7,8 @@ slug: "ex-servidoras-acusam-silvio-almeida-de-injuria-e-difamacao"
 tags:
   - 'nacional'
 wp_id: 5502
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Duas ex-servidoras do Ministério dos Direitos Humanos e da Cidadania protocolaram uma denúncia na Procuradoria-Geral da República (PGR) contra o ex-ministro Silvio Almeida, acusando-o de injúria e difamação. A denúncia surge em meio a investigações da Polícia Federal que já apuram acusações de assédio sexual contra o ex-ministro.</p>
 <!-- /wp:paragraph -->

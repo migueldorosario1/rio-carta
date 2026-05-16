@@ -7,8 +7,8 @@ slug: "stf-debate-criterios-para-diferenciar-usuario-de-traficante-de-maconha"
 tags:
   - 'nacional'
 wp_id: 4698
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) retoma nesta quarta-feira (26) o julgamento sobre a descriminalização do porte de maconha para uso pessoal, após a maioria dos ministros concordar que o porte para uso pessoal não constitui crime. O foco do debate agora será a definição da quantidade que diferencia um usuário de um traficante.</p>
 <!-- /wp:paragraph -->

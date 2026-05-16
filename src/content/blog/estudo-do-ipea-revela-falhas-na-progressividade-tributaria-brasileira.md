@@ -7,8 +7,8 @@ slug: "estudo-do-ipea-revela-falhas-na-progressividade-tributaria-brasileira"
 tags:
   - 'nacional'
 wp_id: 5946
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um estudo recente realizado pelo Instituto de Pesquisa Econômica Aplicada (Ipea) revelou disparidades significativas na tributação entre diferentes faixas de renda no Brasil. </p>
 <!-- /wp:paragraph -->

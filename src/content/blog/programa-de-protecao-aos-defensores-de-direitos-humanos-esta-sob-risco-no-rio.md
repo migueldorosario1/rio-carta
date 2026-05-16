@@ -7,8 +7,8 @@ slug: "programa-de-protecao-aos-defensores-de-direitos-humanos-esta-sob-risco-no
 wp_id: 4317
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Deputada Dani Balbi (PCdoB) publicou no Diário Oficial solicitação para que o governo do estado siga recomendação do MPF; a ativista Rafaela Albergaria (na foto) é uma das atingidas pelo sucateamento do programa</strong></em></p>
 <!-- /wp:paragraph -->

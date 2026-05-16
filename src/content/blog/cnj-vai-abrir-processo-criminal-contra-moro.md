@@ -7,8 +7,8 @@ slug: "cnj-vai-abrir-processo-criminal-contra-moro"
 wp_id: 4026
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Corregedor Nacional de Justiça, Luis Felipe Salomão, demonstra inclinação para solicitar a abertura de um processo criminal contra o senador Sergio Moro. </p>
 <!-- /wp:paragraph -->

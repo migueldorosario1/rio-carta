@@ -7,8 +7,8 @@ slug: "ex-comandante-do-exercito-da-sua-versao-sobre-o-golpe-de-bolsonaro"
 tags:
   - 'nacional'
 wp_id: 3277
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O general Marco Antônio Freire Gomes, anteriormente à frente do Exército Brasileiro, contestou acusações de não ter agido diante de um planejado golpe de Estado pelo ex-presidente Jair Bolsonaro. </p>
 <!-- /wp:paragraph -->

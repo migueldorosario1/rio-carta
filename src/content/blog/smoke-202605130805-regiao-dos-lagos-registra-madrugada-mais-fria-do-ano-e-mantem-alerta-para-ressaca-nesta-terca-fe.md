@@ -5,6 +5,7 @@ pubDate: "2026-05-13T11:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "arraial-do-cabo", "armacao-dos-buzios", "frio", "ressaca", "defesa-civil", "araruama", "lagoa", "buzios", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130805-regiao-dos-lagos-registra-madrugada-mais-fria-do-ano-e-mantem-alerta-para-ressaca-nesta-terca-fe.webp"
+categoria_macro: geral
 ---
 A Região dos Lagos registrou, nesta terça-feira (12), a madrugada mais fria do ano até o momento. Em Cabo Frio, a atuação de uma massa de ar frio de origem polar manteve as temperaturas mais baixas e o tempo instável nas primeiras horas do dia.
 

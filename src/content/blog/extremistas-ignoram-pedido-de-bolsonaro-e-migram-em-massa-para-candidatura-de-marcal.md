@@ -7,8 +7,8 @@ slug: "extremistas-ignoram-pedido-de-bolsonaro-e-migram-em-massa-para-candidatur
 wp_id: 4915
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Lideranças bolsonaristas têm expressado descontentamento nos bastidores com o apoio de Jair Bolsonaro (PL) à reeleição do atual prefeito de São Paulo, Ricardo Nunes (MDB). </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 2924
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No dia 1º de abril de 2024, o golpe civil militar de 1964 completa 60 anos. Neste dia, têm encontro marcado na Marcha da Democracia militantes em defesa da Democracia e ativistas sociais de todo o Brasil, dentre eles a família do ex-presidente João Goulart - d. Maria Tereza e os filhos Denise e João Vicente - e o emblemático líder sindicalista Clodsmidt Riani, hoje com 103 anos de idade, que presidiu o histórico Comando Geral dos Trabalhadores (CGT).</p>
 <!-- /wp:paragraph -->

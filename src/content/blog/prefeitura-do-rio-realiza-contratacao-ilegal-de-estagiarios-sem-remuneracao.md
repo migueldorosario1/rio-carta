@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-realiza-contratacao-ilegal-de-estagiarios-sem-remunerac
 wp_id: 2555
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Deputada Dani Balbi (PCdoB) entrou com pedido no Ministério Público do Trabalho para que investigue a prefeitura do Rio</strong></em></p>
 <!-- /wp:paragraph -->

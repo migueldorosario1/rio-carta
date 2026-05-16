@@ -7,8 +7,8 @@ slug: "urgente-general-revela-segunda-minuta-golpista-apresentada-por-bolsonaro"
 wp_id: 3653
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O general Marco Antonio Freire Gomes, ex-comandante do Exército, prestou depoimento à Polícia Federal, revelando detalhes de uma suposta tentativa de golpe de Estado que visava impedir a posse do presidente Luiz Inácio Lula da Silva.</p>
 <!-- /wp:paragraph -->

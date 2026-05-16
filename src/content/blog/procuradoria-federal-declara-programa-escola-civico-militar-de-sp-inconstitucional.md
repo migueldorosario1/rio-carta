@@ -7,8 +7,8 @@ slug: "procuradoria-federal-declara-programa-escola-civico-militar-de-sp-inconst
 tags:
   - 'nacional'
 wp_id: 4622
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Procuradoria Federal dos Direitos do Cidadão (PFDC), órgão vinculado ao Ministério Público Federal (MPF), afirmou que o Programa Escola Cívico-Militar, implementado no estado de São Paulo, é inconstitucional. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "alerj-quer-criar-relatorio-anual-sobre-violencia-contra-profissionais-da-
 wp_id: 6789
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa da deputada Lilian Behring (PCdoB) busca mapear casos de agressão física e psicológica para orientar políticas de segurança nas unidades de saúde pública e privada</em></strong></p>
 <!-- /wp:paragraph -->

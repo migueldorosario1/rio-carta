@@ -7,8 +7,8 @@ slug: "profissionais-da-enfermagem-fazem-ato-em-frente-ao-hospital-da-lagoa"
 tags:
   - 'lagoa'
 wp_id: 360
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Manifestantes ocuparam ruas na Zona Sul do Rio para cobrar o piso da enfermagem</em></p>
 <!-- /wp:paragraph -->

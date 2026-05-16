@@ -7,8 +7,8 @@ slug: "tarcisio-motta-psol-busca-o-apoio-do-pcdob-para-prefeitura-do-rio-em-2024
 wp_id: 1393
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Prioridade dos comunistas é voltar a ocupar cadeira que já foi de Apparício Torelly na Câmara de vereadores</strong></em></p>
 <!-- /wp:paragraph -->

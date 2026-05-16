@@ -7,8 +7,8 @@ slug: "ocde-revela-que-investimentos-em-educacao-no-brasil-despencaram-no-pos-go
 tags:
   - 'educacao'
 wp_id: 5139
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Entre 2015 e 2021, o investimento público em educação no Brasil caiu, em média, 2,5% ao ano, de acordo com o relatório <em>Education at a Glance (EaG) 2024</em>, divulgado nesta terça-feira, 10, pela <strong>Organização para a Cooperação e Desenvolvimento Econômico (OCDE)</strong>. No mesmo período, os países da OCDE aumentaram seus investimentos em educação em 2,1% ao ano, abrangendo desde o ensino fundamental até o superior.</p>
 <!-- /wp:paragraph -->

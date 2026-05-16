@@ -5,8 +5,8 @@ pubDate: "2026-05-14T03:38:57Z"
 tags: ["nacional"]
 heroImage: "/hero/fl-vio-bolsonaro-admite-que-procurou-vorcaro-para-pedir-recursos-de-filme.jpeg"
 author: "Miguel do Rosário"
+categoria_macro: geral
 ---
-
 (Crédito da foto: Flávio Bolsonaro usou o argumento de que o patrocínio envolvia recursos privados, e não públicos
 Jefferson Rudy/Agência Senado)
 

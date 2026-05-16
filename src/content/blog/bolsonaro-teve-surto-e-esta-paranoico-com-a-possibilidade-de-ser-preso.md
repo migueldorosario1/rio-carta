@@ -7,8 +7,8 @@ slug: "bolsonaro-teve-surto-e-esta-paranoico-com-a-possibilidade-de-ser-preso"
 tags:
   - 'politica-rj'
 wp_id: 3252
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Jair Bolsonaro (PL) viveu um Carnaval de cão em 2024. Segundo relatos colhidos por Bela Megale, do jornal O Globo, o clima de apreensão dominou o entorno de Bolsonaro, especialmente com a possibilidade crescente de enfrentar a prisão, uma preocupação intensificada após a detenção de Valdemar Costa Neto, presidente do PL, por porte ilegal de arma e posse de uma pepita de ouro.</p>
 <!-- /wp:paragraph -->

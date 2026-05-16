@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Vacinação vai até o dia 15 de setembro; Dia D será 2 de setembro</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lula-lanca-novo-pac-sexta-feira-11-08-no-theatro-municipal-do-rio"
 wp_id: 1068
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Novo PAC englobará 2 mil projetos, sendo 300 indicações feitas pelos governadores e outros 1,7 mil escolhidos pelo governo federal.</em></strong></p>
 <!-- /wp:paragraph -->

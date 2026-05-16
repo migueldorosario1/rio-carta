@@ -9,8 +9,8 @@ tags:
   - 'nova-friburgo'
   - 'rio-de-janeiro'
   - 'macae'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Promotoria de Investigação Penal de Nova Friburgo apresentou denúncia contra oito indivíduos que perpetraram ofensas verbais e agressões físicas à deputada estadual Lucia Marina dos Santos, conhecida como Marina do MST. </p>
 <!-- /wp:paragraph -->

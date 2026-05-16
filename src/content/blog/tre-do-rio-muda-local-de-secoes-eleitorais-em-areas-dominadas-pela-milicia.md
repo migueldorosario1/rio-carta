@@ -8,8 +8,8 @@ wp_id: 2781
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) optou por modificar o local de 50 seções eleitorais localizadas em regiões controladas por milicianos na Zona Oeste da cidade. </p>
 <!-- /wp:paragraph -->

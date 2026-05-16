@@ -7,8 +7,8 @@ slug: "juiza-condena-ana-paula-valadao-por-danos-morais-coletivos-apos-declaraca
 tags:
   - 'nacional'
 wp_id: 4338
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Ana Paula Valadão, empresária bolsonarista e cantora evangélica, foi condenada a pagar uma multa de <strong>R$ 25 mil </strong>por danos morais coletivos. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "policia-de-sp-prende-13-pessoas-em-operacao-contra-infiltracao-do-pcc-nas
 wp_id: 4801
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Civil de São Paulo, em conjunto com a Justiça, bloqueou mais de R$ 8,1 bilhões em bens e prendeu 13 pessoas durante a Operação Decurio, realizada nesta terça-feira (6) em 15 cidades do estado. </p>
 <!-- /wp:paragraph -->

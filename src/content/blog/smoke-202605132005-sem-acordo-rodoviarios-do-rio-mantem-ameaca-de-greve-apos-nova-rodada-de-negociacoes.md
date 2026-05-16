@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "rodoviarios", "greve", "transporte-publico", "prefeitura-do-rio", "transporte-e-mobilidade-rj", "capital", "joa", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605132005-sem-acordo-rodoviarios-do-rio-mantem-ameaca-de-greve-apos-nova-rodada-de-negociacoes.jpeg"
+categoria_macro: politica
 ---
 As negociações entre o Sindicato dos Rodoviários e o Rio Ônibus chegaram a um impasse crítico. Em mais uma rodada de conversas sobre o dissídio da categoria, que ocorre em junho, não houve avanço nas reivindicações de cerca de 20 mil profissionais, entre motoristas, fiscais e mecânicos.
 

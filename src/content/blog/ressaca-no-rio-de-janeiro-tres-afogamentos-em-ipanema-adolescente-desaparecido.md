@@ -8,8 +8,8 @@ wp_id: 1817
 tags:
   - 'resende'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Na manhã deste domingo, uma tragédia se desenrolou nas águas da praia de Ipanema, localizada na Zona Sul do Rio de Janeiro. Três indivíduos foram vítimas de afogamento e acionaram o Corpo de Bombeiros por volta das 10h30. Dois deles foram resgatados do mar com vida, mas um adolescente, de apenas 16 anos, permanece desaparecido. Os bombeiros mobilizaram um helicóptero e jet ski para auxiliar nas buscas.</strong></em></p>
 <!-- /wp:paragraph -->

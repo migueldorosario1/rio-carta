@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "itaborai", "sao-goncalo", "br-101", "transporte", "obras", "regiao-metropolitana", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "rio-das-ostras", "regiao-dos-lagos", "campos", "norte-fluminense"]
 heroImage: "/hero/smoke-smoke-202605130205-br-101-ganhara-nova-faixa-para-desafogar-o-transito-no-trecho-niteroi-itaborai.jpg"
+categoria_macro: geral
 ---
 BR-101 ganhará nova faixa para desafogar o trânsito no trecho Niterói-Itaboraí
 

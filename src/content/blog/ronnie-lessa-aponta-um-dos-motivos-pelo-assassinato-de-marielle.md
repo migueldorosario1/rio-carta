@@ -7,8 +7,8 @@ slug: "ronnie-lessa-aponta-um-dos-motivos-pelo-assassinato-de-marielle"
 wp_id: 3897
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma delação premiada feita pelo ex-policial militar Ronnie Lessa aponta para o envolvimento de grupos milicianos na expansão do mercado imobiliário na zona oeste do Rio de Janeiro como fator desencadeante dos assassinatos da vereadora Marielle Franco (Psol) e do motorista Anderson Gomes, ocorridos em 2018. </p>
 <!-- /wp:paragraph -->

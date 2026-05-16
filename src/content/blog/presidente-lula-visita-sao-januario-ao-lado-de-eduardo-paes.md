@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O encontro foi organizado pelo presidente do Conselho de Beneméritos do Vasco da Gama e Secretário-Executivo do Ministério da Ciência, Tecnologia e Inovação, Luis Fernandes</strong></em></p>
 <!-- /wp:paragraph -->

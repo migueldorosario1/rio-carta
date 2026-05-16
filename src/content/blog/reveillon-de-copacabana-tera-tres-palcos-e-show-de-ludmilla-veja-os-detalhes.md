@@ -7,8 +7,8 @@ slug: "reveillon-de-copacabana-tera-tres-palcos-e-show-de-ludmilla-veja-os-detal
 tags:
   - 'copacabana'
 wp_id: 1877
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Riotur anunciou os detalhes para o Réveillon de Copacabana deste ano, com destaque para Ludmilla como atração principal no palco montado em frente ao Hotel Copacabana Palace. A cantora, intérprete do sucesso "Hoje", se apresentará após a queima de fogos, trazendo seu repertório para animar a virada do ano. Ludmilla já participou da festa de ano novo em 2018 para 2019, quando cerca de 2 milhões de pessoas estiveram presentes.</p>
 <!-- /wp:paragraph -->

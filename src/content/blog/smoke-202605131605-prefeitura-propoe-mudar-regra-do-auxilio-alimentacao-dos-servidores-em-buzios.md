@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:35Z"
 draft: true
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "servidores-publicos", "auxilio-alimentacao", "camara-municipal", "macae-norte-fluminense", "norte-fluminense", "problemas-estruturais", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131605-prefeitura-propoe-mudar-regra-do-auxilio-alimentacao-dos-servidores-em-buzios.jpg"
+categoria_macro: politica
 ---
 Projeto enviado à Câmara limita benefício a servidores efetivos em exercício; pacote inclui propostas sobre royalties, saneamento e startups
 

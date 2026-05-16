@@ -7,8 +7,8 @@ slug: "michelle-abandona-mulher-que-o-pediu-ajuda-apos-ter-sido-agredida-por-ze-
 tags:
   - 'nacional'
 wp_id: 3752
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Michelle Bolsonaro, liderando o PL Mulher a nível nacional, foi contatada por Jéssica Veiga, ex-esposa do deputado Zé Trovão. Veiga solicitou o apoio da ex-primeira-dama após relatar ter sido silenciada dentro do partido devido a acusações contra Zé Trovão sob a Lei Maria da Penha. </p>
 <!-- /wp:paragraph -->

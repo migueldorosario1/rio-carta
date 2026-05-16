@@ -7,8 +7,8 @@ slug: "eduardo-cunha-e-vaiado-durante-culto-evangelico-no-rio"
 wp_id: 4733
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Eduardo Cunha, ex-presidente da Câmara dos Deputados, foi vaiado durante um culto evangélico no ginásio do Maracanãzinho, no Rio de Janeiro, na noite de sábado, 29. O evento celebrava o centenário das igrejas Assembleias de Deus no estado.</p>
 <!-- /wp:paragraph -->

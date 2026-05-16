@@ -7,8 +7,8 @@ slug: "acao-federal-expoe-ataques-misoginos-e-nazistas-na-internet"
 wp_id: 7380
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>A PF cumpre mandado no Rio após o MPF identificar publicações misóginas e conteúdo de exaltação ao nazismo que ultrapassavam o limite da liberdade de expressão</strong></p>
 <!-- /wp:paragraph -->

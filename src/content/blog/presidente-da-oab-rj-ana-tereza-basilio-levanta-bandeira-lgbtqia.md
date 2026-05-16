@@ -7,8 +7,8 @@ slug: "presidente-da-oab-rj-ana-tereza-basilio-levanta-bandeira-lgbtqia"
 wp_id: 6534
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O registro aconteceu ao lado de Nélio Georgini da Silva que foi nomeado Diretor de Diversidade  da OAB-RJ.</strong></em></p>
 <!-- /wp:paragraph -->

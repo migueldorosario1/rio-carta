@@ -7,8 +7,8 @@ slug: "explosao-de-empregos-em-2023-foi-puxado-por-trabalhadores-acima-de-40-ano
 tags:
   - 'nacional'
 wp_id: 5251
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O <strong>Ministério do Trabalho e Emprego (MTE) </strong>divulgou na quinta-feira, 12, o Relatório Anual de Informações Sociais (RAIS) de 2023, evidenciando um aumento de 3,5% no número de empregos formais no Brasil em relação a 2022, totalizando 44 milhões e 469 mil empregos. Notavelmente, pessoas com 40 anos ou mais lideraram esse crescimento.</p>
 <!-- /wp:paragraph -->

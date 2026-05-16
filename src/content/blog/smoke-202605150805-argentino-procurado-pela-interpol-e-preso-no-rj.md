@@ -5,6 +5,7 @@ pubDate: "2026-05-15T11:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "regiao-dos-lagos", "policia-federal", "interpol", "seguranca-publica", "capital", "regiao-metropolitana", "buzios", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150805-argentino-procurado-pela-interpol-e-preso-no-rj.jpeg"
+categoria_macro: seguranca
 ---
 Um homem que estava foragido da Justiça argentina foi preso no fim da noite desta terça-feira (12/05) em Armação dos Búzios, na Região dos Lagos do Rio de Janeiro. Ele constava na lista de Difusão Vermelha da Interpol desde março deste ano.
 

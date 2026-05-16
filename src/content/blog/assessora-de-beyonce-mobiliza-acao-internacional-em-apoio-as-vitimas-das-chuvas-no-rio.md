@@ -8,8 +8,8 @@ wp_id: 2456
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Yvette Noel Schure, assessora da renomada cantora Beyoncé, recorreu ao seu perfil no Instagram para pedir ajuda em prol das vítimas das intensas chuvas que afetaram o Rio de Janeiro e a Baixada Fluminense. As fortes chuvas no último final de semana resultaram na trágica perda de 12 vidas e, mesmo após quatro dias, várias áreas continuam alagadas. Famílias inteiras perderam todos os seus pertences, desde roupas até móveis e eletrodomésticos.</p>
 <!-- /wp:paragraph -->

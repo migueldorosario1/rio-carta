@@ -7,8 +7,8 @@ slug: "setor-chines-de-logistica-cresce-em-2023"
 tags:
   - 'geopolitica'
 wp_id: 2874
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O setor logístico da China relatou expansão constante no ano passado, com o índice de prosperidade médio aumentando 3,2 pontos percentuais ante 2022, para 51,8%, de acordo com os dados divulgados pela Federação Chinesa de Logística e Compras nesta quarta-feira.</p>
 <!-- /wp:paragraph -->

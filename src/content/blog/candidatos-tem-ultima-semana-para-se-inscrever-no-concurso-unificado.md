@@ -7,8 +7,8 @@ slug: "candidatos-tem-ultima-semana-para-se-inscrever-no-concurso-unificado"
 wp_id: 2977
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Termina no dia 9 de fevereiro o prazo para inscrição no Concurso Público Nacional Unificado (CPNU). Interessados em participar do certame devem acessar o&nbsp;<em>site</em>&nbsp;da&nbsp;<a href="https://cpnu.cesgranrio.org.br/login" target="_blank" rel="noreferrer noopener">Fundação Cesgranrio</a>&nbsp;e pagar a taxa de R$ 60, para os cargos de nível médio&nbsp;e R$ 90 para os de nível superior. É necessário&nbsp;ao candidato&nbsp;estar inscrito na plataforma Gov.br.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1579427&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1579427&amp;o=node"></p>
 <!-- /wp:paragraph -->

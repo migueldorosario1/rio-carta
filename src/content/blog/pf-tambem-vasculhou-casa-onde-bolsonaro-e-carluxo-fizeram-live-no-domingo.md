@@ -7,8 +7,8 @@ slug: "pf-tambem-vasculhou-casa-onde-bolsonaro-e-carluxo-fizeram-live-no-domingo
 wp_id: 2620
 tags:
   - 'angra-dos-reis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal conduziu uma operação nesta segunda-feira, 29, que incluiu buscas e apreensões na casa de Carlos Bolsonaro (Republicanos-RJ) em Angra dos Reis (RJ). </p>
 <!-- /wp:paragraph -->

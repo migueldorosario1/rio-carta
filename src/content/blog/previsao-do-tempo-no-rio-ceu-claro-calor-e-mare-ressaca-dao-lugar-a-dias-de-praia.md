@@ -7,8 +7,8 @@ slug: "previsao-do-tempo-no-rio-ceu-claro-calor-e-mare-ressaca-dao-lugar-a-dias-
 wp_id: 1831
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A previsão do tempo no Rio de Janeiro para os próximos dias é de tempo aberto e ensolarado, sem previsão de chuva. Após a ressaca que afetou as praias no último domingo, o litoral está livre de alertas, tornando os passeios na praia uma opção atraente. O calor continua a marcar presença, com temperaturas máximas atingindo até 31 graus.</p>
 <!-- /wp:paragraph -->

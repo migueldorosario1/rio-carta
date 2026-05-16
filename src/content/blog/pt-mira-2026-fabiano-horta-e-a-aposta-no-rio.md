@@ -8,8 +8,8 @@ wp_id: 2506
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido dos Trabalhadores (PT) já está de olho nas eleições de 2026, com planos que vão além da sucessão presidencial. No Rio de Janeiro, o partido tem um nome em destaque para as eleições majoritárias: Fabiano Horta, o atual prefeito de Maricá.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "abrasel-processa-a-enel-por-apagoes-seguidos-em-niteroi"
 wp_id: 2693
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Associação Brasileira de Bares e Restaurantes (Abrasel) na Região Leste Fluminense, RJ, que representa comerciantes desse segmento na Região Metropolitana e na Região dos Lagos, ingressou com uma ação coletiva de indenização contra a Enel. </p>
 <!-- /wp:paragraph -->

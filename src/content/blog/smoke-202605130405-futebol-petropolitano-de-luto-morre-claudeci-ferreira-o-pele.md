@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "futebol", "obituario", "claudeci-ferreira", "serrana"]
 heroImage: "/hero/smoke-smoke-202605130405-futebol-petropolitano-de-luto-morre-claudeci-ferreira-o-pele.png"
+categoria_macro: lazer
 ---
 O futebol petropolitano está de luto. Morreu, nesta terça-feira (12), Claudeci Ferreira da Silva, popularmente conhecido como Pelé.
 

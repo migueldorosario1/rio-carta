@@ -7,8 +7,8 @@ slug: "niteroi-realiza-aulao-de-defesa-pessoal-para-mulheres-no-mac-neste-sabado
 wp_id: 2060
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Neste sábado, a partir das 9h, acontecerá um aulão aberto de defesa pessoal exclusivamente para mulheres no pátio do Museu de Arte Contemporânea (MAC), em Niterói. A iniciativa faz parte do projeto "Mulher em Movimento", promovido pela Coordenadoria de Políticas e Direitos das Mulheres (Codim), como parte das atividades do movimento de 21 dias pelo fim da violência contra a mulher.</em></strong></p>
 <!-- /wp:paragraph -->

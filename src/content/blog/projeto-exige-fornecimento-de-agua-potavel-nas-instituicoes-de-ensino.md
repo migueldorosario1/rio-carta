@@ -7,8 +7,8 @@ slug: "projeto-exige-fornecimento-de-agua-potavel-nas-instituicoes-de-ensino"
 tags:
   - 'nacional'
 wp_id: 2857
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Projeto de Lei 5696/23 exige o fornecimento de água potável nas instituições de ensino. O texto, em análise na Câmara dos Deputados, altera a <a href="https://www2.camara.gov.br/legin/fed/lei/1996/lei-9394-20-dezembro-1996-362578-norma-pl.html">Lei de Diretrizes e Bases da Educação Nacional</a> (LDB) e a <a href="https://www2.camara.gov.br/legin/fed/lei/2009/lei-11947-16-junho-2009-588910-norma-pl.html">Lei da Alimentação Escolar</a>.</p>
 <!-- /wp:paragraph -->

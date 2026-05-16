@@ -7,8 +7,8 @@ slug: "encontre-seu-bloco-guia-completo-dos-cortejos-de-carnaval-no-rio-2024"
 wp_id: 2516
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O carnaval do Rio de Janeiro de 2024 promete agitar a cidade com 453 cortejos de blocos de rua autorizados pela Riotur, três a menos que no ano anterior. Dentre estes, 10 são classificados como megablocos, incluindo três que foram elevados a esta categoria este ano. A região do Centro terá o maior número de desfiles, continuando a tendência de crescimento dos últimos anos.</p>
 <!-- /wp:paragraph -->

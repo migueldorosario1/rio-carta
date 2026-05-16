@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "ponte-rio-niteroi", "transito", "mobilidade-urbana", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150505-acessos-a-ponte-voltam-a-travar-em-niteroi.jpg"
+categoria_macro: geral
 ---
 Os acessos à Ponte Rio-Niterói voltaram a registrar congestionamento na manhã desta quarta-feira, com reflexos em diferentes pontos de Niterói e São Gonçalo. Segundo A Tribuna, a BR-101 e a Alameda São Boaventura apresentaram lentidão nas pistas sentido Niterói, em mais um episódio de pressão sobre o sistema viário que liga a cidade à travessia metropolitana.
 

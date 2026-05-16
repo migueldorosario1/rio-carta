@@ -7,8 +7,8 @@ slug: "taxa-de-desemprego-no-brasil-fica-no-patamar-da-pre-lava-jato"
 tags:
   - 'nacional'
 wp_id: 2785
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A taxa de desocupação no Brasil atingiu 7,4% no trimestre encerrado em dezembro de 2023, apresentando uma queda de 0,3 ponto percentual em relação ao trimestre de julho a setembro do mesmo ano, conforme dados divulgados pelo <strong>Instituto Brasileiro de Geografia e Estatística (IBGE)</strong> por meio da <strong>Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua)</strong>.</p>
 <!-- /wp:paragraph -->

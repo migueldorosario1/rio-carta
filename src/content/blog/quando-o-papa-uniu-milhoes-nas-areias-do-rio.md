@@ -7,8 +7,8 @@ slug: "quando-o-papa-uniu-milhoes-nas-areias-do-rio"
 wp_id: 6826
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Em sua primeira visita como papa, Francisco encantou os brasileiros e levou uma multidão de 3,7 milhões à Missa de Envio em Copacabana</h3>
 <!-- /wp:heading -->

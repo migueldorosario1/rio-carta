@@ -7,8 +7,8 @@ slug: "marica-entra-com-acao-judicial-contra-a-enel-devido-a-problemas-no-fornec
 wp_id: 2462
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A prefeitura de Maricá, cidade na Região Metropolitana do Rio de Janeiro, decidiu tomar medidas legais devido às frequentes falhas no fornecimento de energia elétrica relatadas pelos moradores. A Procuradoria Geral do Município anunciou que entrará com uma ação civil pública contra a Enel, a concessionária responsável pelo serviço, buscando a suspensão da concessão da Enel. Recentemente, a empresa foi multada em R$ 3,4 milhões pelo município devido aos prejuízos causados à população. Na noite de terça-feira, como relatado anteriormente, dezenas de moradores de Itaipuaçu, que estavam sem energia elétrica, levaram colchões e roupas de cama para a praia para conseguir dormir.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "paes-corta-61-da-verba-de-atendimento-a-populacao-em-situacao-de-rua-no-r
 wp_id: 1154
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A informação foi descoberta pela vereadora Teresa Bergher (Cidadania)</strong></em></p>
 <!-- /wp:paragraph -->

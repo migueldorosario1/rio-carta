@@ -7,8 +7,8 @@ slug: "pf-identifica-origem-de-pepita-de-ouro-apreendida-na-casa-de-valdemar"
 tags:
   - 'nacional'
 wp_id: 3743
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma operação recente, a Polícia Federal realizou a apreensão de uma pepita de ouro durante buscas no endereço de Valdemar Costa Neto, presidente do Partido Liberal (PL). </p>
 <!-- /wp:paragraph -->

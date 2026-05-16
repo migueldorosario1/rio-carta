@@ -7,8 +7,8 @@ slug: "governo-lula-pretende-manter-contratos-com-starlink-apesar-dos-ataques-de
 tags:
   - 'nacional'
 wp_id: 4111
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro Paulo Pimenta, da Secretaria de Comunicação da Presidência, confirmou nesta segunda-feira que não há discussões em curso para revisar os contratos entre o governo brasileiro e a Starlink, empresa de internet por satélite do empreendedor Elon Musk. </p>
 <!-- /wp:paragraph -->

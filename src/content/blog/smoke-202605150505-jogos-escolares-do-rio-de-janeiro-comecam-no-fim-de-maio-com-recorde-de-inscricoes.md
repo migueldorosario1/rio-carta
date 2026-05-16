@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "norte-fluminense", "jogos-escolares", "esporte", "norte-noroeste-fluminense", "capital", "regiao-metropolitana", "joa", "comunidade", "campos", "educacao"]
 heroImage: "/hero/smoke-smoke-202605150505-jogos-escolares-do-rio-de-janeiro-comecam-no-fim-de-maio-com-recorde-de-inscricoes.jpeg"
+categoria_macro: lazer
 ---
 A contagem regressiva para os Jogos Escolares do Rio de Janeiro já começou. A edição 2026 do JERJ, maior competição esportiva estudantil do estado, terá início no dia 30 de maio, com disputas de vôlei, na capital, e basquete, em Campos dos Goytacazes, no Norte Fluminense.
 

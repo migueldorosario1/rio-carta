@@ -7,8 +7,8 @@ slug: "ong-viva-rio-ja-recebeu-mais-de-r-66-bilhoes-em-contratos-com-a-prefeitur
 tags:
   - 'rio-de-janeiro'
 wp_id: 878
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Modelo privado é o preferido do prefeito Eduardo Paes</strong></em></p>
 <!-- /wp:paragraph -->

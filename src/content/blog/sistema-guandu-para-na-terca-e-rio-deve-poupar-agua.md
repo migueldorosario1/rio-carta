@@ -8,8 +8,8 @@ wp_id: 7442
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">O abastecimento será retomado aos poucos, exigindo planejamento doméstico e atenção especial das áreas mais vulneráveis ao desabastecimento prolongado</h4>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "deputada-exige-revisao-do-reconhecimento-fotografico"
 wp_id: 1824
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada estadual Dani Balbi (PCdoB) é integrante da CPI do Reconhecimento Fotográfico da Alerj</em></strong></p>
 <!-- /wp:paragraph -->

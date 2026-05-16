@@ -7,8 +7,8 @@ slug: "lula-elogia-paes-durante-agenda-no-rio"
 wp_id: 4729
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Presidente Luiz Inácio Lula da Silva (PT) visitou a Comunidade do Aço em Santa Cruz, Zona Oeste do Rio de Janeiro, neste domingo chuvoso, 29, para a entrega das primeiras unidades habitacionais do programa Morar Carioca. </p>
 <!-- /wp:paragraph -->

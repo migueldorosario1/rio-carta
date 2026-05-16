@@ -7,8 +7,8 @@ slug: "bomba-anderson-torres-pode-entregar-bolsonaro-em-depoimento-a-pf"
 wp_id: 3326
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Anderson Torres, ex-ministro da Justiça, foi notificado para prestar depoimento na sede da Polícia Federal em Brasília, nesta quinta-feira, 22. Conforme reportagem do <strong><a href="https://g1.globo.com/politica/post/2024/02/19/defesa-diz-que-anderson-torres-vai-depor-quinta-e-nao-ficara-calado.ghtml">G1</a></strong>, a defesa de Torres assegurou sua presença e disposição em responder às perguntas, sem optar pelo silêncio.</p>
 <!-- /wp:paragraph -->

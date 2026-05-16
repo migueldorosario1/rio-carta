@@ -7,8 +7,8 @@ slug: "brasil-pode-registrar-ate-42-milhoes-de-casos-de-dengue-em-2024"
 tags:
   - 'nacional'
 wp_id: 2748
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ano de 2024 deve registrar 1.960.460 casos de dengue no Brasil. </p>
 <!-- /wp:paragraph -->

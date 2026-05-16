@@ -10,8 +10,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Verônica Lima, autora do pl 1735/2023, destaca que o concurso reforça a cultura dos botecos cariocas&nbsp;&nbsp;</em></p>
 <!-- /wp:paragraph -->

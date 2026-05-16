@@ -7,8 +7,8 @@ slug: "ciro-critica-moraes-e-defende-o-fim-do-inquerito-das-fake-news"
 wp_id: 4927
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-presidenciável Ciro Gomes expressou críticas ao ministro Alexandre de Moraes, do Supremo Tribunal Federal, e à condução do inquérito das fake news. </p>
 <!-- /wp:paragraph -->

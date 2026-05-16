@@ -7,8 +7,8 @@ slug: "theatro-municipal-do-rio-comemora-114-anos-com-apresentacoes-gratuitas-e-
 wp_id: 782
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento acontecerá na próxima sexta-feira (14)</strong></em></p>
 <!-- /wp:paragraph -->

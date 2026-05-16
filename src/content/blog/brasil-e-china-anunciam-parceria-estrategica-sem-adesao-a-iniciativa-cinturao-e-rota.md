@@ -7,8 +7,8 @@ slug: "brasil-e-china-anunciam-parceria-estrategica-sem-adesao-a-iniciativa-cint
 wp_id: 6016
 tags:
   - 'geopolitica'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira (20), os presidentes do Brasil, Luiz Inácio Lula da Silva, e da China, Xi Jinping, anunciarão em Brasília uma nova parceria de investimentos que não inclui uma adesão formal à Iniciativa Cinturão e Rota, conhecida globalmente como Rota da Seda. </p>
 <!-- /wp:paragraph -->

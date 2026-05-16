@@ -8,8 +8,8 @@ wp_id: 4967
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Albergaria é a aposta do PCdoB para a Câmara de Vereadores do Rio de Janeiro.</strong></em></p>
 <!-- /wp:paragraph -->

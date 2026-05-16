@@ -7,8 +7,8 @@ slug: "temporais-isolam-cidade-gaucha"
 tags:
   - 'nacional'
 wp_id: 4387
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A cidade de Canudos do Vale, localizada na região do Vale do Taquari, encontra-se isolada após os intensos temporais que atingiram o Rio Grande do Sul. </p>
 <!-- /wp:paragraph -->

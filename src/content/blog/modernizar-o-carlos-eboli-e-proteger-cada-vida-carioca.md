@@ -7,8 +7,8 @@ slug: "modernizar-o-carlos-eboli-e-proteger-cada-vida-carioca"
 wp_id: 7055
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading -->
 <h2 class="wp-block-heading">A emenda nº 88 na LDO 2026 coloca a modernização da perícia como prioridade orçamentária e reposiciona o ICCE como pilar da justiça no Rio</h2>
 <!-- /wp:heading -->

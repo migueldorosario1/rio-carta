@@ -7,8 +7,8 @@ slug: "lula-participa-da-inauguracao-do-programa-morar-carioca-do-aco"
 wp_id: 4735
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Neste domingo, 30, o presidente Luiz Inácio Lula da Silva chegou ao Rio de Janeiro para a inauguração de uma etapa do programa Morar Carioca do Aço, localizado em Santa Cruz, Zona Oeste da cidade. </p>
 <!-- /wp:paragraph -->

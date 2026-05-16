@@ -7,8 +7,8 @@ slug: "pesquisa-diz-que-60-do-publico-lgbtqiapn-sofre-violencia-de-familiares"
 tags:
   - 'nacional'
 wp_id: 4724
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Lívia Miranda, dirigente nacional da UNALGBT, defende políticas públicas para a comunidade LGBTQIAPN+</strong></em></p>
 <!-- /wp:paragraph -->

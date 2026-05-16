@@ -7,8 +7,8 @@ slug: "lira-se-manca-e-admite-que-errou-ao-atacar-ministro-de-lula"
 wp_id: 4285
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente da Câmara dos Deputados, Arthur Lira (PP-AL), durante uma entrevista ao programa "Conversa com Bial" na TV Globo, refletiu sobre sua trajetória política, marcada por conflitos e cooperações. </p>
 <!-- /wp:paragraph -->

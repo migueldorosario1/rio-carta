@@ -7,8 +7,8 @@ slug: "ministros-visitam-gramado-e-canela-para-tracar-plano-de-recuperacao-do-tu
 tags:
   - 'nacional'
 wp_id: 4586
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os ministros Celso Sabino e Paulo Pimenta realizaram uma visita nesta quarta-feira, 5, às cidades de Gramado e Canela, com o objetivo de promover iniciativas de apoio ao estado do Rio Grande do Sul e impulsionar sua recuperação econômica por meio do turismo.</p>
 <!-- /wp:paragraph -->

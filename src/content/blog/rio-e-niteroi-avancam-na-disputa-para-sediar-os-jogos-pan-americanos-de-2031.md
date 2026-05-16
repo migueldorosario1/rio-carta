@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Os prefeitos Eduardo Paes, do Rio de Janeiro, e Rodrigo Neves, de Niterói, finalizaram nesta terça-feira (07/01) a proposta oficial para candidatar as duas cidades à sede dos Jogos Pan-Americanos de 2031. </p>
 <!-- /wp:paragraph -->

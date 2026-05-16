@@ -7,8 +7,8 @@ slug: "pgr-cogita-ampliar-denuncia-contra-bolsonaro-por-fraudes-no-cartao-de-vac
 tags:
   - 'nacional'
 wp_id: 3879
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Procuradoria-Geral da República (PGR) está considerando a possibilidade de ampliar a denúncia contra o ex-presidente Jair Bolsonaro, já indiciado pela Polícia Federal (PF) em investigação sobre fraudes em certificados de vacinação contra a Covid-19. </p>
 <!-- /wp:paragraph -->

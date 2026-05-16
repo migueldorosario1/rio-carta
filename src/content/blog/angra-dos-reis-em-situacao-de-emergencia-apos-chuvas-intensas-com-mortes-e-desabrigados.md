@@ -8,8 +8,8 @@ wp_id: 2104
 tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>ANGRA DOS REIS - A Prefeitura de Angra dos Reis, localizada na Costa Verde do Rio de Janeiro, decretou situação de emergência no início da tarde deste sábado (9), após chuvas devastadoras resultarem em mortes e deixarem centenas de desabrigados. O decreto tem validade de 180 dias e autoriza a prefeitura a tomar medidas imediatas de resposta ao desastre.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 4083
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A 2ª Câmara Criminal do Tribunal de Justiça do Rio de Janeiro (TJRJ) negou, por unanimidade, recurso de apelação da ex-deputada federal Flordelis e manteve sua condenação a 50 anos de prisão. Ela foi considerada culpada pela participação no assassinato de seu marido, o pastor Anderson do Carmo, em junho de 2019.</p>
 <!-- /wp:paragraph -->

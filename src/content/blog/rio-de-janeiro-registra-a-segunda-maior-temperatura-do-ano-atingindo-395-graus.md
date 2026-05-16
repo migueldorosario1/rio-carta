@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-registra-a-segunda-maior-temperatura-do-ano-atingindo-395-
 wp_id: 2450
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira (17), o Rio de Janeiro alcançou a sua segunda maior temperatura do ano pelo segundo dia consecutivo, atingindo a máxima de 39,5 graus na Estação Marambaia, de acordo com o Inmet.</p>
 <!-- /wp:paragraph -->

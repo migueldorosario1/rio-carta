@@ -7,8 +7,8 @@ slug: "esposa-de-nem-da-rocinha-danubia-e-liberada-apos-8-anos-de-prisao"
 wp_id: 2386
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Danúbia de Souza Rangel, conhecida como Danúbia da Rocinha, ex-esposa do traficante Nem, foi liberada da prisão nesta quinta-feira (11), após cumprir pena de 8 anos, 2 meses e 20 dias. A soltura ocorreu após a assinatura do alvará de soltura pelo juiz Carlos Eduardo Carvalho de Figueiredo.</p>
 <!-- /wp:paragraph -->

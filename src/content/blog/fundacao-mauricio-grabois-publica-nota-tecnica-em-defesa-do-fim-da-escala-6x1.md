@@ -7,8 +7,8 @@ slug: "fundacao-mauricio-grabois-publica-nota-tecnica-em-defesa-do-fim-da-escala
 tags:
   - 'nacional'
 wp_id: 7716
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Pesquisadores da fundação defendem o fim da escala 6×1 e a redução da jornada de trabalho no Brasil, em meio ao debate no Congresso sobre mudanças na legislação trabalhista.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 7353
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O evento contará com a presença da deputada estadual Dani Balbi (PCdoB-RJ)</em></strong>. <em><strong>Também participam do debate Joyce Alves, Fernanda Felisberto e Irapoan Nogueira Filho Alford</strong></em></p>
 <!-- /wp:paragraph -->

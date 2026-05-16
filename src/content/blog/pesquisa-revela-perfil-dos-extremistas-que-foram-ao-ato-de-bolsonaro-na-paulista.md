@@ -7,8 +7,8 @@ slug: "pesquisa-revela-perfil-dos-extremistas-que-foram-ao-ato-de-bolsonaro-na-p
 tags:
   - 'nacional'
 wp_id: 3522
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma manifestação na Avenida Paulista, convocada por Jair Bolsonaro, reuniu aproximadamente 185 mil pessoas. </p>
 <!-- /wp:paragraph -->

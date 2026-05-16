@@ -7,8 +7,8 @@ slug: "lancamento-do-livro-a-producao-do-clube-no-centro-do-rio-de-janeiro"
 wp_id: 934
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Neste sábado, dia 5 de agosto, será realizado o lançamento do livro "A PRODUÇÃO DO CLUBE: PODER, NEGÓCIO E COMUNIDADE NO FUTEBOL", de autoria de Irlan Simões. O evento acontecerá no Al-Fárábi, localizado na Rua do Mercado, 34, no Centro do Rio de Janeiro, a partir das 14h.</p>
 <!-- /wp:paragraph -->

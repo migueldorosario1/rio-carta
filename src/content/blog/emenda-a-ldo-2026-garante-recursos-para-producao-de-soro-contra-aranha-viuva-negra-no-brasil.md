@@ -8,8 +8,8 @@ wp_id: 7022
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Instituto Vital Brazil, em Niterói, receberá investimento para ampliar produção do único soro antilatrodéctico do país</h3>
 <!-- /wp:heading -->

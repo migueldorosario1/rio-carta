@@ -8,8 +8,8 @@ wp_id: 388
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou, em primeira discussão, nesta terça-feira (06/06), o Projeto de Lei 256/23, da deputada Dani Balbi (PCdoB), que autoriza a criação da Fototeca Estadual do Estado do Rio no âmbito do Museu da Imagem e do Som (MIS). O texto ainda precisa ser votado em segunda discussão pela Casa.</p>
 <!-- /wp:paragraph -->

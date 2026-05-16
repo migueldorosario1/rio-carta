@@ -7,8 +7,8 @@ slug: "marcio-ayer-se-a-moradia-e-um-direito-ocupar-e-um-dever"
 wp_id: 3573
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em sua última passagem pelo Rio, o presidente Lula lançou o Programa de Democratização de Imóveis da União. Acertada, a ideia é utilizar prédios e áreas públicas sem uso definido para construir moradias populares, em parceria com o Programa Minha Casa Minha Vida e outras iniciativas semelhantes promovidas por prefeituras, governos estaduais e parcerias público-privadas. Além das moradias, os espaços cedidos também poderão ser utilizados para a construção de outros equipamentos públicos, como escolas, hospitais, centros culturais e esportivos.</p>
 <!-- /wp:paragraph -->

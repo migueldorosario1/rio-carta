@@ -7,8 +7,8 @@ slug: "dolar-encerra-com-leve-alta-no-brasil-apos-flutuacoes-durante-o-dia"
 tags:
   - 'nacional'
 wp_id: 5403
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O dólar fechou esta segunda-feira em leve alta no Brasil, marcando a segunda sessão consecutiva de ganhos, refletindo as incertezas do mercado sobre a capacidade do governo de Lula em manter o equilíbrio das contas públicas.</p>
 <!-- /wp:paragraph -->

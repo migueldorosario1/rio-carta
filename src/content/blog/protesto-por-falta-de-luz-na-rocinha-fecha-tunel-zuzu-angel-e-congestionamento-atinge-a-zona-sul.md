@@ -7,8 +7,8 @@ slug: "protesto-por-falta-de-luz-na-rocinha-fecha-tunel-zuzu-angel-e-congestiona
 wp_id: 1958
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Nesta quinta-feira, moradores da Rocinha, bairro localizado na Zona Oeste do Rio de Janeiro, fecharam o túnel Zuzu Angel em protesto contra a falta de energia elétrica na região, que já persiste pelo nono dia consecutivo. O bloqueio afetou significativamente o trânsito na Zona Sul da cidade, aumentando em cerca de 30 minutos o tempo de deslocamento para quem utiliza essa rota.</em></strong></p>
 <!-- /wp:paragraph -->

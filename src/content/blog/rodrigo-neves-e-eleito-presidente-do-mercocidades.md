@@ -8,8 +8,8 @@ wp_id: 6135
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Rodrigo Neves, prefeito eleito de Niterói, assumirá a presidência do Mercocidades no período de dezembro de 2025 a dezembro de 2026.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 6682
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Tributo já financiou R$ 1 bilhão em melhorias para os Bombeiros do RJ, incluindo viaturas, helicópteros e drones de resgate</h3>
 <!-- /wp:heading -->

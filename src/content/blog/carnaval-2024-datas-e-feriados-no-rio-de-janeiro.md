@@ -7,8 +7,8 @@ slug: "carnaval-2024-datas-e-feriados-no-rio-de-janeiro"
 wp_id: 2278
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Carnaval de 2024 está programado para começar na sexta-feira, 9 de fevereiro, e se estender até a Quarta-feira de Cinzas, 14 de fevereiro. A festividade é conhecida por seus desfiles de escolas de samba, blocos de rua e outras celebrações que ocorrem em todo o Brasil, com algumas cidades começando suas festividades e ensaios ainda em dezembro do ano anterior.</p>
 <!-- /wp:paragraph -->

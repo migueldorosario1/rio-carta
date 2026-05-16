@@ -7,8 +7,8 @@ slug: "cupula-bolsonarista-admite-que-ato-em-copacabana-foi-um-fracasso"
 tags:
   - 'nacional'
 wp_id: 4298
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>"Aliados de primeira hora de Jair Bolsonaro estão decepcionados com o número de apoiadores presentes no ato chamado pelo ex-presidente no domingo passado, no Rio", reporta a jornalista <strong>Bela Megale</strong> em sua coluna no <strong><a href="https://oglobo.globo.com/blogs/bela-megale/post/2024/04/a-decepcao-dos-bolsonaristas-com-a-manifestacao-do-rio-de-janeiro.ghtml?li_source=LI&amp;li_medium=news-page-widget">O Globo</a></strong>.</p>
 <!-- /wp:paragraph -->

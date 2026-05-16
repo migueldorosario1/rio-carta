@@ -9,8 +9,8 @@ tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada Dani Balbi (PCdoB) foi a responsável pela filiação de Sophia; a professora foi discriminada pela prefeitura de Angra </em></strong></p>
 <!-- /wp:paragraph -->

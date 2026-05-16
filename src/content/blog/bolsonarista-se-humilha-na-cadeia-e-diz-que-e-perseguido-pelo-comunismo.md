@@ -7,8 +7,8 @@ slug: "bolsonarista-se-humilha-na-cadeia-e-diz-que-e-perseguido-pelo-comunismo"
 tags:
   - 'politica-rj'
 wp_id: 3683
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Esdras dos Santos, identificado como militante bolsonarista e atualmente fugitivo da Justiça brasileira, declarou estar vivendo em condição de refugiado em outro país. </p>
 <!-- /wp:paragraph -->

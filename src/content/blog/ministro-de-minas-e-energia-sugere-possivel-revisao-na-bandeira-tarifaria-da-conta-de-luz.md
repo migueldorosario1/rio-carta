@@ -7,8 +7,8 @@ slug: "ministro-de-minas-e-energia-sugere-possivel-revisao-na-bandeira-tarifaria
 tags:
   - 'nacional'
 wp_id: 5076
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro de Minas e Energia, Alexandre Silveira, afirmou nesta quarta-feira (4) que a bandeira tarifária das contas de luz, atualmente no patamar vermelho 2, pode ser revisada. </p>
 <!-- /wp:paragraph -->

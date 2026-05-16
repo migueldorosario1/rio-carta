@@ -7,8 +7,8 @@ slug: "julgamento-de-caso-marielle-franco-ex-policiais-ronnie-lessa-e-elcio-de-q
 wp_id: 5844
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os ex-policiais militares Ronnie Lessa e Élcio de Queiroz, acusados pelos assassinatos de Marielle Franco e Anderson Gomes, enfrentarão julgamento por júri popular no próximo dia 30 de outubro, no 4º Tribunal do Júri do Rio de Janeiro, situado no centro da cidade, a partir das 9h.</p>
 <!-- /wp:paragraph -->

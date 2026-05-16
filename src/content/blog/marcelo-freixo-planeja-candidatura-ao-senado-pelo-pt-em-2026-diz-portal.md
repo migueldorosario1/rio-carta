@@ -8,8 +8,8 @@ wp_id: 2294
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Marcelo Freixo, atual líder da Embratur, está vislumbrando um horizonte político ampliado. Segundo fontes do portal Tempo Real RJ, Freixo, frequentemente cotado para uma parceria com Eduardo Paes na prefeitura do Rio, na verdade tem seus olhos voltados para 2026 com aspirações ao Senado pelo Partido dos Trabalhadores (PT). Essa movimentação é parte de uma estratégia mais ampla para contrapor-se à influência bolsonarista na política nacional, especialmente no Senado, onde se prevê uma forte presença desse espectro político no Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

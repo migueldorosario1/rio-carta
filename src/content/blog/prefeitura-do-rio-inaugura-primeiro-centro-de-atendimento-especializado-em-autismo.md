@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-inaugura-primeiro-centro-de-atendimento-especializado-e
 wp_id: 2911
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O primeiro Centro de Estímulo ao Desenvolvimento no Transtorno do Espectro Autista (TEA) da cidade do Rio de Janeiro foi oficialmente inaugurado pela Prefeitura nesta quarta-feira, 31. </p>
 <!-- /wp:paragraph -->

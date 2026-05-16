@@ -7,8 +7,8 @@ slug: "iuperj-abre-inscricoes-para-mestrado-e-doutorado-em-sociologia-politica"
 wp_id: 6994
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>As inscrições estão abertas até o dia 25 de julho. Há bolsas de estudos disponíveis.</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "dani-balbi-a-hora-e-a-vez-do-emprego-verde"
 wp_id: 1253
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Enfrentar as mudanças climáticas é uma exigência de nossa época. Iniciativas socioambientais do mundo privado são bem-vindas</em></strong></p>
 <!-- /wp:paragraph -->

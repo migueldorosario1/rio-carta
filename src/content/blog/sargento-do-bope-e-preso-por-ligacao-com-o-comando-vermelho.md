@@ -7,8 +7,8 @@ slug: "sargento-do-bope-e-preso-por-ligacao-com-o-comando-vermelho"
 wp_id: 7552
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A PF afirma que a infiltração permitia que criminosos antecipassem operações, revelando falhas estruturais e a necessidade de reformas profundas</h3>
 <!-- /wp:heading -->

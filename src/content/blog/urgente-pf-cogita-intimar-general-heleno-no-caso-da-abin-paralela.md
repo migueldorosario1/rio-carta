@@ -7,8 +7,8 @@ slug: "urgente-pf-cogita-intimar-general-heleno-no-caso-da-abin-paralela"
 tags:
   - 'nacional'
 wp_id: 2700
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal está considerando a possibilidade de intimar o General Augusto Heleno Ribeiro para prestar depoimento no escândalo da "Abin Paralela", de acordo com informações do colunista <strong>Rodrigo Rangel</strong>, no <strong><a href="https://www.metropoles.com/colunas/rodrigo-rangel/general-heleno-esta-no-radar-da-pf">Metrópoles</a></strong>.</p>
 <!-- /wp:paragraph -->

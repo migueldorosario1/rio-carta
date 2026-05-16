@@ -7,8 +7,8 @@ slug: "turismo-lgbt-no-brasil-e-fortalecido-com-retomada-da-parceria-da-embratur
 tags:
   - 'nacional'
 wp_id: 766
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A assinatura do contrato de associação da Agência foi feita pelo presidente Marcelo Freixo e pelo gerente da entidade no Brasil, Clovis Casemiro. A parceria irá promover o país no exterior com foco na diversidade, no respeito e na inclusão</strong></em></p>
 <!-- /wp:paragraph -->

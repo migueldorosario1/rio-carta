@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O estado do Rio de Janeiro se destaca mais uma vez como um dos principais beneficiados pelo programa Bolsa Família em agosto. Com um investimento de R$ 1,19 bilhão do Governo Federal, cerca de 1,78 milhão de famílias fluminenses, distribuídas nos 92 municípios, estão programadas para receberem auxílio. O estado figura em terceiro lugar no país, atrás apenas de São Paulo e Bahia, com um valor médio de repasse por família de R$ 671,33. O cronograma de pagamentos será realizado entre 18 e 31 de agosto, seguindo o final do Número de Identificação Social (NIS).</p>
 <!-- /wp:paragraph -->

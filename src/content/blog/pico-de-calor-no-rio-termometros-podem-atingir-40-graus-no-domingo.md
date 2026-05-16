@@ -8,8 +8,8 @@ wp_id: 1892
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A cidade do Rio de Janeiro se prepara para enfrentar o auge de uma onda de calor, causada por uma massa de ar quente e seco que abrange significativa parte do território brasileiro, incluindo o estado do Rio de Janeiro. A previsão do Instituto Nacional de Meteorologia (Inmet) indica que os termômetros na capital fluminense podem chegar aos 40°C neste domingo. A situação é agravada pela baixa umidade do ar, prevista em torno de 30%, exigindo atenção redobrada e medidas de hidratação.</p>
 <!-- /wp:paragraph -->

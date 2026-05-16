@@ -7,8 +7,8 @@ slug: "eduardo-braga-e-renan-calheiros-sao-indiciados-pela-policia-federal-por-c
 tags:
   - 'nacional'
 wp_id: 5362
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal indiciou os senadores Eduardo Braga (MDB-AM) e Renan Calheiros (MDB-AL) pelos crimes de corrupção passiva, lavagem de dinheiro e organização criminosa. O ex-senador Romero Jucá (MDB-RR) também foi incluído no indiciamento.</p>
 <!-- /wp:paragraph -->

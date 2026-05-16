@@ -7,8 +7,8 @@ slug: "pt-critica-a-logica-belica-de-claudio-castr"
 wp_id: 7268
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O Partido dos Trabalhadores do Rio de Janeiro (PT-RJ) reafirma seu compromisso inegociável com a defesa da vida e com a construção de uma política de segurança pública integrada, baseada na cooperação entre a União, o Estado e os municípios</h3>
 <!-- /wp:heading -->

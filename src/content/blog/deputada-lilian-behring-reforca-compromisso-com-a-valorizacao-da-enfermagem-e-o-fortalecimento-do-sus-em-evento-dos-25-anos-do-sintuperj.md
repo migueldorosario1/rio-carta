@@ -7,8 +7,8 @@ slug: "deputada-lilian-behring-reforca-compromisso-com-a-valorizacao-da-enfermag
 wp_id: 6864
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A comemoração reuniu lideranças políticas, sindicais e acadêmicas para valorizar os profissionais da saúde no mês da enfermagem</h3>
 <!-- /wp:heading -->

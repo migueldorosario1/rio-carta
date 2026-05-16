@@ -7,8 +7,8 @@ slug: "lula-expressa-confianca-na-vitoria-de-evandro-leitao-no-segundo-turno-em-
 wp_id: 5685
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva declarou nesta sexta-feira (11) estar "confiante" na vitória de Evandro Leitão (PT) nas eleições para a Prefeitura de Fortaleza, que disputará o segundo turno contra André Fernandes (PL). </p>
 <!-- /wp:paragraph -->

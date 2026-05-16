@@ -8,8 +8,8 @@ wp_id: 6490
 tags:
   - 'volta-redonda'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><strong><em>Com elenco alternativo e sede de vitória, Flamengo enfrenta o Madureira buscando se recuperar no Carioca após estreia amarga</em></strong></p>
 <!-- /wp:paragraph -->

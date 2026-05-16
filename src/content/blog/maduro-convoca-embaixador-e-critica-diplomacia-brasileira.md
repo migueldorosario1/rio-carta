@@ -7,8 +7,8 @@ slug: "maduro-convoca-embaixador-e-critica-diplomacia-brasileira"
 wp_id: 5916
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governo do presidente Luiz Inácio Lula da Silva está avaliando a recente escalada de tensões diplomáticas com a Venezuela, desencadeada por ações e declarações do governo venezuelano de Nicolás Maduro. </p>
 <!-- /wp:paragraph -->

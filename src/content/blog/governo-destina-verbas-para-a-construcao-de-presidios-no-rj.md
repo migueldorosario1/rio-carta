@@ -7,8 +7,8 @@ slug: "governo-destina-verbas-para-a-construcao-de-presidios-no-rj"
 wp_id: 367
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><a href="https://www.ocafezinho.com/2023/06/19/governo-destina-verbas-para-a-construcao-de-presidios-no-rj/">Por Clara Machado</a></em></p>
 <!-- /wp:paragraph -->

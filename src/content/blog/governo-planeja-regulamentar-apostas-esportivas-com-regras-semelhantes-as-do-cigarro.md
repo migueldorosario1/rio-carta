@@ -7,8 +7,8 @@ slug: "governo-planeja-regulamentar-apostas-esportivas-com-regras-semelhantes-as
 tags:
   - 'nacional'
 wp_id: 5475
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro da Fazenda, Fernando Haddad, anunciou nesta quarta-feira (25), em São Paulo, que o governo está preparando uma regulamentação para as apostas esportivas, tratando-as de forma semelhante ao cigarro.</p>
 <!-- /wp:paragraph -->

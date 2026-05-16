@@ -7,8 +7,8 @@ slug: "ex-deputado-bolsonarista-e-preso-por-diversos-crimes-no-aeroporto-de-bele
 wp_id: 4241
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal confirmou a prisão de Wladimir Costa, ex-deputado federal bolsonarista pelo Pará, na manhã desta quinta-feira, 18, no Aeroporto Internacional de Belém. Costa foi detido por envolvimento em crimes eleitorais, incluindo violência política através das redes sociais contra uma deputada federal.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 6600
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Com agentes armados e orçamento milionário, a força de segurança municipal promete mudar o patrulhamento e dividir opiniões no Rio de Janeiro</h4>
 <!-- /wp:heading -->

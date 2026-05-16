@@ -5,6 +5,7 @@ pubDate: "2026-05-13T10:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "parque-aeroporto", "aterrado-do-imburo", "lagomar", "parque-ajuda-de-baixo", "programa-social", "cafe-da-manha", "prefeitura-de-macae", "desenvolvimento-social", "norte-noroeste-fluminense", "estado", "transporte-mobilidade", "educacao"]
 heroImage: "/hero/smoke-smoke-202605130705-bom-cafe-ja-conquista-o-paladar-dos-moradores-de-macae.jpg"
+categoria_macro: geral
 ---
 O Bom Café tornou-se a primeira refeição do dia para dona Izaura da Silva, 76 anos, desde a última quinta-feira (30), quando a iniciativa foi lançada pela prefeitura, através da Secretaria Municipal de Desenvolvimento Social, Acessibilidade, Direitos Humanos e Economia Solidária. São atendidas todas as pessoas que circulam pelo Terminal Cehab, no Parque Aeroporto, de segunda a sexta, em dias úteis, das 6h às 8h.
 

@@ -7,8 +7,8 @@ slug: "pf-desmonta-esquema-de-fraude-milionaria-no-bndes"
 tags:
   - 'nacional'
 wp_id: 5908
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta quarta-feira (30), a Polícia Federal deu início à Operação Wolfie com o objetivo de investigar uma tentativa de fraude contra o Banco Nacional de Desenvolvimento Econômico e Social (BNDES), estimada em R$ 300 milhões. </p>
 <!-- /wp:paragraph -->

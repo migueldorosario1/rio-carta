@@ -8,8 +8,8 @@ wp_id: 1765
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Com a chegada do feriado de Finados na quinta-feira (2), o tráfego na Ponte Rio-Niterói será significativamente mais intenso hoje, superando o fluxo habitual. De acordo com informações da concessionária Ecoponte, responsável pela administração da via, cerca de 87 mil veículos deverão deixar o Rio de Janeiro e seguir em direção a Niterói e à Região dos Lagos. Na quinta-feira, espera-se um fluxo de aproximadamente 68 mil veículos na rodovia. No retorno do feriadão, entre domingo e segunda-feira, são esperados cerca de 158 mil veículos rumo ao Rio de Janeiro. O pico de movimento nesta quarta-feira deve ocorrer entre as 14h e as 22h.</p>
 <!-- /wp:paragraph -->

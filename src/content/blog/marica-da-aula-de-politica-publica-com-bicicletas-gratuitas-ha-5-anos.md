@@ -7,8 +7,8 @@ slug: "marica-da-aula-de-politica-publica-com-bicicletas-gratuitas-ha-5-anos"
 tags:
   - 'marica'
 wp_id: 7748
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Iniciativa integra a política de tarifa zero da cidade e se soma a ônibus e vans municipais na ampliação do transporte público gratuito.</h4>
 <!-- /wp:heading -->

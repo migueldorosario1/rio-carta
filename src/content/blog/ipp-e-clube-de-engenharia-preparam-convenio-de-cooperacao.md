@@ -7,8 +7,8 @@ slug: "ipp-e-clube-de-engenharia-preparam-convenio-de-cooperacao"
 wp_id: 6526
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Presidente do <strong>Instituto Pereira Passos</strong> (IPP), Elias Jabbour procurou o Clube de Engenharia para estabelecer parcerias para o desenvolvimento do Rio de Janeiro.</em></strong></p>
 <!-- /wp:paragraph -->

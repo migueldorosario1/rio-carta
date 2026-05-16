@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:01:56Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "tce-rj", "fabiano-horta", "politica-rj", "saude"]
 heroImage: "/hero/smoke-smoke-202605150001-tce-rj-suspende-julgamento-das-contas-de-fabiano-horta-em-marica-entenda-o-que-pode-mudar.webp"
+categoria_macro: politica
 ---
 TCE-RJ suspende julgamento das contas de Fabiano Horta em Maricá; entenda o que pode mudar
 

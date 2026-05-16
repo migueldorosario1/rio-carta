@@ -7,8 +7,8 @@ slug: "rival-de-zinho-miliciano-nanan-e-morto-em-confronto-na-zona-oeste-do-rio"
 wp_id: 1794
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O miliciano Alan Ribeiro Soares, também conhecido como Nanan ou Malvadão, e um outro homem não identificado foram mortos na noite desta sexta-feira (3) no conjunto João XXIII, em Santa Cruz, Zona Oeste do Rio de Janeiro. Nanan era um dos criminosos mais procurados no Rio, com quatro mandados de prisão em seu nome. Ele liderava uma das milícias atuantes na região e mantinha uma intensa rivalidade com o grupo liderado por Luís Antônio da Silva Braga, conhecido como Zinho.</strong></em></p>
 <!-- /wp:paragraph -->

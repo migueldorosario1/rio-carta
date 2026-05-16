@@ -8,8 +8,8 @@ wp_id: 7479
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Prefeito afirmou que o governo federal pode ajudar, mas destacou que a responsabilidade legal é dos estados, criticando o “jogo de empurra” no Rio</h3>
 <!-- /wp:heading -->

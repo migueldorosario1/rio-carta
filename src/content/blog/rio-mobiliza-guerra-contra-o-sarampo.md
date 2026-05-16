@@ -8,8 +8,8 @@ wp_id: 6654
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com casos confirmados em cidades vizinhas, o Rio acelera a vacinação contra o sarampo e leva imunização a locais estratégicos para impedir a chegada do vírus</h3>
 <!-- /wp:heading -->

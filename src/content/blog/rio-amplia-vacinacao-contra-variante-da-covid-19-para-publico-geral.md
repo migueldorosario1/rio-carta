@@ -7,8 +7,8 @@ slug: "rio-amplia-vacinacao-contra-variante-da-covid-19-para-publico-geral"
 wp_id: 4829
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A partir desta quinta-feira (15), a campanha de vacinação contra a variante XBB da Covid-19 será expandida no Rio de Janeiro para incluir todas as pessoas com idade de 5 anos ou mais. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lider-do-trafico-retorna-ao-rio-apos-4-anos-em-presidio-federal"
 wp_id: 1673
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O traficante Luis Claudio Machado, conhecido como Marreta e um dos líderes da maior facção criminosa do Rio de Janeiro, retornou ao estado após cumprir quatro anos de pena na penitenciária federal de Catanduvas, no Paraná. Sua transferência para o Presídio Bangu 1, localizado em Gericinó, na Zona Oeste do Rio, ocorreu no último sábado. A Secretaria de Administração Penitenciária do Rio não forneceu detalhes sobre a operação.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "marisqueiros-reconhecidos-como-comunidade-tradicional-em-niteroi"
 wp_id: 1383
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>"Uma vitória para a cultura, a economia solidária e a preservação ambiental e de tradições niteroienses", defendeu a subsecretária de Cidadania e Economia Criativa em Niterói, Walkíria Nictheroy</em></strong></p>
 <!-- /wp:paragraph -->

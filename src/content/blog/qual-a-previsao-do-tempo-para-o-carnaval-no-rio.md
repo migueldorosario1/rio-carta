@@ -7,8 +7,8 @@ slug: "qual-a-previsao-do-tempo-para-o-carnaval-no-rio"
 wp_id: 2916
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quinta-feira, 1, o mês de fevereiro inicia com previsão de altas temperaturas, com picos superando 38°C, e chuva além da média ao longo do mês. </p>
 <!-- /wp:paragraph -->

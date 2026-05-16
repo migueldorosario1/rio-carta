@@ -8,8 +8,8 @@ wp_id: 4773
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em reunião realizada nesta segunda-feira (15), o prefeito do Rio de Janeiro e pré-candidato à reeleição, Eduardo Paes (PSD), recebeu o endosso de importantes partidos políticos para sua campanha, independentemente de sua escolha para o cargo de vice-prefeito. </p>
 <!-- /wp:paragraph -->

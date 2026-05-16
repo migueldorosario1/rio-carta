@@ -7,8 +7,8 @@ slug: "merval-aproveita-onda-da-extrema-direita-para-atacar-lula-por-criticar-is
 tags:
   - 'nacional'
 wp_id: 3318
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um recente artigo de Merval Pereira, jornalista do Globo, gerou polêmica ao afirmar que o presidente Luiz Inácio Lula da Silva teria se tornado defensor do Hamas, provocando reações por parte de críticos e apoiadores do governo. </p>
 <!-- /wp:paragraph -->

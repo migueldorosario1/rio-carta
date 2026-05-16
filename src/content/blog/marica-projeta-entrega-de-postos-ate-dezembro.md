@@ -7,8 +7,8 @@ slug: "marica-projeta-entrega-de-postos-ate-dezembro"
 tags:
   - 'marica'
 wp_id: 7772
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading">Prefeito Washington Quaquá acompanha obras e projeta entrega de 16 unidades até o fim do ano, ampliando a rede municipal de saúde</h5>
 <!-- /wp:heading -->

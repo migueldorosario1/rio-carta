@@ -7,8 +7,8 @@ slug: "pepe-mujica-expressa-preocupacao-com-sucessao-presidencial-no-brasil-em-e
 wp_id: 6088
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-presidente do Uruguai, José ‘Pepe’ Mujica, em recente entrevista à Agência France-Presse (AFP), manifestou preocupação com o futuro político do Brasil devido à ausência de um sucessor claro para o presidente Luiz Inácio Lula da Silva. </p>
 <!-- /wp:paragraph -->

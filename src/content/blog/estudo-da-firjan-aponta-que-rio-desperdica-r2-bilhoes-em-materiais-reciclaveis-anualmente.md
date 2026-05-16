@@ -7,8 +7,8 @@ slug: "estudo-da-firjan-aponta-que-rio-desperdica-r2-bilhoes-em-materiais-recicl
 wp_id: 1615
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Firjan divulgou um estudo em 2023 que revela que o estado do Rio de Janeiro descarta cerca de R$ 2 bilhões em resíduos recicláveis anualmente, ao enviar esses materiais para aterros sanitários. Segundo a pesquisa, se essa situação fosse revertida, poderia resultar em 31,9 mil novos empregos, mais de R$ 9 bilhões em renda e uma expansão produtiva de R$ 4,74 bilhões em diversos setores. Além disso, a reciclagem ajudaria a reduzir a emissão de 5,3 milhões de toneladas de carbono. A Firjan propõe a ampliação da coleta seletiva, formas de recompensar cidadãos e empresas que geram resíduos recicláveis e a formalização de cooperativas de catadores como medidas para reverter esse cenário.</p>
 <!-- /wp:paragraph -->

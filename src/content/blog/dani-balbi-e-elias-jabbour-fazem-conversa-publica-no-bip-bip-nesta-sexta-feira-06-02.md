@@ -7,8 +7,8 @@ slug: "dani-balbi-e-elias-jabbour-fazem-conversa-publica-no-bip-bip-nesta-sexta-
 wp_id: 7657
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O bar Bip Bip, tradicional reduto de resistência da cultura e da política, será palco nesta sexta-feira (6), às 19h, do debate público “Povo, Soberania e Desenvolvimento: Desafios para o Brasil do Futuro”. O debate será conduzido pelo geógrafo e professor Elias Jabbour e pela deputada estadual Dani Balbi (PCdoB). A conversa começa às 19h, em Copacabana, zona sul carioca. Depois do papo, o encontro continua com roda de samba.</p>
 <!-- /wp:paragraph -->

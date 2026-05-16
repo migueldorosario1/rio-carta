@@ -7,8 +7,8 @@ slug: "miguel-do-rosario-quem-financia-a-transparencia-internacional"
 tags:
   - 'nacional'
 wp_id: 3004
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Spoiler: 59% vem de governos. O governo dos EUA foi o principal doador em 2022 e nos últimos anos.</p>
 <!-- /wp:paragraph -->

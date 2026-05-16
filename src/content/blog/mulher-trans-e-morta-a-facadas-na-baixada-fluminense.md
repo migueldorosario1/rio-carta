@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Julia Nicoly Moreira da Silva, 34, foi atingida por golpes no pescoço e peito, além de ter tido a boca amordaçada e os pulsos amarrados</em></strong></p>
 <!-- /wp:paragraph -->

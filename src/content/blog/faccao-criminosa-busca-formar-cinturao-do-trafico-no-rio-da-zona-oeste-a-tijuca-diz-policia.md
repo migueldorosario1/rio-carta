@@ -7,8 +7,8 @@ slug: "faccao-criminosa-busca-formar-cinturao-do-trafico-no-rio-da-zona-oeste-a-
 wp_id: 2608
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A guerra pelo controle territorial na Zona Oeste do Rio de Janeiro teve um novo episódio marcante na última semana. Quatro criminosos foram mortos em confrontos entre milicianos e traficantes pelo domínio das áreas de Gardênia Azul, em Jacarepaguá, e Rio das Pedras, no Itanhangá. Essas regiões, historicamente dominadas por grupos paramilitares, têm enfrentado repetidas investidas do Comando Vermelho desde o ano passado.</p>
 <!-- /wp:paragraph -->

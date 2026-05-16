@@ -8,8 +8,8 @@ wp_id: 1754
 tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira, uma operação conjunta entre a Polícia Federal e o Grupo de Atuação Especial de Repressão ao Crime Organizado (Gaeco), do Ministério Público do Rio, concentra-se na apreensão e sequestro dos bens pertencentes à milícia que opera em Rio das Pedras, na Zona Oeste do Rio de Janeiro. Entre os itens apreendidos e confiscados estão uma frota de veículos blindados de luxo, embarcações e um imóvel de R$ 2 milhões localizado em Angra dos Reis, na Costa Verde. Até o momento, dez pessoas foram detidas ao longo de dois dias de operação.</p>
 <!-- /wp:paragraph -->

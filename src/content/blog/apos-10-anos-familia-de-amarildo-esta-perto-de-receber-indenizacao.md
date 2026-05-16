@@ -7,8 +7,8 @@ slug: "apos-10-anos-familia-de-amarildo-esta-perto-de-receber-indenizacao"
 wp_id: 799
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>STJ decidiu que estado do Rio deve pagar R$ 500 mil para a viúva</strong></em></p>
 <!-- /wp:paragraph -->

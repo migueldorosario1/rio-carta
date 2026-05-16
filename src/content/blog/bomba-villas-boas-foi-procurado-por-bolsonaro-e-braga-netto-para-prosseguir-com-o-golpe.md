@@ -7,8 +7,8 @@ slug: "bomba-villas-boas-foi-procurado-por-bolsonaro-e-braga-netto-para-prossegu
 tags:
   - 'nacional'
 wp_id: 3706
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nos meses que antecederam os atos de 8 de janeiro de 2023, quando apoiadores do ex-presidente Jair Bolsonaro invadiram a Praça dos Três Poderes em Brasília, importantes encontros ocorreram envolvendo o general Eduardo Villas Bôas, ex-assessor do Gabinete de Segurança Institucional da Presidência da República durante o governo Bolsonaro. </p>
 <!-- /wp:paragraph -->

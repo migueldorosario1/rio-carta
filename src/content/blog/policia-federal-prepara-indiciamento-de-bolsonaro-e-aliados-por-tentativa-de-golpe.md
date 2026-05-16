@@ -7,8 +7,8 @@ slug: "policia-federal-prepara-indiciamento-de-bolsonaro-e-aliados-por-tentativa
 wp_id: 5746
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal deve indiciar o ex-presidente Jair Bolsonaro, junto com outros altos oficiais, em novembro deste ano, em um inquérito que investiga a tentativa de golpe de Estado após as eleições de 2022.</p>
 <!-- /wp:paragraph -->

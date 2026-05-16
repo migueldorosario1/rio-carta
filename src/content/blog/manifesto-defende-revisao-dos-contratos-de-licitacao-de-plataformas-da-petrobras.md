@@ -8,8 +8,8 @@ wp_id: 3973
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A revisão das regras de licitação das plataformas P-84 e P85, a fim de que as unidades possam ser parcialmente construídas no Brasil, é uma das propostas do manifesto lançado nesta segunda-feira, 25, em Niterói (RJ), pelo Fórum em Defesa da Indústria Naval e Offshore do Rio de Janeiro, Frente Parlamentar Nacional em Defesa da Indústria Naval e Frente Parlamentar Estadual de Acompanhamento do Pólo Gaslub. Encaminhado ao presidente Luiz Inácio Lula da Silva, o documento dá ênfase à defesa dos empregos nas indústrias de petróleo, gás e naval.</p>
 <!-- /wp:paragraph -->

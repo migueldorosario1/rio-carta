@@ -7,8 +7,8 @@ slug: "decisoes-judiciais-encerram-greves-engessam-entidades-e-viram-dilemas-par
 wp_id: 518
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Por José Roberto Medeiros</em></p>
 <!-- /wp:paragraph -->

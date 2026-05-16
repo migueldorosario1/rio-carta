@@ -7,8 +7,8 @@ slug: "base-aliada-de-lula-na-camara-cobra-fim-de-contratos-bilionarios-com-empr
 tags:
   - 'nacional'
 wp_id: 4295
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na Câmara dos Deputados, parlamentares da base aliada ao presidente Lula (PT) estão pressionando pelo encerramento de contratos milionários do governo com empresas israelenses, relata Paulo Cappelli, do <strong><a href="https://www.metropoles.com/colunas/paulo-cappelli/base-lula-cobra-fim-contratos-bilionarios-defesa-israel">Metrópoles</a></strong>. </p>
 <!-- /wp:paragraph -->

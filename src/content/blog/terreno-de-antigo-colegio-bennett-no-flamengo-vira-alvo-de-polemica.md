@@ -7,8 +7,8 @@ slug: "terreno-de-antigo-colegio-bennett-no-flamengo-vira-alvo-de-polemica"
 tags:
   - 'flamengo'
 wp_id: 6982
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Construtora pretende criar condomínio no local. Deputada Dani Balbi (PCdoB) protocolou pedidos de esclarecimentos no IPHAN, no INEPAC e no IRPH</strong></em></p>
 <!-- /wp:paragraph -->

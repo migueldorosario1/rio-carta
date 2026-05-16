@@ -7,8 +7,8 @@ slug: "datafolha-indica-lideranca-de-nunes-em-sp"
 wp_id: 5209
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa Datafolha divulgada nesta quinta-feira (12) coloca o atual prefeito de São Paulo, Ricardo Nunes do MDB, na liderança da corrida eleitoral com 27% das intenções de voto. Ele é seguido de perto por Guilherme Boulos do PSOL, que possui 25%. Pablo Marçal do PRTB, apresenta uma queda para 19% das intenções de voto.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lula-busca-alianca-com-pacheco-para-fortalecer-candidatura-do-pt-em-bh"
 wp_id: 4715
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva (PT) está em negociação com o presidente do Senado, Rodrigo Pacheco (PSD-MG), para assegurar apoio ao pré-candidato petista Rogério Correia na disputa pela prefeitura de Belo Horizonte. </p>
 <!-- /wp:paragraph -->

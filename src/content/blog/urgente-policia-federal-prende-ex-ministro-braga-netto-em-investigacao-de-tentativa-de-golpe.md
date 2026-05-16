@@ -8,8 +8,8 @@ wp_id: 6198
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal realizou uma operação significativa neste sábado (14), resultando na prisão do general da reserva Walter Braga Netto, ex-ministro da Casa Civil durante o governo de Jair Bolsonaro e candidato a vice-presidente na eleição de 2022. </p>
 <!-- /wp:paragraph -->

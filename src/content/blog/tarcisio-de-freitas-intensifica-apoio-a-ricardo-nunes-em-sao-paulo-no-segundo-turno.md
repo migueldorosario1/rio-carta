@@ -7,8 +7,8 @@ slug: "tarcisio-de-freitas-intensifica-apoio-a-ricardo-nunes-em-sao-paulo-no-seg
 wp_id: 5811
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Governador de São Paulo, Tarcísio de Freitas (Republicanos), tem intensificado seu apoio a Ricardo Nunes (MDB) nas eleições municipais de São Paulo, utilizando inclusive um helicóptero para participar de atos de campanha.</p>
 <!-- /wp:paragraph -->

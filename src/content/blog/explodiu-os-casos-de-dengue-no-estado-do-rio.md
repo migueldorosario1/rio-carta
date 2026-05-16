@@ -7,8 +7,8 @@ slug: "explodiu-os-casos-de-dengue-no-estado-do-rio"
 wp_id: 3178
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O estado do Rio de Janeiro registrou um aumento significativo nos casos prováveis de dengue, alcançando 39.311 ocorrências e três óbitos desde janeiro até 12 de fevereiro do corrente ano, segundo informações do Painel Monitora da Secretaria de Estado de Saúde. </p>
 <!-- /wp:paragraph -->

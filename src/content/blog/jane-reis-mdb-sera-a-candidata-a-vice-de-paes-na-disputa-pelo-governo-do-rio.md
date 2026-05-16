@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes (PSD), confirmou nesta quinta-feira a escolha da advogada Jane Reis (MDB) como candidata a vice-governadora em sua chapa na disputa pelo Palácio Guanabara. A definição consolida a aliança entre o PSD e Washington Reis, presidente estadual do MDB e ex-prefeito de Duque de Caxias, irmão da candidata a vice.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "operacao-contra-o-cv-avanca-e-revela-drogas-em-escola-do-rio"
 tags:
   - 'seguranca-publica'
 wp_id: 7392
+categoria_macro: seguranca
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Policiais encontraram maconha, cocaína e crack em área desativada da escola Joaquim Edson de Camargo, durante etapa da Operação Contenção na Vila Kennedy</h4>
 <!-- /wp:heading -->

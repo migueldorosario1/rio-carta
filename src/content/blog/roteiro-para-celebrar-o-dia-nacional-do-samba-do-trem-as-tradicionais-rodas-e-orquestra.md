@@ -8,8 +8,8 @@ wp_id: 2056
 tags:
   - 'niteroi'
   - 'sao-goncalo'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>As celebrações do Dia Nacional do Samba, neste sábado, 2 de dezembro, prometem uma programação diversificada para os amantes desse ritmo tão brasileiro. Com opções para todos os gostos e a maioria delas gratuitas, é uma oportunidade de se divertir ao som do samba. Confira algumas das principais opções:</p>
 <!-- /wp:paragraph -->

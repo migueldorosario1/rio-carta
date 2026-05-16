@@ -8,8 +8,8 @@ wp_id: 1110
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) anunciou a criação de uma comissão especial com o objetivo de debater e formular políticas públicas para reativar a malha ferroviária ociosa para transporte de carga no estado. A Frente Parlamentar Pró-Ferrovias Fluminense, como foi denominada, visa também explorar alternativas para o transporte de passageiros e cargas através das ferrovias. A iniciativa é uma resposta à necessidade de revitalização do setor ferroviário na região, que tem sido historicamente limitado em comparação a outros estados.</p>
 <!-- /wp:paragraph -->

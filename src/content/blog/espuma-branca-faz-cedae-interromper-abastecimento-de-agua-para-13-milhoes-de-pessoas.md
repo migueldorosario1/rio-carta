@@ -7,8 +7,8 @@ slug: "espuma-branca-faz-cedae-interromper-abastecimento-de-agua-para-13-milhoes
 wp_id: 1219
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Suspeita da direção da companhia é que contaminação venha de detergente lançado por indústrias na região</em></strong></p>
 <!-- /wp:paragraph -->

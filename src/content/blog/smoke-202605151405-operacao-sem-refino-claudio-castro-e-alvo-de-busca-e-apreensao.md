@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "operacao-sem-refino", "politica-rj", "estado", "regiao-metropolitana", "seguranca-publica", "saude"]
 heroImage: "/hero/smoke-smoke-202605151405-operacao-sem-refino-claudio-castro-e-alvo-de-busca-e-apreensao.jpg"
+categoria_macro: politica
 ---
 A ação tem como objetivo apurar a atuação de um conglomerado suspeito de utilizar estruturas societárias e financeiras para ocultação patrimonial, dissimulação de bens e evasão de recursos ao exterior.
 

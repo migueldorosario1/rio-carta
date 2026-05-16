@@ -7,8 +7,8 @@ slug: "micro-onibus-atropela-fieis-em-pernambuco-e-mata-4-pessoas-em-procissao"
 tags:
   - 'nacional'
 wp_id: 4017
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um grave acidente ocorreu neste domingo, 31, em Marcos Freire, Jaboatão dos Guararapes, região metropolitana do Recife, quando um micro-ônibus atropelou participantes de uma procissão, resultando na morte de quatro pessoas e deixando outras vinte feridas.</p>
 <!-- /wp:paragraph -->

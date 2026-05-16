@@ -7,8 +7,8 @@ slug: "riotur-lanca-pesquisa-inovadora-com-qr-codes-para-aprimorar-experiencia-t
 wp_id: 6297
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Riotur, em colaboração com a Embratur, iniciou uma pesquisa inovadora para coletar dados em tempo real sobre a experiência de turistas e moradores do Rio de Janeiro durante as festividades de final de ano.</p>
 <!-- /wp:paragraph -->

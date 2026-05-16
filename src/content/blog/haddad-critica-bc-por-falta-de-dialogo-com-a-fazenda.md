@@ -7,8 +7,8 @@ slug: "haddad-critica-bc-por-falta-de-dialogo-com-a-fazenda"
 tags:
   - 'nacional'
 wp_id: 4560
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma entrevista concedida ao jornal Valor, o ministro Fernando Haddad destacou a comunicação intensa do Banco Central (BC) com o mercado financeiro em comparação com o Ministério da Fazenda. Segundo Haddad, essa dinâmica revela uma prioridade evidente, onde o diálogo com o mercado é enfatizado em detrimento das interações com a Fazenda.</p>
 <!-- /wp:paragraph -->

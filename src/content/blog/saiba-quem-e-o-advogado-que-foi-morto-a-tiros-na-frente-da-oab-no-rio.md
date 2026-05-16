@@ -8,8 +8,8 @@ wp_id: 3511
 tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Rodrigo Marinho Crespo, advogado de 42 anos, foi assassinado a tiros na tarde de segunda-feira (26) na Avenida Marechal Câmara, localizada no centro do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

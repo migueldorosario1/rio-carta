@@ -7,8 +7,8 @@ slug: "hoteis-do-rio-alcancam-media-de-ocupacao-de-8713-na-noite-de-ano-novo"
 wp_id: 2256
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os hotéis da cidade do Rio de Janeiro registraram uma média de ocupação de 87,13% na noite de 31 de dezembro de 2023 para 1º de janeiro de 2024, conforme informações divulgadas pelo Sindicato dos Meios de Hospedagem do Município do Rio de Janeiro (HotéisRIO) nesta terça-feira (2).</p>
 <!-- /wp:paragraph -->

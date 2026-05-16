@@ -7,8 +7,8 @@ slug: "inquerito-sobre-morte-ligada-a-milicia-encontrado-na-mansao-de-zinho"
 wp_id: 2215
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Agentes descobriram uma cópia de um inquérito policial ainda em curso, investigando o assassinato de um ex-policial militar, durante uma busca na mansão de Luís Antônio da Silva Braga, mais conhecido como Zinho, líder da maior milícia do Rio. A investigação, relacionada a um crime de 2017, foi inicialmente enviada ao Ministério Público e, recentemente, retornou à Delegacia de Homicídios com um pedido de novas diligências.</p>
 <!-- /wp:paragraph -->

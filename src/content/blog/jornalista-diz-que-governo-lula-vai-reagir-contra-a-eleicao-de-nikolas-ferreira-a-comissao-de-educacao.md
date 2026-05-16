@@ -7,8 +7,8 @@ slug: "jornalista-diz-que-governo-lula-vai-reagir-contra-a-eleicao-de-nikolas-fe
 wp_id: 3689
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma reportagem veiculada pelo <strong><a href="https://www.metropoles.com/blog-do-noblat/lula-ensaia-reacao-a-nikolas-na-educacao-e-da-recado-a-camilo-santana">Metrópoles</a></strong> nesta sexta-feira, o jornalista <strong>Ricardo Noblat</strong> destacou que o Palácio do Planalto estaria considerando medidas em resposta à eleição do deputado Nikolas Ferreira (PL-MG), aliado do bolsonarismo, como presidente da Comissão de Educação da Câmara dos Deputados. </p>
 <!-- /wp:paragraph -->

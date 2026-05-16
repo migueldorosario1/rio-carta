@@ -7,8 +7,8 @@ slug: "rio-tem-novo-centro-de-acolhimento-lgbt-e-de-combate-a-violencia"
 wp_id: 1027
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>População terá suporte psicológico e jurídico com especialistas</em></strong></p>
 <!-- /wp:paragraph -->

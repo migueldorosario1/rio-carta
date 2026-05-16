@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:10Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "premio-dorinha-de-mello-pacheco", "pessoas-com-deficiencia", "nova-friburgo", "politica-rj", "capital", "regiao-metropolitana", "problemas-estruturais", "saude", "educacao"]
 heroImage: "/hero/smoke-smoke-202605130605-alerj-aprova-criacao-do-premio-dorinha-de-mello-pacheco-em-defesa-das-pessoas-com-deficiencia.jpg"
+categoria_macro: politica
 ---
 A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou, nesta terça-feira (12/05), a criação do Prêmio Dorinha de Mello Pacheco, honraria voltada a reconhecer pessoas físicas e jurídicas com atuação em defesa das pessoas com deficiência.
 

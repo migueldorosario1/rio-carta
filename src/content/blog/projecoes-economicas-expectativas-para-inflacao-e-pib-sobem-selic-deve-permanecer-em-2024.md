@@ -7,8 +7,8 @@ slug: "projecoes-economicas-expectativas-para-inflacao-e-pib-sobem-selic-deve-pe
 tags:
   - 'nacional'
 wp_id: 5011
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Analistas consultados pelo Banco Central ajustaram ligeiramente suas previsões para o IPCA e o crescimento do PIB para o final deste ano, mas mantiveram suas estimativas para a Selic em 2024, conforme a pesquisa Focus divulgada nesta segunda-feira.</p>
 <!-- /wp:paragraph -->

@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Nome foi definido no processo de prévias do partido</em></strong></p>
 <!-- /wp:paragraph -->

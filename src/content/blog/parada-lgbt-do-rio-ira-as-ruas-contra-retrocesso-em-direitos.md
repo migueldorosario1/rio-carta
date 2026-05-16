@@ -7,8 +7,8 @@ slug: "parada-lgbt-do-rio-ira-as-ruas-contra-retrocesso-em-direitos"
 wp_id: 1626
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Será no dia 19 de novembro, na Praia de Copacabana</strong></em></p>
 <!-- /wp:paragraph -->

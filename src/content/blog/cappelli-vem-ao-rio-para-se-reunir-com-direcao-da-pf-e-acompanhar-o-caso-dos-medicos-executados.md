@@ -7,8 +7,8 @@ slug: "cappelli-vem-ao-rio-para-se-reunir-com-direcao-da-pf-e-acompanhar-o-caso-
 wp_id: 1498
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Médicos foram executados em quiosque na orla da Barra</strong></em></p>
 <!-- /wp:paragraph -->

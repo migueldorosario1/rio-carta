@@ -7,8 +7,8 @@ slug: "casa-da-favela-celebra-os-autores-das-periferias-em-sua-terceira-edicao-n
 wp_id: 7000
 tags:
   - 'paraty'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O evento é promovido pela Agência de Notícias das Favelas (ANF)</strong></em></p>
 <!-- /wp:paragraph -->

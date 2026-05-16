@@ -7,8 +7,8 @@ slug: "lula-critica-desigualdade-global-na-assembleia-geral-da-onu"
 tags:
   - 'geopolitica'
 wp_id: 5459
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na abertura da Assembleia Geral das Nações Unidas nesta terça-feira (24), o presidente brasileiro Luiz Inácio Lula da Silva destacou a necessidade de reformar as instituições financeiras globais e criticou as políticas econômicas dos países ricos que perpetuam a desigualdade global.</p>
 <!-- /wp:paragraph -->

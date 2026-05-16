@@ -7,8 +7,8 @@ slug: "escolas-do-grupo-especial-do-rio-celebram-o-dia-nacional-do-samba-com-des
 wp_id: 2064
 tags:
   - 'sao-goncalo'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Para celebrar o Dia Nacional do Samba, as escolas do Grupo Especial realizarão um desfile compacto na Cidade do Samba, localizada na Gamboa, nesta sexta-feira e sábado. A festividade busca proporcionar uma prévia do que está por vir na Sapucaí em 2024, incluindo bateria, rainha, casal de mestre-sala e porta-bandeira, evoluções e, é claro, muito samba-enredo. O evento terá início com um show inédito do cantor Diogo Nogueira às 21h, marcando o lançamento do álbum "Sagrado".</strong></em></p>
 <!-- /wp:paragraph -->

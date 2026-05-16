@@ -7,8 +7,8 @@ slug: "corpo-de-menina-desaparecida-e-encontrado-na-baixada-fluminense"
 wp_id: 2117
 tags:
   - 'duque-de-caxias'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Em um trágico desfecho, a polícia localizou, no início da noite de domingo, o corpo de K.H, uma menina de 4 anos, que estava desaparecida na Baixada Fluminense. O cadáver foi encontrado enterrado às margens de um valão, no bairro Cabuçu, em Nova Iguaçu. Um tio da vítima reconheceu o corpo.</em></strong></p>
 <!-- /wp:paragraph -->

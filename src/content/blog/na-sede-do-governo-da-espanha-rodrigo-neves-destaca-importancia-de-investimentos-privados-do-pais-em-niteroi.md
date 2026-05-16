@@ -7,8 +7,8 @@ slug: "na-sede-do-governo-da-espanha-rodrigo-neves-destaca-importancia-de-invest
 wp_id: 7711
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading"><em>Prefeito cumpriu missão internacional com foco em atração de negócios para a cidade e o fortalecimento da democracia participativa</em></h4>
 <!-- /wp:heading -->

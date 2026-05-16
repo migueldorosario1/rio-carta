@@ -7,8 +7,8 @@ slug: "deputado-do-psol-revela-omissao-de-melo-sobre-riscos-de-inundacoes-em-por
 tags:
   - 'nacional'
 wp_id: 4492
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado estadual do Rio Grande do Sul Matheus Gomes (Psol) compartilhou em sua conta no X, antigo Twitter, na segunda-feira, 20, documentos redigidos por engenheiros do Departamento Municipal de Água e Esgotos (Dmae) de Porto Alegre. </p>
 <!-- /wp:paragraph -->

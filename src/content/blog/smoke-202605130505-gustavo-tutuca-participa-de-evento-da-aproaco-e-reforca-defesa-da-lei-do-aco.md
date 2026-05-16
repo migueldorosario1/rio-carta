@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "gustavo-tutuca", "lei-do-aco", "aproaco", "industria-do-aco", "sul-fluminense", "volta-redonda", "politica-rj", "regiao-metropolitana", "comunidade"]
 heroImage: "/hero/smoke-smoke-202605130505-gustavo-tutuca-participa-de-evento-da-aproaco-e-reforca-defesa-da-lei-do-aco.jpeg"
+categoria_macro: politica
 ---
 Sul Fluminense – O deputado estadual Gustavo Tutuca participou nesta segunda-feira (12) do evento “Café & Negócios do Aço”, promovido pela Associação dos Processadores de Aço do Rio de Janeiro (Aproaço) em Volta Redonda. O encontro reuniu empresários, representantes do setor metalmecânico, profissionais da contabilidade e lideranças empresariais para debater o cenário da indústria do aço, os impactos da reforma tributária e os desafios econômicos do setor no estado.
 

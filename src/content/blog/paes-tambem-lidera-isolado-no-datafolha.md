@@ -8,8 +8,8 @@ wp_id: 5320
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Pesquisa Datafolha divulgada nesta quinta-feira, 19, revela que o atual prefeito do Rio de Janeiro, Eduardo Paes (PSD), lidera a corrida eleitoral com 59% das intenções de voto. </p>
 <!-- /wp:paragraph -->

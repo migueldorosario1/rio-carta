@@ -7,8 +7,8 @@ slug: "alerj-homenageia-icones-do-cinema-nacional"
 wp_id: 371
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><a href="https://www.alerj.rj.gov.br/Visualizar/Noticia/56021">Com informações da ALERJ</a></em></p>
 <!-- /wp:paragraph -->

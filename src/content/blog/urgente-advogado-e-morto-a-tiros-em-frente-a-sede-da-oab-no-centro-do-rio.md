@@ -7,8 +7,8 @@ slug: "urgente-advogado-e-morto-a-tiros-em-frente-a-sede-da-oab-no-centro-do-rio
 wp_id: 3492
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um advogado foi morto a tiros na tarde desta segunda-feira, em frente à sede da Ordem dos Advogados do Brasil (OAB), localizada no Centro do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "governo-assina-acordo-historico-com-comunidades-quilombolas-de-alcantara"
 tags:
   - 'nacional'
 wp_id: 5346
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal assinou nesta quinta-feira (19) um termo de conciliação com as comunidades quilombolas de Alcântara, no Maranhão, encerrando uma disputa de 40 anos pela área em torno do Centro de Lançamento de Alcântara (CLA), da Força Aérea Brasileira (FAB). </p>
 <!-- /wp:paragraph -->

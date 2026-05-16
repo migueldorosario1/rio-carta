@@ -8,8 +8,8 @@ wp_id: 4832
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Rio de Janeiro testemunhou novamente cenas de violência nesta quarta-feira, com ônibus sendo incendiados e utilizados como barricadas em diferentes pontos da cidade, em resposta a duas operações distintas da Polícia Militar. </p>
 <!-- /wp:paragraph -->

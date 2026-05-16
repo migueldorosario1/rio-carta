@@ -5,6 +5,7 @@ pubDate: "2026-05-16T12:24:10Z"
 draft: false
 tags: ["rio-de-janeiro", "avenida-brasil", "caju", "seguranca-publica", "capital-estado", "sao-cristovao", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605161223-carro-roubado-e-placa-adulterada-pm-apreende-mil-lanca-perfumes-na-avenida-brasil.jpg"
+categoria_macro: seguranca
 ---
 Rio
 

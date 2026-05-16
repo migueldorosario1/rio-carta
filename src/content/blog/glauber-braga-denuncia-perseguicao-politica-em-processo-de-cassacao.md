@@ -7,8 +7,8 @@ slug: "glauber-braga-denuncia-perseguicao-politica-em-processo-de-cassacao"
 tags:
   - 'nacional'
 wp_id: 5797
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Glauber Braga (PSOL-RJ) discutiu as circunstâncias em torno do processo de cassação que enfrenta, durante uma entrevista ao programa Bom Dia 247 da TV 247.</p>
 <!-- /wp:paragraph -->

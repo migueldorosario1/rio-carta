@@ -7,8 +7,8 @@ slug: "lewandowski-nao-recebi-nenhum-pedido-do-governador-do-rio"
 wp_id: 7262
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Em meio ao caos da operação mais letal da história, eclode guerra de narrativas entre Palácio Guanabara e Brasília; Lewandowski classifica ação como "cruenta" e nega ter recebido qualquer pedido de ajuda para a operação específica</h3>
 <!-- /wp:heading -->

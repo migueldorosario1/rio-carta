@@ -7,8 +7,8 @@ slug: "brasil-condena-ataque-de-colonos-israelenses-na-cisjordania-e-cobra-medid
 tags:
   - 'geopolitica'
 wp_id: 4841
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo brasileiro condenou o ataque realizado por colonos israelenses contra a vila palestina de Jit, no norte da Cisjordânia, ocorrido na quinta-feira (15).</p>
 <!-- /wp:paragraph -->

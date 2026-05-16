@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "costa-barros", "zona-norte", "acidente", "onibus", "trem", "supervia", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "belford-roxo", "jardim-america", "madureira", "pavuna"]
 heroImage: "/hero/smoke-smoke-202605150405-onibus-colide-com-trem-em-costa-barros.png"
+categoria_macro: politica
 ---
 Um ônibus da linha 2305 (Jardim América x Castelo) colidiu com um trem por volta das 11h20 desta quarta-feira (14), nas proximidades da passagem de nível de Costa Barros, na Zona Norte do Rio.
 

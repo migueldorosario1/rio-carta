@@ -7,8 +7,8 @@ slug: "geraldo-alckmin-critica-politica-monetaria-e-destaca-desafios-para-a-econ
 tags:
   - 'nacional'
 wp_id: 5397
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O vice-presidente da República e ministro do Desenvolvimento, Indústria, Comércio e Serviços, Geraldo Alckmin, em entrevista ao jornal O Estado de S. Paulo, expressou preocupações significativas com a política monetária atual do Brasil. </p>
 <!-- /wp:paragraph -->

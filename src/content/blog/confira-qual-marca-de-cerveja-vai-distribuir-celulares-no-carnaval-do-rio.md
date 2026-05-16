@@ -7,8 +7,8 @@ slug: "confira-qual-marca-de-cerveja-vai-distribuir-celulares-no-carnaval-do-rio
 wp_id: 3108
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Brahma anunciou uma iniciativa inédita para o carnaval do Rio de Janeiro: a distribuição gratuita de celulares personalizados, denominados "Brahma Phone", visando oferecer aos foliões uma alternativa segura para curtir a festa sem preocupações com a segurança de seus próprios aparelhos. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "comissao-dos-direitos-da-mulher-da-camara-do-rio-fara-atendimentos-mensai
 wp_id: 437
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><a href="http://www.camara.rio/comunicacao/noticias/1586-comissao-de-defesa-dos-direitos-da-mulher-da-camara-do-rio-fara-atendimentos-mensais-nas-ruas">Com informações da CMRJ</a></em></p>
 <!-- /wp:paragraph -->

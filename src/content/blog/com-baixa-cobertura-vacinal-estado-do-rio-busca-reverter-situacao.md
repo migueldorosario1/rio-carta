@@ -7,8 +7,8 @@ slug: "com-baixa-cobertura-vacinal-estado-do-rio-busca-reverter-situacao"
 wp_id: 809
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Secretário propõe estender horário de postos de vacinação</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "jandira-feghali-olhem-para-a-light-e-salvem-a-eletrobras"
 wp_id: 159
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>É sobre o direito à luz e energia. É sobre soberania. É sobre o futuro que estamos falando. É disto que se trata!</em></p>
 <!-- /wp:paragraph -->

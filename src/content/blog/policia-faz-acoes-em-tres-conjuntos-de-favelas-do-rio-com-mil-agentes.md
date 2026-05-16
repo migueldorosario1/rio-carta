@@ -7,8 +7,8 @@ slug: "policia-faz-acoes-em-tres-conjuntos-de-favelas-do-rio-com-mil-agentes"
 wp_id: 1547
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Eles atuam na Vila Cruzeiro, Complexo da Maré e Cidade de Deus</em></strong></p>
 <!-- /wp:paragraph -->

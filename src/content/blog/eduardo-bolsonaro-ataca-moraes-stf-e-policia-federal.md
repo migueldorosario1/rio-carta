@@ -7,8 +7,8 @@ slug: "eduardo-bolsonaro-ataca-moraes-stf-e-policia-federal"
 wp_id: 4769
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Eduardo Bolsonaro (PL-SP) expressou críticas às investigações da Polícia Federal a respeito das joias recebidas por seu pai, o ex-presidente Jair Bolsonaro, oriundas da Arábia Saudita. </p>
 <!-- /wp:paragraph -->

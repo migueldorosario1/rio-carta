@@ -7,8 +7,8 @@ slug: "dilceia-quintela-fala-sobre-os-60-anos-do-golpe"
 wp_id: 4128
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>No marco dos 60 anos do golpe, RioCarta.com entrevistou Dilceia Quintela, militante comunista que foi torturada pela ditadura militar nos porões do DOI-CODI no Rio</strong></em></p>
 <!-- /wp:paragraph -->

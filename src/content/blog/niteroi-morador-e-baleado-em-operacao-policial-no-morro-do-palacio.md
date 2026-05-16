@@ -7,8 +7,8 @@ slug: "niteroi-morador-e-baleado-em-operacao-policial-no-morro-do-palacio"
 wp_id: 688
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Uma das moradoras do Palácio, a subsecretária de Governo e gestora do MACquinho, Walkíria Nictheroy, acompanhou a família da vítima, conhecida como Izo, no hospital</em></p>
 <!-- /wp:paragraph -->

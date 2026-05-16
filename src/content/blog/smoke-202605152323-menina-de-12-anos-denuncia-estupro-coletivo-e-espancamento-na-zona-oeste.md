@@ -5,6 +5,7 @@ pubDate: "2026-05-15T23:24:04Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "seguranca-publica", "capital-estado", "zona-sul", "copacabana", "campo-grande", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605152323-menina-de-12-anos-denuncia-estupro-coletivo-e-espancamento-na-zona-oeste.jpg"
+categoria_macro: seguranca
 ---
 Rio
 

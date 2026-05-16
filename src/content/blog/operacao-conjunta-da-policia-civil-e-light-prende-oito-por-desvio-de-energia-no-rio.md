@@ -8,8 +8,8 @@ wp_id: 5513
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma operação realizada nesta quarta-feira, 25, a Polícia Civil e a Light efetuaram a prisão de oito comerciantes no bairro de São Cristóvão, Rio de Janeiro, por envolvimento em desvio de energia elétrica. </p>
 <!-- /wp:paragraph -->

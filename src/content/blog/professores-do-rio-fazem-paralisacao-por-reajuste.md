@@ -7,8 +7,8 @@ slug: "professores-do-rio-fazem-paralisacao-por-reajuste"
 wp_id: 7795
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading">Profissionais das redes municipal e estadual do Rio de Janeiro cruzam os braços e cobram recomposição salarial acumulada desde 2019</h5>
 <!-- /wp:heading -->

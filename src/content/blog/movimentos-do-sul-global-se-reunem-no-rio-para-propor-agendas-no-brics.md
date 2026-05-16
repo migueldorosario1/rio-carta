@@ -7,8 +7,8 @@ slug: "movimentos-do-sul-global-se-reunem-no-rio-para-propor-agendas-no-brics"
 wp_id: 7525
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Reunindo lideranças sociais, pesquisadores e organizações, o encontro no Rio reforça a busca por maior participação da sociedade civil nas decisões estratégicas do Brics</h3>
 <!-- /wp:heading -->

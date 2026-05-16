@@ -8,8 +8,8 @@ wp_id: 841
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Eduardo Pazuello, Braga Netto ou Carlos Portinho?</em></strong></p>
 <!-- /wp:paragraph -->

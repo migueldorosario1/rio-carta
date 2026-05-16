@@ -8,8 +8,8 @@ wp_id: 7418
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Cedae aplicou R$ 200 milhões no Banco Master, agora sob intervenção; TCE-RJ acompanha o caso</h3>
 <!-- /wp:heading -->

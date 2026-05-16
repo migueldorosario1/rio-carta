@@ -8,8 +8,8 @@ wp_id: 1647
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Ato na ABI marcou o lançamento do programa da candidatura do PSOL para a prefeitura do Rio em 2024</strong></em></p>
 <!-- /wp:paragraph -->

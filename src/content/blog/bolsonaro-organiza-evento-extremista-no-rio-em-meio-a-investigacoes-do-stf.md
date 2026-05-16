@@ -8,8 +8,8 @@ wp_id: 4251
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Ex-presidente Jair Bolsonaro, do Partido Liberal (PL), está convocando seus apoiadores para um novo evento público. </p>
 <!-- /wp:paragraph -->

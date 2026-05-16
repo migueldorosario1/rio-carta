@@ -7,8 +7,8 @@ slug: "foto-rio-2025-debate-a-criacao-da-fototeca-estadual-do-rio-de-janeiro"
 wp_id: 7152
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A Fototeca do Rio foi criada por lei da deputada Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

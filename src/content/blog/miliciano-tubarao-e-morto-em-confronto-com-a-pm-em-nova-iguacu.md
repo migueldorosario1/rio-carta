@@ -7,8 +7,8 @@ slug: "miliciano-tubarao-e-morto-em-confronto-com-a-pm-em-nova-iguacu"
 wp_id: 3045
 tags:
   - 'nova-iguacu'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Tauã de Oliveira Francisco, de 25 anos, conhecido como "Tubarão," líder da milícia atuante em Seropédica e em parte da Baixada Fluminense, foi morto durante uma operação da Polícia Civil na manhã desta terça-feira.</p>
 <!-- /wp:paragraph -->

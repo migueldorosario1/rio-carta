@@ -5,6 +5,7 @@ pubDate: "2026-05-13T15:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "governo-rj", "detro-rj", "proderj", "transporte", "tecnologia", "politica-rj", "regiao-metropolitana", "penha", "anil", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605131205-governo-do-rio-promove-danca-das-cadeiras-no-detro-rj-e-no-proderj.jpg"
+categoria_macro: politica
 ---
 O Governo do Estado do Rio de Janeiro iniciou uma nova reestruturação administrativa em áreas estratégicas da gestão estadual. As mudanças atingem o Departamento de Transportes Rodoviários do Estado do Rio de Janeiro (Detro-RJ) e também o Centro de Tecnologia da Informação e Comunicação do Estado do Rio de Janeiro (Proderj), conforme publicações feitas no Diário Oficial desta quarta-feira (13).
 

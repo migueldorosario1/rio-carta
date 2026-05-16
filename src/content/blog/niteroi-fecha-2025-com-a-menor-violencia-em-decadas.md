@@ -8,8 +8,8 @@ wp_id: 7588
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Entenda como a cidade virou referência em segurança pública</h4>
 <!-- /wp:heading -->

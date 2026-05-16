@@ -9,8 +9,8 @@ tags:
   - 'buzios'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Superior Tribunal de Justiça (STJ) confirmou a cassação dos mandatos do prefeito de Búzios, Alexandre Martins (Republicanos), e do vice-prefeito Miguel Pereira de Souza (Republicanos) devido ao abuso de poder econômico durante as eleições de 2020. </p>
 <!-- /wp:paragraph -->

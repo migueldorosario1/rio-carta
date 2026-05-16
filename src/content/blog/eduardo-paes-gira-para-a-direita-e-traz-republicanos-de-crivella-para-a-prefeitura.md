@@ -7,8 +7,8 @@ slug: "eduardo-paes-gira-para-a-direita-e-traz-republicanos-de-crivella-para-a-p
 wp_id: 1180
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>De olho no voto conservador, prefeito traz mais um partido de direita para o secretariado</em></strong></p>
 <!-- /wp:paragraph -->

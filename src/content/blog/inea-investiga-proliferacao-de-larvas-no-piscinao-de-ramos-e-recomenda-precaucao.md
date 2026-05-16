@@ -7,8 +7,8 @@ slug: "inea-investiga-proliferacao-de-larvas-no-piscinao-de-ramos-e-recomenda-pr
 wp_id: 2342
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Instituto Estadual do Ambiente (Inea), em conjunto com a Secretaria Estadual de Meio Ambiente, iniciou uma investigação sobre a proliferação de pequenos bichos encontrados na areia e na água do Piscinão de Ramos, localizado em Ramos, na Zona Norte do Rio de Janeiro. Esta ação ocorre após denúncias de que larvas estariam se espalhando pelo conhecido espaço de lazer.</p>
 <!-- /wp:paragraph -->

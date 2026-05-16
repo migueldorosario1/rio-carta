@@ -7,8 +7,8 @@ slug: "arrecadacao-federal-atinge-r-2016-bilhoes-em-agosto-e-registra-maior-valo
 wp_id: 5343
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em agosto de 2024, a arrecadação federal do Brasil superou pela primeira vez a marca de R$ 200 bilhões, alcançando R$ 201,6 bilhões, segundo dados divulgados pela Receita Federal. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "enfermeiro-pedro-de-jesus-e-o-novo-diretor-do-hospital-cardoso-fontes-em-
 wp_id: 1012
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>É a primeira vez que um enfermeiro negro assume a função</strong></em></p>
 <!-- /wp:paragraph -->

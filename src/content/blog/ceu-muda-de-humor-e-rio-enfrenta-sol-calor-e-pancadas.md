@@ -7,8 +7,8 @@ slug: "ceu-muda-de-humor-e-rio-enfrenta-sol-calor-e-pancadas"
 wp_id: 6661
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Após um fim de semana de calor intenso, o Rio amanhece nublado e com chuva leve. Previsão aponta pancadas isoladas e leve queda de temperatura nos próximos dias</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "a-potencia-da-escrita-feminina-e-tema-da-primeira-edicao-da-roda-transatl
 wp_id: 7183
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading"><strong><em>Evento reúne Énia Lipanga e Dani Balbi em diálogo sobre literatura e combate à violência de gênero</em></strong> <em>na Casa de Rui Barbosa</em></h4>
 <!-- /wp:heading -->

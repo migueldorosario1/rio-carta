@@ -7,8 +7,8 @@ slug: "justica-da-vitoria-ao-sindicato-dos-comerciarios-do-rio-em-acao-contra-ho
 wp_id: 1851
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>De acordo com Marcio Ayer, presidente do sindicato, "o ambiente era insalubre e com condições de higiene precárias".</em></strong></p>
 <!-- /wp:paragraph -->

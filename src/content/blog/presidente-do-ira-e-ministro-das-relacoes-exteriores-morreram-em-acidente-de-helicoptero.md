@@ -7,8 +7,8 @@ slug: "presidente-do-ira-e-ministro-das-relacoes-exteriores-morreram-em-acidente
 wp_id: 4468
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Segundo informações de um oficial iraniano à Reuters nesta segunda-feira, o presidente iraniano Ebrahim Raisi e seu ministro das Relações Exteriores, Hosein Amir Abdolahian, perderam a vida em um acidente de helicóptero em terreno montanhoso na província do Azerbaijão Oriental.</p>
 <!-- /wp:paragraph -->

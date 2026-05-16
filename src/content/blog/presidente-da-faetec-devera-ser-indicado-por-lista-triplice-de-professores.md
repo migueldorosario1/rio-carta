@@ -7,8 +7,8 @@ slug: "presidente-da-faetec-devera-ser-indicado-por-lista-triplice-de-professore
 wp_id: 5967
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa é da deputada estadual Dani Balbi (PCdoB); Medida visa blindar instituição do clientelismo político</strong></em></p>
 <!-- /wp:paragraph -->

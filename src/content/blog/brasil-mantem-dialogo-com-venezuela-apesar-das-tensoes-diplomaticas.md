@@ -8,8 +8,8 @@ wp_id: 5125
 tags:
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governo brasileiro optou por manter os canais de diálogo abertos com Caracas, apesar das tensões decorrentes das recentes eleições na Venezuela, que não foram reconhecidas pelo governo de Lula. </p>
 <!-- /wp:paragraph -->

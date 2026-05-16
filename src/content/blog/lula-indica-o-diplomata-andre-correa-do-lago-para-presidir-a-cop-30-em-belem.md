@@ -7,8 +7,8 @@ slug: "lula-indica-o-diplomata-andre-correa-do-lago-para-presidir-a-cop-30-em-be
 tags:
   - 'nacional'
 wp_id: 6499
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Anúncio foi feito pela ministra Marina Silva. Foto: Agência Brasil.</em></strong></p>
 <!-- /wp:paragraph -->

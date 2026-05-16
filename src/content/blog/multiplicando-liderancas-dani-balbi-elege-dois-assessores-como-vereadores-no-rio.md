@@ -11,8 +11,8 @@ tags:
   - 'rio-de-janeiro'
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada estadual do PCdoB, Dani Balbi apoiou as candidaturas vitoriosas de Lívia Miranda em Petrópolis e Isaac Ricalde em São Gonçalo</em></strong></p>
 <!-- /wp:paragraph -->

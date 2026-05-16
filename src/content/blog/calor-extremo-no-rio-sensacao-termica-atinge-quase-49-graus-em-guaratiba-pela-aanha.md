@@ -7,8 +7,8 @@ slug: "calor-extremo-no-rio-sensacao-termica-atinge-quase-49-graus-em-guaratiba-
 wp_id: 2368
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nas primeiras horas da manhã desta quinta-feira, a cidade do Rio de Janeiro já enfrenta um calor intenso, com a sensação térmica atingindo marcas elevadas. Segundo o sistema Alerta Rio, da prefeitura, Guaratiba, na Zona Oeste, registrou uma sensação térmica de 48,8 graus, enquanto no Jardim Botânico, na Zona Sul, o índice chegou a 46,5 graus, ambos às 8h da manhã. A temperatura na Barra da Tijuca alcançou 33,6 graus.</p>
 <!-- /wp:paragraph -->

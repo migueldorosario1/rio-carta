@@ -7,8 +7,8 @@ slug: "alckmin-defende-regulamentacao-de-big-techs-contra-fake-news"
 tags:
   - 'nacional'
 wp_id: 6414
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O vice-presidente Geraldo Alckmin, do PSB, defendeu nesta quinta-feira, em entrevista à Rádio Eldorado, que as grandes empresas de tecnologia, conhecidas como big techs, devem ser responsabilizadas pela disseminação de fake news e discursos de ódio em suas plataformas. Alckmin destacou a importância de haver responsabilidade por parte dessas empresas em virtude de sua ampla influência global.</p>
 <!-- /wp:paragraph -->

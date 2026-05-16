@@ -7,8 +7,8 @@ slug: "empresa-que-comprou-futebol-do-vasco-enfrenta-problemas-dentro-e-fora-do-
 tags:
   - 'vasco-da-gama'
 wp_id: 626
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>777 Partners não tem tido bons resultados no Campeonato Brasileiro. E, agora, denúncias de má gestão no mundo inteiro repercutem na mídia</em></p>
 <!-- /wp:paragraph -->

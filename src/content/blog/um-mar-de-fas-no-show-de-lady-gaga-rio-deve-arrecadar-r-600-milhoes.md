@@ -7,8 +7,8 @@ slug: "um-mar-de-fas-no-show-de-lady-gaga-rio-deve-arrecadar-r-600-milhoes"
 wp_id: 6822
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com turismo aquecido e hotéis lotados, o Rio se transforma em maio com a presença da diva pop e o impulso de um evento global</h3>
 <!-- /wp:heading -->

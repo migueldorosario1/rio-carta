@@ -7,8 +7,8 @@ slug: "de-olho-em-2024-eduardo-paes-psd-sinaliza-para-a-direita-carioca"
 wp_id: 789
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><span><b>Na contramão do governo federal e da esquerda carioca, prefeito do Rio anunciou hoje (13/07) que manterá escola </b></span><strong>cívico-militar na cidade</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "integrante-da-mocidade-independente-de-padre-miguel-sofre-agressao-grave"
 tags:
   - 'rio-capital-zona-oeste'
 wp_id: 2032
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Um destaque de luxo da renomada escola de samba Mocidade Independente de Padre Miguel, Marcos Lerroy, foi brutalmente agredido na manhã deste domingo, próximo à sua residência. Segundo informações da escola, o incidente envolveu um desentendimento com um motorista de aplicativo. Atualmente, Lerroy está internado em estado grave no Hospital Estadual Getúlio Vargas, localizado na Penha, Zona Norte.</em></strong></p>
 <!-- /wp:paragraph -->

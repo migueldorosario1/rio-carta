@@ -7,8 +7,8 @@ slug: "camara-mantem-prisao-de-chiquinho-brazao-pelo-assassinato-de-marielle"
 wp_id: 4149
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira, 10, o plenário da Câmara dos Deputados votou pela manutenção da prisão do deputado Chiquinho Brazão (sem partido-RJ), relacionado à morte da vereadora Marielle Franco (PSOL) e do motorista Anderson Gomes em 2018. A votação resultou em 277 votos a favor da detenção e 129 contra, com 28 abstenções, totalizando 434 votantes.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "estudantes-da-faetec-mostram-a-forca-da-enfermagem"
 tags:
   - 'educacao'
 wp_id: 6872
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Convidada do evento, Lilian Behring, deputada estadual e enfermeira, falou sobre o papel transformador dos técnicos de enfermagem na rede pública de saúde</h3>
 <!-- /wp:heading -->

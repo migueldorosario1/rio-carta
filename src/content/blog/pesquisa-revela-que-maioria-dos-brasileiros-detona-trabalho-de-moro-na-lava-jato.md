@@ -7,8 +7,8 @@ slug: "pesquisa-revela-que-maioria-dos-brasileiros-detona-trabalho-de-moro-na-la
 wp_id: 3625
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nova pesquisa divulgada pelo O Globo, realizada pela Genial/Quaest, aponta que a maioria dos brasileiros desaprova a atuação do ex-juiz Sergio Moro durante a operação Lava-Jato. Segundo o levantamento, 44% dos entrevistados não aprovam o trabalho de Moro, enquanto 40% expressam aprovação.</p>
 <!-- /wp:paragraph -->

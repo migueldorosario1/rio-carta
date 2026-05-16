@@ -8,8 +8,8 @@ wp_id: 6061
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes, reacendeu as especulações sobre uma possível candidatura ao governo estadual em 2026. Durante o seminário “Caminhos do Rio”, promovido pelos jornais O Globo e Extra, Paes manifestou que poderia reconsiderar sua posição anterior de não concorrer ao cargo.</p>
 <!-- /wp:paragraph -->

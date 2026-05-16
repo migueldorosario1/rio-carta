@@ -7,8 +7,8 @@ slug: "copom-eleva-selic-para-1075-e-recebe-criticas-de-lindbergh-farias"
 tags:
   - 'nacional'
 wp_id: 5328
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Comitê de Política Monetária (Copom) anunciou, na quarta-feira (18), o aumento de 0,25 ponto percentual na taxa básica de juros, elevando a Selic para 10,75% ao ano.</p>
 <!-- /wp:paragraph -->

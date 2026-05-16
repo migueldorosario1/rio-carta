@@ -7,8 +7,8 @@ slug: "inmet-emite-alerta-de-onda-de-calor-e-baixa-umidade-para-dez-estados-e-df
 wp_id: 5471
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta laranja de onda de calor para dez estados e o Distrito Federal, com temperaturas 5°C acima da média. </p>
 <!-- /wp:paragraph -->

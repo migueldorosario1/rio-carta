@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-inaugura-dois-ginasios-educacionais-tecnologicos-na-zon
 tags:
   - 'rio-capital-zona-oeste'
 wp_id: 3055
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura do Rio inaugurou, nesta terça-feira (06), dois Ginásios Educacionais Tecnológicos (GETs) em Bangu e Santa Cruz, ambos na Zona Oeste. </p>
 <!-- /wp:paragraph -->

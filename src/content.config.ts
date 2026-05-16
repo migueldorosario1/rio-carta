@@ -16,6 +16,7 @@ const blog = defineCollection({
 		stickyUntil: z.coerce.date().optional(),
 		wp_id: z.number().optional(),
 		tags: z.array(z.string()).optional(),
+		categoria_macro: z.enum(['geral', 'politica', 'lazer', 'seguranca', 'economia', 'servicos']).optional(),
 	}),
 });
 

@@ -7,8 +7,8 @@ slug: "pesquisa-que-aprovacao-de-lula-influencia-preferencia-eleitoral-em-sp"
 wp_id: 3348
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Um recente estudo realizado pelo instituto Paraná Pesquisas, divulgado nesta terça-feira, 20, apresenta um panorama sobre a aprovação do presidente Lula entre os habitantes da cidade de São Paulo e seu impacto nas preferências eleitorais para a prefeitura, destacando um maior puxão de votos para Guilherme Boulos (PSOL) em comparação ao apoio de Jair Bolsonaro (PL) para Ricardo Nunes (MDB).</p>
 <!-- /wp:paragraph -->

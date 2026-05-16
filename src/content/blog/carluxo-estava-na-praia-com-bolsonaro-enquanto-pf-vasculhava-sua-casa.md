@@ -7,8 +7,8 @@ slug: "carluxo-estava-na-praia-com-bolsonaro-enquanto-pf-vasculhava-sua-casa"
 wp_id: 2609
 tags:
   - 'angra-dos-reis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante sua estadia em uma praia, o vereador Carlos Bolsonaro (Republicanos-RJ) foi informado de que era um dos focos de uma operação deflagrada pela Polícia Federal (PF). </p>
 <!-- /wp:paragraph -->

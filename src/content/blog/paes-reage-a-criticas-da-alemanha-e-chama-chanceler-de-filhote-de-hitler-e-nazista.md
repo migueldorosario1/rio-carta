@@ -7,8 +7,8 @@ slug: "paes-reage-a-criticas-da-alemanha-e-chama-chanceler-de-filhote-de-hitler-
 wp_id: 7377
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>A fala de Merz, vista como desrespeitosa, reacende discussões sobre preconceito europeu e mobiliza vozes brasileiras em defesa da imagem do país</strong></p>
 <!-- /wp:paragraph -->

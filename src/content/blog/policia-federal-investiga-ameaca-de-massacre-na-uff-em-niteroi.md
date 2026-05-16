@@ -8,8 +8,8 @@ wp_id: 1426
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Universidade Federal Fluminense (UFF), situada em Niterói, na Região Metropolitana do Rio de Janeiro, encontra-se sob intensa investigação da Polícia Federal devido a uma ameaça de massacre recebida por e-mail por servidores da instituição. As mensagens, recebidas na manhã de segunda-feira, dia 25, levantaram preocupações sobre a segurança na universidade e a integridade de seus alunos e funcionários.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "aliado-de-jordy-confessou-a-existencia-da-abin-paralela-no-governo-bolson
 wp_id: 2631
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal está realizando a segunda operação em menos de uma semana para apurar alegações de um suposto esquema de espionagem ilegal envolvendo a Agência Brasileira de Inteligência (Abin) durante o mandato do ex-presidente Jair Bolsonaro. </p>
 <!-- /wp:paragraph -->

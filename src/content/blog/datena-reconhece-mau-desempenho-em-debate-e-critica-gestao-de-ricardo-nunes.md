@@ -7,8 +7,8 @@ slug: "datena-reconhece-mau-desempenho-em-debate-e-critica-gestao-de-ricardo-nun
 wp_id: 4813
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>José Luiz Datena, candidato à Prefeitura de São Paulo pelo PSDB, admitiu em entrevista ao programa "Roda Viva" da TV Cultura, que teve um desempenho insatisfatório no primeiro debate eleitoral, realizado pela Bandeirantes. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 2022
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Pesquisa mostra que a disputa para ir ao segundo turno no Rio será acirrada</em></strong></p>
 <!-- /wp:paragraph -->

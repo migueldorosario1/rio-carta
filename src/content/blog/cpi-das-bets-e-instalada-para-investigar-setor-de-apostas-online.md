@@ -7,8 +7,8 @@ slug: "cpi-das-bets-e-instalada-para-investigar-setor-de-apostas-online"
 tags:
   - 'nacional'
 wp_id: 5850
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta sexta-feira (25), será instalada a Comissão Parlamentar de Inquérito (CPI) das Bets no Senado Federal. Proposta pela senadora Soraya Thronicke (Podemos-MS), a CPI tem como foco principal investigar o setor de apostas online e suas possíveis ligações com o crime organizado.</p>
 <!-- /wp:paragraph -->

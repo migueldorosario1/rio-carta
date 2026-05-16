@@ -7,8 +7,8 @@ slug: "eduardo-bolsonaro-nao-se-segura-e-volta-atacar-as-urnas-eletronicas"
 wp_id: 3478
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado Eduardo Bolsonaro, filho do ex-presidente Jair Bolsonaro, expressou críticas ao sistema eleitoral brasileiro e às urnas eletrônicas. </p>
 <!-- /wp:paragraph -->

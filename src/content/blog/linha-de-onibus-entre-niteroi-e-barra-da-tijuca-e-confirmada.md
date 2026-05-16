@@ -8,8 +8,8 @@ wp_id: 1667
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Departamento de Transportes Rodoviários do Estado do Rio de Janeiro (Detro) confirmou a implantação de uma nova linha de ônibus intermunicipal, ligando o Centro de Niterói à Barra da Tijuca, na Zona Oeste do Rio de Janeiro. A notícia chega após um estudo técnico realizado pelo Detro para avaliar a viabilidade de novas conexões intermunicipais.</p>
 <!-- /wp:paragraph -->

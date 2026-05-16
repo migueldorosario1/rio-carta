@@ -7,8 +7,8 @@ slug: "camila-moura-esposa-de-leo-moura-surpreende-com-semelhanca-com-gracyanne-
 tags:
   - 'cultura-carnaval'
 wp_id: 2333
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p>Camila Moura, esposa do ex-jogador de futebol Léo Moura, causou furor nas redes sociais após ser fotografada com ele em Maragogi, um dos destinos mais paradisíacos do litoral de Alagoas. A psicóloga e influenciadora digital, conhecida por sua elegância e estilo, exibiu um look ousado que deixava sua barriga à mostra, revelando um físico bem definido e bronzeado. Essa aparição deslumbrante levou à comparação imediata com Gracyanne Barbosa, a musa fitness famosa por seu corpo extremamente trabalhado.</p>
 <!-- /wp:paragraph -->

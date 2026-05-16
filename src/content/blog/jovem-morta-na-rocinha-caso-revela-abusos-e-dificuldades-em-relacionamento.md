@@ -7,8 +7,8 @@ slug: "jovem-morta-na-rocinha-caso-revela-abusos-e-dificuldades-em-relacionament
 wp_id: 1245
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A tragédia envolvendo a morte de Jenifer Carvalho Paes na Rocinha, Rio de Janeiro, trouxe à tona uma história de agonia, abusos e dificuldades enfrentadas pela jovem. Seu pai, Rodrigo Carvalho, relatou ter recebido uma imagem chocante da filha com a cabeça ensanguentada após o trágico evento. O caso lança luz sobre um relacionamento marcado por brigas, agressões, fome e controle financeiro, revelando um cenário perturbador.</p>
 <!-- /wp:paragraph -->

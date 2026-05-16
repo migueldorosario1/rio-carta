@@ -7,8 +7,8 @@ slug: "delegado-suspeito-no-caso-marielle-vai-ao-stf-pedir-que-alto-salario-seja
 wp_id: 4692
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O delegado Giniton Lages, anteriormente encarregado da investigação do assassinato da ex-vereadora Marielle Franco, recorreu ao Supremo Tribunal Federal (STF) para contestar as restrições financeiras impostas em seu salário. </p>
 <!-- /wp:paragraph -->

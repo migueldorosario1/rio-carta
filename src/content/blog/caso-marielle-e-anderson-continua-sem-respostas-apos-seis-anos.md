@@ -7,8 +7,8 @@ slug: "caso-marielle-e-anderson-continua-sem-respostas-apos-seis-anos"
 wp_id: 3765
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O caso dos homicídios da vereadora Marielle Franco (PSOL) e de seu motorista, Anderson Gomes, marca seu sexto aniversário nesta quinta-feira, 14, permanecendo sem solução definitiva. Atualmente, quatro suspeitos encontram-se sob custódia:</p>
 <!-- /wp:paragraph -->

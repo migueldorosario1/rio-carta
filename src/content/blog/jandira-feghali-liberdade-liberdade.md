@@ -7,8 +7,8 @@ slug: "jandira-feghali-liberdade-liberdade"
 wp_id: 1313
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Mais da metade dos eleitores optou por Lula e, agora, teremos um 7 de Setembro digno do sonho e da luta por um outro Brasil</em></strong></p>
 <!-- /wp:paragraph -->

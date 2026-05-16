@@ -7,8 +7,8 @@ slug: "bomba-universidade-britanica-esta-envolvida-com-industria-da-guerra-em-is
 tags:
   - 'geopolitica'
 wp_id: 3383
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Trinity College, parte da Universidade de Cambridge, aplicou milhões de dólares em corporações envolvidas na guerra de Israel em Gaza, conforme revelado pelo Middle East Eye.</p>
 <!-- /wp:paragraph -->

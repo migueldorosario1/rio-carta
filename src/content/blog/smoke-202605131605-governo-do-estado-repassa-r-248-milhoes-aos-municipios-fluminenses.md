@@ -5,6 +5,7 @@ pubDate: "2026-05-13T19:05:53Z"
 draft: true
 tags: ["rio-de-janeiro", "governo-do-estado", "municipios-fluminenses", "repasse-financeiro", "royalties", "icms", "ipva", "politica-rj", "sul-fluminense", "regiao-metropolitana", "leme", "comunidade", "seguranca-publica"]
 heroImage: "/hero/smoke-smoke-202605131605-governo-do-estado-repassa-r-248-milhoes-aos-municipios-fluminenses.jpg"
+categoria_macro: politica
 ---
 Estado do Rio – O Governo do Estado do Rio de Janeiro repassou nesta semana R$ 248 milhões aos 92 municípios fluminenses. O depósito, realizado pela Secretaria de Estado de Fazenda do Rio de Janeiro, refere-se à arrecadação registrada entre os dias 4 e 8 de maio.
 

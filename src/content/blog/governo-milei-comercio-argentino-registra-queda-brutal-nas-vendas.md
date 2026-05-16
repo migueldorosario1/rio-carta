@@ -7,8 +7,8 @@ slug: "governo-milei-comercio-argentino-registra-queda-brutal-nas-vendas"
 wp_id: 2615
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Após a eleição de Javier Milei como presidente da Argentina em dezembro de 2023, o país enfrenta um período turbulento na economia, caracterizado por uma escalada nos preços e um declínio nas vendas e na atividade econômica. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 1846
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Encontro contou com o representante do Ministério de Direitos Humanos, Nilmário Miranda</strong></em></p>
 <!-- /wp:paragraph -->

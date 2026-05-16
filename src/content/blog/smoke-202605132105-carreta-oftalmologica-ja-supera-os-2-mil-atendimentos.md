@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:48Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "saude", "carreta-oftalmologica", "catarata", "governo-federal", "regiao-dos-lagos", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605132105-carreta-oftalmologica-ja-supera-os-2-mil-atendimentos.jpeg"
+categoria_macro: politica
 ---
 Número de cirurgias de catarata chega a 1312, entre procedimentos já realizados e os agendados para os próximos dias
 

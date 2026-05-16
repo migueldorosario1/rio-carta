@@ -7,8 +7,8 @@ slug: "paes-assina-decreto-que-veta-uso-de-celular-nas-escolas-do-rio-em-qualque
 wp_id: 2904
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A partir do mês de março, o uso de celulares e dispositivos tecnológicos será estritamente proibido nas escolas da rede municipal do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

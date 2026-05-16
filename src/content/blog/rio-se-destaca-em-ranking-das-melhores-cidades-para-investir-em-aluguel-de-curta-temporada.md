@@ -8,8 +8,8 @@ wp_id: 6367
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O município do Rio de Janeiro foi reconhecido como a oitava melhor cidade para investir em imóveis destinados ao aluguel de curta temporada, conforme o mais recente estudo realizado pela MySide, uma consultoria especializada no mercado imobiliário. </p>
 <!-- /wp:paragraph -->

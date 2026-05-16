@@ -7,8 +7,8 @@ slug: "governo-tambem-anuncia-investimento-milionario-para-o-santos-dumont"
 wp_id: 5040
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal planeja investir R$ 400 milhões no Aeroporto Santos Dumont até 2027, com o objetivo de melhorar a infraestrutura e a segurança do terminal, conforme anunciou nesta segunda-feira o ministro de Portos e Aeroportos, Silvio Costa Filho.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "ministro-revela-que-lancamento-do-programa-voa-brasil-so-depende-do-sinal
 tags:
   - 'nacional'
 wp_id: 3855
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O programa "Voa Brasil", destinado a tornar as passagens aéreas mais acessíveis para determinados grupos da população, aguarda a definição de uma data para seu lançamento pelo presidente Luiz Inácio Lula da Silva. A informação foi divulgada pelo Ministro de Portos e Aeroportos, Silvio Costa Filho, em entrevista ao programa Roda Viva da TV Cultura, na última segunda-feira (18).</p>
 <!-- /wp:paragraph -->

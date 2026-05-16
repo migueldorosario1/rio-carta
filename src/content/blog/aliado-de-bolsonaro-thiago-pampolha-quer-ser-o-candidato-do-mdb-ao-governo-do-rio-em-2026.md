@@ -8,8 +8,8 @@ wp_id: 6701
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Pampolha é o atual vice-governador do Rio; disputa ao governo do estado tem ainda Eduardo Paes (PSD) e Rodrigo Bacellar (União Brasil)</em></strong></p>
 <!-- /wp:paragraph -->

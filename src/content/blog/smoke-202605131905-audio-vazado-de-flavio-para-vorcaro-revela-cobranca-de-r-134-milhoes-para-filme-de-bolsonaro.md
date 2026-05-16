@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "senador", "banco-master", "daniel-vorcaro", "filme-dark-horse", "jair-bolsonaro", "investigacao", "policia-federal", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "seguranca-publica"]
 heroImage: "/hero/smoke-smoke-202605131905-audio-vazado-de-flavio-para-vorcaro-revela-cobranca-de-r-134-milhoes-para-filme-de-bolsonaro.png"
+categoria_macro: politica
 ---
 Uma mensagem vazada do senador, e pré-candidato à presidência do Brasil, Flávio Bolsonaro (PL-RJ) em conversa com Daniel Vorcaro, dono do Banco Master, revela a cobrança de um repasse de R$134 milhões para a produção do filme ‘Dark Horse’, que conta a história de vida do pai, Jair Bolsonaro. É o que diz a matéria exclusiva do Intercept Brasil, publicada na tarde desta quarta-feira (13).
 

@@ -7,8 +7,8 @@ slug: "governo-lula-investiga-aumento-de-grupos-neonazistas-em-santa-catarina"
 tags:
   - 'nacional'
 wp_id: 3828
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Conselho Nacional dos Direitos Humanos (CNDH) anunciou uma missão investigativa em Santa Catarina, programada para abril, focada no crescimento de atividades neonazistas. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "paes-libera-estacionamentos-em-shoppings-e-mercados-do-rio"
 wp_id: 7491
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A nova lei, sancionada por Eduardo Paes, autoriza construções adicionais em estacionamentos mediante contrapartidas financeiras e redefine parâmetros urbanísticos</h3>
 <!-- /wp:heading -->

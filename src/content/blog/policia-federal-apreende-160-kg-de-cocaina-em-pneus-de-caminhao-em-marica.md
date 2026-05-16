@@ -7,8 +7,8 @@ slug: "policia-federal-apreende-160-kg-de-cocaina-em-pneus-de-caminhao-em-marica
 wp_id: 2107
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>MARICÁ - Uma operação significativa da Polícia Federal resultou na apreensão de 160 kg de cocaína na noite de sexta-feira (8) em um galpão em Maricá, Rio de Janeiro. A droga estava habilmente escondida em oito pneus de um caminhão, sendo que um único pneu continha 44 kg do entorpecente. O caminhão transportava a cocaína desde o Mato Grosso do Sul.</p>
 <!-- /wp:paragraph -->

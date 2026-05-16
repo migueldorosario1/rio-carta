@@ -7,8 +7,8 @@ slug: "pt-e-pl-pedem-cassacao-de-moro-no-tse"
 wp_id: 4274
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O <strong>Partido Liberal (PL)</strong> e a <strong>Federação Brasil da Esperança</strong>, composta por <strong>PT, PCdoB e PV</strong>, apresentaram recursos ao <strong>Tribunal Superior Eleitoral (TSE)</strong> para a cassação do mandato do senador e ex-juiz Sergio Moro (União-PR). </p>
 <!-- /wp:paragraph -->

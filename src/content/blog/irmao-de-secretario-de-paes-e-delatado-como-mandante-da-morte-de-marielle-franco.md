@@ -7,8 +7,8 @@ slug: "irmao-de-secretario-de-paes-e-delatado-como-mandante-da-morte-de-marielle
 wp_id: 2535
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Chiquinho Brazão é Secretário de Eduardo Paes desde outubro de 2023</em></p>
 <!-- /wp:paragraph -->

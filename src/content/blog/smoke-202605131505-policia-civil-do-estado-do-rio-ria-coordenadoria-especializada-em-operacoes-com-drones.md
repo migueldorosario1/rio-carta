@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "policia-civil", "drones", "seguranca-publica", "seguranca-publica-rj", "sul-fluminense", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605131505-policia-civil-do-estado-do-rio-ria-coordenadoria-especializada-em-operacoes-com-drones.jpg"
+categoria_macro: seguranca
 ---
 ESTADO
 

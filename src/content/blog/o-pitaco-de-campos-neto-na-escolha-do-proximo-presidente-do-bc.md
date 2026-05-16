@@ -7,8 +7,8 @@ slug: "o-pitaco-de-campos-neto-na-escolha-do-proximo-presidente-do-bc"
 tags:
   - 'nacional'
 wp_id: 4897
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Banco Central, Roberto Campos Neto, em entrevista ao jornal O Globo, expressou sua preferência para que a seleção do próximo presidente da instituição seja baseada em critérios técnicos, evitando influências políticas ou pessoais. </p>
 <!-- /wp:paragraph -->

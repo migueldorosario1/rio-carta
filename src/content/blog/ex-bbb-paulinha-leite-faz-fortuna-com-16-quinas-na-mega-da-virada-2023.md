@@ -7,8 +7,8 @@ slug: "ex-bbb-paulinha-leite-faz-fortuna-com-16-quinas-na-mega-da-virada-2023"
 tags:
   - 'nacional'
 wp_id: 2234
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Mega da Virada deste ano não foi apenas histórica pelo seu prêmio recorde de R$ 589 milhões, mas também pela vitória significativa de Paulinha Leite, ex-participante do "BBB 11" e empresária de bolões. Com um talento impressionante para apostas, Paulinha acertou 16 quinas, faturando mais de R$ 1 milhão. Cada quina rendeu a ela R$ 70.083,58, somando um total que poucos podem sonhar.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "operacao-carnaval-da-prf-comecou-na-madrugada-desta-sexta-feira"
 tags:
   - 'nacional'
 wp_id: 3120
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em meio ao aumento do tráfego rodoviário durante o período de carnaval, a Polícia Rodoviária Federal (PRF) deflagrou nesta sexta-feira (9) a Operação Rodovida Carnaval 2024. </p>
 <!-- /wp:paragraph -->

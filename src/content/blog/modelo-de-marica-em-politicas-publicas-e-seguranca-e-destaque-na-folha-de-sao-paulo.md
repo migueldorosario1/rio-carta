@@ -7,8 +7,8 @@ slug: "modelo-de-marica-em-politicas-publicas-e-seguranca-e-destaque-na-folha-de
 tags:
   - 'marica'
 wp_id: 7569
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A atuação de Maricá em políticas públicas integradas à segurança ganhou destaque nacional nesta sexta-feira, dia 12, com a publicação de um artigo assinado pelo <a href="https://www.marica.rj.gov.br/noticia/modelo-de-marica-em-politicas-publicas-e-seguranca-e-destaque-na-folha-de-sao-paulo/">prefeito Washington Quaquá no jornal Folha de S.Paulo</a>. O texto evidencia como o município vem combinando ações sociais, presença institucional e investimentos em tecnologia e prevenção como parte de uma estratégia mais ampla de segurança pública.</p>
 <!-- /wp:paragraph -->

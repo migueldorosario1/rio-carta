@@ -7,8 +7,8 @@ slug: "edson-santos-desafios-globais-da-mobilidade-urbana-e-a-situacao-critica-d
 wp_id: 446
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Por Edson Santos, vereador (PT, cidade do Rio de Janeiro)</strong></em></p>
 <!-- /wp:paragraph -->

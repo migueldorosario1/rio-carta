@@ -7,8 +7,8 @@ slug: "mourao-aconselha-governador-do-rs-a-solicitar-decreto-de-glo-para-conter-
 tags:
   - 'nacional'
 wp_id: 4432
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O senador Hamilton Mourão (Republicanos-RS) revelou ter orientado o governador do Rio Grande do Sul, Eduardo Leite (PSDB), a solicitar ao governo federal um decreto de Garantia da Lei e da Ordem (GLO) se for necessário para combater saques durante as enchentes.</p>
 <!-- /wp:paragraph -->

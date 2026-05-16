@@ -7,8 +7,8 @@ slug: "confronto-entre-pm-e-traficantes-deixa-10-mortos-e-3-feridos-na-penha-um-
 wp_id: 1000
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada estadual Dani Balbi (PCdoB) criticou a política de segurança do estado</em></strong></p>
 <!-- /wp:paragraph -->

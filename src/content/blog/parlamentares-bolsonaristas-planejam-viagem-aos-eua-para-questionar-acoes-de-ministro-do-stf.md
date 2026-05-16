@@ -7,8 +7,8 @@ slug: "parlamentares-bolsonaristas-planejam-viagem-aos-eua-para-questionar-acoes
 wp_id: 5431
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Um grupo de deputados bolsonaristas, liderados por Marcel van Hattem (Novo-RS), está organizando uma viagem aos Estados Unidos em novembro, após as eleições municipais no Brasil. </p>
 <!-- /wp:paragraph -->

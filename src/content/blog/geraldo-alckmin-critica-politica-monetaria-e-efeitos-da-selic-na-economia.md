@@ -7,8 +7,8 @@ slug: "geraldo-alckmin-critica-politica-monetaria-e-efeitos-da-selic-na-economia
 tags:
   - 'nacional'
 wp_id: 5441
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O vice-presidente da República e ministro do Desenvolvimento, Indústria, Comércio e Serviços, Geraldo Alckmin (PSB), criticou a atual política monetária do Brasil em entrevista ao jornal O Estado de S. Paulo.</p>
 <!-- /wp:paragraph -->

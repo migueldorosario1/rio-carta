@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "santa-rosa", "regiao-metropolitana", "seguranca-publica", "sao-goncalo-itaborai", "sao-goncalo", "itaborai", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150105-policia-civil-prende-integrante-de-esquema-de-piramide-financeira-em-niteroi.jpg"
+categoria_macro: seguranca
 ---
 Polícia Civil prende integrante de esquema de pirâmide financeira em Niterói
 

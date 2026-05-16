@@ -7,8 +7,8 @@ slug: "na-maior-feira-de-turismo-da-europa-marica-atrai-industria-portuguesa-e-f
 wp_id: 7708
 tags:
   - 'marica'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>P<em>arceria foi firmada durante a BTL, em Lisboa, e integra estratégia de desenvolvimento econômico internacional para geração de emprego e renda no município</em></strong></p>
 <!-- /wp:paragraph -->

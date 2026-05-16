@@ -7,8 +7,8 @@ slug: "bolsonaro-quase-confessa-sua-articulacao-na-trama-golpista"
 tags:
   - 'nacional'
 wp_id: 3555
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em meio a investigações conduzidas pela Polícia Federal, o ex-presidente Jair Bolsonaro se encontrou em uma situação delicada durante uma entrevista à CNN Brasil, logo após solicitar ao presidente Luiz Inácio Lula da Silva anistia para envolvidos em atos golpistas, incluindo a si próprio. </p>
 <!-- /wp:paragraph -->

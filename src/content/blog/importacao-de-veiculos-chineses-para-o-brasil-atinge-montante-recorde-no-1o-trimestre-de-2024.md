@@ -7,8 +7,8 @@ slug: "importacao-de-veiculos-chineses-para-o-brasil-atinge-montante-recorde-no-
 tags:
   - 'nacional'
 wp_id: 4417
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A importação de veículos chineses para o mercado brasileiro chegou a US$ 1,17 bilhão no primeiro trimestre de 2024, impulsionada pela antecipação das montadoras ao aumento gradual das tarifas de importação de veículos elétricos e híbridos, que devem atingir 35% até 2026.</p>
 <!-- /wp:paragraph -->

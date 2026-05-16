@@ -7,8 +7,8 @@ slug: "stj-determina-que-robinho-cumpra-pena-por-estupro-em-regime-fechado"
 tags:
   - 'nacional'
 wp_id: 3907
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Superior Tribunal de Justiça (STJ) decidiu que o ex-jogador de futebol Robinho deve iniciar o cumprimento de sua pena por estupro, em regime fechado, no Brasil. </p>
 <!-- /wp:paragraph -->

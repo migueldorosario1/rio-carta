@@ -7,8 +7,8 @@ slug: "guarda-armada-avanca-no-rio-com-ampla-aprovacao-na-camara"
 wp_id: 6728
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com 43 votos favoráveis e 7 contrários, projeto segue para segunda votação e pode transformar a Guarda Municipal em força armada no Rio</h3>
 <!-- /wp:heading -->

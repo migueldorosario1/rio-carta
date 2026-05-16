@@ -7,8 +7,8 @@ slug: "siba-quem-sao-os-detidos-em-sequestro-de-marcelinho-carioca-e-amiga"
 tags:
   - 'seguranca-publica'
 wp_id: 2209
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p>Quatro indivíduos foram detidos até o momento, suspeitos de envolvimento no sequestro do ex-jogador Marcelinho Carioca e sua amiga, Taís Alcântara de Oliveira. O incidente ocorreu em Itaquaquecetuba, na Grande São Paulo, quando Marcelinho foi levar ingressos para um show à Taís. Eles foram sequestrados e mantidos em cativeiro até serem libertados pela Polícia Militar.</p>
 <!-- /wp:paragraph -->

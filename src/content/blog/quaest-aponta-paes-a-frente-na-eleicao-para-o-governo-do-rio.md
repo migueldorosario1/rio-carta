@@ -8,8 +8,8 @@ wp_id: 6641
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">A mais recente pesquisa Quaest mostra Eduardo Paes liderando a disputa pelo governo do Rio, seguido por Flávio Bolsonaro. Veja os números completos</h4>
 <!-- /wp:heading -->

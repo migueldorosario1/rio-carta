@@ -7,8 +7,8 @@ slug: "popo-massacra-bambam-em-nocaute-relampago"
 tags:
   - 'nacional'
 wp_id: 3454
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em um confronto aguardado, Acelino "Popó" Freitas nocauteou Kleber Bambam em apenas 36 segundos durante a luta principal do Fight Music Show 4, realizado na Vibra São Paulo.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "metro-rio-e-condenado-a-indenizar-passageiro-roubado-em-estacao-da-linha-
 wp_id: 6157
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal de Justiça do Rio de Janeiro determinou que o Metrô Rio indenize um passageiro em R$ 11,3 mil após um roubo ocorrido na Estação Pavuna, na Linha 2. </p>
 <!-- /wp:paragraph -->

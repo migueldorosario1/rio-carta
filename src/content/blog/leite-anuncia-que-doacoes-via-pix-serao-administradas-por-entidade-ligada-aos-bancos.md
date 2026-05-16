@@ -7,8 +7,8 @@ slug: "leite-anuncia-que-doacoes-via-pix-serao-administradas-por-entidade-ligada
 tags:
   - 'nacional'
 wp_id: 4425
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governador do Rio Grande do Sul, Eduardo Leite (PSDB), informou que doações realizadas via Pix para as vítimas das enchentes no estado serão gerenciadas por uma entidade privada, a Associação dos Bancos do Rio Grande do Sul. </p>
 <!-- /wp:paragraph -->

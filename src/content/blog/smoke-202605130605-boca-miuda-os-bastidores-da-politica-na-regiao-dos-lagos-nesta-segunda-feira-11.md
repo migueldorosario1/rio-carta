@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:33Z"
 draft: true
 tags: ["rio-de-janeiro", "iguaba-grande", "regiao-dos-lagos", "politica", "prefeito-fabinho-costa", "alerj", "vantoil-martins", "regiao-metropolitana", "iguaba", "problemas-estruturais", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130605-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-segunda-feira-11.webp"
+categoria_macro: politica
 ---
 “O PREFEITO É UM PEDINTE DA CIDADE”
 

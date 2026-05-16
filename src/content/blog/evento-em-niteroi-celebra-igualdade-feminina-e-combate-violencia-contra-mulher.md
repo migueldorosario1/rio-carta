@@ -8,8 +8,8 @@ wp_id: 1194
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da vereadora Benny Briolly (PSOL)</em></strong></p>
 <!-- /wp:paragraph -->

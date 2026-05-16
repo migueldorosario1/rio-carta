@@ -7,8 +7,8 @@ slug: "deputada-quer-garantir-acesso-ao-diu-em-hospitais-no-estado-do-rj"
 wp_id: 6668
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da deputada estadual Lilian Behring (PCdoB); Projeto de lei visa ampliar o acesso ao método contraceptivo e capacitar profissionais de enfermagem.</em></strong></p>
 <!-- /wp:paragraph -->

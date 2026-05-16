@@ -7,8 +7,8 @@ slug: "lula-defende-reducao-dos-juros-para-turbinar-investimentos"
 tags:
   - 'nacional'
 wp_id: 4826
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira, o presidente Luiz Inácio Lula da Silva reiterou a necessidade de reduzir a taxa Selic no Brasil, descrevendo a tarefa como "uma briga eterna". Segundo ele, uma menor taxa de juros é essencial para fomentar os investimentos no país.</p>
 <!-- /wp:paragraph -->

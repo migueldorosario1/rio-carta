@@ -7,8 +7,8 @@ slug: "tarcisio-turbina-salarios-de-secretarios-com-cargos-em-conselhos"
 tags:
   - 'nacional'
 wp_id: 4438
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo de São Paulo, liderado por Tarcísio de Freitas (Republicanos), gasta até R$ 112 mil por mês com gratificações pagas a nove dos 25 secretários estaduais que ocupam cargos em conselhos de empresas estatais. </p>
 <!-- /wp:paragraph -->

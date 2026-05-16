@@ -7,8 +7,8 @@ slug: "ufrrj-tera-cota-para-trans-na-pos-graduacao"
 wp_id: 1419
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Medida foi aprovada no Conselho&nbsp;de Ensino, Pesquisa e Extensão da universidade nesta segunda-feira (25/09)</strong></em></p>
 <!-- /wp:paragraph -->

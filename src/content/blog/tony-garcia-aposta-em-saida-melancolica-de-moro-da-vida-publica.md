@@ -7,8 +7,8 @@ slug: "tony-garcia-aposta-em-saida-melancolica-de-moro-da-vida-publica"
 wp_id: 2821
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O empresário Tony Garcia, que foi alvo de perseguições judiciais no passado, proferiu críticas ao ex-juiz Sergio Moro em meio às recentes movimentações relacionadas ao julgamento das ações que visam cassar o mandato de Moro como senador pelo estado do Paraná.</p>
 <!-- /wp:paragraph -->

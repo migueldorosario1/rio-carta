@@ -7,8 +7,8 @@ slug: "estado-do-rio-de-janeiro-registra-aumento-nos-casos-de-covid-19"
 wp_id: 1347
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Recomendação da Secretaria de Estado de Saúde é que a população tome a vacina bivalente contra o coronavírus</em></strong></p>
 <!-- /wp:paragraph -->

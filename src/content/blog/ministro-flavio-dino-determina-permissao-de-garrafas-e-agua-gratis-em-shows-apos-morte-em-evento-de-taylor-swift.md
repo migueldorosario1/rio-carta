@@ -7,8 +7,8 @@ slug: "ministro-flavio-dino-determina-permissao-de-garrafas-e-agua-gratis-em-sho
 wp_id: 1983
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Após a morte de Ana Benevides, de 23 anos, durante o show de Taylor Swift, o ministro da Justiça e Segurança Pública, Flávio Dino, anunciou mudanças imediatas nas regras de eventos. A partir de agora, será permitida a entrada de garrafas de água de uso pessoal em shows e espetáculos, e as empresas produtoras desses eventos deverão disponibilizar água potável gratuita em "ilhas de hidratação" acessíveis. A determinação da Secretaria do Consumidor tem validade imediata.</em></strong></p>
 <!-- /wp:paragraph -->

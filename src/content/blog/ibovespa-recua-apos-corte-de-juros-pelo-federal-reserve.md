@@ -7,8 +7,8 @@ slug: "ibovespa-recua-apos-corte-de-juros-pelo-federal-reserve"
 tags:
   - 'nacional'
 wp_id: 5316
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira, o Ibovespa encerrou o dia em baixa, impactado pela decisão do Federal Reserve de reduzir a taxa de juros nos Estados Unidos, o primeiro corte em mais de quatro anos. </p>
 <!-- /wp:paragraph -->

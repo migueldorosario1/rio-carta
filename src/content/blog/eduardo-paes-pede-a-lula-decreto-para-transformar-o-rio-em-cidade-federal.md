@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"textAlign":"center","level":4} -->
 <h4 class="wp-block-heading has-text-align-center">O prefeito deseja que o Rio de Janeiro seja oficialmente reconhecido como capital honorária, buscando fortalecer seu status e valor simbólico junto ao governo federal</h4>
 <!-- /wp:heading -->

@@ -8,8 +8,8 @@ wp_id: 3090
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O plenário da Assembleia Legislativa do Rio de Janeiro (Alerj) acatou, por maioria absoluta, a decisão da Comissão de Constituição e Justiça (CCJ) e optou por manter o mandato da deputada Lucinha (PSD), anteriormente afastada pela Justiça em relação a possíveis vínculos com a maior milícia da Zona Oeste. </p>
 <!-- /wp:paragraph -->

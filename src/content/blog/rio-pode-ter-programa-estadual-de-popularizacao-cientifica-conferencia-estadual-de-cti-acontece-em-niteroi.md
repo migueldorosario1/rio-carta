@@ -8,8 +8,8 @@ wp_id: 3528
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Projeto de lei que cria o Programa Estadual de Popularização da Ciência é de autoria da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

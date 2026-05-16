@@ -8,8 +8,8 @@ wp_id: 1200
 tags:
   - 'campos'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Filho do ex-governador Garotinho possui grandes chances de ser reeleito prefeito de Campos dos Goytacazes em 2024</em></strong></p>
 <!-- /wp:paragraph -->

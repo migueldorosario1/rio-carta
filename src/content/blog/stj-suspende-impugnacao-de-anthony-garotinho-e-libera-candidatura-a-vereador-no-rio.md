@@ -8,8 +8,8 @@ wp_id: 5557
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A cinco dias das eleições municipais, o vice-presidente do Superior Tribunal de Justiça (STJ), ministro Luís Felipe Salomão, decidiu nesta quarta-feira, 2, suspender a impugnação da candidatura de Anthony Garotinho (Republicanos) à vereança do Rio de Janeiro. Com a decisão, o ex-governador está apto a concorrer ao cargo na Câmara Municipal.</p>
 <!-- /wp:paragraph -->

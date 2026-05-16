@@ -7,8 +7,8 @@ slug: "declaracao-de-tarcisio-sobre-pcc-e-boulos-gera-investigacao-por-abuso-de-
 wp_id: 5903
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governador de São Paulo, Tarcísio de Freitas (Republicanos), declarou no último domingo (27), sem apresentar provas, que a facção criminosa Primeiro Comando da Capital (PCC) estaria orientando votos em favor de Guilherme Boulos. </p>
 <!-- /wp:paragraph -->

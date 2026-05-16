@@ -7,8 +7,8 @@ slug: "empresas-estatais-da-china-registram-crescimento-de-receita-em-2023"
 tags:
   - 'geopolitica'
 wp_id: 2756
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>As empresas estatais da China registraram aumento de receita no ano passado, de acordo com dados oficiais divulgados nesta segunda-feira.</p>
 <!-- /wp:paragraph -->

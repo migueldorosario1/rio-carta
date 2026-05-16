@@ -7,8 +7,8 @@ slug: "solitario-e-esquecido-ciro-gomes-agride-diplomacia-do-governo-lula"
 wp_id: 3622
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-governador do Ceará e candidato presidencial nas últimas duas eleições, Ciro Gomes (PDT), criticou a abordagem do presidente Luiz Inácio Lula da Silva (PT) em relação à sua atuação no cenário internacional.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "programa-centelha-ii-vai-destinar-r-35-milhoes-para-empreendedorismo-no-r
 wp_id: 742
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Segunda edição do programa está em 25 Estados e o Distrito Federal, com 31 mil empreendedores envolvidos, mais de 10 mil ideias submetidas e 651 empresas apoiadas</strong></em></p>
 <!-- /wp:paragraph -->

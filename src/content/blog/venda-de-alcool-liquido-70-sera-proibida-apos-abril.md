@@ -7,8 +7,8 @@ slug: "venda-de-alcool-liquido-70-sera-proibida-apos-abril"
 tags:
   - 'nacional'
 wp_id: 4074
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou que, a partir do dia 30 de abril, a comercialização de álcool líquido 70% em mercados e farmácias será novamente proibida, restringindo a disponibilidade do produto para o consumidor final. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lei-que-proibe-saidinhas-de-presos-gera-preocupacoes-de-inseguranca-jurid
 tags:
   - 'nacional'
 wp_id: 4545
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A recente aprovação da lei que veta as saídas temporárias de presos em datas festivas, como Natal e Páscoa, tem suscitado previsões de judicialização e uma série de questionamentos por parte de integrantes do governo do presidente Lula (PT) e do Supremo Tribunal Federal (STF). </p>
 <!-- /wp:paragraph -->

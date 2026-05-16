@@ -7,8 +7,8 @@ slug: "pablo-marcal-contestacao-a-lideranca-de-bolsonaro-na-extrema-direita"
 wp_id: 4941
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Pablo Marçal, candidato à prefeitura de São Paulo pelo PRTB, em declaração à CNN Brasil nesta segunda-feira (26), questionou a posição de Jair Bolsonaro como líder incontestável da extrema-direita no Brasil.</p>
 <!-- /wp:paragraph -->

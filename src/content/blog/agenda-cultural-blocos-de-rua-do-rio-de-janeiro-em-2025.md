@@ -8,8 +8,8 @@ wp_id: 6573
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Carnaval no Rio de Janeiro já começou. Confira a agenda dos blocos de rua disponibilizada pela RioTur.</p>
 <!-- /wp:paragraph -->

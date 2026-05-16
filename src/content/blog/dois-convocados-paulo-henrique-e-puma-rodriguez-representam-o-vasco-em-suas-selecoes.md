@@ -7,8 +7,8 @@ slug: "dois-convocados-paulo-henrique-e-puma-rodriguez-representam-o-vasco-em-su
 tags:
   - 'vasco-da-gama'
 wp_id: 7195
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading"><strong><em>Lateral-direito brasileiro é chamado pela primeira vez para a Seleção; uruguaio também defenderá seu país na Data Fifa</em></strong></h4>
 <!-- /wp:heading -->

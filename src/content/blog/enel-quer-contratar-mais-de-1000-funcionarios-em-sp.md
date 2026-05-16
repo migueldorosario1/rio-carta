@@ -7,8 +7,8 @@ slug: "enel-quer-contratar-mais-de-1000-funcionarios-em-sp"
 tags:
   - 'nacional'
 wp_id: 4639
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Enel Distribuição São Paulo anunciou hoje um reforço substancial em suas equipes de campo, com a contratação planejada de 1,2 mil novos profissionais ao longo dos próximos 12 meses. O anúncio foi feito durante um evento realizado na sede da empresa, situada no bairro Jaguaré, zona oeste da capital.</p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "saude", "mamografia", "prefeitura-captao-nelson", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "mage", "itaborai"]
 heroImage: "/hero/smoke-smoke-202605131105-sao-goncalo-amplia-oferta-de-exames-de-mamografia.jpg"
+categoria_macro: geral
 ---
 São Gonçalo amplia oferta de exames de mamografia
 

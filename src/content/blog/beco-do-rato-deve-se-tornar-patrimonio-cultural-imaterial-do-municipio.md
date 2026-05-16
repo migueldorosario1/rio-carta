@@ -7,8 +7,8 @@ slug: "beco-do-rato-deve-se-tornar-patrimonio-cultural-imaterial-do-municipio"
 wp_id: 512
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <em>Vereadores rejeitaram seis vetos apostos pelo Poder Executivo a projetos de lei</em>
 
 <a href="http://www.camara.rio/comunicacao/noticias/1591-beco-do-rato-deve-se-tornar-patrimonio-cultural-imaterial-do-municipio"><em>Com informações da CMRJ</em></a>

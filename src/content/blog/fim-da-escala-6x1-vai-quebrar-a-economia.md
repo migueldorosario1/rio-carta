@@ -7,8 +7,8 @@ slug: "fim-da-escala-6x1-vai-quebrar-a-economia"
 tags:
   - 'nacional'
 wp_id: 7685
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->

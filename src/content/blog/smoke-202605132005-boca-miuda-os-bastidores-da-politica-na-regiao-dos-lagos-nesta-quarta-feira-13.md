@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "arraial-do-cabo", "eduardo-paes", "politica-estadual", "prefeitura-arraial-do-cabo", "alerj", "saude", "cultura-carnaval", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605132005-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-quarta-feira-13.webp"
+categoria_macro: politica
 ---
 PAES NO PALANQUE EM ARRAIAL
 

@@ -7,8 +7,8 @@ slug: "psdb-vai-anunciar-apoio-a-tabata-na-eleicao-de-sp"
 wp_id: 4011
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido da Social Democracia Brasileira (PSDB) está próximo de oficializar seu apoio à candidatura de Tabata Amaral para as eleições municipais de São Paulo. </p>
 <!-- /wp:paragraph -->

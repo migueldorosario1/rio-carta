@@ -8,8 +8,8 @@ wp_id: 6044
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na última sexta-feira, 22, durante o 12º encontro do Consórcio de Integração Sul e Sudeste (Cosud) realizado em Florianópolis, Cláudio Castro, governador do Rio de Janeiro, foi eleito presidente da entidade. </p>
 <!-- /wp:paragraph -->

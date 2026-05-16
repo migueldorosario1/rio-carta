@@ -7,8 +7,8 @@ slug: "prtb-de-marcal-tem-dirigente-ligado-ao-pcc"
 wp_id: 4625
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido Renovador Trabalhista Brasileiro (PRTB), pelo qual Pablo Marçal planeja disputar a prefeitura de São Paulo, está no centro de uma controvérsia devido a um ex-dirigente no estado. </p>
 <!-- /wp:paragraph -->

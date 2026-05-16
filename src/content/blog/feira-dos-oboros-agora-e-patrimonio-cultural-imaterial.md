@@ -7,8 +7,8 @@ slug: "feira-dos-oboros-agora-e-patrimonio-cultural-imaterial"
 wp_id: 1494
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Lei é de autoria da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

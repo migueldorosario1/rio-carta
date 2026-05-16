@@ -7,8 +7,8 @@ slug: "marica-firma-parceria-internacional-para-erguer-fabrica-de-tratores"
 wp_id: 7451
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Querendo impulsionar agricultura familiar, a cidade aposta em nova economia com investimento de R$ 200 milhões</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "trilhos-ganham-forca-no-redesenho-do-transporte-carioca"
 wp_id: 7474
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com a sanção do prefeito Eduardo Paes, o Rio autoriza a implantação de VLTs ou VLPs via PPP, substituindo linhas do BRT e abrindo espaço para um sistema mais estável e moderno</h3>
 <!-- /wp:heading -->

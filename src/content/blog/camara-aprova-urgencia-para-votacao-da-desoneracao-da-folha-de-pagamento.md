@@ -7,8 +7,8 @@ slug: "camara-aprova-urgencia-para-votacao-da-desoneracao-da-folha-de-pagamento"
 wp_id: 5134
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Câmara dos Deputados aprovou nesta segunda-feira, 9, a urgência para a votação do projeto que estabelece a transição para o fim da desoneração da folha de pagamentos em 17 setores da economia e da alíquota cheia do INSS em municípios com até 156 mil habitantes.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "magda-chambriard-defende-esforco-exploratorio-da-petrobras-para-garantir-
 tags:
   - 'nacional'
 wp_id: 4534
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Magda Chambriard, em sua primeira entrevista após assumir a presidência da Petrobras, enfatizou a importância do esforço exploratório para garantir a soberania energética do país. Chambriard tomou posse na última sexta-feira (24), sucedendo Jean Paul Prates.</p>
 <!-- /wp:paragraph -->

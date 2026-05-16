@@ -8,8 +8,8 @@ wp_id: 894
 tags:
   - 'campos'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Secretaria confirmou quatro casos em menos de um mês</strong></em></p>
 <!-- /wp:paragraph -->

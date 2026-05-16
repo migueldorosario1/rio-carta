@@ -7,8 +7,8 @@ slug: "fotobiografia-de-marielle-franco-celebra-vida-da-vereadora-e-ativista"
 wp_id: 901
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Vereadora completaria 44 anos nesta quinta-feira</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "ministra-de-cti-luciana-santos-reune-comunidade-cientifica-no-rio"
 tags:
   - 'rio-de-janeiro'
 wp_id: 977
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A ministra da Ciência, Tecnologia e Inovação, Luciana Santos, anunciou hoje (31/07) na UFRJ mais ações do governo federal para o próximo período.</p>
 <!-- /wp:paragraph -->

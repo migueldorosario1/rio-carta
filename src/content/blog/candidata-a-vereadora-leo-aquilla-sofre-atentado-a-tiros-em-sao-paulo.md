@@ -7,8 +7,8 @@ slug: "candidata-a-vereadora-leo-aquilla-sofre-atentado-a-tiros-em-sao-paulo"
 wp_id: 5511
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Léo Áquilla, candidata a vereadora em São Paulo, foi alvo de um atentado a tiros na noite de quinta-feira, 26, conforme confirmado por uma nota oficial divulgada em seu perfil nas redes sociais. O incidente ocorreu aproximadamente duas semanas após um ataque transfóbico durante um ato de campanha.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "porto-alegre-fez-investimento-pifio-na-defesa-civil"
 wp_id: 4474
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura de Porto Alegre (RS) destinou apenas R$ 11,6 milhões para ações de defesa civil desde 2021, de acordo com o Relatório Resumido da Execução Orçamentária enviado ao Ministério da Fazenda. </p>
 <!-- /wp:paragraph -->

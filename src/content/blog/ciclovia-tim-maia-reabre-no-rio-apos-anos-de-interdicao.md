@@ -7,8 +7,8 @@ slug: "ciclovia-tim-maia-reabre-no-rio-apos-anos-de-interdicao"
 wp_id: 6647
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Após quase cinco anos fechada, a Ciclovia Tim Maia é reaberta no Rio. Novas regras prometem segurança, mas interdições ocorrerão em caso de ressacas</h4>
 <!-- /wp:heading -->

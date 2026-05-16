@@ -7,8 +7,8 @@ slug: "valesca-popozuda-passa-mal-durante-desfile-na-sapucai"
 wp_id: 3157
 tags:
   - 'sao-goncalo'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A cantora e dançarina Valesca Popozuda, aos 45 anos, teve um mal-estar durante a apresentação da escola de samba Porto da Pedra, no domingo, 11, na Marquês de Sapucaí. </p>
 <!-- /wp:paragraph -->

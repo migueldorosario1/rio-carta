@@ -7,8 +7,8 @@ slug: "stf-autoriza-reativacao-do-x-apos-cumprimento-de-determinacoes-legais"
 tags:
   - 'nacional'
 wp_id: 5625
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF), por meio do ministro Alexandre de Moraes, liberou nesta terça-feira (8) o funcionamento da plataforma de mídia social X, propriedade do empresário Elon Musk.</p>
 <!-- /wp:paragraph -->

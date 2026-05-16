@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:36Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "projeto-raia", "equinor", "petroleo-e-gas", "bacia-de-campos", "economia-local", "norte-noroeste-fluminense", "estado", "campos", "transporte-mobilidade", "educacao"]
 heroImage: "/hero/smoke-smoke-202605131805-macae-reforca-protagonismo-energetico-em-reuniao-sobre-avancos-do-projeto-raia.jpeg"
+categoria_macro: geral
 ---
 Macaé reforça protagonismo energético em reunião sobre avanços do Projeto Raia
 

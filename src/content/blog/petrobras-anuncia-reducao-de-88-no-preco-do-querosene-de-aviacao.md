@@ -7,8 +7,8 @@ slug: "petrobras-anuncia-reducao-de-88-no-preco-do-querosene-de-aviacao"
 tags:
   - 'nacional'
 wp_id: 4990
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Petrobras informou nesta segunda-feira que reduzirá em 8,8% o preço do querosene de aviação (QAV) para distribuidoras a partir de 1º de setembro. A estatal explicou que o ajuste segue parâmetros como o valor do petróleo e o câmbio.</p>
 <!-- /wp:paragraph -->

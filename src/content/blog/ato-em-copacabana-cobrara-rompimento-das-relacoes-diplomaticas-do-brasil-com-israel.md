@@ -7,8 +7,8 @@ slug: "ato-em-copacabana-cobrara-rompimento-das-relacoes-diplomaticas-do-brasil-
 tags:
   - 'rio-capital-zona-sul-grande-tijuca'
 wp_id: 6985
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Intitulado "Pela paz e contra o genocídio", manifestação acontecerá nesta segunda-feira (07/07)</strong></em></p>
 <!-- /wp:paragraph -->

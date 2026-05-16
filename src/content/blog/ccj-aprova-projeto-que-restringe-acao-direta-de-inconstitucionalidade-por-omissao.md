@@ -7,8 +7,8 @@ slug: "ccj-aprova-projeto-que-restringe-acao-direta-de-inconstitucionalidade-por
 tags:
   - 'nacional'
 wp_id: 5100
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou nesta semana um projeto de lei que restringe a aplicação das Ações Diretas de Inconstitucionalidade por Omissão (ADO).</p>
 <!-- /wp:paragraph -->

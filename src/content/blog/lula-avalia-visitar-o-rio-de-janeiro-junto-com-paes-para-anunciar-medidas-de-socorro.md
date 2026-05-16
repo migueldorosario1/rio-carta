@@ -7,8 +7,8 @@ slug: "lula-avalia-visitar-o-rio-de-janeiro-junto-com-paes-para-anunciar-medidas
 wp_id: 2440
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva (PT) manifestou interesse em visitar o Rio de Janeiro, conforme informações de assessores do governo. No entanto, Lula pretende aguardar a definição precisa da ajuda do governo federal aos municípios fluminenses antes de confirmar uma data para a visita.</p>
 <!-- /wp:paragraph -->

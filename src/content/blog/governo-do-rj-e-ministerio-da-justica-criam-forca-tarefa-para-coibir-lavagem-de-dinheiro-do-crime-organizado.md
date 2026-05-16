@@ -7,8 +7,8 @@ slug: "governo-do-rj-e-ministerio-da-justica-criam-forca-tarefa-para-coibir-lava
 wp_id: 1699
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>O governador do estado do Rio de Janeiro, Cláudio Castro, anunciou nesta terça-feira (24) a formação de uma força-tarefa em colaboração com o Ministério da Justiça e Segurança Pública, com o objetivo de investigar a lavagem de dinheiro realizada por organizações criminosas que atuam no território fluminense. Esse anúncio vem à tona um dia após uma série de ataques liderados por milicianos que resultaram em um cenário de caos na zona oeste do Rio de Janeiro, incluindo a incineração de mais de 30 ônibus.</em></p>
 <!-- /wp:paragraph -->

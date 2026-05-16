@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-revela-quanto-vai-investir-para-sediar-reuniao-do-g20"
 wp_id: 3091
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No dia 05 de fevereiro, a Secretaria Municipal da Casa Civil anunciou no Diário Oficial o termo para reger o patrocínio do evento "Reunião de chanceleres do G20 no Rio de Janeiro". </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "marica-amplia-vagas-em-creches-e-avanca-para-zerar-fila-de-espera-no-muni
 tags:
   - 'marica'
 wp_id: 7728
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Prefeitura investe em novas vagas, atendimento em tempo integral e ampliação do berçário</em></p>
 <!-- /wp:paragraph -->

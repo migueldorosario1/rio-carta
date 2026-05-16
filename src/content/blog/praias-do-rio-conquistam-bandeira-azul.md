@@ -11,8 +11,8 @@ tags:
   - 'niteroi'
   - 'buzios'
   - 'angra-dos-reis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Reconhecimento internacional pela excelência ambiental.</strong></em></p>
 <!-- /wp:paragraph -->

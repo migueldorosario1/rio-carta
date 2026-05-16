@@ -7,8 +7,8 @@ slug: "numero-de-desalojados-no-rio-grande-do-sul-dispara-em-24-horas"
 tags:
   - 'nacional'
 wp_id: 4452
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A quantidade de pessoas desalojadas no Rio Grande do Sul mais que dobrou em 24 horas, passando de mais de 163 mil na quarta-feira, 8, para 327.105 na quinta-feira, 9, segundo o último boletim da Defesa Civil estadual. Os dados foram divulgados às 18h.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 4064
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público Eleitoral (MPE) recomendou, nesta quarta-feira, a cassação da chapa do governador do Rio de Janeiro, Cláudio Castro (PL), e de seu vice, Thiago Pampolha, devido a acusações de ilícitos eleitorais ligados ao financiamento de iniciativas da Fundação Ceperj e da Universidade do Estado do Rio de Janeiro (Uerj) em 2022.</p>
 <!-- /wp:paragraph -->

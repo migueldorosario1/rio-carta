@@ -8,8 +8,8 @@ wp_id: 3599
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Segundo reportagem do jornalista Erlan Bastos, do portal Em OFF, a cantora Jojo Todynho foi recentemente abordada por Jair Bolsonaro com um convite para ingressar na política como vereadora do Rio de Janeiro nas eleições de outubro. </p>
 <!-- /wp:paragraph -->

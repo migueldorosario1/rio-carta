@@ -7,8 +7,8 @@ slug: "tcu-arquiva-processo-contra-jose-sergio-gabrielli"
 wp_id: 4932
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal de Contas da União (TCU) decidiu nesta quarta-feira, 21, pelo arquivamento do processo que investigava José Sergio Gabrielli, ex-presidente da Petrobras, por supostas fraudes em licitações nas obras do Complexo Petroquímico do Rio de Janeiro (Comperj), atualmente conhecido como Polo Gaslub. </p>
 <!-- /wp:paragraph -->

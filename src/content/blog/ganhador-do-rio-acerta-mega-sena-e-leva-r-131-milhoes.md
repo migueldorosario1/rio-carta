@@ -7,8 +7,8 @@ slug: "ganhador-do-rio-acerta-mega-sena-e-leva-r-131-milhoes"
 wp_id: 6631
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Uma aposta feita no Rio de Janeiro acertou os números da Mega-Sena e levará R$ 131 milhões. O próximo sorteio será em breve, com prêmio de R$ 3,5 milhões</h4>
 <!-- /wp:heading -->

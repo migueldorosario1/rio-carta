@@ -7,8 +7,8 @@ slug: "salto-de-baleia-franca-encanta-praia-de-niteroi"
 wp_id: 954
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma cena rara e emocionante marcou a manhã desta sexta-feira na praia de Itaipu, em Niterói. Uma baleia da espécie franca-austral surpreendeu praticantes de canoagem ao dar um impressionante salto na água. As imagens capturadas pela canoísta Helena Sá e compartilhadas nas redes sociais encantaram internautas de todo o país.</p>
 <!-- /wp:paragraph -->

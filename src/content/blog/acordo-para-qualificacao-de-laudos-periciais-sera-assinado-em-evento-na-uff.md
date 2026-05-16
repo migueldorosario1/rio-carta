@@ -10,8 +10,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Niterói, Rio de Janeiro - Na próxima sexta-feira, a cidade de Niterói sediará a I Conferência Municipal de Direitos Humanos e Cidadania, um evento que promete reunir um amplo espectro de atores sociais, desde autoridades até acadêmicos, políticos, educadores, advogados e representantes de movimentos sociais. Organizado na Universidade Federal Fluminense (UFF), o evento tem como principal foco a discussão e promoção de temas relacionados à igualdade racial, diversidade, educação, feminismo, direitos da pessoa idosa, acessibilidade e enfrentamento à intolerância religiosa.</em></p>
 <!-- /wp:paragraph -->

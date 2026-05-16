@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma recente reportagem publicada pelo New York Times, baseada em vídeos, trouxe à luz o episódio em que o ex-presidente brasileiro, Jair Bolsonaro, buscou refúgio na embaixada da Hungria em Brasília. </p>
 <!-- /wp:paragraph -->

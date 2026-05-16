@@ -7,8 +7,8 @@ slug: "familia-de-mauro-cid-esta-aterrorizada-com-a-possibilidade-de-ser-presa-p
 tags:
   - 'nacional'
 wp_id: 3920
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A recente prisão do tenente-coronel Mauro Cid provocou preocupação entre seus familiares, temendo serem os próximos alvos das investigações da Polícia Federal (PF).</p>
 <!-- /wp:paragraph -->

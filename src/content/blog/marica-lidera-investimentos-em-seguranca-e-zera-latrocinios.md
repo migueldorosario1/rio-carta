@@ -7,8 +7,8 @@ slug: "marica-lidera-investimentos-em-seguranca-e-zera-latrocinios"
 wp_id: 7635
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Com mais de R$ 16 milhões investidos, Maricá reforçou o patrulhamento ostensivo e colheu os melhores indicadores de segurança do Estado</h4>
 <!-- /wp:heading -->

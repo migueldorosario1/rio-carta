@@ -7,8 +7,8 @@ slug: "fluminense-faz-grande-festa-no-centro-do-rio-para-celebrar-titulo-histori
 wp_id: 1913
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Fluminense continua celebrando a conquista histórica da Libertadores 2023 sobre o Boca Juniors com uma grandiosa festa no Centro do Rio de Janeiro, envolvendo milhares de torcedores desde as 9h deste domingo (12). A concentração começou duas horas antes, na Praça XV, reunindo uma multidão apaixonada pelo clube das Laranjeiras.</p>
 <!-- /wp:paragraph -->

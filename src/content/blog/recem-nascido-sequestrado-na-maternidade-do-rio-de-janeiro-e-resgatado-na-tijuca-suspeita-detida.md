@@ -7,8 +7,8 @@ slug: "recem-nascido-sequestrado-na-maternidade-do-rio-de-janeiro-e-resgatado-na
 wp_id: 1751
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Na manhã desta quarta-feira, dia 1° de novembro, um incidente chocante ocorreu no Rio de Janeiro, quando um recém-nascido foi sequestrado na Maternidade Maria Amélia Buarque de Hollanda, localizada no Centro da cidade. O bebê, chamado Ravi, foi encontrado ileso na Tijuca, Zona Norte do Rio, e a mulher suspeita de tê-lo sequestrado, identificada como Cauane Malaquias Costa, de 19 anos, foi presa e conduzida à 4ª Delegacia de Polícia (DP) Presidente Vargas.</em></p>
 <!-- /wp:paragraph -->

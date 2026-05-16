@@ -7,8 +7,8 @@ slug: "ministro-do-stf-determina-que-castro-preste-esclarecimentos-sobre-acao-po
 wp_id: 4648
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Luiz Edson Fachin, do Supremo Tribunal Federal (STF), emitiu uma ordem para que o governador do Rio de Janeiro, Cláudio Castro (PL), forneça esclarecimentos sobre a recente ação policial que resultou na morte de três pessoas no Complexo da Maré, ocorrida na última terça-feira (11). </p>
 <!-- /wp:paragraph -->

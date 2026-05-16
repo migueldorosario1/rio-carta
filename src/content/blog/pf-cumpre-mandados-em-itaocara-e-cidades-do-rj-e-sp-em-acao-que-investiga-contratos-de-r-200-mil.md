@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:35Z"
 draft: false
 tags: ["rio-de-janeiro", "itaocara", "macae", "niteroi", "policia-federal", "contratos-publicos", "fraude-licitacao", "seapa", "politica-rj", "norte-noroeste-fluminense", "regiao-metropolitana", "noroeste-fluminense"]
 heroImage: "/hero/pf-cumpre-mandados-em-itaocara-e-cidades-do-rj-e-sp-em-acao-que-investiga-contratos-de-r-200-mil.jpg"
+categoria_macro: politica
 ---
 A Polícia Federal deflagrou uma operação na manhã desta terça-feira (12) com o objetivo de desarticular grupo criminoso suspeito de fraudar licitação em contratos vinculados à Secretaria de Estado de Agricultura, Pecuária e Abastecimento do Rio de Janeiro – atual SEAPA.
 

@@ -7,8 +7,8 @@ slug: "agora-e-lei-estudantes-com-tea-podem-ter-protocolo-individualizado-de-ava
 wp_id: 7172
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A determinação é da Lei 10.967/25, de autoria da deputada Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

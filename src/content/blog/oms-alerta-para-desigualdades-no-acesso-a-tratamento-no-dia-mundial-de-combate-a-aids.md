@@ -7,8 +7,8 @@ slug: "oms-alerta-para-desigualdades-no-acesso-a-tratamento-no-dia-mundial-de-co
 tags:
   - 'geopolitica'
 wp_id: 6082
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No Dia Mundial de Combate à Aids, celebrado em 1 de dezembro, a Organização Mundial de Saúde (OMS) fez um apelo aos líderes mundiais e cidadãos para defenderem o direito à saúde e corrigirem as desigualdades que bloqueiam o progresso na erradicação da doença. </p>
 <!-- /wp:paragraph -->

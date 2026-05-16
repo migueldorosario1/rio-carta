@@ -7,8 +7,8 @@ slug: "saquarema-contrato-de-r-27-milhoes-com-empresa-familiar-gera-questionamen
 wp_id: 2189
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Secretaria Municipal de Educação de Saquarema, no Rio de Janeiro, fechou um contrato de R$ 27 milhões com a empresa Duo Santos Comércio e Serviços Ltda., que tem ligações familiares com o secretário da pasta, Antônio Peres. A empresa, que pertence à família do genro do irmão de Peres, faturou cerca de R$ 77 milhões do município desde 2017.</p>
 <!-- /wp:paragraph -->

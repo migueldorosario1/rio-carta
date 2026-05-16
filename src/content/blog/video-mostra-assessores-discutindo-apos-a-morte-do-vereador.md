@@ -8,8 +8,8 @@ wp_id: 1895
 tags:
   - 'niteroi'
   - 'sao-goncalo'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Vídeos lançam luz sobre os momentos críticos que sucederam ao assassinato do vereador Aldecyr Maldonado (PL), de 61 anos, na noite de terça-feira (7), no Porto do Madama, em São Gonçalo, na Região Metropolitana do Rio. As imagens mostram os assessores do parlamentar discutindo com suspeitos após deixarem a residência onde se abrigavam, indicando uma complexidade maior nos eventos que levaram à tragédia.</p>
 <!-- /wp:paragraph -->

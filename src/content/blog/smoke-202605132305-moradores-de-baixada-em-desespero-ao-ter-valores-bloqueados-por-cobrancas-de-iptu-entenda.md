@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "iptu", "bloqueio-judicial", "cobranca", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "baixada", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605132305-moradores-de-baixada-em-desespero-ao-ter-valores-bloqueados-por-cobrancas-de-iptu-entenda.png"
+categoria_macro: politica
 ---
 O susto veio na hora de pagar um lanche. Depois de receber o salário e quitar algumas contas do mês, uma funcionária terceirizada da Prefeitura de Belford Roxo, na Baixada Fluminense, descobriu que sua conta bancária estava sem saldo disponível, apesar de ainda constar valor.
 

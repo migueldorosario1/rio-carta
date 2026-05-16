@@ -7,8 +7,8 @@ slug: "bebianno-alertou-sobre-suposta-relacao-de-carluxo-com-a-abin-paralela"
 tags:
   - 'nacional'
 wp_id: 2626
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma operação recente, a Polícia Federal foca em Carlos Bolsonaro, investigando o possível uso indevido da Agência Brasileira de Inteligência (Abin) durante a administração de Jair Bolsonaro. </p>
 <!-- /wp:paragraph -->

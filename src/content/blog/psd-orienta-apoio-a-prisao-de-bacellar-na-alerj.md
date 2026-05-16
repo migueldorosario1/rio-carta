@@ -8,8 +8,8 @@ wp_id: 7546
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Após reunião na sede do partido do prefeito Eduardo Paes, o PSD decidiu orientar seus deputados a apoiar a prisão preventiva de Rodrigo Bacellar, numa das votações mais tensas da atual legislatura</h3>
 <!-- /wp:heading -->

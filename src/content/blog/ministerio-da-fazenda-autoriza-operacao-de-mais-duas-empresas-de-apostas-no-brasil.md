@@ -7,8 +7,8 @@ slug: "ministerio-da-fazenda-autoriza-operacao-de-mais-duas-empresas-de-apostas-
 wp_id: 5801
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Secretaria de Prêmios e Apostas do Ministério da Fazenda autorizou, na noite desta sexta-feira (18), o funcionamento de mais duas empresas de apostas virtuais em todo o país, elevando o número total de operadoras liberadas de 98 para 100. </p>
 <!-- /wp:paragraph -->

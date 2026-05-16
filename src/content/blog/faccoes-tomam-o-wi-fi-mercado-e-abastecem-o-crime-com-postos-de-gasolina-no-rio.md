@@ -7,8 +7,8 @@ slug: "faccoes-tomam-o-wi-fi-mercado-e-abastecem-o-crime-com-postos-de-gasolina-
 tags:
   - 'seguranca-publica'
 wp_id: 6836
+categoria_macro: seguranca
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com brechas na lei, CV e PCC se infiltram em setores legais como internet e combustíveis, lucrando bilhões sem largar o comando das ruas</h3>
 <!-- /wp:heading -->

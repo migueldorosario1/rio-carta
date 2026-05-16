@@ -7,8 +7,8 @@ slug: "lula-anuncia-investimento-bilionario-em-infraestrutura-e-mobilidade-urban
 tags:
   - 'nacional'
 wp_id: 6072
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Governo Federal, em um evento realizado no Palácio do Planalto nesta sexta-feira (29), anunciou um significativo pacote de investimentos destinado à melhoria da infraestrutura e mobilidade urbana do estado de São Paulo. </p>
 <!-- /wp:paragraph -->

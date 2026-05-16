@@ -7,8 +7,8 @@ slug: "com-lula-brasil-registra-menor-taxa-de-desemprego-e-crescimento-historico
 tags:
   - 'nacional'
 wp_id: 3832
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O balanço do primeiro ano do terceiro mandato do presidente Luiz Inácio Lula da Silva (PT) aponta que o Brasil registrou a menor taxa de desemprego desde 2015 e o maior crescimento da massa salarial desde 1995.</p>
 <!-- /wp:paragraph -->

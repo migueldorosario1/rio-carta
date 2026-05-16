@@ -9,8 +9,8 @@ tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Deputada Dani Balbi (PCdoB) move ação contra prefeitura de Angra dos Reis após suspeita de transfobia contra a servidora</strong></em></p>
 <!-- /wp:paragraph -->

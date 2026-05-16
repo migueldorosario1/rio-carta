@@ -7,8 +7,8 @@ slug: "mulher-preta-na-politica-museu-do-amanha-recebe-dani-balbi-e-olivia-santa
 wp_id: 817
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento marcará o lançamento do livro "Mulher preta na política" de Olívia Santana</strong></em></p>
 <!-- /wp:paragraph -->

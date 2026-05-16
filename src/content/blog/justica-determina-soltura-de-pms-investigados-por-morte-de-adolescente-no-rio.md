@@ -7,8 +7,8 @@ slug: "justica-determina-soltura-de-pms-investigados-por-morte-de-adolescente-no
 wp_id: 1478
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal de Justiça do Rio de Janeiro atendeu ao pedido do Ministério Público do estado e determinou a suspensão da prisão preventiva dos policiais militares suspeitos de envolvimento na morte de um adolescente na Cidade de Deus, Zona Oeste da capital fluminense.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "stf-abre-trabalhos-de-2024-com-presenca-de-lula-e-alckmin"
 tags:
   - 'nacional'
 wp_id: 2850
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) abre nesta quinta-feira (1°) o Ano Judiciário 2024 com uma cerimônia no plenário da Corte. </p>
 <!-- /wp:paragraph -->

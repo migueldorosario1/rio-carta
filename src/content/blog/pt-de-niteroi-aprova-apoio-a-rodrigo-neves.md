@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em reunião realizada na última sexta, o Diretório Municipal do Partido dos Trabalhadores (PT) de Niterói decidiu, por unanimidade, apoiar a pré-candidatura de Rodrigo Neves à prefeitura da cidade.</p>
 <!-- /wp:paragraph -->

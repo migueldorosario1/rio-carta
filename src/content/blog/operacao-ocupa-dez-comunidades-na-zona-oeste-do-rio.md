@@ -7,8 +7,8 @@ slug: "operacao-ocupa-dez-comunidades-na-zona-oeste-do-rio"
 wp_id: 4760
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta segunda-feira (15), as forças de segurança do Estado do Rio de Janeiro iniciaram uma grande operação para ocupar dez comunidades em seis bairros da Zona Oeste da cidade. </p>
 <!-- /wp:paragraph -->

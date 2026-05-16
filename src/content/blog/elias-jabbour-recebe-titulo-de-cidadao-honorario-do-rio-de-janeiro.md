@@ -8,8 +8,8 @@ wp_id: 7241
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A Câmara Municipal do Rio de Janeiro concede nesta sexta-feira (24/10) o título de Cidadão Honorário da cidade ao presidente do Instituto Pereira Passos (IPP), Elias Jabbour (PCdoB), em reconhecimento à sua contribuição intelectual e à atuação pública voltada ao desenvolvimento urbano.</strong></em></p>
 <!-- /wp:paragraph -->

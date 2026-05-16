@@ -8,8 +8,8 @@ wp_id: 957
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite da última sexta-feira, uma blitz da Polícia Rodoviária Federal na Rodovia Washington Luiz, altura do pedágio de Xerém, em Duque de Caxias, resultou na prisão de Jeferson Tepedino Carvalho, conhecido como Feijão, de 34 anos. Feijão estava foragido desde 2022, quando um mandado de prisão foi expedido pelo Grupo de Atuação Especializada de Combate ao Crime Organizado (Gaeco), do Ministério Público do Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

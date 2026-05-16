@@ -7,8 +7,8 @@ slug: "herdeiros-da-cupula-do-jogo-do-bicho-do-rio-dominam-carnaval-com-fichas-l
 wp_id: 3217
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os descendentes dos grandes bicheiros do Rio de Janeiro têm conquistado o cenário do carnaval carioca, trilhando uma jornada ascendente nas escolas de samba.</p>
 <!-- /wp:paragraph -->

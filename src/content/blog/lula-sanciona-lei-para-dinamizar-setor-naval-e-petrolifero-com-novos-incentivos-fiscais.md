@@ -7,8 +7,8 @@ slug: "lula-sanciona-lei-para-dinamizar-setor-naval-e-petrolifero-com-novos-ince
 tags:
   - 'nacional'
 wp_id: 6300
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva sancionou a Lei 15.075, que revisa as regras de conteúdo local nos contratos do setor de petróleo e gás, além de introduzir incentivos fiscais significativos para o setor naval.</p>
 <!-- /wp:paragraph -->

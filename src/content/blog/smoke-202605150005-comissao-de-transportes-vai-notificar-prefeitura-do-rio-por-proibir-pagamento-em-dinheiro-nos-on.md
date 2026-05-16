@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "prefeitura-do-rio", "alerj", "transporte-mobilidade", "politica-rj", "capital-estado", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605150005-comissao-de-transportes-vai-notificar-prefeitura-do-rio-por-proibir-pagamento-em-dinheiro-nos-on.jpg"
+categoria_macro: politica
 ---
 Rio
 

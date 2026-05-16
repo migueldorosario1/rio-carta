@@ -7,8 +7,8 @@ slug: "herdeira-do-ex-bicheiro-maninho-enfrenta-cobranca-de-r-109-mil-por-irregu
 wp_id: 1937
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A Procuradoria-Geral da Fazenda Nacional (PGFN) solicitou à Justiça Federal do Rio de Janeiro a penhora no valor de R$ 109.189,78 referente a uma dívida de Imposto de Renda de Shanna Harrouche Garcia, filha do falecido ex-bicheiro Maninho, reconhecido como um dos líderes do Jogo do Bicho no Estado do Rio, cujo falecimento ocorreu em 2004.</em></strong></p>
 <!-- /wp:paragraph -->

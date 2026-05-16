@@ -21,8 +21,8 @@ tags:
   - 'petropolis'
   - 'buzios'
   - 'angra-dos-reis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Serão 330 ações do PAC no estado do Rio de Janeiro</em></strong></p>
 <!-- /wp:paragraph -->

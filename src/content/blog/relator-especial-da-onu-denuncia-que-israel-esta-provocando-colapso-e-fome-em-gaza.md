@@ -7,8 +7,8 @@ slug: "relator-especial-da-onu-denuncia-que-israel-esta-provocando-colapso-e-fom
 tags:
   - 'geopolitica'
 wp_id: 3692
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um relatório apresentado nesta quinta-feira por Michael Fakhri, Relator Especial da ONU sobre o Direito à Alimentação, acusa Israel de implementar uma "campanha de fome" em Gaza, atacando deliberadamente o sistema alimentar da região em meio ao conflito com o Hamas. </p>
 <!-- /wp:paragraph -->

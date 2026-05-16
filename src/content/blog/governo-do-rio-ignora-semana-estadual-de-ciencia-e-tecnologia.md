@@ -7,8 +7,8 @@ slug: "governo-do-rio-ignora-semana-estadual-de-ciencia-e-tecnologia"
 wp_id: 7245
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Mesmo com a Lei nº 10.187/2023, de autoria da deputada estadual Dani Balbi (PCdoB), que inclui a Semana Estadual de Ciência e Tecnologia no calendário oficial do Rio de Janeiro, o governo fluminense ignorou a norma e não promoveu nenhuma atividade para celebrar o evento, que acontece em paralelo à Semana Nacional de Ciência e Tecnologia, iniciada nesta terça-feira (21) em todo o país.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "globo-defende-guerra-aberta-do-brasil-com-a-russia-apos-a-morte-de-extrem
 tags:
   - 'geopolitica'
 wp_id: 3290
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em recente editorial, o jornal O Globo abordou a morte do opositor russo Alexei Navalny, e aproveitou para defender uma guerra aberta do Ocidente, incluindo o Brasil, contra a Rússia.</p>
 <!-- /wp:paragraph -->

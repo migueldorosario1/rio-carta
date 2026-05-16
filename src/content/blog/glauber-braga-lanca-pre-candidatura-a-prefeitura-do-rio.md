@@ -8,8 +8,8 @@ wp_id: 994
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Também disputam a indicação do partido Tarcísio Motta e Renata Souza </em></strong></p>
 <!-- /wp:paragraph -->

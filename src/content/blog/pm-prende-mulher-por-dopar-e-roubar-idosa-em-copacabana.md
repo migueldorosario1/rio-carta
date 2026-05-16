@@ -7,8 +7,8 @@ slug: "pm-prende-mulher-por-dopar-e-roubar-idosa-em-copacabana"
 tags:
   - 'copacabana'
 wp_id: 2908
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma empregada doméstica, de 46 anos, foi presa em flagrante por dopar e roubar uma idosa de 90 anos em Copacabana, na Zona Sul do Rio. Marlene de Oliveira é acusada de roubar cerca de R$ 21 mil da vítima, com quem trabalhava há três meses.</p>
 <!-- /wp:paragraph -->

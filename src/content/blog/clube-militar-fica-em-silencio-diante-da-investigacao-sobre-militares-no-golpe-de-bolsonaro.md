@@ -7,8 +7,8 @@ slug: "clube-militar-fica-em-silencio-diante-da-investigacao-sobre-militares-no-
 wp_id: 3224
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Clube Militar, reconhecido por sua rapidez em emitir posicionamentos e servir como porta-voz dos oficiais em atividade, optou por manter o silêncio diante das investigações envolvendo membros das Forças Armadas em planos para um golpe de Estado, conduzidas pela Polícia Federal.</p>
 <!-- /wp:paragraph -->

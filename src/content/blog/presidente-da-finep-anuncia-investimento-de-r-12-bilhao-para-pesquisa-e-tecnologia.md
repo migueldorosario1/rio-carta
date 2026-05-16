@@ -7,8 +7,8 @@ slug: "presidente-da-finep-anuncia-investimento-de-r-12-bilhao-para-pesquisa-e-t
 wp_id: 556
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><a href="https://www.alerj.rj.gov.br/Visualizar/Noticia/56154" title="">Com informações da ALERJ</a></em></p>
 <!-- /wp:paragraph -->

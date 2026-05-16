@@ -7,8 +7,8 @@ slug: "brasil-registra-crescimento-na-geracao-de-empregos-formais-com-247-mil-re
 wp_id: 5919
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Brasil registrou a criação de 247.818 novos empregos com carteira assinada em setembro de 2024, segundo dados do Novo Caged divulgados nesta quarta-feira (30) pelo Ministério do Trabalho e Emprego (MTE). </p>
 <!-- /wp:paragraph -->

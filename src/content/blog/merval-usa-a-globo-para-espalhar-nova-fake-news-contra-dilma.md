@@ -7,8 +7,8 @@ slug: "merval-usa-a-globo-para-espalhar-nova-fake-news-contra-dilma"
 tags:
   - 'nacional'
 wp_id: 3243
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O colunista Merval Pereira, membro da Academia Brasileira de Letras (ABL) e jornalista do Grupo Globo, gerou polêmica nesta quinta-feira, 15, ao publicar uma coluna em que apresenta informações falsas sobre a ex-presidente Dilma Rousseff (PT).</p>
 <!-- /wp:paragraph -->

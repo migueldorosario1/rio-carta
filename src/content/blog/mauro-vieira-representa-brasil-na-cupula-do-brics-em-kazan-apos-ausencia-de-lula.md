@@ -7,8 +7,8 @@ slug: "mauro-vieira-representa-brasil-na-cupula-do-brics-em-kazan-apos-ausencia-
 wp_id: 5827
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->

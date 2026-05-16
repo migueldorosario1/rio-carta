@@ -7,8 +7,8 @@ slug: "moradores-se-manifestam-apos-a-morte-de-adolescente-em-operacao-policial-
 wp_id: 1061
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma onda de indignação tomou conta da comunidade da Cidade de Deus após a morte de Thiago Menezes Flausino, um jovem de apenas 13 anos, vítima de disparos de arma de fogo em uma operação policial. Em protesto contra a violência e pedindo por justiça, os moradores fecharam uma das principais vias da região na noite desta segunda-feira.</p>
 <!-- /wp:paragraph -->

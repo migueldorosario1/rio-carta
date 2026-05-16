@@ -9,8 +9,8 @@ tags:
   - 'buzios'
   - 'niteroi'
   - 'sao-goncalo'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma mulher foi presa em flagrante no último sábado, em Búzios, sob a acusação de ter roubado um bebê em Niterói. Luciana Cristina Soares Marques Ramos, de 40 anos, teria se aproximado da mãe da criança, Maria Clara da Conceição Honorato, de 16 anos, alegando ter realizado um aborto. </p>
 <!-- /wp:paragraph -->

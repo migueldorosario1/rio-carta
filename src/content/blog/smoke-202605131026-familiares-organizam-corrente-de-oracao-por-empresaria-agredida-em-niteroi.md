@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:26:52Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "feminicidio", "violencia-domestica", "saude", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "comunidade", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605131026-familiares-organizam-corrente-de-oracao-por-empresaria-agredida-em-niteroi.png"
+categoria_macro: seguranca
 ---
 Familiares e amigos da empresária Izabela Leite, de 30 anos, agredida pelo ex-companheiro no dia 2 e internada em estado grave, realizam nesta quarta-feira (13) um ato de fé pela recuperação da jovem. A mobilização contará com uma corrente de oração em frente ao Hospital Estadual Azevedo Lima, em Niterói, onde ela permanece internada.
 

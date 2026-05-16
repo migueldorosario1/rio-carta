@@ -7,8 +7,8 @@ slug: "rogerio-andrade-balanca-carnaval-e-desafia-milicia"
 wp_id: 2500
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O cenário do carnaval carioca está sendo agitado por Rogério de Andrade, sobrinho de Castor e patrono da escola de samba Mocidade Independente de Padre Miguel. Após um problema técnico com o carro de som durante um ensaio na Sapucaí, Andrade, que cumpre restrições judiciais e utiliza tornozeleira eletrônica, exigiu uma reunião com a direção da Liga Independente das Escolas de Samba (Liesa) e os presidentes das demais escolas do Grupo Especial. Seu pedido foi atendido, e um segundo ensaio técnico foi marcado.</p>
 <!-- /wp:paragraph -->

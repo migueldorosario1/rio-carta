@@ -7,8 +7,8 @@ slug: "onibus-sao-incendiados-e-sequestrados-na-baixada"
 wp_id: 4820
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Dois ônibus foram incendiados nesta quarta-feira em Belford Roxo, Baixada Fluminense. O incidente ocorreu na Avenida Automóvel Clube, próximo à Favela do Guacha, conforme relatado pelo RJTV. Em resposta, policiais do 39ºBPM (Belford Roxo) foram destacados para o local. </p>
 <!-- /wp:paragraph -->

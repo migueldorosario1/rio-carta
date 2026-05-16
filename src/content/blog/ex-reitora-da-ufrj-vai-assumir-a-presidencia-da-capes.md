@@ -7,8 +7,8 @@ slug: "ex-reitora-da-ufrj-vai-assumir-a-presidencia-da-capes"
 wp_id: 2895
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério da Educação (MEC) anunciou a nomeação de Denise Pires de Carvalho como nova presidente da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes). </p>
 <!-- /wp:paragraph -->

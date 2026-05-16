@@ -7,8 +7,8 @@ slug: "moradores-de-santa-teresa-fazem-ato-no-centro-rio-pela-recuperacao-do-bon
 wp_id: 1215
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada Dani Balbi (PCdoB) cobrará do governo investimentos no sistema de transporte do bairro</em></strong></p>
 <!-- /wp:paragraph -->

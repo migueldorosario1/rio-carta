@@ -8,8 +8,8 @@ wp_id: 2206
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um ônibus desgovernado da linha 494, que realiza o itinerário entre Duque de Caxias e Pilares, causou um grave acidente na noite desta segunda-feira (25), afetando o bairro entre Cordovil e Parada de Lucas, na Zona Norte do Rio de Janeiro. O veículo, que perdeu o controle, arrastou vários carros em seu caminho e só conseguiu parar após colidir com um muro próximo à estação de trem da Supervia em Parada de Lucas. Nove pessoas foram reportadas como feridas, duas das quais em estado grave.</p>
 <!-- /wp:paragraph -->

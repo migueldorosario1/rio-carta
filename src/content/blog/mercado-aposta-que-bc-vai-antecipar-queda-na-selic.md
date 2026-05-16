@@ -7,8 +7,8 @@ slug: "mercado-aposta-que-bc-vai-antecipar-queda-na-selic"
 tags:
   - 'nacional'
 wp_id: 2648
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na presente semana, o mercado financeiro manifesta otimismo em relação à reunião agendada do Comitê de Política Monetária (Copom) do Banco Central. </p>
 <!-- /wp:paragraph -->

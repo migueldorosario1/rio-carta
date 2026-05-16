@@ -7,8 +7,8 @@ slug: "governo-devera-revisar-para-cima-projecao-de-crescimento-economico-de-202
 tags:
   - 'nacional'
 wp_id: 5058
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O desempenho da economia brasileira no primeiro semestre de 2024, que superou as expectativas, deverá levar o governo a revisar a previsão oficial de crescimento para o ano, atualmente fixada em 2,5%.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-critica-diretor-do-bc-por-comentarios-sobre-alta-de-juros
 tags:
   - 'nacional'
 wp_id: 5859
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do PT e deputada federal, Gleisi Hoffmann, usou as redes sociais nesta quinta-feira (24) para criticar as recentes declarações de Paulo Picchetti, diretor de assuntos internacionais e gestão de riscos corporativos do Banco Central. </p>
 <!-- /wp:paragraph -->

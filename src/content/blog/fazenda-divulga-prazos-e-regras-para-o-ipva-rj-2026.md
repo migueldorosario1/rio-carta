@@ -7,8 +7,8 @@ slug: "fazenda-divulga-prazos-e-regras-para-o-ipva-rj-2026"
 wp_id: 7485
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A Secretaria de Fazenda do Rio confirmou o cronograma do IPVA 2026, com desconto de 3% para quem quitar à vista e parcelamento em três vezes sem alteração nas regras atuais</h3>
 <!-- /wp:heading -->

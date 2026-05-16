@@ -7,8 +7,8 @@ slug: "reforco-de-peso-lula-defende-reducao-de-jornada-para-comerciarios"
 tags:
   - 'nacional'
 wp_id: 3663
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No lançamento do projeto para regulamentar a profissão dos motoristas de aplicativos, o presidente Lula disse ser favorável à criação de uma jornada diferenciada para os trabalhadores do comércio nos finais de semana. Pensamento alinhado com o que defende o movimento sindical.</p>
 <!-- /wp:paragraph -->

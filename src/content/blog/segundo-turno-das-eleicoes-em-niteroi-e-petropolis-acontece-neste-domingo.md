@@ -10,8 +10,8 @@ tags:
   - 'rio-de-janeiro'
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Neste domingo, 27 de outubro, eleitores de Niterói e Petrópolis, no estado do Rio de Janeiro, retornarão às urnas para decidir quem serão os próximos prefeitos dessas cidades. Este é o cenário em apenas duas das 92 cidades do estado que irão para o segundo turno das eleições municipais de 2024.</p>
 <!-- /wp:paragraph -->

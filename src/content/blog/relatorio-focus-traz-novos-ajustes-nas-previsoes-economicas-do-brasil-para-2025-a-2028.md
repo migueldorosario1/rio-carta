@@ -7,8 +7,8 @@ slug: "relatorio-focus-traz-novos-ajustes-nas-previsoes-economicas-do-brasil-par
 tags:
   - 'nacional'
 wp_id: 6422
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O mais recente Relatório Focus, divulgado pelo Banco Central nesta segunda-feira (13), apresenta atualizações nas expectativas dos analistas para os principais indicadores econômicos do Brasil nos próximos anos. </p>
 <!-- /wp:paragraph -->

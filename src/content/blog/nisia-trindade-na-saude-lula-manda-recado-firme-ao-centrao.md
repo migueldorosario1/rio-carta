@@ -7,8 +7,8 @@ slug: "nisia-trindade-na-saude-lula-manda-recado-firme-ao-centrao"
 wp_id: 441
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Por Clarice Candido, em <a href="https://www.ocafezinho.com/2023/06/19/nisia-trindade-na-saude-lula-manda-recado-firme-ao-centrao/">O Cafezinho</a></em></p>
 <!-- /wp:paragraph -->

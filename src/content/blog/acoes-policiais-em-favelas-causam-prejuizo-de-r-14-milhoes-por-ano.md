@@ -7,8 +7,8 @@ slug: "acoes-policiais-em-favelas-causam-prejuizo-de-r-14-milhoes-por-ano"
 wp_id: 1376
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Pesquisa foi feita com 800 moradores de dois complexos no Rio</em></strong></p>
 <!-- /wp:paragraph -->

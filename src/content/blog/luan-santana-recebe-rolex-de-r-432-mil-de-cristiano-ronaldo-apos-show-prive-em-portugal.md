@@ -7,8 +7,8 @@ slug: "luan-santana-recebe-rolex-de-r-432-mil-de-cristiano-ronaldo-apos-show-pri
 tags:
   - 'nacional'
 wp_id: 2237
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ano Novo de Luan Santana foi marcado por um gesto de generosidade estelar do ícone do futebol, Cristiano Ronaldo. Após uma apresentação particular na celebração privada de Réveillon de Ronaldo em Portugal, o cantor sertanejo foi surpreendido com um presente luxuoso: um relógio Rolex avaliado em R$ 432 mil. O convite coincidiu com o aniversário de Maria Dolores Aveiro, mãe de Ronaldo e fã declarada de Luan, adicionando um toque pessoal ao evento.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "operacao-policial-na-cidade-de-deus-apos-morte-de-traficante-em-confronto
 wp_id: 2396
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Militar do Rio de Janeiro realizou uma operação na Cidade de Deus, na Zona Oeste, após um tiroteio que resultou na morte de Carlos Henrique dos Santos, conhecido como Carlinhos Cocaína, de 52 anos, apontado como um dos líderes do tráfico na região. O confronto aconteceu na madrugada desta sexta-feira (12) na Freguesia, um dos acessos à comunidade.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "sindicato-dos-comerciarios-segue-na-luta-pela-reducao-da-jornada-de-traba
 tags:
   - 'politica-rj'
 wp_id: 2891
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na última quarta-feira, dia 31, o Sindicato dos Comerciários, junto com líderes do Movimento Vida Além do Trabalho, estiveram em Madureira para dialogar com os trabalhadores sobre a campanha ‘uma folga nunca foi e nunca será o suficiente’, que trata da redução da jornada, sem redução de salário.</p>
 <!-- /wp:paragraph -->

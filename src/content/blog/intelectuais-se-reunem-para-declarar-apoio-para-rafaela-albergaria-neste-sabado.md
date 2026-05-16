@@ -8,8 +8,8 @@ wp_id: 4510
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O encontro está sendo organizado pelos professores Luiz Eduardo Soares e Miriam&nbsp;Krenzinger.</strong></em></p>
 <!-- /wp:paragraph -->

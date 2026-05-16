@@ -8,8 +8,8 @@ wp_id: 2339
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Companhia de Engenharia de Tráfego do Rio (CET-Rio) anunciou planos para implementar uma faixa exclusiva na Linha Vermelha até o final de janeiro. Esta decisão visa acomodar o crescente fluxo de veículos em direção ao Aeroporto Internacional Antônio Carlos Jobim, o Galeão. A iniciativa, que faz parte de um pacote de intervenções orçado em R$ 60 milhões, inclui também recapeamento, instalação de câmeras e uma nova linha expressa de ônibus.</p>
 <!-- /wp:paragraph -->

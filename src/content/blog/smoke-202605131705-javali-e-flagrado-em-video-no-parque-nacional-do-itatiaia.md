@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "parque-nacional-do-itatiaia", "regiao-serrana", "javali", "especie-invasora", "biodiversidade", "sul-fluminense", "sul-fluminense-costa-verde", "itatiaia", "comunidade", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605131705-javali-e-flagrado-em-video-no-parque-nacional-do-itatiaia.jpg"
+categoria_macro: geral
 ---
 Itatiaia— Um javali foi registrado em vídeo em uma das estradas de acesso ao Parque Nacional do Itatiaia. O animal, cientificamente denominado Sus scrofa, é uma espécie exótica invasora, não nativa do Brasil, e representa uma ameaça à biodiversidade da Serra da Mantiqueira.
 

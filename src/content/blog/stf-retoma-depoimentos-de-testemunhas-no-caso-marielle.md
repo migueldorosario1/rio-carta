@@ -7,8 +7,8 @@ slug: "stf-retoma-depoimentos-de-testemunhas-no-caso-marielle"
 wp_id: 5132
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) retomou nesta segunda-feira (9) os depoimentos de testemunhas na ação penal que envolve os acusados de serem os mandantes do assassinato da vereadora Marielle Franco, ocorrido em 2018 no Rio de Janeiro. Nesta fase, foram ouvidas as primeiras testemunhas indicadas pela defesa dos réus.</p>
 <!-- /wp:paragraph -->

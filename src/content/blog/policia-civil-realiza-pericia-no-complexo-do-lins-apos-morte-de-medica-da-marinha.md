@@ -7,8 +7,8 @@ slug: "policia-civil-realiza-pericia-no-complexo-do-lins-apos-morte-de-medica-da
 wp_id: 6168
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta sexta-feira (13), a Polícia Civil realizou uma operação no Complexo do Lins, na Zona Norte do Rio de Janeiro, para conduzir uma perícia técnica no local de onde pode ter partido o disparo que matou a médica da Marinha, Gisele Mendes, no Hospital Marcílio Dias.</p>
 <!-- /wp:paragraph -->

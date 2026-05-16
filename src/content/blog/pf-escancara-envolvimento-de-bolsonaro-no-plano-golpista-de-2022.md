@@ -7,8 +7,8 @@ slug: "pf-escancara-envolvimento-de-bolsonaro-no-plano-golpista-de-2022"
 wp_id: 6050
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Um relatório da Polícia Federal (PF), recentemente tornado público pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), concluiu que o ex-presidente Jair Bolsonaro teve um papel ativo e direto na tentativa de golpe de Estado após as eleições de 2022. </p>
 <!-- /wp:paragraph -->

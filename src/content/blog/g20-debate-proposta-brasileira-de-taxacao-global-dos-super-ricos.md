@@ -7,8 +7,8 @@ slug: "g20-debate-proposta-brasileira-de-taxacao-global-dos-super-ricos"
 tags:
   - 'geopolitica'
 wp_id: 4320
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Alemanha, Espanha e África do Sul anunciaram, nesta quinta-feira, 25, seu apoio à proposta do Brasil, atual presidente do G20, de implementar uma taxação mundial dos mais ricos. A medida, que já conta com o apoio da França, é vista como crucial para combater as desigualdades econômicas globais. A informação é da agência <strong><a href="https://www.rfi.fr/br/europa/20240425-proposta-brasileira-de-tributa%C3%A7%C3%A3o-mundial-dos-ricos-ganha-mais-apoio-internacional">RFI</a></strong>.</p>
 <!-- /wp:paragraph -->

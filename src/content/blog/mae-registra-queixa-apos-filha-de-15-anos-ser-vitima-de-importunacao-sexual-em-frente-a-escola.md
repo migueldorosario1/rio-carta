@@ -7,8 +7,8 @@ slug: "mae-registra-queixa-apos-filha-de-15-anos-ser-vitima-de-importunacao-sexu
 tags:
   - 'seguranca-publica'
 wp_id: 1889
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Uma mãe tomou a difícil decisão de registrar uma queixa na delegacia nesta quinta-feira, em meio à indignação e preocupação, após sua filha, uma estudante de 15 anos, ter sido vítima de importunação sexual na porta da escola, localizada na Zona Oeste do Rio. O incidente ocorreu em plena luz do dia, no último dia 6 de novembro, às 8h20, e foi flagrado pelas câmeras de vigilância da instituição de ensino.</em></strong></p>
 <!-- /wp:paragraph -->

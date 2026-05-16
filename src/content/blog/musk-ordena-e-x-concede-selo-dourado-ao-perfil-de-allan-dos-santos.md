@@ -7,8 +7,8 @@ slug: "musk-ordena-e-x-concede-selo-dourado-ao-perfil-de-allan-dos-santos"
 tags:
   - 'nacional'
 wp_id: 4134
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na segunda-feira, 8, a conta do site "Terça Livre", associada ao blogueiro Allan dos Santos, foi agraciada com o selo de verificação dourado no X, anteriormente conhecido como Twitter. </p>
 <!-- /wp:paragraph -->

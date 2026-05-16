@@ -7,8 +7,8 @@ slug: "sus-do-rj-pode-incluir-vacinas-contra-bronquiolite"
 wp_id: 6968
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Crianças com menos de dois anos e gestantes de risco podem ser protegidas de bronquiolite com imunizantes já aprovados pela Anvisa e sem custo no SUS</h3>
 <!-- /wp:heading -->

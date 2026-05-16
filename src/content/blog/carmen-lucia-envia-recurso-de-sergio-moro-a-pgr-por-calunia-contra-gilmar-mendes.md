@@ -7,8 +7,8 @@ slug: "carmen-lucia-envia-recurso-de-sergio-moro-a-pgr-por-calunia-contra-gilmar
 tags:
   - 'nacional'
 wp_id: 5281
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), enviou à Procuradoria-Geral da República (PGR) um recurso interposto pelo senador Sergio Moro (União-PR). Moro é réu por calúnia, relacionada a acusações contra o ministro do STF, Gilmar Mendes. A informação foi divulgada pela CNN Brasil.</p>
 <!-- /wp:paragraph -->

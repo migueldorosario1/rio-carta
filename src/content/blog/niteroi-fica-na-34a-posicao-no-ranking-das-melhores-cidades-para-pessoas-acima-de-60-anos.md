@@ -7,8 +7,8 @@ slug: "niteroi-fica-na-34a-posicao-no-ranking-das-melhores-cidades-para-pessoas-
 wp_id: 1739
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Niterói, que em 2020 ocupava o sexto lugar no ranking das melhores cidades para pessoas com mais de 60 anos, caiu para a 34ª posição em 2023. Essa mudança de posição foi revelada pelo Índice para o Desenvolvimento Urbano para Longevidade, o IDL2023, na categoria de Cidade Grande, que avaliou 326 municípios. Embora tenha perdido posições, estar entre as 34 melhores cidades ainda é um indicativo de qualidade de vida para a população idosa.</em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "bope-do-rj-inicia-uso-de-cameras-em-uniformes-em-8-de-janeiro"
 wp_id: 2250
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O secretário da Polícia Militar do Rio de Janeiro, coronel Luiz Henrique Marinho Pires, anunciou nesta terça-feira, 2, que os agentes do Batalhão de Operações Especiais (Bope) estão em treinamento para utilizar câmeras em seus uniformes. A implantação dos equipamentos está agendada para a próxima segunda-feira, 8 de janeiro.</p>
 <!-- /wp:paragraph -->

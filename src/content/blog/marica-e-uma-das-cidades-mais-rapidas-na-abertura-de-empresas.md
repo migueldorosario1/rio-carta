@@ -7,8 +7,8 @@ slug: "marica-e-uma-das-cidades-mais-rapidas-na-abertura-de-empresas"
 wp_id: 7592
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading" id="h-lista-divulgada-pelo-centro-de-lideranca-publica-mostra-que-municipio-ocupa-a-4ª-posicao-no-estado-do-rio-de-janeiro-e-o-15º-na-regiao-sudeste">Lista divulgada pelo Centro de Liderança Pública mostra que município ocupa a 4ª posição no estado do Rio de Janeiro e o 15º na Região Sudeste</h4>
 <!-- /wp:heading -->

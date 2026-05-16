@@ -7,8 +7,8 @@ slug: "brasil-responde-a-tentativas-de-golpe-com-firmeza-e-defesa-da-democracia"
 wp_id: 6279
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nos últimos anos, o Brasil e outras nações sul-americanas enfrentaram tentativas de desestabilização política que transbordaram as disputas políticas convencionais, exigindo uma resposta robusta da sociedade. </p>
 <!-- /wp:paragraph -->

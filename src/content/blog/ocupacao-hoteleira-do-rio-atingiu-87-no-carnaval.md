@@ -7,8 +7,8 @@ slug: "ocupacao-hoteleira-do-rio-atingiu-87-no-carnaval"
 wp_id: 3241
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A ocupação hoteleira do Rio de Janeiro alcançou uma média impressionante de 87% durante o feriado de Carnaval, revelou a associação HotéisRIO. </p>
 <!-- /wp:paragraph -->

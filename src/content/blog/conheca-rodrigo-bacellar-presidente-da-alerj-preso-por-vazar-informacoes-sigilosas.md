@@ -8,8 +8,8 @@ wp_id: 7509
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A repetição de prisões no comando da Alerj expõe padrões que desgastam a confiança pública e reforçam a urgência de reformas institucionais mais profundas</h3>
 <!-- /wp:heading -->

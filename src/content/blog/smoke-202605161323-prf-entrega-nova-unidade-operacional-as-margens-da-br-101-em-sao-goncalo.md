@@ -5,6 +5,7 @@ pubDate: "2026-05-16T13:24:19Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "rodovia", "seguranca-publica", "norte-noroeste-fluminense", "sao-goncalo-itaborai", "regiao-metropolitana", "anil", "niteroi", "itaborai", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605161323-prf-entrega-nova-unidade-operacional-as-margens-da-br-101-em-sao-goncalo.jpg"
+categoria_macro: seguranca
 ---
 Nova unidade vai reforçar ações de fiscalização e segurança na Niterói-Manilha
 

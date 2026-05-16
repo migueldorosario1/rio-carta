@@ -7,8 +7,8 @@ slug: "americanas-demite-mais-de-9-mil-em-sete-meses-de-recuperacao-judicial"
 tags:
   - 'nacional'
 wp_id: 1223
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>"Essa situação acontece exclusivamente por conta de crimes cometidos pelos gestores da empresa", diz o Presidente do Sindicato dos Comerciários do Rio, Márcio Ayer.</em></strong></p>
 <!-- /wp:paragraph -->

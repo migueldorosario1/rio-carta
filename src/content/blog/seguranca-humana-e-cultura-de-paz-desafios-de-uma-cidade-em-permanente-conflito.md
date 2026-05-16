@@ -8,8 +8,8 @@ wp_id: 4483
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Rio de Janeiro figura como das mais belas cidades do mundo, presenteado por uma deslumbrante natureza, que protege – em alguma medida – seus limites pelo mar e pelas áreas de florestas urbanas que marcam o imaginário mundial e configuram, em parte, a ocupação e dinâmica cultural e social desta cidade.</p>
 <!-- /wp:paragraph -->

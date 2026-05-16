@@ -8,8 +8,8 @@ wp_id: 1350
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><span style="font-family: &quot;Open Sans&quot;, sans-serif; white-space-collapse: collapse;"><em><strong>Pelo segundo ano consecutivo, Petrópolis é a primeira cidade no ranking estadual em saúde, de acordo com o estudo Connected Smart Cities.</strong></em></span></p>
 <!-- /wp:paragraph -->

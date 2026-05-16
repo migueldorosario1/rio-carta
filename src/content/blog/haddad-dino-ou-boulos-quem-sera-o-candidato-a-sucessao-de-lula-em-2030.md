@@ -7,8 +7,8 @@ slug: "haddad-dino-ou-boulos-quem-sera-o-candidato-a-sucessao-de-lula-em-2030"
 wp_id: 7238
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Com Lula ainda no centro da política nacional, os nomes de Fernando Haddad, Flávio Dino e Guilherme Boulos despontam como possíveis herdeiros do projeto petista para 2030, caso o presidente seja reeleito em 2026.</em></strong></p>
 <!-- /wp:paragraph -->

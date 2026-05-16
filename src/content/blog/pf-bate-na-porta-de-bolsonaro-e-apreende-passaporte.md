@@ -7,8 +7,8 @@ slug: "pf-bate-na-porta-de-bolsonaro-e-apreende-passaporte"
 wp_id: 3071
 tags:
   - 'angra-dos-reis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal realizou uma operação nesta quinta-feira (8), incluindo o ex-presidente Jair Bolsonaro entre os investigados. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "governo-libera-valor-bilionario-para-dividas-de-trabalhadores-rurais-do-r
 tags:
   - 'nacional'
 wp_id: 4931
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo do presidente Luiz Inácio Lula da Silva anunciou, por meio de uma medida provisória publicada nesta quinta-feira, 22, a liberação de R$1,97 bilhão para auxiliar trabalhadores rurais do Rio Grande do Sul na quitação de dívidas. </p>
 <!-- /wp:paragraph -->

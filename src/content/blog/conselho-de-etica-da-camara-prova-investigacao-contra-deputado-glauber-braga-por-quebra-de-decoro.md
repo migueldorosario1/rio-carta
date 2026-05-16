@@ -7,8 +7,8 @@ slug: "conselho-de-etica-da-camara-prova-investigacao-contra-deputado-glauber-br
 wp_id: 5177
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Conselho de Ética da Câmara dos Deputados aprovou, com 10 votos a 2, o início da investigação contra o deputado federal Glauber Braga (PSOL-RJ) por possível quebra de decoro parlamentar.</p>
 <!-- /wp:paragraph -->

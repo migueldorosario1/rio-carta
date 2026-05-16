@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Empresas de energia elétrica oferecem serviços precários no estado</strong></em></p>
 <!-- /wp:paragraph -->

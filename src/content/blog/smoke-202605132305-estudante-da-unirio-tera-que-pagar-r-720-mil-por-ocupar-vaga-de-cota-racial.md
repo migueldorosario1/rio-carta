@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "unirio", "cota-racial", "mpf", "ensino-superior", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "/hero/smoke-smoke-202605132305-estudante-da-unirio-tera-que-pagar-r-720-mil-por-ocupar-vaga-de-cota-racial.png"
+categoria_macro: politica
 ---
 O Ministério Público Federal (MPF) acordou, nesta terça-feira (12), o Termo de Ajustamento de Conduta (TAC) com um estudante de medicina da Universidade Federal do Estado do Rio de Janeiro (Unirio), que ingressou na faculdade de forma indevida, ocupando uma vaga que era destinada a cotas raciais. Como reparaçõa, o jovem terá que pagar R$720 mil.
 

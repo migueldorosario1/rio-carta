@@ -7,8 +7,8 @@ slug: "seminario-discute-uso-de-inteligencia-artificial-e-governanca-de-dados-na
 tags:
   - 'educacao'
 wp_id: 5785
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Esta semana, especialistas e gestores públicos reuniram-se para debater a aplicação da inteligência artificial (IA) e a governança de dados em políticas públicas educacionais. </p>
 <!-- /wp:paragraph -->

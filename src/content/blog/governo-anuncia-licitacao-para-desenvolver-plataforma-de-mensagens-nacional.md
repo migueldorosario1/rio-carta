@@ -7,8 +7,8 @@ slug: "governo-anuncia-licitacao-para-desenvolver-plataforma-de-mensagens-nacion
 tags:
   - 'nacional'
 wp_id: 4882
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente da Agência Brasileira de Desenvolvimento Industrial (ABDI), Ricardo Cappelli, anunciou que o governo federal planeja lançar uma licitação para a criação de uma plataforma de mensagens nacional, com funcionalidades semelhantes ao WhatsApp. O anúncio foi feito nesta segunda-feira (19).</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "ong-rio-de-paz-lanca-documentario-sobre-desaparecidos"
 wp_id: 659
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Faixa na Lagoa questiona o estado sobre as pessoas desaparecidas</em></p>
 <!-- /wp:paragraph -->

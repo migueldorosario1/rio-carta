@@ -7,8 +7,8 @@ slug: "governo-lula-suspende-temporariamente-pagamento-da-divida-do-rs"
 tags:
   - 'nacional'
 wp_id: 4429
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal, sob a liderança do presidente Luiz Inácio Lula da Silva, suspendeu temporariamente o pagamento da parcela mensal da dívida do Rio Grande do Sul devido às fortes chuvas que afetam o estado. </p>
 <!-- /wp:paragraph -->

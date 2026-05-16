@@ -7,8 +7,8 @@ slug: "inteligencia-artificial-pode-revolucionar-o-orcamento-do-sus-aponta-estud
 tags:
   - 'nacional'
 wp_id: 7765
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Um estudo publicado na revista Princípios aponta que o uso de inteligência artificial no SUS pode revolucionar o planejamento orçamentário, tornando a gestão mais eficiente, transparente e capaz de reduzir desigualdades na saúde pública.</strong></em></p>
 <!-- /wp:paragraph -->

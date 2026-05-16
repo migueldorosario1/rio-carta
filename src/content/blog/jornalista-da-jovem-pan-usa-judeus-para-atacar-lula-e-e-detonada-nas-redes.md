@@ -7,8 +7,8 @@ slug: "jornalista-da-jovem-pan-usa-judeus-para-atacar-lula-e-e-detonada-nas-rede
 wp_id: 3287
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Dora Kramer, jornalista da Jovem Pan e colunista da Folha, usou os judeus e o seu perfil no X para dizer que candidatos apoiados pelo presidente Luiz Inácio Lula da Silva não receberiam votos da comunidade judaica.</p>
 <!-- /wp:paragraph -->

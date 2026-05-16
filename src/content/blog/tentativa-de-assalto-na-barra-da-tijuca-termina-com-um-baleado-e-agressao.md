@@ -7,8 +7,8 @@ slug: "tentativa-de-assalto-na-barra-da-tijuca-termina-com-um-baleado-e-agressao
 wp_id: 2403
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma tentativa de assalto na Barra da Tijuca, Zona Oeste do Rio de Janeiro, resultou em um homem baleado na perna e outro agredido com uma coronhada na noite de quinta-feira. O incidente ocorreu na Avenida Érico Veríssimo, próximo ao número 260, quando um casal foi abordado por um assaltante.</p>
 <!-- /wp:paragraph -->

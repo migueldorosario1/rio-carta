@@ -7,8 +7,8 @@ slug: "museu-virtual-conta-historia-do-conjunto-de-favelas-da-mare"
 wp_id: 1479
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Lançamento da galeria será na terça-feira (3), às 17h</strong></em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 2778
 tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) em Angra dos Reis, no Rio de Janeiro, relata que uma das três embarcações supostamente usadas pelo clã Bolsonaro para pescar não retornou do mar enquanto os policiais cumpriam um mandado de busca e apreensão na casa do vereador Carlos Bolsonaro (Republicanos) na manhã de segunda-feira (29/1).</p>
 <!-- /wp:paragraph -->

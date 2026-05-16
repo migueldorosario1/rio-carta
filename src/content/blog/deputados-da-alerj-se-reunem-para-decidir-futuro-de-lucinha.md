@@ -7,8 +7,8 @@ slug: "deputados-da-alerj-se-reunem-para-decidir-futuro-de-lucinha"
 wp_id: 3067
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A sessão da Comissão de Constituição e Justiça (CCJ) da Assembleia Legislativa está agendada para iniciar às 11h desta quarta-feira (7), onde será deliberado o destino da deputada Lucinha (PSD), sob investigação por suposto envolvimento com a maior milícia da Zona Oeste.</p>
 <!-- /wp:paragraph -->

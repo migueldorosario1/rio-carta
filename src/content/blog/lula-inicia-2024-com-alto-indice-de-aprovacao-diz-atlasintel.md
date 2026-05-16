@@ -7,8 +7,8 @@ slug: "lula-inicia-2024-com-alto-indice-de-aprovacao-diz-atlasintel"
 tags:
   - 'nacional'
 wp_id: 3051
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>De acordo com a pesquisa divulgada nesta terça-feira (6) pela AtlasIntel, a gestão do presidente Lula começou o ano com uma taxa de aprovação de 52%, o que representa um aumento de dois pontos percentuais em relação a novembro do ano passado, quando o governo tinha 50% de avaliação positiva. </p>
 <!-- /wp:paragraph -->

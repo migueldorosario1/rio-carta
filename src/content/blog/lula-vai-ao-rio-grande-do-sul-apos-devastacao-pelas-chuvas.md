@@ -7,8 +7,8 @@ slug: "lula-vai-ao-rio-grande-do-sul-apos-devastacao-pelas-chuvas"
 tags:
   - 'nacional'
 wp_id: 4378
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva chega ao Rio Grande do Sul nesta quinta-feira, 2 de maio, para coordenar esforços de auxílio às vítimas das severas chuvas que têm afetado o estado. </p>
 <!-- /wp:paragraph -->

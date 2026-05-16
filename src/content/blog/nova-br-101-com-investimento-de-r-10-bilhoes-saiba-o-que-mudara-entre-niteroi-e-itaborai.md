@@ -5,6 +5,7 @@ pubDate: "2026-05-13T02:32:44Z"
 draft: false
 tags: ["niteroi", "sao-goncalo", "itaborai", "br-101", "rodovia", "infraestrutura", "transporte", "governo-federal", "arteris-fluminense", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "leme", "rio-das-ostras"]
 heroImage: "/hero/nova-br-101-com-investimento-de-r-10-bilhoes-saiba-o-que-mudara-entre-niteroi-e-itaborai.webp"
+categoria_macro: geral
 ---
 Em cerimônia realizada nesta segunda-feira (11), o prefeito de Niterói, Rodrigo Neves, e o ministro dos Transportes, George Santoro, assinaram a ordem de início para a ampliação da capacidade da BR-101. As intervenções concentram-se no segmento entre os quilômetros 297 e 320, abrangendo os municípios de Niterói, São Gonçalo e Itaboraí.
 

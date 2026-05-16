@@ -7,8 +7,8 @@ slug: "moro-visita-ucrania-em-missao-controversa-durante-conflito-russo"
 tags:
   - 'geopolitica'
 wp_id: 6066
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O senador Sergio Moro, filiado ao União Brasil-PR, embarcou para a Ucrânia em uma viagem que gerou controvérsias devido ao seu apoio explícito à "causa de Kiev" e a desaprovação à diplomacia do governo brasileiro atual sob a liderança do presidente Lula. </p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "camara-municipal", "politica-local", "macae-norte-fluminense", "comunidade", "norte-fluminense", "saude", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131705-camara-de-cabo-frio-recebe-novos-parlamentares-apos-mudancas-no-governo-municipal.jpeg"
+categoria_macro: politica
 ---
 A sessão da Câmara Municipal de Cabo Frio realizada nesta terça-feira (12) foi marcada pela posse dos vereadores Davi Souza e Carol Midori, que passam a integrar o Legislativo após alterações no quadro político do município. As mudanças ocorrem em decorrência da saída de parlamentares para funções no Executivo, abrindo espaço para a entrada dos novos representantes na Casa.
 

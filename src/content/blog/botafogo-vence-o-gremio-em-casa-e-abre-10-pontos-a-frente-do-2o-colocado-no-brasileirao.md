@@ -7,8 +7,8 @@ slug: "botafogo-vence-o-gremio-em-casa-e-abre-10-pontos-a-frente-do-2o-colocado-
 tags:
   - 'nacional'
 wp_id: 732
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O Glorioso bateu o ex-vice-líder Grêmio por 2 a 0 neste domingo (9), na Arena do Grêmio, em Porto Alegre</strong></em></p>
 <!-- /wp:paragraph -->

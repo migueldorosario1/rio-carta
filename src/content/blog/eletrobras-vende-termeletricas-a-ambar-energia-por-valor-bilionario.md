@@ -7,8 +7,8 @@ slug: "eletrobras-vende-termeletricas-a-ambar-energia-por-valor-bilionario"
 tags:
   - 'nacional'
 wp_id: 4608
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Eletrobras anunciou na segunda-feira a venda de seu portfólio de termelétricas para a Âmbar Energia, parte do grupo J&amp;F. O acordo, no valor de R$ 4,7 bilhões, inclui R$ 1,2 bilhão em earn-out. </p>
 <!-- /wp:paragraph -->

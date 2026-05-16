@@ -8,8 +8,8 @@ wp_id: 931
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Após 40 anos de espera, o emblemático Mercado Municipal de Niterói, situado na Avenida Feliciano Sodré, finalmente reabriu suas portas nesta quinta-feira (27) em uma cerimônia festiva que contou com a presença de autoridades locais, incluindo o prefeito Axel Grael e o vice-prefeito Paulo Bagueira. O evento também teve a participação do ex-prefeito Rodrigo Neves e dos deputados estaduais Vitor Junior e Marta Rocha, além da secretária-chefe da Casa Civil do Governo do Estado do Rio de Janeiro, Nicola Miccione.</p>
 <!-- /wp:paragraph -->

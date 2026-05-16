@@ -7,8 +7,8 @@ slug: "urgente-mauro-cid-revela-detalhes-de-reunioes-sobre-o-plano-golpista-de-b
 tags:
   - 'nacional'
 wp_id: 3744
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante um extenso depoimento de mais de oito horas à Polícia Federal, o Tenente-Coronel Mauro Cid, ex-ajudante de ordens da Presidência, compartilhou detalhes de diversas reuniões relacionadas à discussão de um plano de golpe de Estado. </p>
 <!-- /wp:paragraph -->

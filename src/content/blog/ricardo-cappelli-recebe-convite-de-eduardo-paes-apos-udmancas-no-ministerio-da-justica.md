@@ -7,8 +7,8 @@ slug: "ricardo-cappelli-recebe-convite-de-eduardo-paes-apos-udmancas-no-minister
 wp_id: 2425
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Ricardo Cappelli, atual secretário-executivo do Ministério da Justiça, está de saída da pasta com a nomeação de Ricardo Lewandowski como novo ministro. Cappelli, conhecido como "zero dois" de Flávio Dino, recebeu um convite do prefeito do Rio de Janeiro, Eduardo Paes (PSD), para se juntar ao primeiro escalão do governo municipal.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 1373
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da deputada estadual Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

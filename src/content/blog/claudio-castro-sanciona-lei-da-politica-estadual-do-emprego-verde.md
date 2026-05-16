@@ -7,8 +7,8 @@ slug: "claudio-castro-sanciona-lei-da-politica-estadual-do-emprego-verde"
 wp_id: 1443
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A Lei nº 10.115/23 é de autoria da deputada Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

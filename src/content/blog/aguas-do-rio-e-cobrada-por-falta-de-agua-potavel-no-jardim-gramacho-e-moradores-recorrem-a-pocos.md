@@ -8,8 +8,8 @@ wp_id: 7704
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A deputada estadual Dani Balbi (PCdoB) denunciou a falta de água potável no Jardim Gramacho, em Duque de Caxias, e cobra providências da concessionária Águas do Rio para garantir o abastecimento regular à população.</strong></em></p>
 <!-- /wp:paragraph -->

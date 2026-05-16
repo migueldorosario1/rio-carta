@@ -8,8 +8,8 @@ wp_id: 6462
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><em>A megaoperação visa criminosos do Comando Vermelho com mandados de prisão sendo cumpridos em diversas regiões, estados e até dentro de presídios, com intensa resistência</em></p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T06:05:33Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "copa-do-mundo", "arena-copacabana", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "transporte-mobilidade", "educacao", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605150305-copacabana-tera-arena-gratuita-para-transmissao-dos-jogos-do-brasil-na-copa-de-2026.jpg"
+categoria_macro: politica
 ---
 A Praia de Copacabana vai ganhar uma arena gratuita para transmissão dos jogos da seleção brasileira na Copa do Mundo de 2026. O espaço será montado na altura da Avenida Princesa Isabel e terá programação com shows, DJs, ativações de marcas e atrações culturais ao longo do torneio.
 

@@ -7,8 +7,8 @@ slug: "g20-no-rio-cupula-marca-retorno-da-foto-de-familia-com-ausencia-de-biden"
 wp_id: 6019
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Após dois anos, a cúpula do G20 realizada no Rio de Janeiro trouxe de volta a tradicional "foto de família", um símbolo de unidade e cooperação entre os líderes mundiais. </p>
 <!-- /wp:paragraph -->

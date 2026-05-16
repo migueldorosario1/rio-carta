@@ -7,8 +7,8 @@ slug: "chacina-da-candelaria-vitimas-sao-lembradas-apos-30-anos-do-crime"
 wp_id: 869
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Neste domingo, ativistas voltam ao local para ato</em></strong></p>
 <!-- /wp:paragraph -->

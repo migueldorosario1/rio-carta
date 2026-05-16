@@ -7,8 +7,8 @@ slug: "rio-adia-novamente-a-implementacao-do-sistema-de-bilhetagem-jae"
 wp_id: 6376
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura do Rio de Janeiro anunciou o adiamento da implementação do sistema de bilhetagem eletrônica, conhecido como Jaé. A decisão será comunicada oficialmente durante uma entrevista coletiva nesta quarta-feira, no Centro de Operações na Cidade Nova. Este é o quarto adiamento no processo de implementação integral do sistema na cidade.</p>
 <!-- /wp:paragraph -->

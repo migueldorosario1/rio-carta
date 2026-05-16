@@ -10,8 +10,8 @@ tags:
   - 'rio-de-janeiro'
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento contou com a presença da ministra Luciana Santos e de autoridades políticas e culturais</strong></em></p>
 <!-- /wp:paragraph -->

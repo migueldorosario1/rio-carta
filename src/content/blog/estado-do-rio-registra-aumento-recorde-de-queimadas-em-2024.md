@@ -10,8 +10,8 @@ tags:
   - 'resende'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Desde o início de 2024, o Instituto Nacional de Pesquisas Espaciais (Inpe) detectou 760 focos de queimadas no estado do Rio de Janeiro, o maior número desde 2017. </p>
 <!-- /wp:paragraph -->

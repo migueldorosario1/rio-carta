@@ -7,8 +7,8 @@ slug: "projeto-determina-acesso-prioritario-de-pacientes-com-cancer-a-servico-od
 tags:
   - 'nacional'
 wp_id: 2992
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Projeto de Lei 3681/23 inclui o acesso prioritário de pacientes oncológicos como diretriz da Política Nacional de Saúde Bucal do Sistema Único de Saúde (SUS).&nbsp;O objetivo é prevenir complicações bucais e controlar os efeitos colaterais da radioterapia e quimioterapia.</p>
 <!-- /wp:paragraph -->

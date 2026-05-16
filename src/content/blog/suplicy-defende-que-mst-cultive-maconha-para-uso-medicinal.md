@@ -7,8 +7,8 @@ slug: "suplicy-defende-que-mst-cultive-maconha-para-uso-medicinal"
 tags:
   - 'nacional'
 wp_id: 4054
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado estadual Eduardo Suplicy (PT-SP), conhecido por utilizar óleo de maconha como parte do tratamento para Parkinson, defendeu em entrevista à revista digital <strong><a href="https://12ft.io/proxy?q=https%3A%2F%2Fbreeza.com.br%2F">Breeza</a></strong> um maior acesso à maconha medicinal. </p>
 <!-- /wp:paragraph -->

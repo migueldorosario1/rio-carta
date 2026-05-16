@@ -7,8 +7,8 @@ slug: "bomba-delacao-aponta-deputado-chiquinho-brazao-como-envolvido-no-assassin
 wp_id: 3889
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Ronnie Lessa, reconhecido como um dos responsáveis pela morte da vereadora Marielle Franco e do motorista Anderson Gomes, mencionou o envolvimento do deputado federal Chiquinho Brazão no crime. </p>
 <!-- /wp:paragraph -->

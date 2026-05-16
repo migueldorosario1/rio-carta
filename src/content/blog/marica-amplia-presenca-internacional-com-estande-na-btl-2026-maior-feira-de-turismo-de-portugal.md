@@ -7,8 +7,8 @@ slug: "marica-amplia-presenca-internacional-com-estande-na-btl-2026-maior-feira-
 tags:
   - 'marica'
 wp_id: 7701
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Em Lisboa, Prefeitura atua na promoção de destinos, atração de investimentos e negócios no cenário global</em></p>
 <!-- /wp:paragraph -->

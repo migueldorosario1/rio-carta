@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:51Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "projeto-social", "esporte", "educacao", "sao-goncalo-itaborai", "leme", "colegio", "comunidade", "itaborai", "marica", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605151405-craque-do-amanha-recebe-apoio-de-empresa-internacional-e-muda-a-realidade-de-centenas-de-jovens.jpg"
+categoria_macro: lazer
 ---
 Em 2026, o projeto completa 15 anos; Iniciativa atende crianças e adolescentes nas unidades do Arsenal e Neves, oferecendo futebol, reforço pedagógico e apoio às famílias
 

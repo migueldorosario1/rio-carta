@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "mc-poze-do-rodo", "justica", "seguranca-publica", "rio-capital-zona-oeste", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "joa", "complexo", "sao-goncalo", "itaborai"]
 heroImage: "/hero/smoke-smoke-202605150005-mc-poze-do-rodo-e-solto-apos-justica-conceder-habeas-corpus.webp"
+categoria_macro: seguranca
 ---
 MC Poze do Rodo é solto após justiça conceder habeas corpus
 

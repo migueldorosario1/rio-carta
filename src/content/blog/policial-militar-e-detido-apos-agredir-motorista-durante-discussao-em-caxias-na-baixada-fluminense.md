@@ -7,8 +7,8 @@ slug: "policial-militar-e-detido-apos-agredir-motorista-durante-discussao-em-cax
 wp_id: 1727
 tags:
   - 'duque-de-caxias'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Um Policial Militar de folga foi detido após agredir um motorista durante uma discussão que ocorreu no último domingo, na Rua Júlio de Moura Magalhães, na Vila Oito de Maio, em Duque de Caxias, na Baixada Fluminense. Testemunhas relatam que a agressão teve início após o motorista passar com seu veículo por cima da calçada da residência do policial.</em></p>
 <!-- /wp:paragraph -->

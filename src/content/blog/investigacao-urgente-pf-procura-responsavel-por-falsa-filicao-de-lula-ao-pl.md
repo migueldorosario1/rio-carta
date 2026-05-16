@@ -7,8 +7,8 @@ slug: "investigacao-urgente-pf-procura-responsavel-por-falsa-filicao-de-lula-ao-
 wp_id: 2374
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal Superior Eleitoral (TSE) acionou a Polícia Federal (PF) para investigar um caso incomum: a filiação falsa do ex-presidente Luiz Inácio Lula da Silva ao Partido Liberal (PL), de Jair Bolsonaro. Lula, um nome proeminente do Partido dos Trabalhadores (PT), teve seus dados utilizados indevidamente para essa filiação irregular, ocorrida enquanto estava oficialmente desvinculado do PT desde 15 de julho de 2023.</p>
 <!-- /wp:paragraph -->

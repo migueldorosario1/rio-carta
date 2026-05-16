@@ -7,8 +7,8 @@ slug: "vale-propoe-acordo-de-r-170-bilhoes-para-reparacao-de-anos-em-mariana"
 tags:
   - 'nacional'
 wp_id: 5776
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Vale anunciou nesta sexta-feira, 18 de outubro, uma proposta de acordo avaliada em R$ 170 bilhões para a reparação dos danos causados pelo rompimento da barragem de Fundão, em Mariana (MG), em 2015.</p>
 <!-- /wp:paragraph -->

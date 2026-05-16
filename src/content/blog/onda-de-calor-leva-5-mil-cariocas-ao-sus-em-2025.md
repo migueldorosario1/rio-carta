@@ -7,8 +7,8 @@ slug: "onda-de-calor-leva-5-mil-cariocas-ao-sus-em-2025"
 wp_id: 6616
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Com temperaturas recordes, mais de 5 mil pessoas buscaram atendimento médico no Rio em 2025 devido ao calor extremo</h4>
 <!-- /wp:heading -->

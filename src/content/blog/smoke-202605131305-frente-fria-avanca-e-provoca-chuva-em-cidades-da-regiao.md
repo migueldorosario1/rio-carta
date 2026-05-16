@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "norte-noroeste-fluminense", "chuva", "frente-fria", "clima", "regiao-metropolitana", "mage", "noroeste-fluminense", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605131305-frente-fria-avanca-e-provoca-chuva-em-cidades-da-regiao.jpg"
+categoria_macro: geral
 ---
 Virada no tempo – De um domingo de sol e calor para uma segunda chuvosa e com queda na temperatura. O avanço de uma frente fria pelo sudeste do país provocou uma virada no tempo durante a madrugada desta segunda na região.
 

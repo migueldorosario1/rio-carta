@@ -7,8 +7,8 @@ slug: "alerj-e-mpt-criam-forca-tarefa-para-fiscalizar-condicoes-de-trabalho-em-m
 wp_id: 6665
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A iniciativa foi da deputada estadual Dani Balbi (PCdoB); Central de denúncias recebe mais de 70 reclamações; fiscalizações abrangerão eventos e empresas.</strong></em></p>
 <!-- /wp:paragraph -->

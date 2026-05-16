@@ -7,8 +7,8 @@ slug: "lider-do-psol-na-camara-do-rio-recebe-ameaca-de-estupro-coletivo-terapeut
 tags:
   - 'seguranca-publica'
 wp_id: 1160
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Vereadora Monica Benício (PSOL) levará a denúncia para a polícia</strong></em></p>
 <!-- /wp:paragraph -->

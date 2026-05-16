@@ -7,8 +7,8 @@ slug: "torcedores-realizam-bandeiraco-e-lotam-a-praia-de-copacabana"
 tags:
   - 'rio-capital-zona-sul-grande-tijuca'
 wp_id: 1787
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Torcedores do Boca Juniors se reuniram novamente na praia de Copacabana, na Zona Sul do Rio, para a realização de um bandeiraço na tarde desta sexta-feira (3). No entanto, um incidente deixou um argentino ferido na testa, alegadamente após levar um golpe de marreta. Apesar desse ocorrido, a Polícia Militar não registrou tumultos no local, em contraste com o ocorrido na quinta-feira (2), quando ao menos sete pessoas deram entrada na UPA de Copacabana após um conflito entre as torcidas.</p>
 <!-- /wp:paragraph -->

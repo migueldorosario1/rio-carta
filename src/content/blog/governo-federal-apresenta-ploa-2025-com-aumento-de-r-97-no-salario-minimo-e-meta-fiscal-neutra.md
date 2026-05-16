@@ -7,8 +7,8 @@ slug: "governo-federal-apresenta-ploa-2025-com-aumento-de-r-97-no-salario-minimo
 tags:
   - 'nacional'
 wp_id: 5067
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal detalhou nesta segunda-feira (2) o Projeto de Lei Orçamentária Anual (PLOA) para 2025, enviado ao Congresso Nacional na última sexta-feira (30). </p>
 <!-- /wp:paragraph -->

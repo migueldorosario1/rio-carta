@@ -9,8 +9,8 @@ tags:
   - 'campos'
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A 16ª Feira Cícero Guedes ocupa o Largo da Carioca com alimentos agroecológicos, artesanato, apresentações culturais e ações que aproximam campo e cidade</h3>
 <!-- /wp:heading -->

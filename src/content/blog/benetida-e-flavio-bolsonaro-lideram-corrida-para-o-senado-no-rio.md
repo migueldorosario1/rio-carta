@@ -8,8 +8,8 @@ wp_id: 7280
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Levantamento mostra Flávio Bolsonaro na frente e Benedita logo atrás, em uma disputa simbólica que reflete o embate entre projetos de país</h3>
 <!-- /wp:heading -->

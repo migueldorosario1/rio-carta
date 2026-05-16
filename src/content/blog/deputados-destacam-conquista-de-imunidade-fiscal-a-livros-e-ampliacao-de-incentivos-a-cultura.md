@@ -7,8 +7,8 @@ slug: "deputados-destacam-conquista-de-imunidade-fiscal-a-livros-e-ampliacao-de-
 wp_id: 719
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading"><em><strong>O presidente da comissão de Cultura da Câmara, deputado Marcelo Queiroz (PP-RJ), e a líder do PCdoB, Jandira Feghali, comemoraram que “os serviços para atividades artísticas e culturais, além do audiovisual, tiveram redução de 60% nos tributos”</strong></em></h4>
 <!-- /wp:heading -->

@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Pessoas físicas com dívidas relacionadas ao fornecimento de energia da Enel Rio, contraídas entre 1º de janeiro de 2019 e 31 de dezembro de 2022, agora têm a oportunidade de renegociar seus débitos com descontos que podem chegar a até 75%. A Enel, empresa de energia, aderiu à nova etapa do programa de renegociação de dívidas do Governo Federal, conhecido como Desenrola Brasil, que teve início recentemente.</p>
 <!-- /wp:paragraph -->

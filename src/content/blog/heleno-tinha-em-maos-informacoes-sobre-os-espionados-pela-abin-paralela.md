@@ -7,8 +7,8 @@ slug: "heleno-tinha-em-maos-informacoes-sobre-os-espionados-pela-abin-paralela"
 tags:
   - 'nacional'
 wp_id: 2819
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-ministro do Gabinete de Segurança Institucional (GSI) da Presidência da República, general Augusto Heleno, recebeu uma intimação da Polícia Federal para prestar depoimento no contexto das investigações relacionadas à 'Abin paralela'. </p>
 <!-- /wp:paragraph -->

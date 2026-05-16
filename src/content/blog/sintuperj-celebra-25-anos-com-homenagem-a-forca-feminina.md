@@ -7,8 +7,8 @@ slug: "sintuperj-celebra-25-anos-com-homenagem-a-forca-feminina"
 wp_id: 6695
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Sindicato dos Trabalhadores da Universidade do Estado do Rio de Janeiro realiza evento marcante, com a luta das mulheres e o empoderamento como foco das comemorações</strong></em></p>
 <!-- /wp:paragraph -->

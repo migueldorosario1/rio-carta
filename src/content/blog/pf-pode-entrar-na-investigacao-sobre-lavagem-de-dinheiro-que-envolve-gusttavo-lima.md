@@ -7,8 +7,8 @@ slug: "pf-pode-entrar-na-investigacao-sobre-lavagem-de-dinheiro-que-envolve-gust
 tags:
   - 'nacional'
 wp_id: 5539
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal está avançando nos preparativos para potencialmente federalizar parte das investigações relacionadas a casos de lavagem de dinheiro em sites de apostas esportivas, envolvendo figuras públicas como a influenciadora Deolane Bezerra e o cantor Gusttavo Lima. </p>
 <!-- /wp:paragraph -->

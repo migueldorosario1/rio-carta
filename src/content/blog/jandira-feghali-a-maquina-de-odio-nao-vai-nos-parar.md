@@ -7,8 +7,8 @@ slug: "jandira-feghali-a-maquina-de-odio-nao-vai-nos-parar"
 tags:
   - 'politica-rj'
 wp_id: 1407
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Por Jandira Feghali, deputada federal (PCdoB-RJ)</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "glauber-braga-propoe-afastamento-de-deputado-por-apoiar-tentativa-de-golp
 tags:
   - 'nacional'
 wp_id: 4703
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Glauber Braga (PSOL-RJ) anunciou sua intenção de solicitar na Câmara o afastamento cautelar de Ricardo Salles (PL-SP), após este último ter comemorado a tentativa de incidente na Bolívia contra o presidente Luis Arce, de orientação política de esquerda.</p>
 <!-- /wp:paragraph -->

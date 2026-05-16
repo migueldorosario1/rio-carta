@@ -7,8 +7,8 @@ slug: "ex-secretario-de-turismo-e-baleado-apos-entrar-em-comunidade-no-rio"
 wp_id: 6150
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-secretário de turismo de Bariloche, Gastón Fernando Burlón, foi baleado na cabeça e no tórax ao entrar por engano no Morro dos Prazeres, em Santa Teresa, região central do Rio de Janeiro, na tarde desta quinta-feira (12). O estado de saúde de Burlón é considerado gravíssimo, e ele está internado no Hospital Municipal Souza Aguiar.</p>
 <!-- /wp:paragraph -->

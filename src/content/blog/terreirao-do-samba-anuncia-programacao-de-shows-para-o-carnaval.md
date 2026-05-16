@@ -7,8 +7,8 @@ slug: "terreirao-do-samba-anuncia-programacao-de-shows-para-o-carnaval"
 tags:
   - 'cultura-carnaval'
 wp_id: 3145
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p>O Terreirão do Samba divulgou a agenda de apresentações para o período do carnaval e o fim de semana subsequente. </p>
 <!-- /wp:paragraph -->

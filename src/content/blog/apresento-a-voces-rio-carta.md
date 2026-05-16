@@ -7,8 +7,8 @@ slug: "apresento-a-voces-rio-carta"
 wp_id: 508
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <strong>Editorial</strong>
 
 No Rio de Janeiro, temos a teimosia de pensarmos o mundo, o continente, o país, mas nunca nosso próprio estado. Basta lembrarmos que, se em São Paulo os principais jornais são o Estado de S. Paulo e a Folha de S. Paulo, no Rio temos O Globo e o Jornal do Brasil. A atenção do fluminense divaga entre Brasil e mundo, negligenciando as particularidades da própria terra. Esse paradigma precisa mudar e é nesse contexto que a Rio Carta surge.

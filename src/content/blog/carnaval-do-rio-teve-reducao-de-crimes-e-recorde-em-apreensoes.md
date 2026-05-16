@@ -7,8 +7,8 @@ slug: "carnaval-do-rio-teve-reducao-de-crimes-e-recorde-em-apreensoes"
 wp_id: 3238
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Governo do Estado do Rio de Janeiro anunciou resultados expressivos na segurança pública durante o carnaval, com uma notável diminuição nos crimes de rua em comparação ao ano anterior. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 5893
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-governador do Rio de Janeiro, Luiz Fernando Pezão (MDB), recuperou seus direitos políticos após decisão da Segunda Turma do Supremo Tribunal Federal (STF), anunciada nesta segunda-feira (28). O julgamento, que definiu o restabelecimento desses direitos, foi realizado no plenário virtual da Corte entre os dias 18 e 25 de outubro.</p>
 <!-- /wp:paragraph -->

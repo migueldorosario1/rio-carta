@@ -8,8 +8,8 @@ wp_id: 698
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Professor conduzirá maior universidade federal do país até julho de 2027</em></p>
 <!-- /wp:paragraph -->

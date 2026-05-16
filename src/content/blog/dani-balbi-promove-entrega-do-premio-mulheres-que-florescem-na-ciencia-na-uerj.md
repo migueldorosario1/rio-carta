@@ -7,8 +7,8 @@ slug: "dani-balbi-promove-entrega-do-premio-mulheres-que-florescem-na-ciencia-na
 wp_id: 7387
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Pesquisadoras que transformam a ciência fluminense serão homenageadas no próximo dia 24, na Uerj, durante a entrega do Prêmio “Mulheres que Florescem na Ciência”, promovido pelo gabinete da deputada estadual Dani Balbi (PCdoB) para valorizar trajetórias femininas que ampliam diversidade e inovação no campo científico.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "calendario-de-pagamentos-de-servidores-do-rio-para-2024-inclui-datas-do-1
 wp_id: 2173
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo do Estado do Rio de Janeiro anunciou nesta segunda-feira o calendário de pagamentos para os servidores estaduais em 2024. Este cronograma é crucial para os 424 mil servidores ativos, inativos e pensionistas, pois detalha as datas de pagamento dos salários mensais e das parcelas do 13º salário.</p>
 <!-- /wp:paragraph -->

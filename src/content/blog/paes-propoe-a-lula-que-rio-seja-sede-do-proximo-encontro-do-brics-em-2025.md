@@ -7,8 +7,8 @@ slug: "paes-propoe-a-lula-que-rio-seja-sede-do-proximo-encontro-do-brics-em-2025
 wp_id: 6046
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes (PSD), anunciou na última sexta-feira, 22, durante um evento no Palácio da Cidade, que propôs a cidade como sede para o próximo encontro do grupo Brics, que inclui Brasil, Rússia, Índia, China e África do Sul. </p>
 <!-- /wp:paragraph -->

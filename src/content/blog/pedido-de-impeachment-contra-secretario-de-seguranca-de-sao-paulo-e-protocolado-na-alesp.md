@@ -7,8 +7,8 @@ slug: "pedido-de-impeachment-contra-secretario-de-seguranca-de-sao-paulo-e-proto
 tags:
   - 'nacional'
 wp_id: 6128
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta sexta-feira (6), um grupo de 26 deputados da Assembleia Legislativa do Estado de São Paulo (Alesp) apresentou um pedido de impeachment contra o secretário de Segurança Pública, Guilherme Derrite. </p>
 <!-- /wp:paragraph -->

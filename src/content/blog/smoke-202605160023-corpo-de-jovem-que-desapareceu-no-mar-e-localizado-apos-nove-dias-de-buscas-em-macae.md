@@ -5,6 +5,7 @@ pubDate: "2026-05-16T00:25:20Z"
 draft: false
 tags: ["rio-de-janeiro", "maceio", "norte-noroeste-fluminense", "estado", "campos-dos-goytacazes", "ramos", "campos", "norte-fluminense", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605160023-corpo-de-jovem-que-desapareceu-no-mar-e-localizado-apos-nove-dias-de-buscas-em-macae-qwen.jpg"
+categoria_macro: geral
 ---
 O corpo de Gabriel Ramos, de 28 anos, foi encontrado nesta segunda-feira (20), após nove dias de buscas, conforme informou o Corpo de Bombeiros. Ele havia sumido no mar no último dia 11, na Praia Campista, em Macaé, no Norte Fluminense.
 

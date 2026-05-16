@@ -7,8 +7,8 @@ slug: "profissionais-de-enfermagem-de-rio-das-ostras-tem-decreto-que-ampliava-jo
 tags:
   - 'rio-das-ostras'
 wp_id: 6916
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Decisão judicial suspende mudança imposta sem negociação; deputada Lilian Behring reforça apoio à categoria</h3>
 <!-- /wp:heading -->

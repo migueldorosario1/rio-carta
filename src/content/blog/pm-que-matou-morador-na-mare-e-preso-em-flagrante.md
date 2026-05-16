@@ -8,8 +8,8 @@ wp_id: 3114
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><a href="http://agenciabrasil.ebc.com.br/geral/noticia/2024-02/policial-militar-atira-em-homem-queima-roupa-no-complexo-da-mare" target="_blank" rel="noreferrer noopener">Um policial militar suspeito de matar</a>&nbsp;um morador do Complexo da Maré durante protesto, na manhã de quinta-feira (8), no conjunto de favelas localizado na zona norte Rio de Janeiro, foi preso em flagrante depois de prestar depoimento. O caso foi filmado e é tratado pela Polícia Civil como homicídio culposo porque a Delegacia de Homicídios considerou que ele não teve a intenção de matar.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1580303&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1580303&amp;o=node"></p>
 <!-- /wp:paragraph -->

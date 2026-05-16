@@ -8,8 +8,8 @@ wp_id: 2562
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ), sob a liderança do desembargador Henrique Carlos de Andrade Figueira, anunciou uma iniciativa significativa para as próximas eleições: a realocação de 50 seções eleitorais em áreas controladas por milícias na Zona Oeste do Rio. A medida visa garantir a segurança e a liberdade dos eleitores e candidatos durante o processo eleitoral.</p>
 <!-- /wp:paragraph -->

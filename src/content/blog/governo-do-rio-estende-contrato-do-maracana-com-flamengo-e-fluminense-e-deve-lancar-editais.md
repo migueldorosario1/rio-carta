@@ -7,8 +7,8 @@ slug: "governo-do-rio-estende-contrato-do-maracana-com-flamengo-e-fluminense-e-d
 wp_id: 1633
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta sexta-feira, o Governo do Estado do Rio de Janeiro deu importantes passos relacionados ao icônico Estádio do Maracanã. O atual Termo de Permissão de Uso (TPU) com o Consórcio Maracanã, composto por Flamengo e Fluminense, será estendido até o final de 2022, incluindo a reta final do Campeonato Brasileiro. O governo também lançou dois editais: um de chamamento público para a administração provisória do estádio e outro para a gestão a longo prazo, com um contrato de 20 anos.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lula-exalta-sucesso-educacional-do-nordeste-em-cerimonia-no-palacio-do-pl
 tags:
   - 'nacional'
 wp_id: 5097
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em evento no Palácio do Planalto nesta terça-feira, o presidente Luiz Inácio Lula da Silva celebrou o progresso educacional do Nordeste, marcado pela conquista de altas notas no Índice de Desenvolvimento da Educação Básica (Ideb) 2023 por escolas da região. </p>
 <!-- /wp:paragraph -->

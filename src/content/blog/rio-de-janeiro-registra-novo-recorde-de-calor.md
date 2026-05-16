@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-registra-novo-recorde-de-calor"
 wp_id: 1971
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Neste sábado (18), o Rio de Janeiro enfrentou um calor intenso, estabelecendo recordes impressionantes de temperatura e sensação térmica, conforme relatório do Alerta Rio. Em Guaratiba, Zona Oeste, a sensação térmica atingiu surpreendentes 59,7ºC às 8h10. Simultaneamente, a temperatura chegou a 43,8ºC na mesma região por volta de 11h05, sendo possível ainda a quebra de novos recordes.</em></strong></p>
 <!-- /wp:paragraph -->

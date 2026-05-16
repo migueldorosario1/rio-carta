@@ -7,8 +7,8 @@ slug: "moradora-do-morro-do-palacio-walkiria-nictheroy-sera-nova-gestora-do-macq
 wp_id: 1104
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Walkiria Nictheroy (PCdoB) é Subsecretária&nbsp;de Cidadania e Economia Criativa em Niterói</strong></em></p>
 <!-- /wp:paragraph -->

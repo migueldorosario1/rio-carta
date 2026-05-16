@@ -5,6 +5,7 @@ pubDate: "2026-05-13T09:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "rio-das-ostras", "transporte-publico", "vans", "governo-do-estado", "norte-noroeste-fluminense", "macae-norte-fluminense", "regiao-dos-lagos", "norte-fluminense", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130605-macae-e-rio-das-ostras-prometem-levar-questao-das-vans-para-o-governo-do-estado.jpg"
+categoria_macro: politica
 ---
 Os prefeitos de Macaé, Welberth Rezende (CIDADANIA), e de Rio das Ostras, Carlos Augusto (PL), voltaram a se encontrara nessa segunda-feira, 11, para discutir soluções para o problema do transporte público ligando as duas cidades.
 

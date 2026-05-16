@@ -7,8 +7,8 @@ slug: "michelle-bolsonaro-ataca-pf-apos-operacao-contra-carluxo"
 wp_id: 2726
 tags:
   - 'angra-dos-reis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Michelle Bolsonaro, a ex-primeira-dama do Brasil, fez uma publicação em sua conta no Instagram na segunda-feira (29) em que usou o termo "Gestapo" para se referir à Polícia Federal (PF) após uma investigação que envolveu o filho do ex-presidente, Carlos Bolsonaro. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "embaixador-de-israel-na-onu-afirma-que-o-pais-nao-planeja-invadir-o-liban
 tags:
   - 'geopolitica'
 wp_id: 5428
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O embaixador de Israel na ONU, Danny Danon, declarou nesta terça-feira (24) que Israel não tem planos de invadir o Líbano. </p>
 <!-- /wp:paragraph -->

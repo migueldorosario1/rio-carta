@@ -7,8 +7,8 @@ slug: "congresso-prepara-sessao-para-derrubar-vetos-de-lula"
 wp_id: 4206
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Com uma nova sessão do Congresso agendada para a próxima quinta-feira, o governo do presidente Lula enfrenta o desafio de possíveis reveses com a discussão de vetos presidenciais que incluem cortes significativos em emendas parlamentares de comissão. </p>
 <!-- /wp:paragraph -->

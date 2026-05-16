@@ -8,8 +8,8 @@ wp_id: 1860
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Nesta terça-feira, o prefeito do Rio de Janeiro, Eduardo Paes (PSD), deu mais um passo significativo na longa saga que envolve a reforma e ampliação do icônico estádio São Januário. O Vasco da Gama busca viabilizar as obras de revitalização do estádio por meio da transferência de seu potencial construtivo para a região da Barra da Tijuca. O projeto que possibilita esse processo foi oficialmente assinado pelo prefeito Paes, que compartilhou o momento nas redes sociais.</em></strong></p>
 <!-- /wp:paragraph -->

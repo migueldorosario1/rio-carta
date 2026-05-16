@@ -7,8 +7,8 @@ slug: "lula-parabeniza-papa-francisco-por-seu-88o-aniversario"
 tags:
   - 'nacional'
 wp_id: 6246
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva enviou uma mensagem de parabéns ao Papa Francisco, que celebrou seus 88 anos nesta terça-feira (17). Na mensagem, o presidente do Brasil reconheceu o pontífice como um líder inspirador no que diz respeito à solidariedade e à luta por um mundo mais equitativo.</p>
 <!-- /wp:paragraph -->

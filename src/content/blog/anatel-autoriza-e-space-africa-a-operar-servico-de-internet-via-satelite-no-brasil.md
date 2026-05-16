@@ -7,8 +7,8 @@ slug: "anatel-autoriza-e-space-africa-a-operar-servico-de-internet-via-satelite-
 tags:
   - 'nacional'
 wp_id: 5453
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Agência Nacional de Telecomunicações (Anatel) concedeu autorização à E-Space Africa, empresa franco-americana, para fornecer serviços de internet via satélite no Brasil.</p>
 <!-- /wp:paragraph -->

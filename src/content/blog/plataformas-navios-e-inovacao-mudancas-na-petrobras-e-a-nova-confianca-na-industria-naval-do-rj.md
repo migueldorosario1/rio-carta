@@ -7,8 +7,8 @@ slug: "plataformas-navios-e-inovacao-mudancas-na-petrobras-e-a-nova-confianca-na
 wp_id: 4515
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Olhando para o futuro e dispensando o pessimismo (anacrônico) do mercado financeiro e o pânico de setores da imprensa com as mudanças na Petrobras, a chegada de Magda Chambriard, ex-diretora da Agência Nacional do Petróleo (ANP), ao cargo de presidente da empresa, é um sinal positivo de mudança para o Brasil e o Rio de Janeiro. É uma indicação, em uma primeira análise, de que o governo Lula não deixará a sua mais importante estatal, historicamente com grande responsabilidade social, se transformar exclusivamente em fonte de receitas para acionistas. Obviamente, fortalecer o capital produtivo não é o interesse de quem toma cafezinho e joga conversa fora na Faria Lima.</p>
 <!-- /wp:paragraph -->

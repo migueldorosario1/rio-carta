@@ -7,8 +7,8 @@ slug: "billboard-seleciona-30-pessoas-trans-que-se-destacam-na-sociedade"
 tags:
   - 'nacional'
 wp_id: 7627
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A lista conta com a deputada Dani Balbi (PCdoB) e a cantora Liniker entre outros nomes; Revista celebrou o Dia Nacional da Visibilidade Trans com ranking</strong></em></p>
 <!-- /wp:paragraph -->

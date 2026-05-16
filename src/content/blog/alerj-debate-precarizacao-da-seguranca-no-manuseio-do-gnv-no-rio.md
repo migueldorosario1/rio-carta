@@ -8,8 +8,8 @@ wp_id: 7214
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Comissão de Trabalho, presidida pela deputada Dani Balbi (PCdoB), vai encaminhar ofício ao Ministério do Trabalho pedindo a atualização da Norma Regulamentadora (NR) 20. Mais de 40% dos veículos abastecidos com GNV em todo o país estão concentrados no Estado do Rio.</em></strong></p>
 <!-- /wp:paragraph -->

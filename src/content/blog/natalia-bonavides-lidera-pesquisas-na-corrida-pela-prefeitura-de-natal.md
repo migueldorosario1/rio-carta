@@ -7,8 +7,8 @@ slug: "natalia-bonavides-lidera-pesquisas-na-corrida-pela-prefeitura-de-natal"
 wp_id: 5835
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A candidata à prefeitura de Natal, Natália Bonavides (PT), usou as redes sociais nesta segunda-feira (21) para celebrar os resultados de recentes pesquisas de opinião que a colocam à frente de seu principal adversário, Paulinho Freire (União Brasil), aliado do ex-presidente Jair Bolsonaro. As pesquisas indicam uma vantagem da petista na disputa pela prefeitura da capital do Rio Grande do Norte.</p>
 <!-- /wp:paragraph -->

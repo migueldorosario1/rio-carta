@@ -8,8 +8,8 @@ wp_id: 881
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) e o Ministério Público do Rio de Janeiro (MPRJ) prenderam, na manhã desta segunda-feira (24), o ex-bombeiro Maxwell Simões Corrêa, o Suel, dentro do inquérito da Operação Élpis, que investiga os homicídios da vereadora Marielle Franco e do motorista Anderson Gomes, além da tentativa de homicídio da assessora Fernanda Chaves. Outros sete mandados de busca e apreensão foram cumpridos na capital e em outros municípios da Região Metropolitana.</p>
 <!-- /wp:paragraph -->

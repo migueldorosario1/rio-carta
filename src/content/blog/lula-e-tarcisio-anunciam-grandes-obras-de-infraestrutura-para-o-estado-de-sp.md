@@ -7,8 +7,8 @@ slug: "lula-e-tarcisio-anunciam-grandes-obras-de-infraestrutura-para-o-estado-de
 tags:
   - 'nacional'
 wp_id: 2766
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva confirmou sua colaboração com o governo de São Paulo, liderado por Tarcísio de Freitas, na realização de projetos de infraestrutura de grande envergadura, incluindo o túnel Santos-Guarujá e o trem São Paulo-Campinas.</p>
 <!-- /wp:paragraph -->

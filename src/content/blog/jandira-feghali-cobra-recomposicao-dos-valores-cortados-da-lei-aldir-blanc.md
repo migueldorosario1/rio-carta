@@ -7,8 +7,8 @@ slug: "jandira-feghali-cobra-recomposicao-dos-valores-cortados-da-lei-aldir-blan
 wp_id: 6674
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Congresso reduz Lei Aldir Blanc de R$ 3 bilhões para R$ 480 milhões; corte foi de 84%. Por meio de nota, o Ministério da Cultura e a Casa Civil asseguraram a continuidade dos investimentos da Política Nacional Aldir Blanc</em></strong></p>
 <!-- /wp:paragraph -->

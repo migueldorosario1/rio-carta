@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:26:58Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "aniversario", "cultura", "programacao", "educacao", "cultura-carnaval", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131026-sao-pedro-da-aldeia-celebra-409-anos-com-desfile-shows-e-programacao-cultural-no-centro.webp"
+categoria_macro: politica
 ---
 São Pedro da Aldeia preparou uma programação para o aniversário de 409 anos do município, no próximo sábado (16). As atividades incluem hasteamento de bandeiras, desfile cívico escolar, partidas de beach soccer e apresentações musicais.
 

@@ -7,8 +7,8 @@ slug: "revelacao-bombastica-ronnie-lessa-aceita-acordo-da-policia-federal-e-vai-
 wp_id: 2497
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Ronnie Lessa, principal suspeito do brutal assassinato de Marielle Franco e Anderson Gomes, concretizou um acordo de delação premiada com a Polícia Federal, segundo reportagem de Lauro Jardim, em O Globo. Este desenvolvimento, aguardando a aprovação do Superior Tribunal de Justiça (STJ), promete ser um marco decisivo na investigação do crime que ocorreu em março de 2018.</p>
 <!-- /wp:paragraph -->

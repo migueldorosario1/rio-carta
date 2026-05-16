@@ -7,8 +7,8 @@ slug: "lula-anuncia-doacao-de-200-mil-toneladas-de-carne-para-o-rs"
 tags:
   - 'nacional'
 wp_id: 4537
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva anunciou nesta terça-feira (27), em Brasília (DF), que empresários do setor da carne vão doar 2 milhões de quilos do produto ao Rio Grande do Sul. </p>
 <!-- /wp:paragraph -->

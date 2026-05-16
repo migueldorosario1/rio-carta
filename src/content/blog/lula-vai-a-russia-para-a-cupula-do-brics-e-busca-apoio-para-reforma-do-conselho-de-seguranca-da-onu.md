@@ -7,8 +7,8 @@ slug: "lula-vai-a-russia-para-a-cupula-do-brics-e-busca-apoio-para-reforma-do-co
 tags:
   - 'geopolitica'
 wp_id: 5817
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Presidente Luiz Inácio Lula da Silva partiu neste domingo (20) para Kazan, na Rússia, onde participará da 16ª Cúpula do Brics, que ocorre entre os dias 22 e 24 de outubro. </p>
 <!-- /wp:paragraph -->

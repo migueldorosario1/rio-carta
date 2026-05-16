@@ -7,8 +7,8 @@ slug: "lewandowski-anunciara-novas-demarcacoes-de-terras-indigenas-e-prepara-pec
 tags:
   - 'nacional'
 wp_id: 5820
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Justiça, Ricardo Lewandowski, está programado para anunciar em breve a demarcação de novas terras indígenas em áreas pertencentes à União.</p>
 <!-- /wp:paragraph -->

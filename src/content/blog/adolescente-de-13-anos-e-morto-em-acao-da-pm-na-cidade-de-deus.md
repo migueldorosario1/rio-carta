@@ -7,8 +7,8 @@ slug: "adolescente-de-13-anos-e-morto-em-acao-da-pm-na-cidade-de-deus"
 wp_id: 1048
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma ação do Batalhão de Polícia de Choque (BPChq) na comunidade Cidade de Deus, Zona Oeste do Rio de Janeiro, resultou na morte de Thiago Menezes Flausino, um jovem de 13 anos, no domingo à noite. Segundo relatos de parentes, Thiago não tinha qualquer envolvimento com atividades criminosas e sonhava em se tornar um jogador de futebol profissional.</p>
 <!-- /wp:paragraph -->

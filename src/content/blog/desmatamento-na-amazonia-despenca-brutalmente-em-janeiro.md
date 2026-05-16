@@ -7,8 +7,8 @@ slug: "desmatamento-na-amazonia-despenca-brutalmente-em-janeiro"
 tags:
   - 'nacional'
 wp_id: 3380
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O desmatamento na floresta amazônica caiu 60% em janeiro deste ano, conforme monitoramento do Instituto do Homem e Meio Ambiente da Amazônia (Imazon). Foi o décimo mês consecutivo de redução.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1582092&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1582092&amp;o=node"></p>
 <!-- /wp:paragraph -->

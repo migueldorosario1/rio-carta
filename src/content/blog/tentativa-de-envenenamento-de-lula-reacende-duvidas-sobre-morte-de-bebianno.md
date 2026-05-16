@@ -9,8 +9,8 @@ tags:
   - 'teresopolis'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A recente investigação da Polícia Federal sobre um suposto plano de militares bolsonaristas para assassinar o presidente Luiz Inácio Lula da Silva por envenenamento trouxe de volta à tona discussões sobre a morte do ex-ministro Gustavo Bebianno, ocorrida em março de 2020. </p>
 <!-- /wp:paragraph -->

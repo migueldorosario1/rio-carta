@@ -7,8 +7,8 @@ slug: "senado-abre-consulta-publica-sobre-volta-da-homologacao-obrigatoria-nos-s
 wp_id: 3531
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Senado Federal abriu consulta pública sobre o Projeto de Lei 1.397/2021, de autoria do senador Paulo Paim (PT), que retoma a obrigatoriedade de participação dos sindicatos no processo de demissão de funcionários que estejam há ao menos um ano no emprego.</p>
 <!-- /wp:paragraph -->

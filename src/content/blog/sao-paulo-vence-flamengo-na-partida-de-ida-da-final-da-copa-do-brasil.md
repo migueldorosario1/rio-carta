@@ -7,8 +7,8 @@ slug: "sao-paulo-vence-flamengo-na-partida-de-ida-da-final-da-copa-do-brasil"
 wp_id: 1362
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Calleri faz gol e dá vantagem do empate para Tricolor no Morumbi</strong></em></p>
 <!-- /wp:paragraph -->

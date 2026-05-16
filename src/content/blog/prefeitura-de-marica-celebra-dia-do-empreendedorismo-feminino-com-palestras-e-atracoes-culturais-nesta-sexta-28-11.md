@@ -7,8 +7,8 @@ slug: "prefeitura-de-marica-celebra-dia-do-empreendedorismo-feminino-com-palestr
 tags:
   - 'marica'
 wp_id: 7459
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Atividades acontecem no Galpão Tecnológico, em Inoã, e promove troca de vivências e oportunidades para mulheres</h4>
 <!-- /wp:heading -->

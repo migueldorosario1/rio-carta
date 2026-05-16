@@ -7,8 +7,8 @@ slug: "dani-balbi-voce-tem-fome-e-sede-de-que-gritam-os-excluidos"
 wp_id: 1317
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada Dani Balbi (PCdoB) comenta "independência" com escravidão, trabalho forçado, empregos precarizados, desemprego e fome</em></strong></p>
 <!-- /wp:paragraph -->

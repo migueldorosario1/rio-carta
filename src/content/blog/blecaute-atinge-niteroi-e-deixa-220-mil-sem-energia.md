@@ -8,8 +8,8 @@ wp_id: 6735
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Energia foi normalizada após seis horas, mas moradores reclamam da falta de informações. Enel afirma que ventos fortes provocaram o apagão</h3>
 <!-- /wp:heading -->

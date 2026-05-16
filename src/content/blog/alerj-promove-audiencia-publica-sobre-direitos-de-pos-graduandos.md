@@ -7,8 +7,8 @@ slug: "alerj-promove-audiencia-publica-sobre-direitos-de-pos-graduandos"
 wp_id: 7072
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A iniciativa é da deputada estadual Dani Balbi (PCdoB) em parceria com a Associação Nacional de Pós-Graduandos (ANPG)</strong></em></p>
 <!-- /wp:paragraph -->

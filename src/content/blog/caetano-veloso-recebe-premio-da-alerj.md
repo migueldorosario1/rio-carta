@@ -7,8 +7,8 @@ slug: "caetano-veloso-recebe-premio-da-alerj"
 wp_id: 7098
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa da entrega da Medalha Tiradentes para o cantor foi da deputada Dani Balbi</em></strong></p>
 <!-- /wp:paragraph -->

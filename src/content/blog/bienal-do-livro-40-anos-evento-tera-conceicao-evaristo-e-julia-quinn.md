@@ -7,8 +7,8 @@ slug: "bienal-do-livro-40-anos-evento-tera-conceicao-evaristo-e-julia-quinn"
 wp_id: 1015
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Com entretenimento e tecnologia, promessa é ir além da literatura</strong></em></p>
 <!-- /wp:paragraph -->

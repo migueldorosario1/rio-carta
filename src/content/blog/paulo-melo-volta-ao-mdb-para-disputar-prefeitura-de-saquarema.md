@@ -8,8 +8,8 @@ wp_id: 1358
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Ex-deputado foi preso em 2017</strong></em> <em><strong>no contexto da Operação Lava Jato</strong></em></p>
 <!-- /wp:paragraph -->

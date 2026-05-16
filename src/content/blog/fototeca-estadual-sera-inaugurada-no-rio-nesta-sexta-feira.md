@@ -7,8 +7,8 @@ slug: "fototeca-estadual-sera-inaugurada-no-rio-nesta-sexta-feira"
 wp_id: 6603
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa surgiu de lei da deputada Dani Balbi (PCdoB); espaço funcionará na Lapa.</em></strong> <em><strong>Em breve, Fototeca contará com Conselho Curador com participação da sociedade civil e de técnicos do MIS.</strong></em></p>
 <!-- /wp:paragraph -->

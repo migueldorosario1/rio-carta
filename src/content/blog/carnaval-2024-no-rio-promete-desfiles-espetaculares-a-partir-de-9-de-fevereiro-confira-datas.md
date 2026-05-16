@@ -7,8 +7,8 @@ slug: "carnaval-2024-no-rio-promete-desfiles-espetaculares-a-partir-de-9-de-feve
 wp_id: 2164
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Carnaval de 2024 promete trazer de volta todo o esplendor e a alegria à cidade do Rio de Janeiro. A festividade, que é um dos maiores espetáculos do planeta, tem início marcado para o dia 9 de fevereiro, uma sexta-feira, e se estende até a Quarta-feira de Cinzas, 14 de fevereiro. A Marquês de Sapucaí, palco icônico dos desfiles, receberá as escolas de samba da Série Ouro e do Grupo Especial, respectivamente, prometendo noites de pura magia e exuberância cultural.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "pcdob-lota-auditorio-no-rio-para-debater-geopolitica-internacional"
 wp_id: 7048
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O evento faz parte do 16 Congresso do partido</em></strong></p>
 <!-- /wp:paragraph -->

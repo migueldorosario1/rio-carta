@@ -7,8 +7,8 @@ slug: "marcha-da-maconha-em-sp-aborda-encarceramento-em-massa-e-violencia-polici
 tags:
   - 'nacional'
 wp_id: 4677
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Marcha da Maconha de São Paulo deste ano coloca em foco o encarceramento em massa e a violência policial, sob o tema "Bolando o Futuro sem Guerra". </p>
 <!-- /wp:paragraph -->

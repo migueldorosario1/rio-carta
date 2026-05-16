@@ -7,8 +7,8 @@ slug: "casos-de-extorsao-explodem-na-zona-oeste-do-rio-em-2023"
 wp_id: 2967
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A prática de extorsão tem se tornado cada vez mais comum no estado do <strong>Rio de Janeiro</strong>, particularmente na <strong>Zona Oeste da capital</strong>, onde houve um aumento significativo nos casos em 26 bairros. </p>
 <!-- /wp:paragraph -->

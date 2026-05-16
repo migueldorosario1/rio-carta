@@ -7,8 +7,8 @@ slug: "alexandre-de-moraes-intima-advogados-do-x-a-comprovarem-representacao-da-
 tags:
   - 'nacional'
 wp_id: 5352
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta quinta-feira (19) que os advogados que afirmam representar a plataforma X comprovem, em até 24 horas, a regularidade da representação da empresa no Brasil. A informação foi divulgada pela CNN.</p>
 <!-- /wp:paragraph -->

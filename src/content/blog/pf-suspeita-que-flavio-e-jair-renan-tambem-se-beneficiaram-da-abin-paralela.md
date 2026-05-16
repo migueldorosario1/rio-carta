@@ -7,8 +7,8 @@ slug: "pf-suspeita-que-flavio-e-jair-renan-tambem-se-beneficiaram-da-abin-parale
 wp_id: 2630
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira, 29, a Polícia Federal conduziu uma operação de busca e apreensão como parte das investigações em andamento que se relacionam à alegada existência de uma "Abin Paralela" durante o governo de Jair Bolsonaro, membro do Partido Liberal (PL).</p>
 <!-- /wp:paragraph -->

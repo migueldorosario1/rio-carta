@@ -7,8 +7,8 @@ slug: "reu-acusado-de-envolvimento-na-morte-de-marielle-franco-nega-participacao
 wp_id: 2067
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O ex-bombeiro Maxwell Simões Correa, conhecido como Suel, acusado de envolvimento na morte da vereadora Marielle Franco e do motorista Anderson Gomes, prestou depoimento à 4ª Vara Criminal da Capital nesta sexta-feira. Ele negou sua participação nos assassinatos e refutou as alegações feitas por Élcio de Queiroz, ex-policial militar que confessou ter dirigido o carro usado no ataque.</em></strong></p>
 <!-- /wp:paragraph -->

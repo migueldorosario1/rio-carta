@@ -8,8 +8,8 @@ wp_id: 1294
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Região concentra 25% dos desaparecimentos e 20% do número de corpos encontrados em todo o estado do Rio</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lula-celebra-79-anos-com-restricoes-apos-acidente-domestico"
 wp_id: 5871
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>No dia 27 de outubro, coincidindo com o segundo turno das eleições municipais, o presidente Luiz Inácio Lula da Silva comemora seu 79º aniversário. </p>
 <!-- /wp:paragraph -->

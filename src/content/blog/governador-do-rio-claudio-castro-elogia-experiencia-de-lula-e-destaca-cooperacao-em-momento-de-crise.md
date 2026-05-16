@@ -8,8 +8,8 @@ wp_id: 2447
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governador do Rio de Janeiro, Cláudio Castro (PL), demonstrou apreço pelo ex-presidente Lula (PT), chamando-o de "político experiente". Em uma entrevista à CNN, Castro mencionou o apoio providenciado pelo governo federal após as intensas chuvas do último final de semana. Os dois líderes políticos tiveram uma conversa telefônica, na qual o presidente Lula se comprometeu a analisar um pedido de antecipação dos recursos do PAC para auxiliar nas obras nas áreas afetadas.</p>
 <!-- /wp:paragraph -->

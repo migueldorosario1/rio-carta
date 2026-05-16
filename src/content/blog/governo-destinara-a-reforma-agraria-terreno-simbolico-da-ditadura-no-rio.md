@@ -9,8 +9,8 @@ tags:
   - 'campos'
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A Usina Cambahyba, em Campos dos Goytacazes (RJ), será formalizada como assentamento do Movimento dos Trabalhadores Rurais Sem Terra (MST)</strong></em></p>
 <!-- /wp:paragraph -->

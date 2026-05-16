@@ -7,8 +7,8 @@ slug: "lula-inaugura-primeiro-tunel-de-campo-grande-e-destaca-investimentos-em-m
 wp_id: 7721
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A cerimônia contou com a presença do prefeito Eduardo Paes e do presidente do Instituto Pereira Passos (IPP), Elias Jabbour.</em></strong></p>
 <!-- /wp:paragraph -->

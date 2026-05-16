@@ -7,8 +7,8 @@ slug: "aldo-arantes-lanca-o-livro-dominio-das-mentes-no-rio-dia-06-11"
 tags:
   - 'cultura-carnaval'
 wp_id: 5931
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Com uma leitura gramsciana, o novo livro do ex-deputado Constituinte, Aldo Arantes, trata do avanço da extrema-direita no Brasil e no mundo.</strong></em></p>
 <!-- /wp:paragraph -->

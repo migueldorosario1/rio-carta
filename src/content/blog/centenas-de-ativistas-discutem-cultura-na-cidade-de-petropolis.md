@@ -7,8 +7,8 @@ slug: "centenas-de-ativistas-discutem-cultura-na-cidade-de-petropolis"
 wp_id: 1369
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>IV Conferência Municipal de Cultura de Petrópolis aconteceu neste último fim de semana</em></strong> <strong><em>na cidade da região serrana.</em></strong></p>
 <!-- /wp:paragraph -->

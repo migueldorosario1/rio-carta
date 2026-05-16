@@ -7,8 +7,8 @@ slug: "pacificacao-no-vasco-ceo-da-saf-e-presidente-dos-benemeritos-comecam-a-at
 wp_id: 4071
 tags:
   - 'vasco-da-gama'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>CEO da SAF do Vasco, Lucio Barbosa enviou carta para o presidente do Conselho dos Beneméritos, Luis Fernandes, agradecendo pela organização do encontro entre Lula, Macron e Payet</em></strong></p>
 <!-- /wp:paragraph -->

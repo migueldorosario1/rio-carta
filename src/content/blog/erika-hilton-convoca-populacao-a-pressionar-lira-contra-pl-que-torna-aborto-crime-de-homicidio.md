@@ -7,8 +7,8 @@ slug: "erika-hilton-convoca-populacao-a-pressionar-lira-contra-pl-que-torna-abor
 tags:
   - 'nacional'
 wp_id: 4672
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A deputada federal Erika Hilton (PSOL-SP) convocou a população para manifestações contra a decisão da Câmara dos Deputados que aprovou o Projeto de Lei 1904/24, proposto pelo deputado Sóstenes Cavalcante (PL-RJ) e outros 32 parlamentares. O projeto equipara o aborto de gestação acima de 22 semanas ao homicídio, podendo ser votado diretamente no Plenário sem passar pelas comissões da Casa.</p>
 <!-- /wp:paragraph -->

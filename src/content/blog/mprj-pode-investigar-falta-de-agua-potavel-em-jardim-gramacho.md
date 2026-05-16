@@ -8,8 +8,8 @@ wp_id: 7746
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A deputada estadual Dani Balbi (PCdoB) protocolou no Ministério Público do Estado do Rio de Janeiro uma representação solicitando investigação sobre a falta de acesso à água potável e saneamento no bairro Jardim Gramacho, em Duque de Caxias.</strong></em></p>
 <!-- /wp:paragraph -->

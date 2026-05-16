@@ -9,8 +9,8 @@ tags:
   - 'volta-redonda'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-diretor de serviços da Petrobras, Renato Duque, foi preso pela Polícia Federal neste sábado (17) em Volta Redonda, Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

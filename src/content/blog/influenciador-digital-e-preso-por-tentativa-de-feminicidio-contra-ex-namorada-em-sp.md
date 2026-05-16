@@ -7,8 +7,8 @@ slug: "influenciador-digital-e-preso-por-tentativa-de-feminicidio-contra-ex-namo
 tags:
   - 'nacional'
 wp_id: 3780
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Kaick Felix, influenciador digital com mais de 620 mil seguidores no TikTok, foi preso em flagrante após invadir a residência de sua ex-namorada e agredi-la com uma faca em múltiplas ocasiões. </p>
 <!-- /wp:paragraph -->

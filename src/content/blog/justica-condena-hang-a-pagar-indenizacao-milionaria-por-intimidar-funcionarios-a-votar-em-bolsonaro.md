@@ -7,8 +7,8 @@ slug: "justica-condena-hang-a-pagar-indenizacao-milionaria-por-intimidar-funcion
 wp_id: 2795
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O juiz Carlos Alberto Pereira de Castro, da 7ª Vara do Trabalho de Florianópolis, emitiu uma sentença que condenou as lojas Havan e seu proprietário, o empresário Luciano Hang, a pagar mais de R$ 85 milhões por intimidar seus empregados a votarem em Jair Bolsonaro (PL) na eleição presidencial de 2018. A sentença é resultado de uma ação civil pública movida pelo Ministério Público do Trabalho (MPT).</p>
 <!-- /wp:paragraph -->

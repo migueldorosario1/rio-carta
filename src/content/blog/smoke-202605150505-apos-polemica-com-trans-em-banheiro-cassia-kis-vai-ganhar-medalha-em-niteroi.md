@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "cassia-kis", "camara-municipal", "medalha-jose-clemente-pereira", "politica-local", "regiao-metropolitana", "capital", "leme", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150505-apos-polemica-com-trans-em-banheiro-cassia-kis-vai-ganhar-medalha-em-niteroi.jpg"
+categoria_macro: politica
 ---
 Após polêmica com trans em banheiro, Cássia Kis vai ganhar medalha em Niterói
 

@@ -7,8 +7,8 @@ slug: "festival-do-mst-chega-ao-rio-de-janeiro-neste-final-de-semana"
 wp_id: 1355
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Festival integra a agenda de comemoração dos 5 anos do Armazém do Campo carioca</em></strong></p>
 <!-- /wp:paragraph -->

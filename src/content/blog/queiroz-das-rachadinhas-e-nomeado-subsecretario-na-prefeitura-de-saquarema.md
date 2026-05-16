@@ -8,8 +8,8 @@ wp_id: 6434
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Ex-assessor de Flávio Bolsonaro ocupará cargo com salário superior a R$ 10 mil.</em></strong></p>
 <!-- /wp:paragraph -->

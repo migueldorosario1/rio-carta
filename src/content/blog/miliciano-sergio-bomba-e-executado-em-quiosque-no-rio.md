@@ -7,8 +7,8 @@ slug: "miliciano-sergio-bomba-e-executado-em-quiosque-no-rio"
 wp_id: 2509
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite deste domingo (21), um episódio violento abalou a Praia do Recreio dos Bandeirantes, na Zona Oeste do Rio de Janeiro. Sérgio Rodrigues da Costa Silva, mais conhecido como Sérgio Bomba, foi executado em um quiosque na região. Bomba, identificado como chefe da milícia de Sepetiba, já havia sido preso em 2017.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 1541
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Faltando exatamente um ano para as eleições municipais, uma pesquisa exclusiva realizada pela Quaest e obtida pela CNN analisou a popularidade digital dos prefeitos das capitais dos 26 estados brasileiros. O levantamento envolveu plataformas como Facebook, Instagram, X (antigo Twitter), Google, Wikipedia, YouTube e TikTok, e apresentou resultados interessantes sobre a visibilidade online dos líderes municipais.</em></strong></p>
 <!-- /wp:paragraph -->

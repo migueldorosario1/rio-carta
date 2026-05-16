@@ -7,8 +7,8 @@ slug: "dani-balbi-erika-hilton-duda-salabert-e-outras-liderancas-trans-vao-desfi
 tags:
   - 'cultura-carnaval'
 wp_id: 6523
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Na Semana Nacional da Visibilidade Trans, o Paraíso do Tuiuti confirmou a participação de diversas lideranças no desfile deste ano como as deputadas federais Érika Hilton (PSOL-SP) e Duda Salabert (PDT-MG), a vereadora Amanda Paschoal (PSOL-SP) e a deputada estadual Dani Balbi (PCdoB-RJ). Elas estarão em alegorias da agremiação de São Cristóvão.</em></strong></p>
 <!-- /wp:paragraph -->

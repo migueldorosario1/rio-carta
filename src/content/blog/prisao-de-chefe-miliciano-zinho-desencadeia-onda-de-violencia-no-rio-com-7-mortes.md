@@ -8,8 +8,8 @@ wp_id: 2513
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A prisão de Luis Antonio da Silva Braga, conhecido como Zinho, na véspera de Natal, desencadeou uma onda de violência na Zona Oeste e na Baixada Fluminense do Rio de Janeiro, resultando em pelo menos sete mortes. Zinho, líder da maior milícia do Rio e procurado desde 2018, era um dos criminosos mais temidos do estado. Sua detenção gerou um vácuo de poder, intensificando as disputas territoriais entre grupos paramilitares.</p>
 <!-- /wp:paragraph -->

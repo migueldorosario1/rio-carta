@@ -7,8 +7,8 @@ slug: "dolar-fecha-proximo-da-estabilidade-no-brasil-apesar-de-ganhar-forca-no-m
 tags:
   - 'nacional'
 wp_id: 5734
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O dólar encerrou a quinta-feira quase estável no Brasil, com uma leve baixa de 0,06%, sendo cotado a 5,6602 reais, enquanto acumula alta de 3,87% no mês de outubro. </p>
 <!-- /wp:paragraph -->

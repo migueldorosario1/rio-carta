@@ -7,8 +7,8 @@ slug: "real-time-big-data-aponta-paes-como-favorito-ao-governo-do-rj-em-2026"
 wp_id: 7543
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O resultado sugere um eleitorado cansado de conflitos e buscando previsibilidade, lançando luz sobre os desafios e fragilidades das demais forças políticas rumo a 2026</h3>
 <!-- /wp:heading -->

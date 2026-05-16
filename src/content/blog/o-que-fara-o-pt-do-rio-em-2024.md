@@ -8,8 +8,8 @@ wp_id: 771
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>PT ainda não decidiu se apoiará reeleição de Eduardo Paes (PSD), se terá candidatura própria ou se apoiará o PSOL para a prefeitura do Rio.</strong></em></p>
 <!-- /wp:paragraph -->

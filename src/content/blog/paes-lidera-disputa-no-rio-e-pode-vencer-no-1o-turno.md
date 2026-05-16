@@ -8,8 +8,8 @@ wp_id: 4361
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Um levantamento recente realizado pelo instituto Paraná Pesquisas revelou que o atual prefeito do Rio de Janeiro, Eduardo Paes (PSD), lidera as intenções de voto para a reeleição com 46,1%, sugerindo uma possível vitória já no primeiro turno. </p>
 <!-- /wp:paragraph -->

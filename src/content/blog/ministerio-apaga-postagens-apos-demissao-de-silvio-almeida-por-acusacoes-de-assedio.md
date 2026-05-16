@@ -7,8 +7,8 @@ slug: "ministerio-apaga-postagens-apos-demissao-de-silvio-almeida-por-acusacoes-
 wp_id: 5126
 tags:
   - 'macae'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério dos Direitos Humanos e Cidadania removeu postagens das redes sociais e de seu site oficial que defendiam o ex-ministro Silvio Almeida, demitido após enfrentar acusações de assédio sexual. As denúncias incluem relatos envolvendo a ministra Anielle Franco.</p>
 <!-- /wp:paragraph -->

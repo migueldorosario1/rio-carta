@@ -8,8 +8,8 @@ wp_id: 5111
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Prefeito foi convencido por Rafaela Albergaria (PCdoB) sobre importância da medida.</em></strong> <strong><em>Anúncio foi feito pelo candidato a vice-prefeito, Eduardo Cavaliere.</em></strong></p>
 <!-- /wp:paragraph -->

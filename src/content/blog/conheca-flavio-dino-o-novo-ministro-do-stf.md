@@ -7,8 +7,8 @@ slug: "conheca-flavio-dino-o-novo-ministro-do-stf"
 wp_id: 3405
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Flávio Dino tomou posse na tarde desta quinta-feira, 22, como ministro do Supremo Tribunal Federal. Ele foi indicado pelo presidente Luiz Inácio Lula da Silva (PT) para suceder Rosa Weber, que&nbsp;<a href="https://www.conjur.com.br/2023-set-29/rosa-weber-aposenta-12-anos-supremo/#:~:text=Protagonista%20de%20momentos%20marcantes%20ao,limite%20para%20permanecer%20na%20fun%C3%A7%C3%A3o.">se aposentou em 29 de setembro</a>&nbsp;do ano passado.</p>
 <!-- /wp:paragraph -->

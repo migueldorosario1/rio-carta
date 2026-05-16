@@ -7,8 +7,8 @@ slug: "tecnico-do-botafogo-poe-cargo-a-disposicao-apos-derrota-para-flamengo"
 wp_id: 1298
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Botafogo continua na liderança do campeonato</em></strong></p>
 <!-- /wp:paragraph -->

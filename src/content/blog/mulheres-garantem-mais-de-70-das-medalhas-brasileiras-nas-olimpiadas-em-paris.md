@@ -7,8 +7,8 @@ slug: "mulheres-garantem-mais-de-70-das-medalhas-brasileiras-nas-olimpiadas-em-p
 tags:
   - 'nacional'
 wp_id: 4800
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A seleção brasileira de futebol feminino alcançou a final olímpica contra os Estados Unidos, assegurando no mínimo uma medalha de prata para o Brasil nos Jogos Olímpicos de Paris-2024. </p>
 <!-- /wp:paragraph -->

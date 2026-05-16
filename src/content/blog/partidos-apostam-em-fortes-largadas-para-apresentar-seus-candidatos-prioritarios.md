@@ -8,8 +8,8 @@ wp_id: 4909
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Rafaela Albergaria, do PCdoB, levou centenas de apoiadores para a Lapa; Diego Vaz, do PSD, lotou clube em Madureira.</strong></em></p>
 <!-- /wp:paragraph -->

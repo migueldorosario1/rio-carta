@@ -7,8 +7,8 @@ slug: "mulher-detida-com-celulares-furtados-durante-pre-carnaval-no-rio"
 wp_id: 2572
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante as festividades de pré-carnaval no Rio de Janeiro, uma mulher foi detida pela Polícia Militar por posse de 11 celulares e documentos pertencentes a outra pessoa. A prisão ocorreu na Rua Adherbal Madruga, no Centro do Rio, próximo ao local do Bloco da Gold. A mulher foi levada à 5ª DP (Mem de Sá) e acusada de furto.</p>
 <!-- /wp:paragraph -->

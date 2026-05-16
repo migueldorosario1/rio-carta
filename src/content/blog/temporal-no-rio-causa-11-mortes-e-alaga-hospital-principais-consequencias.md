@@ -8,8 +8,8 @@ wp_id: 2436
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>As intensas chuvas que atingiram o Rio de Janeiro no fim de semana resultaram em tragédia, com pelo menos 11 mortes e uma mulher desaparecida na Zona Norte da capital e na Baixada Fluminense. As chuvas começaram no sábado à tarde e continuaram durante a madrugada, causando estragos generalizados em dezenas de bairros.</p>
 <!-- /wp:paragraph -->

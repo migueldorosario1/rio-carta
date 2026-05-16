@@ -7,8 +7,8 @@ slug: "denuncia-de-racismo-em-loja-do-boticario-no-rio-e-investigada-pela-polici
 tags:
   - 'rio-de-janeiro'
 wp_id: 2147
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Três jovens relataram ter sido vítimas de racismo em uma unidade da rede O Boticário no Bangu Shopping, Zona Oeste do Rio. O incidente, ocorrido no Dia da Consciência Negra, está sendo apurado pela Delegacia de Crimes de Racismo e Delitos de Intolerância (Decradi).</p>
 <!-- /wp:paragraph -->

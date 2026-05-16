@@ -7,8 +7,8 @@ slug: "saiba-o-motivo-da-pf-ter-antecipado-a-prisao-dos-suspeitos-pelo-assassina
 tags:
   - 'seguranca-publica'
 wp_id: 3952
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal realizou, neste domingo, uma operação decisiva que levou à prisão dos indivíduos acusados pelo assassinato de Marielle Franco.</p>
 <!-- /wp:paragraph -->

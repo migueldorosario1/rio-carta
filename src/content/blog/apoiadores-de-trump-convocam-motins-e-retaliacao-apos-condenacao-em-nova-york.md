@@ -7,8 +7,8 @@ slug: "apoiadores-de-trump-convocam-motins-e-retaliacao-apos-condenacao-em-nova-
 wp_id: 4558
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Apoiadores do ex-presidente Donald Trump expressaram indignação diante de sua condenação em 34 acusações criminais por um júri em Nova York, inundando sites pró-Trump com chamados para motins, revolução e retaliação violenta.</p>
 <!-- /wp:paragraph -->

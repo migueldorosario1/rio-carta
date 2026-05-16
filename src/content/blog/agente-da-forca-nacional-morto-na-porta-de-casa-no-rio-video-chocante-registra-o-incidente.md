@@ -7,8 +7,8 @@ slug: "agente-da-forca-nacional-morto-na-porta-de-casa-no-rio-video-chocante-reg
 tags:
   - 'seguranca-publica'
 wp_id: 2050
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Um agente da Força Nacional foi tragicamente baleado na rua Mario Barbedo, em Vila Valqueire, nesta terça-feira. O incidente ocorreu após uma briga, pouco depois das 21h30, e, segundo o Hora 1, o militar não conseguiu sobreviver aos ferimentos.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 4962
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>"Qual a razão para os principais equipamentos culturais da cidade estarem localizados na Zona Sul e no Centro?", questionou a candidata Rafaela Albergaria (PCdoB).</strong></em></p>
 <!-- /wp:paragraph -->

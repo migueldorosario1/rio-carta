@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:07:31Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "barra-da-tijuca", "zona-oeste", "politica-rj", "seguranca-publica", "capital", "regiao-metropolitana", "tijuca", "manguinhos", "favela", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605151805-por-que-o-ex-governador-claudio-castro-virou-alvo-da-policia-federal.webp"
+categoria_macro: politica
 ---
 Operação Sem Refino, de busca e apreensão, investiga fraudes fiscais, ocultação patrimonial e ligações entre a Refit e agentes públicos do estado
 

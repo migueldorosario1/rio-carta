@@ -7,8 +7,8 @@ slug: "justica-proibe-exigencia-de-teste-hiv-para-concursos"
 wp_id: 875
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Edital é referente ao concurso público de formação de soldados da PM</em></strong></p>
 <!-- /wp:paragraph -->

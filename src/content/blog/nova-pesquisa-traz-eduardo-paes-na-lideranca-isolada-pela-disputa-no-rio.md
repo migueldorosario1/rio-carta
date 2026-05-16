@@ -8,8 +8,8 @@ wp_id: 4751
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nova pesquisa conduzida pela empresa 100% Cidades em parceria com a Futura Inteligência indica que o atual prefeito do Rio de Janeiro, Eduardo Paes (PSD), está à frente nas intenções de voto para a reeleição. O estudo, divulgado pela Revista Exame, mostra Paes liderando com 51,6% das preferências, um valor mais que o dobro da soma dos seus principais adversários.</p>
 <!-- /wp:paragraph -->

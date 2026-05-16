@@ -7,8 +7,8 @@ slug: "glauber-braga-expulsa-extremista-do-mbl-a-socos-e-chutes-da-camara"
 tags:
   - 'nacional'
 wp_id: 4236
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante um incidente ocorrido na Câmara dos Deputados, o deputado Glauber Braga (PSOL-RJ) reagiu às provocações de Gabriel Costenaro, membro do MBL, expulsando-o do local. </p>
 <!-- /wp:paragraph -->

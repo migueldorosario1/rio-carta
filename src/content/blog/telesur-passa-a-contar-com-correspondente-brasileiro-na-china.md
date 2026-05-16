@@ -7,8 +7,8 @@ slug: "telesur-passa-a-contar-com-correspondente-brasileiro-na-china"
 wp_id: 7155
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Bruno Falci está em Pequim desde agosto passado</em></strong></p>
 <!-- /wp:paragraph -->

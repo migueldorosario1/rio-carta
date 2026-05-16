@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:06:28Z"
 draft: false
 tags: ["rio-de-janeiro", "nova-friburgo", "regiao-serrana", "acidente", "rj-150", "norte-noroeste-fluminense", "regiao-metropolitana", "mage", "noroeste-fluminense", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605151805-motorista-de-caminhao-que-atingiu-carros-e-igreja-morre-e-sobe-para-4-o-numero-de-mortos-em-acid.jpg"
+categoria_macro: geral
 ---
 Subiu para quatro o número de mortos em decorrência de um grave acidente ocorrido na manhã desta quinta-feira (14) em Nova Friburgo. O motorista de um caminhão, que desceu um trecho da RJ-150 desgovernado atingindo carros e uma igreja, morreu na madrugada desta sexta-feira (15) no Hospital Raul Sertã.
 

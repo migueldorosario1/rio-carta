@@ -7,8 +7,8 @@ slug: "multidao-no-galeao-recebe-o-novo-reforco-do-vasco-dimitri-payet"
 wp_id: 1113
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A quarta-feira no Rio de Janeiro começou repleta de empolgação para os torcedores do Vasco da Gama, que se reuniram em uma multidão estimada em cerca de cinco mil pessoas no Aeroporto Internacional do Galeão, na Ilha do Governador. A ocasião? A chegada do meia francês Dimitri Payet, o mais novo reforço do clube carioca para a temporada. Mesmo as baixas temperaturas e a espera entre o desembarque do jogador e o momento de seu encontro com a torcida não diminuíram a animação, que já se manifestava desde a madrugada.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lindbergh-e-cut-lancam-manifesto-por-alternativa-a-eduardo-paes"
 wp_id: 1599
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Grupo do PT prefere uma candidatura de esquerda com Freixo, Tarcísio ou Dani Balbi</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "pm-e-preso-em-flagrante-apos-serie-de-roubos-na-zona-oeste-do-rio"
 wp_id: 2956
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na madrugada deste domingo, 4, um policial militar foi detido em flagrante na Rua Vitor Alves, no bairro de <strong>Campo Grande</strong>, <strong>Zona Oeste do Rio</strong>, por cometer vários roubos em sequência. </p>
 <!-- /wp:paragraph -->

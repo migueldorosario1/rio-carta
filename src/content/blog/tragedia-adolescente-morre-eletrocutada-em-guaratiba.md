@@ -7,8 +7,8 @@ slug: "tragedia-adolescente-morre-eletrocutada-em-guaratiba"
 wp_id: 2729
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No último sábado, 27, uma tragédia ocorreu na Estrada do Mato Alto, em Guaratiba, Zona Oeste do Rio de Janeiro, quando uma adolescente de 16 anos perdeu a vida após ser atingida por uma descarga elétrica. </p>
 <!-- /wp:paragraph -->

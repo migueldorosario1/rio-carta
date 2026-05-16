@@ -7,8 +7,8 @@ slug: "globo-volta-a-espumar-odio-contra-a-petrobras-e-a-soberania-energetica"
 tags:
   - 'nacional'
 wp_id: 3354
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Petrobras planeja recompra da Refinaria Mataripe na Bahia, desencadeando debate sobre direção estratégica</em></p>
 <!-- /wp:paragraph -->

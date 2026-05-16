@@ -7,8 +7,8 @@ slug: "lula-suspeita-de-acao-criminosa-por-tras-do-aumento-de-queimadas-no-brasi
 tags:
   - 'nacional'
 wp_id: 5273
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo do presidente Luiz Inácio Lula da Silva está investigando a possibilidade de que o recente aumento nas queimadas florestais pelo país seja resultado de ações criminosas coordenadas. </p>
 <!-- /wp:paragraph -->

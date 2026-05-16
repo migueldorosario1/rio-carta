@@ -7,8 +7,8 @@ slug: "operas-sao-destaque-do-theatro-municipal-do-rio-em-setembro"
 wp_id: 1284
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Opereta Radiofônica é uma parceria com a EBC </em></strong></p>
 <!-- /wp:paragraph -->

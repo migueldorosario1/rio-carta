@@ -8,8 +8,8 @@ wp_id: 2114
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público do Rio de Janeiro (MPRJ) iniciou uma investigação sobre as estruturas montadas para as festividades de fim de ano em Niterói, após o desabamento de uma árvore de Natal de 50 metros de altura. A Promotoria de Justiça de Tutela Coletiva da Cidadania de Niterói abriu um procedimento administrativo nesta sexta-feira (8) para averiguar as medidas de segurança adotadas pelo município em relação a essas estruturas.</p>
 <!-- /wp:paragraph -->

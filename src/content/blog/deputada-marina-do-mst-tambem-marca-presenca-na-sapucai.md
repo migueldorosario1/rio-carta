@@ -7,8 +7,8 @@ slug: "deputada-marina-do-mst-tambem-marca-presenca-na-sapucai"
 tags:
   - 'cultura-carnaval'
 wp_id: 3183
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p>Na Marquês de Sapucaí, enquanto muitos políticos optam pelos camarotes e áreas VIPs, a deputada estadual Marina do MST (PT) escolheu, mais uma vez, a arquibancada do setor 12 para acompanhar os desfiles. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "caged-brasil-criou-148-milhao-de-empregos-formais-em-2023"
 wp_id: 2744
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Brasil registrou saldo positivo de 1.483.598 empregos formais em 2023, segundo o Novo Cadastro Geral de Empregados e Desempregados (Caged), divulgado nesta terça-feira (30) pelo Ministério do Trabalho e Emprego. No acumulado do ano (janeiro a dezembro), foram registradas 23.257.812 admissões e 21.774.214 desligamentos.&nbsp;<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1578535&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1578535&amp;o=node"></p>
 <!-- /wp:paragraph -->

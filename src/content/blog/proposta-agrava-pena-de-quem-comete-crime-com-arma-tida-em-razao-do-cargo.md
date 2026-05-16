@@ -7,8 +7,8 @@ slug: "proposta-agrava-pena-de-quem-comete-crime-com-arma-tida-em-razao-do-cargo
 tags:
   - 'nacional'
 wp_id: 2854
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Senado vai analisar um projeto de lei que agrava a pena do crime cometido com arma de fogo cuja autorização de porte decorra do cargo público do criminoso. O <a href="https://www25.senado.leg.br/web/atividade/materias/-/materia/160391" target="_blank" rel="noreferrer noopener">PL 4.879/2023</a> aguarda a designação de relator na Comissão de Constituição e Justiça (CCJ), onde será apreciado em caráter terminativo. </p>
 <!-- /wp:paragraph -->

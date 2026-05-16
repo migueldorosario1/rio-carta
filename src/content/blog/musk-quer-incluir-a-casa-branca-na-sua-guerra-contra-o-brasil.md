@@ -7,8 +7,8 @@ slug: "musk-quer-incluir-a-casa-branca-na-sua-guerra-contra-o-brasil"
 tags:
   - 'geopolitica'
 wp_id: 4159
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na madrugada desta quarta-feira, 11, o CEO da Tesla e SpaceX, Elon Musk, revelou através de sua plataforma social, X, que a Câmara dos Deputados dos Estados Unidos iniciou uma consulta sobre suas alegações relativas a violações da legislação brasileira. Musk mencionou que as acusações envolvem "centenas, senão milhares" de casos.</p>
 <!-- /wp:paragraph -->

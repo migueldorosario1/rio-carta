@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:23:57Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-oeste", "rio-capital-zona-oeste", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605152123-data-centers-ai-and-the-social-costs-for-rio-de-janeiro-what-does-it-mean-in-practice-to-become-qwen.jpg"
+categoria_macro: seguranca
 ---
 This editorial is part of our series reflecting on the impacts of mega-events on Rio de Janeiro 10 years after the 2016 Olympic Games.
 

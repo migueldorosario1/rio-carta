@@ -7,8 +7,8 @@ slug: "ato-no-rio-lembra-os-2-mil-dias-sem-solucao-para-o-caso-marielle"
 wp_id: 1276
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Mobilização pede andamento mais rápido das investigações</em></strong></p>
 <!-- /wp:paragraph -->

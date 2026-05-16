@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Quatro dias após uma forte chuva que afetou a Região Metropolitana do Rio de Janeiro no final de semana, os moradores de Duque de Caxias, na Baixada Fluminense, ainda estão lidando com as consequências da inundação em suas ruas e casas. A prefeitura informou em comunicado que trechos de algumas ruas nos bairros Pilar, Amapá e Vila Urussaí ainda permaneciam alagados na tarde de quarta-feira. Paralelamente, continuam as buscas pela cabeleireira Elaine Cristina Souza Gomes, de 46 anos, que desapareceu durante a tempestade quando o carro em que ela estava com o marido, Anderson Genovez, ficou submerso no Rio Botas.</p>
 <!-- /wp:paragraph -->

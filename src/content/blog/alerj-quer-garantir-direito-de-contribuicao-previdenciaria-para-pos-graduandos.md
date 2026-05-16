@@ -7,8 +7,8 @@ slug: "alerj-quer-garantir-direito-de-contribuicao-previdenciaria-para-pos-gradu
 wp_id: 1557
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da deputada estadual Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

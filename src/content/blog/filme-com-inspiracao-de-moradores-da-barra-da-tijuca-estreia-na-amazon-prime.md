@@ -7,8 +7,8 @@ slug: "filme-com-inspiracao-de-moradores-da-barra-da-tijuca-estreia-na-amazon-pr
 tags:
   - 'barra-da-tijuca'
 wp_id: 1761
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A aguardada produção cinematográfica "Mãe, Sequestraram a Babá" está prestes a chegar ao público, oferecendo uma história cativante e repleta de aventura. Filmado na pitoresca Barra da Tijuca, o filme, com direção de Luan Moreno e roteiro de Francisco Malta, é uma proposta voltada para toda a família e promete entretenimento com um toque de nostalgia.</p>
 <!-- /wp:paragraph -->

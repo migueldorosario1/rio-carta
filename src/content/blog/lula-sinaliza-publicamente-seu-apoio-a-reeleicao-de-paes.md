@@ -8,8 +8,8 @@ wp_id: 3427
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Durante a inauguração do Terminal Intermodal Gentileza, no Rio de Janeiro, o presidente Lula emitiu um alerta à população para evitar eleger "imbecis" nas próximas eleições municipais.</p>
 <!-- /wp:paragraph -->

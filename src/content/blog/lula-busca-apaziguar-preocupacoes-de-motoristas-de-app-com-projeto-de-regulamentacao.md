@@ -7,8 +7,8 @@ slug: "lula-busca-apaziguar-preocupacoes-de-motoristas-de-app-com-projeto-de-reg
 wp_id: 3987
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em meio a manifestações e paralisações de motoristas de aplicativos em várias cidades do Brasil, incluindo Brasília e Rio de Janeiro, o presidente Luiz Inácio Lula da Silva intensificou esforços para comunicar os objetivos de um novo Projeto de Lei (PL) proposto pelo governo. </p>
 <!-- /wp:paragraph -->

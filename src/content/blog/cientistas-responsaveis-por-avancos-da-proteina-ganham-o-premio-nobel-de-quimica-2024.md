@@ -7,8 +7,8 @@ slug: "cientistas-responsaveis-por-avancos-da-proteina-ganham-o-premio-nobel-de-
 tags:
   - 'nacional'
 wp_id: 5649
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Real Academia Sueca de Ciências anunciou nesta quarta-feira que os cientistas David Baker, John Jumper e Demis Hassabis foram laureados com o Prêmio Nobel de Química de 2024 por suas contribuições significativas ao entendimento das estruturas proteicas.</p>
 <!-- /wp:paragraph -->

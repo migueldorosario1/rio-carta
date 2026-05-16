@@ -7,8 +7,8 @@ slug: "pesquisa-mostra-que-cariocas-nao-se-sentem-representados-pela-prefeitura-
 tags:
   - 'politica-rj'
 wp_id: 988
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Segundo o levantamento do Instituto Rio21, apenas 24,7%&nbsp; dos cariocas concordam ou concordam muito com a frase “Me sinto representado pela Prefeitura do Rio"</strong></p>
 <!-- /wp:paragraph -->

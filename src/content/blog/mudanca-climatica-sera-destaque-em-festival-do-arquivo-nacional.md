@@ -7,8 +7,8 @@ slug: "mudanca-climatica-sera-destaque-em-festival-do-arquivo-nacional"
 wp_id: 6496
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Abertura do encontro será nos dias 29 e 30 de janeiro no Rio. Foto: Arquivo Nacional / Divulgação</strong></em></p>
 <!-- /wp:paragraph -->

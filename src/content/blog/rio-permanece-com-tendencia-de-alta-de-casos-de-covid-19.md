@@ -7,8 +7,8 @@ slug: "rio-permanece-com-tendencia-de-alta-de-casos-de-covid-19"
 wp_id: 1379
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Autoridades recomendam que todos tomem vacina bivalente</strong></em></p>
 <!-- /wp:paragraph -->

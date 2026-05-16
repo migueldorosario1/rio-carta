@@ -8,8 +8,8 @@ wp_id: 522
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Por Rhyan de Meira</em>, <em>no <a href="https://www.ocafezinho.com/2023/06/22/as-esperancas-do-pl-em-relacao-a-braga-netto-na-prefeitura-do-rio/">O Cafezinho</a></em></p>
 <!-- /wp:paragraph -->

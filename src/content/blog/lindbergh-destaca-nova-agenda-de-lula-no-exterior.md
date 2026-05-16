@@ -7,8 +7,8 @@ slug: "lindbergh-destaca-nova-agenda-de-lula-no-exterior"
 tags:
   - 'nacional'
 wp_id: 4616
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Lindbergh Farias (PT-RJ) enfatizou nesta segunda-feira, 10, a relevância dos temas que serão abordados pelo presidente Luiz Inácio Lula da Silva (PT) durante sua estadia na Europa. </p>
 <!-- /wp:paragraph -->

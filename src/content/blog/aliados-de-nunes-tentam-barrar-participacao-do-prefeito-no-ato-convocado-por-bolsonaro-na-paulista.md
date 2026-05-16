@@ -7,8 +7,8 @@ slug: "aliados-de-nunes-tentam-barrar-participacao-do-prefeito-no-ato-convocado-
 wp_id: 3228
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito de São Paulo, Ricardo Nunes (MDB), revelou a pessoas próximas nesta quarta-feira, 14, que está considerando participar do ato convocado por Jair Bolsonaro (PL), embora ainda não tenha tomado uma decisão definitiva.</p>
 <!-- /wp:paragraph -->

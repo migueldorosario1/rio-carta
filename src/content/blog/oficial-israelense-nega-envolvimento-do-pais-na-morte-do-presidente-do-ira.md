@@ -7,8 +7,8 @@ slug: "oficial-israelense-nega-envolvimento-do-pais-na-morte-do-presidente-do-ir
 tags:
   - 'geopolitica'
 wp_id: 4470
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um oficial israelense afirmou à Reuters nesta segunda-feira que Israel não está envolvido na morte do presidente iraniano Ebrahim Raisi em um acidente de helicóptero que também resultou na morte de vários membros de sua comitiva.</p>
 <!-- /wp:paragraph -->

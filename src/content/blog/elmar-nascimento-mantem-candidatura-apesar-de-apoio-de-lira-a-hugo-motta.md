@@ -7,8 +7,8 @@ slug: "elmar-nascimento-mantem-candidatura-apesar-de-apoio-de-lira-a-hugo-motta"
 wp_id: 5278
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Elmar Nascimento, líder do União Brasil, confirmou sua intenção de concorrer à presidência da Câmara dos Deputados, mesmo após o atual presidente da Casa, Arthur Lira, declarar apoio a Hugo Motta, do Republicanos.</p>
 <!-- /wp:paragraph -->

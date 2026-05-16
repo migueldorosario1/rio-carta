@@ -7,8 +7,8 @@ slug: "emissao-de-guia-para-pagamento-do-ipva-no-rio-comeca-nesta-terca-feira"
 wp_id: 2275
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os proprietários de veículos no Rio de Janeiro precisam ficar atentos, pois a Guia de Regularização de Débitos (GRD) do Imposto sobre Propriedades de Veículos Automotores (IPVA) estará disponível para emissão a partir de 9 de janeiro, terça-feira. A guia pode ser emitida acessando o Portal do IPVA da Secretaria de Estado de Fazenda ou o site do Bradesco.</p>
 <!-- /wp:paragraph -->

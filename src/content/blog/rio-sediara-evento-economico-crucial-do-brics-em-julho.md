@@ -7,8 +7,8 @@ slug: "rio-sediara-evento-economico-crucial-do-brics-em-julho"
 wp_id: 6613
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Ministros de Finanças e presidentes de Bancos Centrais do Brics se reúnem no Rio de Janeiro antes da Cúpula de Líderes</h4>
 <!-- /wp:heading -->

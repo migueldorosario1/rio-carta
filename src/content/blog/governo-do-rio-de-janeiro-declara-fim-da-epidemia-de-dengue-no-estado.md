@@ -7,8 +7,8 @@ slug: "governo-do-rio-de-janeiro-declara-fim-da-epidemia-de-dengue-no-estado"
 wp_id: 4637
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo do Rio de Janeiro anunciou oficialmente nesta terça-feira (11) o término da epidemia de dengue que assolava o estado. A decisão foi publicada no Diário Oficial do estado e fundamentada em análises técnicas realizadas pelo Centro de Inteligência em Saúde (CIS), da Secretaria de Saúde.</p>
 <!-- /wp:paragraph -->

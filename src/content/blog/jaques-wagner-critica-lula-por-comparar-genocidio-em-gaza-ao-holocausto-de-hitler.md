@@ -7,8 +7,8 @@ slug: "jaques-wagner-critica-lula-por-comparar-genocidio-em-gaza-ao-holocausto-d
 tags:
   - 'geopolitica'
 wp_id: 3362
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O líder do governo no Senado, Jaques Wagner (PT-BA), expressou sua discordância em relação à comparação feita pelo presidente Luiz Inácio Lula da Silva (PT) entre a situação dos palestinos na Faixa de Gaza e a dos judeus durante o Holocausto. Wagner, no entanto, ressaltou que Lula demonstrou "a indignação de um humanista".</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 2356
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes (PSD), tomou uma decisão crucial ao solicitar auxílio da Polícia Federal, e não do governo estadual, no caso envolvendo extorsão da milícia nas obras do Parque Piedade. Esta ação é vista por adversários políticos e aliados como um movimento estratégico ante a iminente disputa eleitoral pela prefeitura.</p>
 <!-- /wp:paragraph -->

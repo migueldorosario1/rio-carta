@@ -7,8 +7,8 @@ slug: "rio-grande-do-sul-enfrenta-nova-ameaca-com-chegada-de-frente-fria-apos-ch
 tags:
   - 'nacional'
 wp_id: 4420
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Rio Grande do Sul, já impactado pelas chuvas desde o final de abril, enfrenta uma nova adversidade. Uma onda de frio deve atingir o estado na quarta-feira, 8, com previsão de queda brusca de até 10°C em algumas regiões, aumentando o risco de hipotermia entre as pessoas isoladas pelas enchentes, segundo o Comando Militar do Sul.</p>
 <!-- /wp:paragraph -->

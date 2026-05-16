@@ -7,8 +7,8 @@ slug: "governo-lula-vai-anunciar-projeto-de-lei-para-regulamentacao-de-aplicativ
 tags:
   - 'nacional'
 wp_id: 3629
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Lula está programado para anunciar um novo projeto de lei nesta segunda-feira, que visa a regulamentação dos aplicativos de transporte de passageiros. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "rj-discute-amparo-psicologico-a-quem-sustenta-o-sus"
 wp_id: 6948
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Deputada Lilian Behring propõe iniciativa inspirada em evidências científicas e apoio jurídico para enfrentar a crise emocional na enfermagem fluminense</h3>
 <!-- /wp:heading -->

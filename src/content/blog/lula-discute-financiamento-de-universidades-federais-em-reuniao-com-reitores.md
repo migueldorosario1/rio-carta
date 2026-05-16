@@ -7,8 +7,8 @@ slug: "lula-discute-financiamento-de-universidades-federais-em-reuniao-com-reito
 tags:
   - 'nacional'
 wp_id: 4601
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em 10 de junho, o presidente Lula se encontrará com reitores de universidades e institutos federais no Palácio do Planalto para discutir o financiamento e a infraestrutura destas instituições. </p>
 <!-- /wp:paragraph -->

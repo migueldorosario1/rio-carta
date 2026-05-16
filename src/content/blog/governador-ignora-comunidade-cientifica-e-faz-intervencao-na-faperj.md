@@ -7,8 +7,8 @@ slug: "governador-ignora-comunidade-cientifica-e-faz-intervencao-na-faperj"
 wp_id: 5973
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Nomeação de Caroline Alves da Costa como nova presidenta da Faperj saiu no Diário Oficial desta quinta-feira (07/11)</strong></em></p>
 <!-- /wp:paragraph -->

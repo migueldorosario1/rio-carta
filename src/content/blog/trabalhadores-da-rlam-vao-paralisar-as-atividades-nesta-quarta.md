@@ -7,8 +7,8 @@ slug: "trabalhadores-da-rlam-vao-paralisar-as-atividades-nesta-quarta"
 tags:
   - 'nacional'
 wp_id: 3660
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Movimento é contra demissão em massa de empregados promovida por refinaria privatizada</em>&nbsp;</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-apresenta-plano-de-contigencia-para-combater-a-epidemia
 wp_id: 2942
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do <strong>Rio de Janeiro</strong>, <strong>Eduardo Paes</strong>, e o secretário municipal de Saúde, <strong>Daniel Soranz</strong>, anunciaram em coletiva de imprensa nesta sexta-feira, 2, que a cidade enfrenta atualmente uma epidemia de dengue. </p>
 <!-- /wp:paragraph -->

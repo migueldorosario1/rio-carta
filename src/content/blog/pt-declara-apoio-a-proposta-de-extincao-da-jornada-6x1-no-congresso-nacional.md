@@ -7,8 +7,8 @@ slug: "pt-declara-apoio-a-proposta-de-extincao-da-jornada-6x1-no-congresso-nacio
 tags:
   - 'nacional'
 wp_id: 5995
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente nacional do Partido dos Trabalhadores (PT), deputada federal Gleisi Hoffmann (PR), manifestou nesta terça-feira (12) seu apoio à proposta que busca extinguir a jornada de trabalho em escala 6x1, que prevê seis dias consecutivos de trabalho seguidos por um dia de descanso. </p>
 <!-- /wp:paragraph -->

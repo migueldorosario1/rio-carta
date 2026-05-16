@@ -5,6 +5,7 @@ pubDate: "2026-05-13T06:05:06Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "nova-iguacu", "baixada-fluminense", "seguranca-publica", "operacao-policial", "armas", "crime-organizado", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "baixada", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605130305-operacao-policial-caca-armas-de-cacs-com-registros-cassados-e-ligacao-com-o-crime.jpg"
+categoria_macro: seguranca
 ---
 Rio
 

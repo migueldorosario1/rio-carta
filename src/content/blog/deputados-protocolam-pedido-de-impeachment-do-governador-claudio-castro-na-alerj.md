@@ -7,8 +7,8 @@ slug: "deputados-protocolam-pedido-de-impeachment-do-governador-claudio-castro-n
 wp_id: 7357
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A iniciativa é assinada por 10 parlamentares: Dani Balbi (PCdoB), Renata Souza (Psol), Professor Josemar (Psol), Dani Monteiro (Psol), Yuri Moura (Psol), Flavio Serafini (Psol), Marina do MST (PT), Elika Takimoto (PT), Verônica Lima (PT) e Carlos Minc (PSB).</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "governo-lula-cria-gabinete-para-enfrentar-crise-de-enchentes-no-rio-grand
 tags:
   - 'nacional'
 wp_id: 4393
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal estabeleceu uma sala de situação para monitorar as enchentes devastadoras que assolam o Rio Grande do Sul e coordenar ações emergenciais. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 6482
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><strong><em>Plano tem drones com megafone para avisos sonoros</em></strong></p>
 <!-- /wp:paragraph -->

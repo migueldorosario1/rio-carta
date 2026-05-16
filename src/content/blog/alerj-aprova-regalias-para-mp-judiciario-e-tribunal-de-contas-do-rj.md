@@ -7,8 +7,8 @@ slug: "alerj-aprova-regalias-para-mp-judiciario-e-tribunal-de-contas-do-rj"
 wp_id: 6868
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Alerj aprova benefícios trabalhistas e financeiros a servidores do MP, Judiciário e TCE-RJ, em meio à crise fiscal e forte reação da oposição</h3>
 <!-- /wp:heading -->

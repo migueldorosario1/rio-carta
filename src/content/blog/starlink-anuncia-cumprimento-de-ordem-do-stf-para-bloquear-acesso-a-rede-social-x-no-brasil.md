@@ -7,8 +7,8 @@ slug: "starlink-anuncia-cumprimento-de-ordem-do-stf-para-bloquear-acesso-a-rede-
 tags:
   - 'nacional'
 wp_id: 5052
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Starlink, empresa de propriedade de Elon Musk, anunciou nesta terça-feira (3) que irá cumprir a decisão do Supremo Tribunal Federal (STF) de bloquear o acesso à rede social X no Brasil. </p>
 <!-- /wp:paragraph -->

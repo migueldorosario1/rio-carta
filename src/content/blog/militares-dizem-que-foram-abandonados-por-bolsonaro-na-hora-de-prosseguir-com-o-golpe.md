@@ -7,8 +7,8 @@ slug: "militares-dizem-que-foram-abandonados-por-bolsonaro-na-hora-de-prosseguir
 wp_id: 3666
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Paulo Pimenta, da Secretaria de Comunicação da Presidência, declarou que membros das forças armadas se sentiram traídos por Jair Bolsonaro após sua saída para os Estados Unidos, consequência do insucesso de uma tentativa de golpe para barrar a posse do presidente Luiz Inácio Lula da Silva.</p>
 <!-- /wp:paragraph -->

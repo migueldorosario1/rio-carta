@@ -13,8 +13,8 @@ tags:
   - 'campos'
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->

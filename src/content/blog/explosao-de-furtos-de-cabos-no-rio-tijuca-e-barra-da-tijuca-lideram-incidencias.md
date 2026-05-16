@@ -7,8 +7,8 @@ slug: "explosao-de-furtos-de-cabos-no-rio-tijuca-e-barra-da-tijuca-lideram-incid
 wp_id: 2287
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O furto de cabos tem se tornado uma epidemia urbana no Rio de Janeiro, com um aumento alarmante de 160% em 2023 comparado ao ano anterior. A Light, concessionária de energia, registrou o furto de mais de 16 mil metros de cabos de cobre de sua rede subterrânea, uma quantidade suficiente para dar quatro voltas na orla de Copacabana. O prejuízo financeiro é significativo, mas o impacto humano é ainda maior, afetando mais de 190 mil clientes, muitos dos quais dependentes de energia elétrica vital.</p>
 <!-- /wp:paragraph -->

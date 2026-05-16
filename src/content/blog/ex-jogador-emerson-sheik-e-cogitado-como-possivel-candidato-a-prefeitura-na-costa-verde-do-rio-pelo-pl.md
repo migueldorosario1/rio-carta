@@ -10,8 +10,8 @@ tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido Liberal (PL) do Rio de Janeiro está explorando a possibilidade de lançar o ex-jogador de futebol Emerson Sheik como candidato à prefeitura de Mangaratiba, município situado na Costa Verde do estado. Esta iniciativa, que visa unir a popularidade e o reconhecimento de Sheik com os princípios ideológicos do partido, foi trazida à tona por um parlamentar bolsonarista do próprio PL, mas ainda não foi formalmente discutida com o ex-atleta.</p>
 <!-- /wp:paragraph -->

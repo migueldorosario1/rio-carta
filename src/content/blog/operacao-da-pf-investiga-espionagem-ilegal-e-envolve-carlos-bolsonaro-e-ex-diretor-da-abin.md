@@ -8,8 +8,8 @@ wp_id: 2590
 tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) deflagrou, nesta segunda-feira (29), uma operação para investigar supostas atividades ilegais de espionagem realizadas pela Agência Brasileira de Inteligência (Abin) durante o governo de Jair Bolsonaro. Carlos Bolsonaro, vereador do Rio de Janeiro e segundo filho do ex-presidente, é um dos alvos desta operação.</p>
 <!-- /wp:paragraph -->

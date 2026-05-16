@@ -10,8 +10,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nas eleições de 2022, o estado do Rio de Janeiro, especialmente na Baixada Fluminense e em São Gonçalo, parte da região metropolitana, testemunhou a força do bolsonarismo.</p>
 <!-- /wp:paragraph -->

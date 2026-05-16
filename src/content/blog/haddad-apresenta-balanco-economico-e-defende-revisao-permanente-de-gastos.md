@@ -7,8 +7,8 @@ slug: "haddad-apresenta-balanco-economico-e-defende-revisao-permanente-de-gastos
 tags:
   - 'nacional'
 wp_id: 6282
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Fazenda, Fernando Haddad, reuniu-se com jornalistas em Brasília nesta sexta-feira (20) para um café da manhã onde discutiu as realizações econômicas do governo em 2024 e as perspectivas para o futuro das finanças públicas do Brasil. </p>
 <!-- /wp:paragraph -->

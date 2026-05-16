@@ -8,8 +8,8 @@ wp_id: 3915
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público Federal no Rio de Janeiro (MPF) está conduzindo uma investigação sobre a Polícia Rodoviária Federal (PRF) por supostas irregularidades em contratos de compra de veículos blindados, totalizando R$ 94 milhões, celebrados entre 2019 e 2022 com a Combat Armor Defense do Brasil Ltda. </p>
 <!-- /wp:paragraph -->

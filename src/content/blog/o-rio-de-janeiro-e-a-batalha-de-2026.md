@@ -16,8 +16,8 @@ tags:
   - 'petropolis'
   - 'angra-dos-reis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 Por Miguel do Rosário, jornalista e editor do Rio Carta.
 
 <!-- wp:paragraph -->

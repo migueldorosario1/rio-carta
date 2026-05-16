@@ -7,8 +7,8 @@ slug: "singapura-e-zurique-no-topo-as-cidades-mais-caras-do-mundo-em-2023"
 tags:
   - 'geopolitica'
 wp_id: 2503
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A crise global do custo de vida, persistindo desde 2022, continua a impactar a população mundial em 2023, mantendo a inflação em níveis elevados. De acordo com a Economist Intelligence Unit (EIU), houve um aumento médio de 7,4% nos preços de 200 produtos e serviços no ano passado, uma pequena queda em comparação aos 8,1% de 2022, mas ainda bem acima da média de 2,9% dos cinco anos anteriores.</p>
 <!-- /wp:paragraph -->

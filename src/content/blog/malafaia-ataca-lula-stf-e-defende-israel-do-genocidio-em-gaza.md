@@ -7,8 +7,8 @@ slug: "malafaia-ataca-lula-stf-e-defende-israel-do-genocidio-em-gaza"
 tags:
   - 'nacional'
 wp_id: 3460
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante uma manifestação na Avenida Paulista, realizada neste domingo, o pastor evangélico e empresário Silas Malafaia expressou críticas ao presidente Luiz Inácio Lula da Silva em relação às suas declarações sobre os conflitos em Israel e a Faixa de Gaza, que resultaram em mais de 29 mil mortes.</p>
 <!-- /wp:paragraph -->

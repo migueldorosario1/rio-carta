@@ -7,8 +7,8 @@ slug: "alerj-concede-medalha-tiradentes-para-a-jurista-carol-proner"
 wp_id: 1157
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A iniciativa partiu da deputada estadual Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

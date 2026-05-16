@@ -7,8 +7,8 @@ slug: "caiado-sinaliza-possivel-candidatura-a-presidencia-em-2026"
 wp_id: 5766
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em entrevista concedida neste sábado (19), o governador de Goiás, Ronaldo Caiado (União Brasil), expressou a possibilidade de concorrer à presidência da República nas eleições de 2026.</p>
 <!-- /wp:paragraph -->

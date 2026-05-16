@@ -7,8 +7,8 @@ slug: "elias-jabbour-reune-400-pessoas-em-aula-publica-em-praca-no-rio"
 wp_id: 6857
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O professor da UERJ tratou de temas como geopolítica, China e governo Trump</em></strong></p>
 <!-- /wp:paragraph -->

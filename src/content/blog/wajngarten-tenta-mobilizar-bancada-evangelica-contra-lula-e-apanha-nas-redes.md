@@ -7,8 +7,8 @@ slug: "wajngarten-tenta-mobilizar-bancada-evangelica-contra-lula-e-apanha-nas-re
 tags:
   - 'nacional'
 wp_id: 3295
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Fabio Wajngarten, ex-ministro da Secom e advogado de Jair Bolsonaro, convocou a bancada evangélica a se posicionar de maneira inédita contra o presidente Luiz Inácio Lula da Silva.</p>
 <!-- /wp:paragraph -->

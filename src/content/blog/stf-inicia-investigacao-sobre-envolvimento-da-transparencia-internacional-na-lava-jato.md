@@ -7,8 +7,8 @@ slug: "stf-inicia-investigacao-sobre-envolvimento-da-transparencia-internacional
 tags:
   - 'nacional'
 wp_id: 3017
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF), por decisão do ministro Dias Toffoli, abriu uma investigação para examinar o papel da Organização Não-Governamental (ONG) Transparência Internacional nas atividades da operação Lava Jato. </p>
 <!-- /wp:paragraph -->

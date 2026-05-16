@@ -7,8 +7,8 @@ slug: "ufrj-realiza-mesa-redonda-o-oriente-medio-apos-gaza-para-debater-genocidi
 tags:
   - 'nacional'
 wp_id: 7231
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Participam da mesa Shamira Rossi, pesquisadora do IESP/UERJ e assessora da deputada estadual Dani Balbi (PCdoB), Bruno Bou Haya, da Unirio, e Adel Bakkour, da UFRJ. </strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "niteroi-lanca-projeto-que-celebra-ancestralidade-indigena"
 wp_id: 7572
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O projeto “Encontro com Arariboia” marca o início de uma agenda dedicada às artes e culturas indígenas, reforçando a memória ancestral e o papel da cidade nesse território histórico</h3>
 <!-- /wp:heading -->

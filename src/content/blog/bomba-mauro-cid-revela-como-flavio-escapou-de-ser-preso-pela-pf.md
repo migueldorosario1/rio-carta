@@ -7,8 +7,8 @@ slug: "bomba-mauro-cid-revela-como-flavio-escapou-de-ser-preso-pela-pf"
 tags:
   - 'nacional'
 wp_id: 3268
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um recente relatório divulgado pela Polícia Federal lança luz sobre as táticas empregadas por apoiadores do bolsonarismo para esquivar-se de prisões ordenadas pelo Supremo Tribunal Federal (STF), especialmente após os eventos de 8 de janeiro de 2023. </p>
 <!-- /wp:paragraph -->

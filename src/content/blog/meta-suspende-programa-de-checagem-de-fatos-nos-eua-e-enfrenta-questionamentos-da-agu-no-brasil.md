@@ -7,8 +7,8 @@ slug: "meta-suspende-programa-de-checagem-de-fatos-nos-eua-e-enfrenta-questionam
 tags:
   - 'nacional'
 wp_id: 6440
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Meta Platforms, responsável pelo Facebook e Instagram, informou à Advocacia-Geral da União (AGU) que seu programa de checagem de fatos será temporariamente suspenso nos Estados Unidos. De acordo com a empresa, a suspensão faz parte de um período de testes destinado a aprimorar e avaliar a funcionalidade das "Notas da Comunidade" antes de considerar sua implementação em outros países.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "taylor-swift-recebe-homenagem-especial-no-cristo-redentor-welcome-to-bras
 wp_id: 1961
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite desta quinta-feira, a renomada cantora Taylor Swift foi homenageada de maneira extraordinária no Cristo Redentor, um dos ícones mais emblemáticos do Rio de Janeiro. O monumento foi iluminado de forma especial, acompanhado de uma projeção única. Para que essa celebração ocorresse, os fãs da artista enfrentaram o desafio lançado pelo Padre Omar, reitor do Santuário Cristo Redentor, de arrecadar 20 mil panetones e água destinados a pessoas em situação de vulnerabilidade social até as 21h. A mobilização online ganhou força, agitando as redes sociais.</p>
 <!-- /wp:paragraph -->

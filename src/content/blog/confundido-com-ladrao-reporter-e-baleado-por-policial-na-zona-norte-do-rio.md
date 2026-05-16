@@ -7,8 +7,8 @@ slug: "confundido-com-ladrao-reporter-e-baleado-por-policial-na-zona-norte-do-ri
 wp_id: 6622
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Igor Melo, estudante e trabalhador, foi baleado por um policial reformado no Rio após ser confundido com um assaltante</h4>
 <!-- /wp:heading -->

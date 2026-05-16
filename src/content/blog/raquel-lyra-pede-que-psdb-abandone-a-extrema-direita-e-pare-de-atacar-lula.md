@@ -7,8 +7,8 @@ slug: "raquel-lyra-pede-que-psdb-abandone-a-extrema-direita-e-pare-de-atacar-lul
 wp_id: 3648
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A governadora de Pernambuco, Raquel Lyra, do PSDB, está buscando reorientar a postura política de seu partido em resposta às necessidades de seu estado.</p>
 <!-- /wp:paragraph -->

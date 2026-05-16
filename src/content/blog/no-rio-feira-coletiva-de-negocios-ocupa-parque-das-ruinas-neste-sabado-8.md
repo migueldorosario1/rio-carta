@@ -7,8 +7,8 @@ slug: "no-rio-feira-coletiva-de-negocios-ocupa-parque-das-ruinas-neste-sabado-8"
 wp_id: 653
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Empreendedores periféricos, mulheres e LGBTQIA+ vão apresentar seus trabalhos ao público e potenciais investidores</em></p>
 <!-- /wp:paragraph -->

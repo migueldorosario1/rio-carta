@@ -7,8 +7,8 @@ slug: "video-comprova-que-bolsonaro-pediu-golpe-antes-das-eleicoes-de-2022"
 wp_id: 3107
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal iniciou uma operação nesta quinta-feira, 8 de fevereiro, tendo como um dos principais elementos um vídeo de uma reunião envolvendo o ex-presidente Jair Bolsonaro, ministros e assessores. </p>
 <!-- /wp:paragraph -->

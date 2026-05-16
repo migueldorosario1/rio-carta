@@ -7,8 +7,8 @@ slug: "wesley-batista-aponta-desburocratizacao-como-desafio-para-crescimento-eco
 tags:
   - 'nacional'
 wp_id: 5688
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o Fórum Esfera, realizado em Roma, Wesley Batista, acionista da J&amp;F, apresentou uma avaliação otimista sobre o futuro econômico do Brasil, destacando o progresso que o país fez nas últimas décadas.</p>
 <!-- /wp:paragraph -->

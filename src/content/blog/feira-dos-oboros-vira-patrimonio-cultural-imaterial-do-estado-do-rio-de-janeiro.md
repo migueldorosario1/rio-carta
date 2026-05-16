@@ -8,8 +8,8 @@ wp_id: 1305
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa partiu da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

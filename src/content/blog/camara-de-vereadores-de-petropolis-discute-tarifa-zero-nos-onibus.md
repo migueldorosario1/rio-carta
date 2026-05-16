@@ -7,8 +7,8 @@ slug: "camara-de-vereadores-de-petropolis-discute-tarifa-zero-nos-onibus"
 wp_id: 6405
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa é da vereadora Professora Lívia Miranda (PCdoB), autora do projeto de lei que cria o Fundo Municipal de Tarifa Zero (FUNTAZ)</strong></em> <em><strong>para os ônibus da cidade</strong></em></p>
 <!-- /wp:paragraph -->

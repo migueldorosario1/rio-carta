@@ -7,8 +7,8 @@ slug: "nova-rainha-de-bateria-da-mocidade-e-fabiola-de-andrade-esposa-do-bicheir
 tags:
   - 'rio-capital-zona-oeste'
 wp_id: 2052
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A Mocidade Independente de Padre Miguel anunciou nesta terça-feira a nova rainha de bateria para o Carnaval de 2024. Fabíola de Andrade, esposa do bicheiro Rogério Andrade, assumirá o posto. A confirmação veio por meio de postagens nas redes sociais, onde Fabíola aparece ao lado do mestre de bateria Dudu.</em></strong></p>
 <!-- /wp:paragraph -->

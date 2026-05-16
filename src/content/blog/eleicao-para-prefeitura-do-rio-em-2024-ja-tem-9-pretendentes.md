@@ -8,8 +8,8 @@ wp_id: 918
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Os preparativos para a eleição municipal do Rio de Janeiro começaram. Ao menos oito nomes já apareceram na imprensa como pré-candidatos para disputar a vaga de Eduardo Paes (PSD). </p>
 <!-- /wp:paragraph -->

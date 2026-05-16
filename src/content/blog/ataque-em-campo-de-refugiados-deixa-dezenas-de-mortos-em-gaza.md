@@ -7,8 +7,8 @@ slug: "ataque-em-campo-de-refugiados-deixa-dezenas-de-mortos-em-gaza"
 tags:
   - 'geopolitica'
 wp_id: 4518
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um ataque em um acampamento de refugiados em Rafah, atribuído às forças israelenses, resultou na morte de aproximadamente 40 pessoas, muitas das quais eram mulheres e crianças. O incidente ocorreu em uma área designada como zona segura pela ONU. </p>
 <!-- /wp:paragraph -->

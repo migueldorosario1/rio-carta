@@ -7,8 +7,8 @@ slug: "lula-apoia-suspensao-do-x-no-brasil-e-critica-elon-musk-por-interferencia
 wp_id: 5085
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva (PT) manifestou apoio à decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que determinou a suspensão do funcionamento da rede social X (antigo Twitter) no Brasil. </p>
 <!-- /wp:paragraph -->

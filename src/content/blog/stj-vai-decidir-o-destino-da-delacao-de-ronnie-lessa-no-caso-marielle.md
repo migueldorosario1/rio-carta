@@ -7,8 +7,8 @@ slug: "stj-vai-decidir-o-destino-da-delacao-de-ronnie-lessa-no-caso-marielle"
 tags:
   - 'nacional'
 wp_id: 2954
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Superior Tribunal de Justiça (STJ) retoma suas atividades após o recesso e, nesta semana, os olhos se voltam para a expectativa de desenvolvimentos no caso Marielle Franco. </p>
 <!-- /wp:paragraph -->

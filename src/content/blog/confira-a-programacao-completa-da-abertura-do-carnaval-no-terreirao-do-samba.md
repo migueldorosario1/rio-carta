@@ -7,8 +7,8 @@ slug: "confira-a-programacao-completa-da-abertura-do-carnaval-no-terreirao-do-sa
 wp_id: 2919
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Terreirão do Samba, localizado na Praça XI, abre os festejos do Carnaval no Rio de Janeiro antes mesmo das escolas de samba desfilarem na Marquês de Sapucaí. A temporada de 10 dias de shows terá início nesta sexta-feira, 2 de fevereiro.</p>
 <!-- /wp:paragraph -->

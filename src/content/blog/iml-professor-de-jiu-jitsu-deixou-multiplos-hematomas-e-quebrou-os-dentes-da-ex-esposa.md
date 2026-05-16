@@ -7,8 +7,8 @@ slug: "iml-professor-de-jiu-jitsu-deixou-multiplos-hematomas-e-quebrou-os-dentes
 wp_id: 2742
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O exame de corpo de delito, conduzido pelo Instituto Médico Legal (IML) algumas horas após Adriana Freitas de Barros, de 48 anos, denunciar à polícia ter sido espancada e torturada por seu ex-marido, o professor de jiu-jitsu Márcio de Oliveira, apontou diversas lesões, incluindo dentes quebrados, cortes nos lábios e múltiplos hematomas em seu corpo.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "selo-editorial-dani-balbi-abre-chamada-para-obras-sobre-meio-ambiente-e-p
 wp_id: 7023
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa da Editora Multifoco garante publicação gratuita de livros com temáticas ambientais e indígenas; inscrições vão de 13 de agosto a 15 de setembro</em></strong></p>
 <!-- /wp:paragraph -->

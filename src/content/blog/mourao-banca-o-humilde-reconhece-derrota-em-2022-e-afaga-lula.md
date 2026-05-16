@@ -7,8 +7,8 @@ slug: "mourao-banca-o-humilde-reconhece-derrota-em-2022-e-afaga-lula"
 wp_id: 3711
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma recente entrevista concedida ao <strong><a href="https://www1.folha.uol.com.br/poder/2024/03/mourao-diz-que-governo-bolsonaro-teve-fim-melancolico-tinhamos-que-ter-reconhecido-a-derrota.shtml">UOL News</a></strong>, o senador e ex-vice-presidente Hamilton Mourão compartilhou suas perspectivas sobre o término da administração Bolsonaro, enfatizando a necessidade de aceitar a derrota eleitoral com maturidade. </p>
 <!-- /wp:paragraph -->

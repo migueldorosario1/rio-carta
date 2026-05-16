@@ -8,8 +8,8 @@ wp_id: 5438
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Associação dos Empregados da Eletrobras entrou com uma ação na 6ª Vara Empresarial do Rio de Janeiro pedindo o afastamento temporário de Ivan de Souza Monteiro da presidência da companhia. </p>
 <!-- /wp:paragraph -->

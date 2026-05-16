@@ -7,8 +7,8 @@ slug: "niteroi-celebra-450-anos-com-grandes-shows"
 wp_id: 1828
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Niterói celebra seus 450 anos com uma programação especial que promete agradar a todos os gostos musicais e idades. As comemorações estão sendo organizadas pela Prefeitura e vão se estender por 15 dias, com atrações variadas em quatro palcos diferentes na cidade.</p>
 <!-- /wp:paragraph -->

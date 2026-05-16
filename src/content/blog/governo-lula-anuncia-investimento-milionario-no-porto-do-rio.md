@@ -7,8 +7,8 @@ slug: "governo-lula-anuncia-investimento-milionario-no-porto-do-rio"
 wp_id: 5038
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério de Portos e Aeroportos divulgou um investimento significativo de R$ 400 milhões em obras de dragagem no Porto do Rio de Janeiro. Este investimento busca aumentar a competitividade e a capacidade operacional do porto.</p>
 <!-- /wp:paragraph -->

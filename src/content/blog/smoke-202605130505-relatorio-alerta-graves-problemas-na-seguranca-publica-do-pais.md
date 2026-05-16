@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:05Z"
 draft: true
 tags: ["rio-de-janeiro", "seguranca-publica", "crime-organizado", "milicias", "faccoes", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "leme", "saude"]
 heroImage: "/hero/smoke-smoke-202605130505-relatorio-alerta-graves-problemas-na-seguranca-publica-do-pais.jpg"
+categoria_macro: seguranca
 ---
 Rio
 

@@ -7,8 +7,8 @@ slug: "empate-tecnico-marca-disputa-pela-prefeitura-de-cuiaba-no-segundo-turno"
 wp_id: 5740
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>À medida que se aproxima o segundo turno das eleições municipais em Cuiabá, a disputa entre os candidatos à prefeitura, o deputado federal Abílio Brunini (PL) e Lúdio Cabral da Federação PT-PCdoB-PV, intensifica-se, marcada por um empate técnico. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "pesquisa-da-uerj-analisa-campanhas-publicas-contra-violencia-de-genero"
 wp_id: 648
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Apenas 25% das ações há referência a canais de denúncia</em></p>
 <!-- /wp:paragraph -->

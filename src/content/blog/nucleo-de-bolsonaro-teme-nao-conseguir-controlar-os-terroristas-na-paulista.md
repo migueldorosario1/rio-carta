@@ -7,8 +7,8 @@ slug: "nucleo-de-bolsonaro-teme-nao-conseguir-controlar-os-terroristas-na-paulis
 wp_id: 3457
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Apoiores do ex-presidente Jair Bolsonaro demonstram preocupação com o controle de narrativas de ataque ao Supremo Tribunal Federal (STF) no evento marcado na Avenida Paulista neste domingo, 25.</p>
 <!-- /wp:paragraph -->

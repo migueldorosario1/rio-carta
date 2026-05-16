@@ -8,8 +8,8 @@ wp_id: 1731
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>O Cine Arte UFF, localizado na Universidade Federal Fluminense, situado no Rio de Janeiro, está pronto para iluminar a tela com uma seleção exuberante de filmes franceses, trazendo a magia do cinema para o público brasileiro. A partir de 9 de novembro até 22 de novembro, o cinema exibirá os filmes da 14ª edição do Festival Varilux de Cinema Francês. Com um catálogo diversificado de 19 longas-metragens recentes da cinematografia francesa, dois clássicos e uma série empolgante, os amantes do cinema podem esperar uma experiência rica em cultura e entretenimento.</em></p>
 <!-- /wp:paragraph -->

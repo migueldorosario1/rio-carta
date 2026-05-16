@@ -7,8 +7,8 @@ slug: "maior-concurso-publico-do-brasil-ocorre-neste-domingo-com-mais-de-21-milh
 tags:
   - 'nacional'
 wp_id: 4847
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Concurso Público Nacional Unificado (CPNU) será realizado neste domingo (18) em 228 municípios de todo o Brasil. </p>
 <!-- /wp:paragraph -->

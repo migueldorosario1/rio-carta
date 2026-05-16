@@ -7,8 +7,8 @@ slug: "mulher-ferida-em-tiroteio-no-jacarezinho-moradores-relatam-confrontos-dia
 wp_id: 2362
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Isabelle Cristina da Silva de Paula, 28 anos, foi atingida na perna direita durante um tiroteio na favela do Jacarezinho, Zona Norte do Rio de Janeiro, na noite de quarta-feira. Após o incidente, ela foi socorrida para a Unidade de Pronto Atendimento (UPA) do Engenho de Dentro. Moradores da comunidade relatam que desde o primeiro dia do ano, os confrontos na área são uma ocorrência diária, incluindo um tiroteio na madrugada de quinta-feira.</p>
 <!-- /wp:paragraph -->

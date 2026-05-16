@@ -7,8 +7,8 @@ slug: "marcal-diz-que-mulher-nao-vota-em-mulher-porque-e-inteligente"
 wp_id: 5537
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o debate eleitoral promovido pela Folha de S. Paulo e UOL na manhã desta segunda-feira (30), Pablo Marçal, candidato à prefeitura de São Paulo pelo PRTB, fez comentários que foram amplamente considerados misóginos. </p>
 <!-- /wp:paragraph -->

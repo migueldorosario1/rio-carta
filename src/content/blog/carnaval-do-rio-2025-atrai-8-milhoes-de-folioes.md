@@ -7,8 +7,8 @@ slug: "carnaval-do-rio-2025-atrai-8-milhoes-de-folioes"
 wp_id: 6610
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Com 8 milhões de foliões e R$ 5,5 bilhões movimentados, o Carnaval do Rio 2025 promete ser um dos maiores da história</h4>
 <!-- /wp:heading -->

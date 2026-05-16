@@ -7,8 +7,8 @@ slug: "linha-amarela-registra-salto-recorde-de-assaltos-em-2025"
 wp_id: 7362
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A escalada da violência na Linha Amarela expõe a rotina de quem enfrenta o risco para chegar ao trabalho — e volta para casa rezando por segurança</h3>
 <!-- /wp:heading -->

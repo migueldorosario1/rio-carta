@@ -7,8 +7,8 @@ slug: "emenda-aprova-retomada-de-hospital-da-mae-colubande-em-sao-goncalo"
 wp_id: 6941
 tags:
   - 'sao-goncalo'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A deputada Lilian Behring tenta reverter uma década de promessas frustradas e garantir que mães e bebês tenham atendimento digno em São Gonçalo</h3>
 <!-- /wp:heading -->

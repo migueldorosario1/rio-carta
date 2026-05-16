@@ -8,8 +8,8 @@ wp_id: 1840
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Na última sexta-feira (3), a Polícia Civil do Rio de Janeiro identificou pelo menos 30 vídeos que documentam o estupro de uma adolescente de 15 anos em Nova Iguaçu, na Baixada Fluminense. O material, que foi gravado e compartilhado, está sob investigação pela Delegacia de Atendimento à Mulher (Deam) da região.</em></strong></p>
 <!-- /wp:paragraph -->

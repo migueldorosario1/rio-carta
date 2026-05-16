@@ -7,8 +7,8 @@ slug: "valdemar-tambem-larga-bolsonaro-e-entrega-tudo-sobre-o-golpe"
 wp_id: 3807
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Partido Liberal (PL), Valdemar Costa Neto, em depoimento à Polícia Federal no dia 22 de fevereiro, expôs uma pressão exercida pelo ex-presidente Jair Bolsonaro e parlamentares do PL para contestar o resultado do segundo turno das eleições presidenciais de 2022 junto ao Tribunal Superior Eleitoral (TSE).</p>
 <!-- /wp:paragraph -->

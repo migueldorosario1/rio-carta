@@ -7,8 +7,8 @@ slug: "confira-os-blocos-de-carnaval-no-rio-para-este-fim-de-semana"
 wp_id: 2390
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A cidade do Rio de Janeiro se prepara para receber uma série de desfiles de blocos de carnaval oficiais e não oficiais neste fim de semana. O primeiro bloco oficial a desfilar será a Banda da Saens Pena, na Tijuca, no sábado (13), às 15h, seguido de diversas outras atrações pela cidade.</p>
 <!-- /wp:paragraph -->

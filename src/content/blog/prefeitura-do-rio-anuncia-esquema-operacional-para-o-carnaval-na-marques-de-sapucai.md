@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-anuncia-esquema-operacional-para-o-carnaval-na-marques-
 wp_id: 3058
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura do Rio de Janeiro divulgou os detalhes do esquema operacional para o Carnaval 2024 na Marquês de Sapucaí, enfatizando a integração entre os diversos órgãos públicos como essencial para a realização dos desfiles no Sambódromo sem intercorrências.</p>
 <!-- /wp:paragraph -->

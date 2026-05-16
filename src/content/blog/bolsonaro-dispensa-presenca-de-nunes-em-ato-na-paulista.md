@@ -7,8 +7,8 @@ slug: "bolsonaro-dispensa-presenca-de-nunes-em-ato-na-paulista"
 tags:
   - 'nacional'
 wp_id: 3263
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma recente manifestação de estratégia política, o ex-presidente Jair Bolsonaro expressou sua preferência por manter distância do prefeito de São Paulo, Ricardo Nunes (MDB), durante um evento planejado para reunir apoiadores na capital paulista. </p>
 <!-- /wp:paragraph -->

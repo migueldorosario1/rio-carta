@@ -7,8 +7,8 @@ slug: "presidente-lula-critica-governador-zema-e-reafirma-compromisso-com-govern
 tags:
   - 'nacional'
 wp_id: 5091
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na última quinta-feira (5), o presidente Luiz Inácio Lula da Silva expressou novamente seu desejo de colaborar com todos os governadores do Brasil, independente de partidos.</p>
 <!-- /wp:paragraph -->

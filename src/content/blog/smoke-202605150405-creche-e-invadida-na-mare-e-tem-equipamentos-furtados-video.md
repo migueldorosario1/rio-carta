@@ -5,6 +5,7 @@ pubDate: "2026-05-15T07:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "complexo-da-mare", "zona-norte", "creche", "furto", "seguranca-publica", "rio-capital-zona-norte", "politica-rj", "bonsucesso", "mare", "complexo", "saude", "educacao", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605150405-creche-e-invadida-na-mare-e-tem-equipamentos-furtados-video.jpeg"
+categoria_macro: politica
 ---
 Uma creche no Complexo da Maré, na Zona Norte, foi invadida nesta terça-feira (12) e teve diversos equipamentos e materiais essenciais furtados, o que levou à suspensão das aulas. Câmeras de segurança registraram o momento em que um grupo deixa o local carregando bolsas com os itens.
 

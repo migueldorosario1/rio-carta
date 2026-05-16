@@ -7,8 +7,8 @@ slug: "operacao-impede-funcionamento-da-feira-de-acari-no-rio"
 wp_id: 2584
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Neste domingo (28), a Secretaria de Ordem Pública (Seop) do Rio de Janeiro, com o apoio das polícias Militar e Civil, realizou uma operação para impedir a realização da Feira de Acari, localizada na Avenida Pastor Martin Luther King Jr. O prefeito Eduardo Paes havia emitido um decreto na terça-feira (23) proibindo o funcionamento desse tradicional comércio popular da Zona Norte devido à venda de produtos roubados ou de origem desconhecida.</p>
 <!-- /wp:paragraph -->

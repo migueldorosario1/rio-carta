@@ -7,8 +7,8 @@ slug: "o-cerco-do-stf-ao-poder-oculto-do-crime-no-rio"
 wp_id: 7335
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Moraes, do STF, quer abrir a “caixa preta” das relações entre facções criminosas, milícias e agentes do Estado. Inquérito busca rastrear lavagem de dinheiro e infiltrações no sistema público</h3>
 <!-- /wp:heading -->

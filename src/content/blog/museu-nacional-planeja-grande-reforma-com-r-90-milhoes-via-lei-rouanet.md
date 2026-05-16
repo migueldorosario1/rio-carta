@@ -7,8 +7,8 @@ slug: "museu-nacional-planeja-grande-reforma-com-r-90-milhoes-via-lei-rouanet"
 wp_id: 2111
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Museu Nacional, uma instituição histórica do Rio de Janeiro que sofreu um devastador incêndio em setembro de 2018, está se preparando para uma significativa etapa de reforma. A instituição conseguiu a aprovação para a captação de R$ 90 milhões através da Lei Rouanet, destinados à segunda fase de restauração do prédio principal, o Paço de São Cristóvão.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "alerj-debate-condicoes-de-trabalho-e-seguranca-em-postos-de-combustiveis"
 wp_id: 7198
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading"><strong><em>Audiência pública convocada pela deputada Dani Balbi (PCdoB) discute precarização e riscos no abastecimento de GNV após morte de frentista no Rio</em></strong></h4>
 <!-- /wp:heading -->

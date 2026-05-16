@@ -7,8 +7,8 @@ slug: "embaixador-chines-nos-eua-pede-fim-de-obstaculos-a-intercambios-educacion
 wp_id: 2878
 tags:
   - 'geopolitica'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O embaixador chinês nos Estados Unidos, Xie Feng, pediu recentemente a eliminação dos obstáculos aos intercâmbios educacionais, expressando oposição às ações dos EUA de negar a entrada de certos estudantes chineses.</p>
 <!-- /wp:paragraph -->

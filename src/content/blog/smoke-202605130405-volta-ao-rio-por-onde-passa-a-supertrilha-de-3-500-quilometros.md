@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:07Z"
 draft: true
 tags: ["rio-de-janeiro", "trilha", "ecoturismo", "transcarioca", "itatiaia", "regiao-dos-lagos", "petropolis", "teresopolis", "paraty", "conservacao", "cultura-e-carnaval-rj", "capital", "regiao-serrana", "problemas-estruturais"]
 heroImage: "/hero/smoke-smoke-202605130405-volta-ao-rio-por-onde-passa-a-supertrilha-de-3-500-quilometros.jpeg"
+categoria_macro: geral
 ---
 Volta ao Rio: por onde passa a supertrilha de 3 500 quilômetros
 

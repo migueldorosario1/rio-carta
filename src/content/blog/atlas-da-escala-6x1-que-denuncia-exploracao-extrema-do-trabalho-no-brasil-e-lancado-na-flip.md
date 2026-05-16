@@ -8,8 +8,8 @@ wp_id: 7042
 tags:
   - 'paraty'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Pesquisa inédita revela que jovens negros da periferia são os mais afetados; 70% relatam estresse e 30% já apresentam sinais de Burnout</em></strong></p>
 <!-- /wp:paragraph -->

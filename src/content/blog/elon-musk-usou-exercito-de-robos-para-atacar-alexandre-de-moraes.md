@@ -7,8 +7,8 @@ slug: "elon-musk-usou-exercito-de-robos-para-atacar-alexandre-de-moraes"
 wp_id: 4270
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O embate entre o empresário Elon Musk e o ministro do Supremo Tribunal Federal, Alexandre de Moraes, tem gerado ampla mobilização online, revela um estudo do<strong> Laboratório de Estudos de Internet e Redes Sociais (Netlab)</strong> da Universidade Federal do Rio de Janeiro e divulgado pelo jornal <strong><a href="https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2024/04/ataque-contra-moraes-por-bloqueios-no-x-partiu-de-comunidade-com-alta-proporcao-de-contas-falsas-aponta-relatorio.ghtml">O Globo</a></strong>. </p>
 <!-- /wp:paragraph -->

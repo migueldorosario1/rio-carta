@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-implementara-tratamento-inovador-para-diabetes-e-obesidade
 wp_id: 6324
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O secretário municipal de Saúde do Rio de Janeiro, Daniel Soranz, anunciou que a cidade iniciará um programa pioneiro de tratamento para pacientes com diabetes tipo 2 e obesidade a partir de 2026. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-condena-atentado-contra-prefeito-de-taboao-e-exige-invest
 wp_id: 5804
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente nacional do Partido dos Trabalhadores (PT), Gleisi Hoffmann, expressou indignação após o atentado contra o prefeito de Taboão da Serra, José Aprígio da Silva, que também é candidato à reeleição pelo partido Podemos.</p>
 <!-- /wp:paragraph -->

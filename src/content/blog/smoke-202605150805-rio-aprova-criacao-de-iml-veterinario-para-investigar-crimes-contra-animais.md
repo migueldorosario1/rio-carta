@@ -5,6 +5,7 @@ pubDate: "2026-05-15T11:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "protecao-animal", "imvl", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "educacao"]
 heroImage: "/hero/smoke-smoke-202605150805-rio-aprova-criacao-de-iml-veterinario-para-investigar-crimes-contra-animais.jpg"
+categoria_macro: politica
 ---
 A Assembleia Legislativa do Rio de Janeiro (Alerj) aprovou, nesta quarta-feira (13/05), um projeto de lei que autoriza o Governo do Estado a instituir o Instituto Médico Veterinário Legal (IMVL). A iniciativa tem como objetivo reforçar o suporte técnico em investigações de crimes praticados contra animais no território fluminense.
 

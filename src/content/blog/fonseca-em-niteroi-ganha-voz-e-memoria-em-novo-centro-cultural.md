@@ -7,8 +7,8 @@ slug: "fonseca-em-niteroi-ganha-voz-e-memoria-em-novo-centro-cultural"
 wp_id: 7448
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Cidade inaugura Centro Cultural Cauby Peixoto e fortalece vida artística no Fonseca; casarão restaurado marca novo capítulo para a Zona Norte</h4>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "sindicato-realiza-ato-no-rio-em-defesa-dos-trabalhadores-dos-correios-e-c
 wp_id: 7202
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada Dani Balbi (PCdoB), presidenta da Comissão de Trabalho da Alerj, participou do protesto</em></strong></p>
 <!-- /wp:paragraph -->

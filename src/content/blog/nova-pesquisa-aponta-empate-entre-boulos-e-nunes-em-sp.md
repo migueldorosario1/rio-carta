@@ -7,8 +7,8 @@ slug: "nova-pesquisa-aponta-empate-entre-boulos-e-nunes-em-sp"
 wp_id: 4740
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na última pesquisa realizada pelo instituto RealTime BigData, o atual prefeito de São Paulo, Ricardo Nunes (MDB), e o deputado federal Guilherme Boulos (PSOL), apareceram empatados numericamente em primeiro lugar na corrida pela prefeitura da capital paulista. Ambos os pré-candidatos alcançaram 29% das intenções de voto no primeiro turno.</p>
 <!-- /wp:paragraph -->

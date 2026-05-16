@@ -8,8 +8,8 @@ wp_id: 1677
 tags:
   - 'teresopolis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O miliciano Matheus da Silva Rezende, também conhecido como Faustão, foi morto na segunda-feira em uma incursão policial na comunidade Três Pontes, em Santa Cruz, Zona Oeste do Rio de Janeiro. A surpresa veio após a revelação de que a arma utilizada por Faustão no confronto estava registrada no nome de um policial militar. O sargento Bruno Bento do Nascimento, responsável pelo registro da arma, foi preso administrativamente no Batalhão de Choque.</p>
 <!-- /wp:paragraph -->

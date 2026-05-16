@@ -7,8 +7,8 @@ slug: "lula-manifesta-apoio-a-kamala-harris-nas-eleicoes-americanas"
 wp_id: 5288
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Brasil, Luiz Inácio Lula da Silva, expressou seu apoio a Kamala Harris, candidata do Partido Democrata, na corrida presidencial dos Estados Unidos contra Donald Trump, do Partido Republicano. "Deus queira que a Kamala ganhe as eleições nos EUA", afirmou Lula durante uma reunião com líderes da Câmara, conforme relatos à CNN Brasil.</p>
 <!-- /wp:paragraph -->

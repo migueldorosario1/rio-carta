@@ -8,8 +8,8 @@ wp_id: 7761
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Marcelo Freixo, Lindbergh Farias, Jandira Feghali e Elias Jabbour estão entre os puxadores da chapa</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "terceiro-voo-da-fab-parte-para-o-libano-para-repatriacao-de-brasileiros"
 tags:
   - 'geopolitica'
 wp_id: 5628
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta terça-feira (8), a Força Aérea Brasileira (FAB) realizou o terceiro voo da Operação Raízes do Cedro, destinado à repatriação de brasileiros no Líbano. </p>
 <!-- /wp:paragraph -->

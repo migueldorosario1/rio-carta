@@ -7,8 +7,8 @@ slug: "lula-publica-primeira-foto-apos-acidente-domestico-e-segue-em-recuperacao
 tags:
   - 'nacional'
 wp_id: 5824
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva (PT) compartilhou nesta segunda-feira (21) sua primeira imagem após sofrer um acidente doméstico no Palácio da Alvorada, em Brasília, no último fim de semana. </p>
 <!-- /wp:paragraph -->

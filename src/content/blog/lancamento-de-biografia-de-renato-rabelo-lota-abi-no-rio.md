@@ -7,8 +7,8 @@ slug: "lancamento-de-biografia-de-renato-rabelo-lota-abi-no-rio"
 wp_id: 7014
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Sede da Associação Brasileira de Imprensa foi o palco de lançamento do livro escrito por Osvaldo Bertolino; a biografia narra a vida do histórico dirigente comunista.</strong></em> <strong><em>Na foto, Bertolino com Edson Santos e Daniel Iliescu.</em></strong></p>
 <!-- /wp:paragraph -->

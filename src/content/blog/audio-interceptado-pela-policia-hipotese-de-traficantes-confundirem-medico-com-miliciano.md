@@ -7,8 +7,8 @@ slug: "audio-interceptado-pela-policia-hipotese-de-traficantes-confundirem-medic
 wp_id: 1514
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A Polícia Civil do Rio de Janeiro obteve acesso a um áudio que lança luz sobre o trágico incidente ocorrido na noite de quarta-feira, resultando na morte de três médicos em um quiosque na Barra da Tijuca. No áudio, um homem supostamente ligado ao tráfico de drogas menciona o local do crime, afirmando: "Acho que é Posto 2". Curiosamente, o ataque ocorreu exatamente no Posto 2 da orla da Barra da Tijuca.</em></strong></p>
 <!-- /wp:paragraph -->

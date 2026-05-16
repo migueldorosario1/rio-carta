@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 Zito, do Partido Verde (PV), lidera a disputa pela prefeitura de Duque de Caxias com 37,9% das intenções de voto, segundo pesquisa Atlas realizada entre 20 e 25 de setembro de 2024. Apoiando-se na federação de partidos de esquerda, incluindo PT e PCdoB, Zito aparece como o favorito para o primeiro turno. Logo atrás, Netinho Reis (MDB) surge com 31,3%, seguido por Celso do Alba (União) com 18,3%, e Wesley Teixeira (PSB) com 9,7%. Apenas 2,6% dos eleitores declaram voto branco ou nulo, enquanto 0,2% estão indecisos.
 
 Se a eleição seguir para o segundo turno, Zito mantém vantagem significativa. Contra Netinho Reis, ele ganharia com 51% contra 37%. Em um embate com Celso do Alba, Zito venceria com 48%, enquanto Celso alcançaria 32%. Caso Netinho Reis enfrentasse Celso do Alba no segundo turno, a disputa seria mais apertada, com Netinho vencendo por 37% a 34%.

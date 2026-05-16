@@ -7,8 +7,8 @@ slug: "presidente-do-bradesco-destaca-crescimento-economico-e-emprego"
 tags:
   - 'nacional'
 wp_id: 5949
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Marcelo de Araujo Noronha, presidente do Bradesco, comentou sobre o atual estado da economia brasileira em uma entrevista concedida à GloboNews na última sexta-feira. </p>
 <!-- /wp:paragraph -->

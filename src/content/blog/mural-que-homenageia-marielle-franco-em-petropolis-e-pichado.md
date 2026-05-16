@@ -7,8 +7,8 @@ slug: "mural-que-homenageia-marielle-franco-em-petropolis-e-pichado"
 wp_id: 1266
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>"É um ataque contra a democracia e contra os direitos humanos", declarou a professora Lívia Miranda</em></strong></p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:16Z"
 draft: true
 tags: ["rio-de-janeiro", "garotinho", "politica-rj", "eleicoes", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "campos", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150505-garotinho-volta-a-disputa-pelo-estado-do-rio.jpg"
+categoria_macro: politica
 ---
 O ex-governador Anthony Garotinho (Republicanos), figura política marcada por uma trajetória de poder e também por uma série de investigações e disputas judiciais ao longo dos últimos anos, lançou nesta quarta-feira (13) sua pré-candidatura ao governo do Rio.
 

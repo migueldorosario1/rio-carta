@@ -7,8 +7,8 @@ slug: "marcilio-marques-moreira-revela-bastidores-da-carreira-diplomatica-e-poli
 wp_id: 6022
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Marcílio Marques Moreira, renomado economista e diplomata, lançará sua autobiografia intitulada "Marcílio Marques Moreira – O social como elixir" na próxima quinta-feira (21), às 18h, na Livraria da Travessa do Shopping Leblon, no Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "flavio-esta-aterrorizado-com-as-investigacoes-sobre-a-abin-paralela"
 wp_id: 2764
 tags:
   - 'angra-dos-reis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No cenário político que envolve a família Bolsonaro, surge um ambiente de tensão devido às recentes descobertas relacionadas à Agência Brasileira de Inteligência (Abin). </p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "transporte-publico", "onibus", "jae", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150005-alerj-reage-ao-fim-do-dinheiro-nos-onibus-da-cidade-do-rio.jpg"
+categoria_macro: politica
 ---
 A decisão da Prefeitura do Rio de retirar o pagamento em dinheiro dos ônibus municipais a partir de 30 de maio provocou forte reação na Assembleia Legislativa do Rio. Deputados da Comissão de Transportes da Alerj classificaram a medida como precipitada, excludente e juridicamente questionável.
 

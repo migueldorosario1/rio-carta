@@ -7,8 +7,8 @@ slug: "heranca-milionaria-de-andreas-von-richthofen-se-torna-divida-de-meio-milh
 tags:
   - 'nacional'
 wp_id: 2359
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Andreas von Richthofen, irmão de Suzane von Richthofen, transformou uma herança avaliada em quase R$ 10 milhões em uma dívida de aproximadamente R$ 500 mil, decorrente de ações judiciais por inadimplência em IPTU e taxas de condomínio em São Paulo. A herança, recebida após o assassinato dos pais Manfred e Marísia von Richthofen por Suzane em 2002, incluía imóveis, carros, terrenos e dinheiro.</p>
 <!-- /wp:paragraph -->

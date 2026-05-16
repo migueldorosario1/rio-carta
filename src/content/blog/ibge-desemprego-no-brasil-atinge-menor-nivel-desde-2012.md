@@ -7,8 +7,8 @@ slug: "ibge-desemprego-no-brasil-atinge-menor-nivel-desde-2012"
 tags:
   - 'nacional'
 wp_id: 5517
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A taxa de desemprego no Brasil recuou para 6,6% no trimestre de junho a agosto de 2024, representando uma queda de 0,5 ponto percentual em relação ao trimestre anterior, que registrou 7,1%. </p>
 <!-- /wp:paragraph -->

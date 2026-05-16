@@ -7,8 +7,8 @@ slug: "chiquinho-brazao-e-exonerado-da-gestao-paes-no-rio"
 wp_id: 2830
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>No <strong>Diário Oficial</strong> desta quinta-feira, 1, o deputado federal Chiquinho Brazão, irmão do conselheiro do Tribunal de Contas do Estado (TCE) Domingos Brazão, foi exonerado do cargo de secretário de Ação Comunitária da Prefeitura do Rio. A exoneração ocorreu a pedido de Chiquinho Brazão.</p>
 <!-- /wp:paragraph -->

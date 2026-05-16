@@ -7,8 +7,8 @@ slug: "inscricoes-abertas-para-vendedores-no-carnaval-de-rua-do-rio-2024"
 wp_id: 2186
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Riotur iniciou o processo de credenciamento de vendedores autônomos para o Carnaval de Rua de 2024 no Rio de Janeiro. As inscrições, que começaram nesta segunda-feira (18), se estenderão até o dia 2 de janeiro de 2024. Este ano, a oferta é de 15 mil vagas, um aumento significativo em relação às 10 mil disponibilizadas no ano anterior.</p>
 <!-- /wp:paragraph -->

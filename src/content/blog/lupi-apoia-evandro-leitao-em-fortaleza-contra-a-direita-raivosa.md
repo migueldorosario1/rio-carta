@@ -7,8 +7,8 @@ slug: "lupi-apoia-evandro-leitao-em-fortaleza-contra-a-direita-raivosa"
 wp_id: 5728
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Carlos Lupi, presidente licenciado do PDT, expressou seu apoio a Evandro Leitão (PT) para o segundo turno das eleições municipais em Fortaleza, marcando uma posição divergente dentro do próprio partido, especialmente em relação a Ciro Gomes, que tem mantido uma postura de neutralidade.</p>
 <!-- /wp:paragraph -->

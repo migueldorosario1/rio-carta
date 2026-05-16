@@ -8,8 +8,8 @@ wp_id: 4187
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o fechamento da janela partidária, o prefeito do Rio de Janeiro, Eduardo Paes do PSD, adotou uma estratégia para ampliar sua base política em meio a pressões. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "chacina-da-candelaria-tres-decadas-de-uma-cicatriz-aberta"
 wp_id: 830
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <strong><em>Por Edson Santos, vereador no Rio de Janeiro, pelo PT</em></strong>
 
 A Chacina da Candelária, um dos episódios mais sombrios da história do Brasil, completa 30 anos no dia 23. Este marco trágico, que deixou uma cicatriz indelével na sociedade brasileira, é um lembrete constante da violência do Estado e da luta contínua contra a impunidade.

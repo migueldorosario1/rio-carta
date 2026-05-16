@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "unidos-da-tijuca", "santo-cristo", "carnaval", "inscricao-alas", "cultura-e-carnaval-rj", "cultura-carnaval", "tijuca", "comunidade", "educacao"]
 heroImage: "/hero/smoke-smoke-202605130905-sem-taxa-de-inscricao-unidos-da-tijuca-inicia-inscricoes-para-alas-da-comunidade-nesta-terca-fei.jpg"
+categoria_macro: lazer
 ---
 Segunda escola a desfilar na segunda-feira de Carnaval em 2027, a Unidos da Tijuca inicia o recadastramento e inscrição de novos componentes para as alas da comunidade. O primeiro ato acontece nesta terça-feira, 12 de maio, de 18h30 às 21h em sua quadra de ensaios, localizada no Santo Cristo.
 

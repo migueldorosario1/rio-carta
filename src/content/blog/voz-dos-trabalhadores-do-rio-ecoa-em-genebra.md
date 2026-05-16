@@ -7,8 +7,8 @@ slug: "voz-dos-trabalhadores-do-rio-ecoa-em-genebra"
 tags:
   - 'nacional'
 wp_id: 6945
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Conferência em Genebra mostra que a força sindical brasileira influencia decisões mundiais e reafirma o valor do sindicalismo combativo</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "confronto-deixou-dez-policiais-feridos-e-cinco-civis-baleados-no-rio"
 wp_id: 7312
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Policiais e civis continuam internados após a megaoperação que transformou os complexos da Penha e do Alemão em zonas de guerra</h3>
 <!-- /wp:heading -->

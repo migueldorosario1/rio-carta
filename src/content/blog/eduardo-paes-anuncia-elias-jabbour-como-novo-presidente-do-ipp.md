@@ -7,8 +7,8 @@ slug: "eduardo-paes-anuncia-elias-jabbour-como-novo-presidente-do-ipp"
 wp_id: 6259
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Jabbour é a indicação do PCdoB para a nova gestão de Eduardo Paes na prefeitura do Rio</em></strong></p>
 <!-- /wp:paragraph -->

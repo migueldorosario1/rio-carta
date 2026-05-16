@@ -12,8 +12,8 @@ tags:
   - 'rio-de-janeiro'
   - 'niteroi'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Governador Cláudio Castro emitiu um alerta nesta sexta-feira, 22, para a população das regiões Norte e Noroeste do Rio de Janeiro, devido à previsão de fortes chuvas que podem resultar em acumulação de 200 milímetros entre sábado e domingo, conforme monitoramento do Instituto Estadual do Ambiente (Inea). </p>
 <!-- /wp:paragraph -->

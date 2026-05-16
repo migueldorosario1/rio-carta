@@ -7,8 +7,8 @@ slug: "milicia-taxa-construcao-e-obras-publicas-no-rio"
 wp_id: 2180
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público do Rio de Janeiro (MPRJ) revelou que a milícia liderada por Luis Antonio da Silva Braga, conhecido como Zinho, intensificou sua influência no setor da construção civil. Segundo as investigações, a organização criminosa impunha taxas em diversos estágios de obras, abrangendo desde a topografia até serviços de pintura. Inclusive, construtoras envolvidas em projetos municipais eram forçadas a pagar uma 'taxa de portaria'.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "novo-polo-cinematografico-em-marica-promete-revolucionar-a-economia-local
 tags:
   - 'marica'
 wp_id: 6306
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Maricá está prestes a inaugurar um novo polo de produção cinematográfica, liderado pelos empresários Paulo Celestino e Fabiano Medina.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "rio-pode-ter-politica-estadual-de-valorizacao-da-mulher-do-campo"
 wp_id: 382
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><a href="https://www.alerj.rj.gov.br/Visualizar/Noticia/56015"><em>Com informações da ALERJ</em></a></p>
 <!-- /wp:paragraph -->

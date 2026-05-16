@@ -7,8 +7,8 @@ slug: "sucateamento-do-transporte-publico-carioca-gerou-pelo-menos-5-mortes-em-2
 wp_id: 528
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Por José Roberto Medeiros</em></p>
 <!-- /wp:paragraph -->

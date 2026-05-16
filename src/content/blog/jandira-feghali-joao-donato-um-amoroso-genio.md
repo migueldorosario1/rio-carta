@@ -7,8 +7,8 @@ slug: "jandira-feghali-joao-donato-um-amoroso-genio"
 tags:
   - 'cultura-carnaval'
 wp_id: 912
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Deputada federal Jandira Feghali (PCdoB) escreve sobre a partida de João Donato </strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "caso-marielle-justica-do-rio-condena-orelha-por-dificultar-investigacao-d
 wp_id: 5544
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No Rio de Janeiro, a Justiça condenou Edilson Barbosa dos Santos, conhecido como Orelha, a cinco anos de prisão por obstruir as investigações do assassinato da vereadora Marielle Franco. </p>
 <!-- /wp:paragraph -->

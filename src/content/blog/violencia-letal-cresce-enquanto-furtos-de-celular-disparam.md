@@ -7,8 +7,8 @@ slug: "violencia-letal-cresce-enquanto-furtos-de-celular-disparam"
 wp_id: 7433
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Polícia apreende mais de 100 celulares em hotel no Centro do Rio; ação ocorre em meio a aumento de furtos e avanço da violência letal no estado</h3>
 <!-- /wp:heading -->

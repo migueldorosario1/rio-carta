@@ -7,8 +7,8 @@ slug: "fenae-se-une-a-marcha-historica-pela-cidadania-feminina"
 tags:
   - 'nacional'
 wp_id: 7178
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Denúncias de violência política de gênero revelam o desafio cotidiano de mulheres que ousam ocupar espaços públicos e transformar realidades</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "cnm-prejuizos-a-agricultura-no-rs-chegam-a-mais-de-meio-bilhao"
 tags:
   - 'nacional'
 wp_id: 4441
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os prejuízos à agricultura causados pelas chuvas no Rio Grande do Sul atingiram ao menos R$ 594,6 milhões, segundo a Confederação Nacional de Municípios (CNM). </p>
 <!-- /wp:paragraph -->

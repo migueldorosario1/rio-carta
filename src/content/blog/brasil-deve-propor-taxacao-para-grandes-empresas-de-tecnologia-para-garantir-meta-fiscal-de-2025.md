@@ -7,8 +7,8 @@ slug: "brasil-deve-propor-taxacao-para-grandes-empresas-de-tecnologia-para-garan
 tags:
   - 'nacional'
 wp_id: 4999
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério da Fazenda do Brasil apresentará propostas ao Congresso ainda este ano para implementar uma taxação sobre grandes empresas de tecnologia e um imposto mínimo global de 15% sobre corporações multinacionais, visando garantir a meta fiscal de 2025 em caso de queda na arrecadação.</p>
 <!-- /wp:paragraph -->

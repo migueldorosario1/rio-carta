@@ -7,8 +7,8 @@ slug: "governo-lula-reconhece-estado-de-emergencia-em-todo-o-estado-do-rs"
 tags:
   - 'nacional'
 wp_id: 4412
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal reconheceu o estado de emergência para 336 municípios do Rio Grande do Sul, atingidos por fortes chuvas, no domingo. Segundo o<strong> G1</strong>, essa medida agiliza a liberação de verbas federais.</p>
 <!-- /wp:paragraph -->

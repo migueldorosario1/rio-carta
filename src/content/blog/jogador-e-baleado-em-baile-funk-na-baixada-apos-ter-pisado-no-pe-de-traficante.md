@@ -7,8 +7,8 @@ slug: "jogador-e-baleado-em-baile-funk-na-baixada-apos-ter-pisado-no-pe-de-trafi
 wp_id: 6329
 tags:
   - 'seguranca-publica'
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p>Na madrugada do dia 1º de janeiro de 2025, um incidente chocante ocorreu em Queimados, na Baixada Fluminense, quando Kauan, um jogador de futebol amador de 18 anos, foi baleado na cabeça durante um baile funk. </p>
 <!-- /wp:paragraph -->

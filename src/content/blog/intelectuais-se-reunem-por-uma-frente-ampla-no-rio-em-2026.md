@@ -7,8 +7,8 @@ slug: "intelectuais-se-reunem-por-uma-frente-ampla-no-rio-em-2026"
 wp_id: 6907
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento foi convocado pelo ex-ministro da Educação Tarso Genro e contou com a deputada Dani Balbi (PCdoB), o ex-ministro da saúde José Gomes Temporão e o ex-secretário de Segurança Pública Luiz Eduardo Soares, entre outros.</strong></em></p>
 <!-- /wp:paragraph -->

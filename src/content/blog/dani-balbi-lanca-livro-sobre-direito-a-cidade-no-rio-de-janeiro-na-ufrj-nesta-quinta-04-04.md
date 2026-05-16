@@ -7,8 +7,8 @@ slug: "dani-balbi-lanca-livro-sobre-direito-a-cidade-no-rio-de-janeiro-na-ufrj-n
 wp_id: 4057
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Organizado por Dani Balbi e Theófilo Rodrigues, “Direito à cidade no Rio de Janeiro: políticas públicas para uma cidade inclusiva, democrática, sustentável e rebelde” sai pela editora Bem Cultural em parceria com a Fundação Maurício Grabois</strong></em></p>
 <!-- /wp:paragraph -->

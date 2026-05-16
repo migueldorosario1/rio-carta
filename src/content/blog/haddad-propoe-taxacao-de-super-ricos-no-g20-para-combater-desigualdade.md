@@ -7,8 +7,8 @@ slug: "haddad-propoe-taxacao-de-super-ricos-no-g20-para-combater-desigualdade"
 tags:
   - 'nacional'
 wp_id: 5862
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante a sessão da trilha de finanças do G20 nesta quinta-feira (24), o Ministro da Fazenda do Brasil, Fernando Haddad, reiterou a proposta brasileira de implementar a taxação de super-ricos como estratégia para mitigar as desigualdades sociais. A informação foi divulgada pelo jornal Valor Econômico.</p>
 <!-- /wp:paragraph -->

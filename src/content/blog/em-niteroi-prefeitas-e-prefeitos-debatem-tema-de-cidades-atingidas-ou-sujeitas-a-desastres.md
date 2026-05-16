@@ -7,8 +7,8 @@ slug: "em-niteroi-prefeitas-e-prefeitos-debatem-tema-de-cidades-atingidas-ou-suj
 wp_id: 745
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O evento foi promovido pela Frente Nacional de Prefeitos e contou com a presença de Inamara Santos Melo, coordenadora-geral de adaptação do departamento de Políticas de Mitigação, Adaptação e Instrumentos de Implementação do Ministério do Meio Ambiente e Mudança do Clima.</em></strong></p>
 <!-- /wp:paragraph -->

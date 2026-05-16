@@ -8,8 +8,8 @@ wp_id: 7511
 tags:
   - 'buzios'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A suspeita de vazamento de informações sigilosas da Operação Zargun coloca em xeque a integridade de apurações delicadas e reforça a necessidade de blindagem institucional</h3>
 <!-- /wp:heading -->

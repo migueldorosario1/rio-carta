@@ -7,8 +7,8 @@ slug: "previsao-alarmante-3-milhoes-de-brasileiros-precisarao-deixar-suas-casas-
 tags:
   - 'nacional'
 wp_id: 4461
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O climatologista brasileiro Carlos Nobre, em entrevista ao <strong>Metrópoles</strong>, estimou que aproximadamente 3 milhões de pessoas terão que sair de suas residências devido aos perigos causados por eventos climáticos no Brasil. </p>
 <!-- /wp:paragraph -->

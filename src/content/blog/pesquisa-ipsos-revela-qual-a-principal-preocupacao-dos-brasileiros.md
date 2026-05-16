@@ -7,8 +7,8 @@ slug: "pesquisa-ipsos-revela-qual-a-principal-preocupacao-dos-brasileiros"
 tags:
   - 'nacional'
 wp_id: 4329
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nova pesquisa do Instituto Ipsos, destacada pelo jornal <strong><a href="https://oglobo.globo.com/blogs/pulso/post/2024/04/em-meio-a-epidemia-de-dengue-saude-se-torna-a-principal-preocupacao-dos-brasileiros-aponta-pesquisa-ipsos.ghtml">O Globo</a></strong> nesta sexta-feira, 26, mostra que a saúde pública ascendeu novamente ao topo das preocupações no Brasil, com 42% dos entrevistados identificando-a como o principal desafio do país. </p>
 <!-- /wp:paragraph -->

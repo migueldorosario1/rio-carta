@@ -7,8 +7,8 @@ slug: "peca-babilonia-tropical-a-nostalgia-do-acucar-no-ccbb-rj-aborda-contradic
 wp_id: 1291
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Em cartaz até 1º de outubro, peça será a última encenada no espaço, antes das obras de revitalização da sala</em></strong></p>
 <!-- /wp:paragraph -->

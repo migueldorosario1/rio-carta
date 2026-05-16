@@ -7,8 +7,8 @@ slug: "quanto-menos-pacifico-for-o-mundo-mais-os-eua-lucram"
 tags:
   - 'geopolitica'
 wp_id: 2887
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um relatório recentemente divulgado pelo Departamento de Estado dos EUA chamou a atenção global pelo fato de que as vendas militares externas do país em 2023 aumentaram em 16%, atingindo um recorde de US$ 238 bilhões.&nbsp;</p>
 <!-- /wp:paragraph -->

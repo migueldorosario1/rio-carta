@@ -7,8 +7,8 @@ slug: "violencia-cresce-no-maracana-e-transforma-rotina-da-uerj"
 wp_id: 6731
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Estudantes apontam a rampa de acesso ao transporte público como um dos locais mais perigosos; Universidade cobra reforço policial para conter crimes</h3>
 <!-- /wp:heading -->

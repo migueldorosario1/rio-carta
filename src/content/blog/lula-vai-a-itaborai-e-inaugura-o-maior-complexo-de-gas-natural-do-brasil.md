@@ -7,8 +7,8 @@ slug: "lula-vai-a-itaborai-e-inaugura-o-maior-complexo-de-gas-natural-do-brasil"
 wp_id: 5224
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Lula (PT) participa nesta sexta-feira, 13, da inauguração do Complexo de Energias Boaventura, em Itaboraí, na região metropolitana do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

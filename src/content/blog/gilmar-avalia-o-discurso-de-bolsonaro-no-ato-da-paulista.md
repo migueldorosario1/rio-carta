@@ -7,8 +7,8 @@ slug: "gilmar-avalia-o-discurso-de-bolsonaro-no-ato-da-paulista"
 tags:
   - 'nacional'
 wp_id: 3565
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante uma manifestação no domingo, 25, o ex-presidente Jair Bolsonaro abordou as investigações da Polícia Federal que o apontam como figura central em uma suposta tentativa de golpe. </p>
 <!-- /wp:paragraph -->

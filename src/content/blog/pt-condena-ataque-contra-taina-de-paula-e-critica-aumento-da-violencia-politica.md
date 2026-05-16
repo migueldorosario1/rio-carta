@@ -8,8 +8,8 @@ wp_id: 5576
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido dos Trabalhadores (PT) emitiu uma nota de repúdio condenando o ataque sofrido pela vereadora e ex-secretária de Meio Ambiente e Clima da Cidade do Rio de Janeiro, Tainá de Paula (PT), na noite de quinta-feira, 3. </p>
 <!-- /wp:paragraph -->

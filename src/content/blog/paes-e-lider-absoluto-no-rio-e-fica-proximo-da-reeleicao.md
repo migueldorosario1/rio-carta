@@ -8,8 +8,8 @@ wp_id: 2933
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente da <strong>Atlas Intel</strong> revela que o atual prefeito do Rio de Janeiro, <strong>Eduardo Paes (PSD)</strong>, está na frente na corrida eleitoral para a prefeitura com 36,2% das intenções de voto.</p>
 <!-- /wp:paragraph -->

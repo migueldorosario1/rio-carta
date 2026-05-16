@@ -7,8 +7,8 @@ slug: "butantan-deve-pedir-registro-de-nova-vacina-contra-a-dengue-ate-julho"
 wp_id: 2867
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Desde 2009, pesquisadores do Instituto Butantan estudam a produção de nova vacina contra a dengue. O imunizante se encontra atualmente em fase final de ensaios clínicos – em junho, o último paciente voluntário a receber a dose experimental completa cinco anos de acompanhamento. A previsão do instituto é que, entre junho e julho, o pedido de registro seja submetido para análise da Agência Nacional de Vigilância Sanitária (Anvisa).<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1578940&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1578940&amp;o=node"></p>
 <!-- /wp:paragraph -->

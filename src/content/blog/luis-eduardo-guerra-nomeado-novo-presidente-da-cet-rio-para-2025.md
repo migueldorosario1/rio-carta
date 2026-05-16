@@ -7,8 +7,8 @@ slug: "luis-eduardo-guerra-nomeado-novo-presidente-da-cet-rio-para-2025"
 wp_id: 6294
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Luís Eduardo Guerra foi nomeado como o novo presidente da Companhia de Engenharia de Tráfego do Rio de Janeiro (CET-Rio), com início previsto para janeiro de 2025. Ele sucederá Joaquim Dinís, que está deixando o cargo após um período de liderança na companhia.</p>
 <!-- /wp:paragraph -->

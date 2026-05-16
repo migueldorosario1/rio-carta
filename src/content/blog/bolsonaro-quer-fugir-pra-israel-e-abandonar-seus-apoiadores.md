@@ -7,8 +7,8 @@ slug: "bolsonaro-quer-fugir-pra-israel-e-abandonar-seus-apoiadores"
 tags:
   - 'nacional'
 wp_id: 3351
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Segundo reportagem de Bela Megale, do jornal O Globo, Jair Bolsonaro estaria avaliando a possibilidade de se mudar para Israel em meio às crescentes investigações que o envolvem na tentativa de golpe de Estado no Brasil. </p>
 <!-- /wp:paragraph -->

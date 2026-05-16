@@ -8,8 +8,8 @@ wp_id: 1656
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Niterói, Rio de Janeiro - No domingo, um homem foi preso em Niterói, na Região Metropolitana do Rio de Janeiro, após tentar furtar um poste na Rua Tamoios, bairro de Charitas. O acusado, sem anotações criminais anteriores, foi detido por agentes do programa Segurança Presente em resposta a uma denúncia.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "condenado-pelo-assassinato-de-chico-mendes-assume-presidencia-do-pl-em-ci
 tags:
   - 'nacional'
 wp_id: 3543
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Darci Alves Pereira, condenado em 1990 a 19 anos de prisão pelo assassinato de Chico Mendes (1944-1988), tornou-se o novo presidente do Partido Liberal (PL) de Medicilândia, município com aproximadamente 32 mil habitantes no oeste do Pará. </p>
 <!-- /wp:paragraph -->

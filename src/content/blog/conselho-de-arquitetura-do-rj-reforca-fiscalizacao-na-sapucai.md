@@ -7,8 +7,8 @@ slug: "conselho-de-arquitetura-do-rj-reforca-fiscalizacao-na-sapucai"
 wp_id: 3048
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em meio às preocupações relacionadas à segurança na Marquês de Sapucaí, profissionais do Conselho de Arquitetura e Urbanismo do Rio de Janeiro (CAU/RJ) estarão presentes no Sambódromo até quinta-feira (08) para conduzir inspeções e orientar os profissionais envolvidos, além de verificar a documentação necessária para a execução de projetos em camarotes. </p>
 <!-- /wp:paragraph -->

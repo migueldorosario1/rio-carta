@@ -7,8 +7,8 @@ slug: "senado-aprova-indicacao-de-flavio-dino-para-o-stf-e-paulo-gonet-para-a-pg
 wp_id: 2154
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>BRASÍLIA - O Senado Federal confirmou nesta quarta-feira (13) a indicação de Flávio Dino, atual ministro da Justiça, para uma vaga no Supremo Tribunal Federal (STF), e de Paulo Gonet para a Procuradoria-Geral da República (PGR). As votações secretas resultaram em 47 votos a favor e 31 contra para Dino, e 65 votos a favor e 11 contra para Gonet.</p>
 <!-- /wp:paragraph -->

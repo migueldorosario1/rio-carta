@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:06:01Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "sebrae", "empreendedorismo", "sul-fluminense-costa-verde", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150105-casa-do-empreendedor-de-volta-redonda-ganha-selo-diamante-de-referencia-em-atendimento-do-sebrae.jpeg"
+categoria_macro: politica
 ---
 VOLTA REDONDA
 

@@ -7,8 +7,8 @@ slug: "execucao-em-bar-lotado-reacende-alerta-em-nova-iguacu"
 wp_id: 7409
 tags:
   - 'regiao-metropolitana'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Testemunhas relataram que ocupantes de um carro branco desceram atirando, provocando pânico e desencadeando reação imediata dos três homens</h3>
 <!-- /wp:heading -->

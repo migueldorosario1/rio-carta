@@ -7,8 +7,8 @@ slug: "os-planos-do-trafico-para-tomar-todo-o-territorio-da-zona-oeste-do-rio"
 wp_id: 2718
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma violenta disputa pelo controle de territórios na Zona Oeste do Rio de Janeiro continua, com quatro criminosos mortos em um recente confronto entre milicianos e traficantes na Gardênia Azul, em Jacarepaguá, e em Rio das Pedras, no Itanhangá.</p>
 <!-- /wp:paragraph -->

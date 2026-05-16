@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal realizou na manhã desta sexta-feira, 13, a Operação Têmis, que investiga suspeitas de compra de votos e lavagem de dinheiro em campanhas eleitorais de municípios da Baixada Fluminense. </p>
 <!-- /wp:paragraph -->

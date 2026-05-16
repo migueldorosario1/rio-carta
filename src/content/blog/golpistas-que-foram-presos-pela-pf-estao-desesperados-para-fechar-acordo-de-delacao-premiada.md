@@ -7,8 +7,8 @@ slug: "golpistas-que-foram-presos-pela-pf-estao-desesperados-para-fechar-acordo-
 tags:
   - 'nacional'
 wp_id: 3448
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) prossegue com as investigações relacionadas à Operação Tempus Veritatis, focada em apurar a existência de um plano golpista para obstruir a posse do presidente Luiz Inácio Lula da Silva (PT).</p>
 <!-- /wp:paragraph -->

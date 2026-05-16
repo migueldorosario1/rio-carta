@@ -8,8 +8,8 @@ wp_id: 4850
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nas eleições municipais com primeiro turno marcado para domingo, 6 de outubro, mais de um milhão de eleitores no estado do Rio de Janeiro deverão votar em novos endereços. </p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "itaocaia-valley", "regiao-metropolitana", "seguranca-publica", "penha", "saude"]
 heroImage: "/hero/smoke-smoke-202605150205-homem-e-preso-por-violencia-domestica-em-itaocaia-valley-em-marica.jpg"
+categoria_macro: seguranca
 ---
 Notícias de Maricá
 

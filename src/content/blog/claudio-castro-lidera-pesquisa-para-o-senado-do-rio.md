@@ -8,8 +8,8 @@ wp_id: 6764
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->

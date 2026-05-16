@@ -7,8 +7,8 @@ slug: "pf-prende-filipe-martins-ex-assessor-de-bolsonarp"
 wp_id: 3083
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quinta-feira, 8, a Polícia Federal iniciou uma operação voltada para Filipe G. Martins, ex-assessor do ex-presidente Jair Bolsonaro.</p>
 <!-- /wp:paragraph -->

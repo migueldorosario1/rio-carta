@@ -7,8 +7,8 @@ slug: "malafaia-admite-em-live-que-objetivo-do-ato-na-paulista-era-destruir-o-st
 tags:
   - 'nacional'
 wp_id: 3819
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante uma transmissão ao vivo com a apresentadora Antonia Fontenelle, o pastor e empresário Silas Malafaia compartilhou detalhes sobre a preparação da manifestação ocorrida em 25 de fevereiro, na Avenida Paulista. </p>
 <!-- /wp:paragraph -->

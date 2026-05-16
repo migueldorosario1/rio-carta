@@ -8,8 +8,8 @@ wp_id: 3419
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A 2ª Vara Criminal da Capital autorizou a transferência de Luís Antonio da Silva Braga, conhecido como Zinho, chefe da principal milícia da Zona Oeste do Rio de Janeiro, para uma penitenciária federal fora do estado, conforme reportagem de Vera Araújo, no Globo. </p>
 <!-- /wp:paragraph -->

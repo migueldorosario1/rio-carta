@@ -7,8 +7,8 @@ slug: "torcedor-do-boca-juniors-comete-atos-racistas-em-entrevista-na-praia-de-c
 wp_id: 1810
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Um torcedor do Boca Juniors cometeu atos racistas durante uma entrevista para um canal de televisão da Argentina, na noite desta sexta-feira (3), na praia de Copacabana, na Zona Sul do Rio de Janeiro. A entrevista destoou de outras conversas durante a mesma transmissão.</strong></em></p>
 <!-- /wp:paragraph -->

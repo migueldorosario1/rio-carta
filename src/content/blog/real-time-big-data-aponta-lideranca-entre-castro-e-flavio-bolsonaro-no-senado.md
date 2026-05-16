@@ -8,8 +8,8 @@ wp_id: 7506
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A presença de nomes progressistas como Benedita da Silva e Molon demonstra que, mesmo sob forte polarização, ainda há espaço para narrativas mais inclusivas em 2026</h3>
 <!-- /wp:heading -->

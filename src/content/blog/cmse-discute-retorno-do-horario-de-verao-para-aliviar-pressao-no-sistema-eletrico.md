@@ -7,8 +7,8 @@ slug: "cmse-discute-retorno-do-horario-de-verao-para-aliviar-pressao-no-sistema-
 wp_id: 5340
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Comitê de Monitoramento do Setor Elétrico (CMSE) deve aprovar o retorno do horário de verão, em uma tentativa de otimizar a geração de energia diante da seca que afeta o parque hidrelétrico do Brasil.</p>
 <!-- /wp:paragraph -->

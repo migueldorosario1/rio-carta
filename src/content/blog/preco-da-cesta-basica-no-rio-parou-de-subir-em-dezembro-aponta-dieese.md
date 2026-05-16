@@ -7,8 +7,8 @@ slug: "preco-da-cesta-basica-no-rio-parou-de-subir-em-dezembro-aponta-dieese"
 wp_id: 6383
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em dezembro de 2024, o aumento dos preços da cesta básica no Rio de Janeiro foi de apenas 0,28%, uma taxa significativamente menor em comparação com o mês anterior, que registrou uma inflação de 0,51%, e com dezembro de 2023, que teve um aumento de 1,42%. </p>
 <!-- /wp:paragraph -->

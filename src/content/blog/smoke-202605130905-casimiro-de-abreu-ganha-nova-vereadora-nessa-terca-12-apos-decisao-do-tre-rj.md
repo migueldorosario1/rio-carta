@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "casimiro-de-abreu", "regiao-dos-lagos", "politica-rj", "tre-rj", "camara-municipal", "fatima-canejo", "macae-norte-fluminense", "cidade-nova", "norte-fluminense", "seguranca-publica", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605130905-casimiro-de-abreu-ganha-nova-vereadora-nessa-terca-12-apos-decisao-do-tre-rj.jpg"
+categoria_macro: politica
 ---
 A Câmara de Casimiro de Abreu ganha nova vereadora nessa terça-feira, 12, com direito a cerimônia de diplomação de Fátima Canejo (SOLIDARIEDADE), marcada pela Justiça Eleitoral do Rio, que acontece às 14h.
 

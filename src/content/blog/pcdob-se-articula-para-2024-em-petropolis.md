@@ -8,8 +8,8 @@ wp_id: 1593
 tags:
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Partido deve apoiar a reeleição do prefeito Rubens Bomtempo (PSB) e a eleição da professora Lívia Miranda para a Câmara Municipal</strong></em></p>
 <!-- /wp:paragraph -->

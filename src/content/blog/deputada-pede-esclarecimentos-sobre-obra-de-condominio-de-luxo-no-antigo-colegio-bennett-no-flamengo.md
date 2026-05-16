@@ -7,8 +7,8 @@ slug: "deputada-pede-esclarecimentos-sobre-obra-de-condominio-de-luxo-no-antigo-
 wp_id: 7666
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada estadual Dani Balbi (PCdoB) solicitou esclarecimentos à Fundação GEO-RIO sobre os impactos geológicos e a regularidade das obras previstas para a construção de um condomínio de luxo no terreno do antigo Colégio Bennett, no Flamengo.</em></strong></p>
 <!-- /wp:paragraph -->

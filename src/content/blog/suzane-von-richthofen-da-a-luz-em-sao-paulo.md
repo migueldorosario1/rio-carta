@@ -7,8 +7,8 @@ slug: "suzane-von-richthofen-da-a-luz-em-sao-paulo"
 tags:
   - 'nacional'
 wp_id: 2581
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Suzane von Richthofen, condenada pelo duplo homicídio de seus pais, deu à luz seu primeiro filho, Felipe, na madrugada desta sexta-feira. O parto ocorreu na maternidade do Hospital Albert Sabin, em Atibaia, São Paulo, onde seu atual marido, o médico Felipe Zecchini Muniz, trabalha. A escolha do nome do bebê homenageia o pai, e a família paterna prefere que o sobrenome Richthofen não seja incluído na certidão de nascimento para evitar associações com o crime cometido pela mãe. Atualmente, Suzane cumpre sua sentença de 39 anos em regime aberto.</p>
 <!-- /wp:paragraph -->

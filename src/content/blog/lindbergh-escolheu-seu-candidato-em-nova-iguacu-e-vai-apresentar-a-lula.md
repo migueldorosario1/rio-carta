@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Lindbergh Farias, reconhecido como um dos poucos nomes do Partido dos Trabalhadores (PT) no Rio de Janeiro com capital político significativo em Nova Iguaçu e na Baixada Fluminense, formalizou seu apoio ao ex-vereador Toninho da Padaria como o candidato do PT à prefeitura de Nova Iguaçu, cidade que Lindbergh governou por dois mandatos.</p>
 <!-- /wp:paragraph -->

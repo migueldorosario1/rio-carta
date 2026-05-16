@@ -7,8 +7,8 @@ slug: "mcs-poze-do-rodo-e-daniel-promovem-partida-de-futebol-beneficente"
 wp_id: 2041
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>No Estádio do Engenhão, na Zona Norte do Rio, os MCs Poze do Rodo e Daniel uniram forças com a Central Única das Favelas (Cufa) para organizar uma partida de futebol beneficente na noite desta terça-feira (28).</em></strong></p>
 <!-- /wp:paragraph -->

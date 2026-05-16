@@ -7,8 +7,8 @@ slug: "xandao-ordena-que-bolsonaro-explique-fuga-para-embaixada-em-poucas-horas"
 wp_id: 3968
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, determinou um prazo de 48 horas para que o ex-presidente Jair Bolsonaro, ligado ao Partido Liberal (PL), esclareça sua recente visita à embaixada da Hungria em Brasília, Distrito Federal. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "um-terco-dos-moradores-do-estado-do-rio-ja-ouviram-troca-de-tiros-proximo
 wp_id: 1797
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa com dados do IBGE, realizada em 2021 e ainda pouco divulgada, aponta para uma realidade alarmante no Estado do Rio de Janeiro. Segundo o estudo, 34% dos cidadãos fluminenses relataram ter presenciado troca de tiros ou confrontos com armas de fogo nas proximidades de seus domicílios nos últimos 12 meses. </p>
 <!-- /wp:paragraph -->

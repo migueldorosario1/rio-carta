@@ -7,8 +7,8 @@ slug: "catadores-de-reciclaveis-do-rio-ocupam-alerj-por-regulamentacao-da-profis
 wp_id: 1226
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Audiência Pública foi iniciativa da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

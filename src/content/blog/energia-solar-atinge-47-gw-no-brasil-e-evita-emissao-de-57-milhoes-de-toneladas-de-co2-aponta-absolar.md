@@ -7,8 +7,8 @@ slug: "energia-solar-atinge-47-gw-no-brasil-e-evita-emissao-de-57-milhoes-de-ton
 tags:
   - 'nacional'
 wp_id: 5337
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A capacidade instalada de energia solar no Brasil chegou a 47 gigawatts (GW), contribuindo para evitar a emissão de 57 milhões de toneladas de CO2 na geração de eletricidade, conforme dados da Associação Brasileira de Energia Fotovoltaica (Absolar), divulgados nesta quinta-feira.</p>
 <!-- /wp:paragraph -->

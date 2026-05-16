@@ -8,8 +8,8 @@ wp_id: 2129
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Rio de Janeiro, RJ – Planejamento Urbano, Crescimento da Cidade, Políticas de Habitação</em></p>
 <!-- /wp:paragraph -->

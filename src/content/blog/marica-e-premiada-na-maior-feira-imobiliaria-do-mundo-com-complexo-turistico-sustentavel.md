@@ -7,8 +7,8 @@ slug: "marica-e-premiada-na-maior-feira-imobiliaria-do-mundo-com-complexo-turist
 tags:
   - 'regiao-metropolitana'
 wp_id: 7741
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading"><em>Projeto MARAEY foi reconhecido como melhor megaempreendimento na MIPIM, em Cannes, principal encontro global do mercado imobiliário</em></h5>
 <!-- /wp:heading -->

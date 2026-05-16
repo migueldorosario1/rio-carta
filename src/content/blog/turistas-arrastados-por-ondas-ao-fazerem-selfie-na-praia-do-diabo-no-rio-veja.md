@@ -8,8 +8,8 @@ wp_id: 1487
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Turistas de Petrópolis, na Região Serrana, foram arrastados pelas ondas enquanto tiravam selfies em uma pedra na Praia do Diabo, no Arpoador, Zona Sul do Rio, em um dia de ressaca. O incidente ocorreu neste domingo e teve um final feliz graças à ação dos guardas do Grupamento Marítimo (GMar) do Posto 7.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "galerista-de-nova-york-morto-no-rio-suspeito-flagrado-em-cameras"
 wp_id: 2468
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Brent Sikkema, um americano de 75 anos e sócio-proprietário da galeria de arte Sikkema Jenkins &amp; Co em Nova York, foi encontrado morto em sua residência no Jardim Botânico, Zona Sul do Rio de Janeiro. Câmeras de segurança registraram um homem entrando e saindo da casa de Sikkema na noite do crime, permanecendo no local por cerca de 15 minutos.</p>
 <!-- /wp:paragraph -->

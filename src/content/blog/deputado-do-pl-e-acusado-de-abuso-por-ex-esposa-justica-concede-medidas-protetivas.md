@@ -7,8 +7,8 @@ slug: "deputado-do-pl-e-acusado-de-abuso-por-ex-esposa-justica-concede-medidas-p
 tags:
   - 'nacional'
 wp_id: 5669
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Cíntia Chagas, influenciadora digital, registrou uma queixa contra o deputado estadual Lucas Bove (PL-SP), acusando-o de abusos físicos e psicológicos durante os mais de dois anos de relacionamento. </p>
 <!-- /wp:paragraph -->

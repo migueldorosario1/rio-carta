@@ -7,8 +7,8 @@ slug: "projeto-assegura-imunoterapia-a-pacientes-com-cancer-pelo-sus"
 tags:
   - 'nacional'
 wp_id: 2864
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Projeto de Lei 5514/23 garante a pacientes com câncer o direito à imunoterapia pelo Sistema Único de Saúde (SUS). Segundo o texto, o tratamento deverá ser ofertado em estabelecimentos públicos, conveniados ou privados sempre que existir indicação médica. A Câmara dos Deputados analisa a proposta.</p>
 <!-- /wp:paragraph -->

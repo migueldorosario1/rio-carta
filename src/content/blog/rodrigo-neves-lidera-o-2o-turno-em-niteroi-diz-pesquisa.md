@@ -8,8 +8,8 @@ wp_id: 5718
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nova pesquisa do Instituto Gerp, divulgada nesta segunda-feira (14), revelou que Rodrigo Neves (PDT) está à frente na corrida para a prefeitura de Niterói no segundo turno das eleições, com 62% dos votos válidos. Seu oponente, Carlos Jordy (PL), registra 38% dos votos válidos.</p>
 <!-- /wp:paragraph -->

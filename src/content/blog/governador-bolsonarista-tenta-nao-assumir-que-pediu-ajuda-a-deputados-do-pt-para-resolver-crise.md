@@ -7,8 +7,8 @@ slug: "governador-bolsonarista-tenta-nao-assumir-que-pediu-ajuda-a-deputados-do-
 tags:
   - 'politica-rj'
 wp_id: 4384
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Governador de Santa Catarina, Jorginho Mello (PL), recorreu aos deputados do PT para ajudar na mediação da greve dos professores estaduais, segundo reportagem de <strong>Luísa Marzullo </strong>do jornal <strong><a href="https://oglobo.globo.com/politica/noticia/2024/05/01/bolsonarista-governador-de-sc-tenta-esconder-que-pediu-ajuda-a-deputados-do-pt.ghtml?utm_source=Twitter&amp;utm_medium=Social&amp;utm_campaign=O%20Globo">O Globo</a></strong>. Apesar das negociações, o governo estadual negou a intermediação dos parlamentares oposicionistas após a reunião se tornar pública.</p>
 <!-- /wp:paragraph -->

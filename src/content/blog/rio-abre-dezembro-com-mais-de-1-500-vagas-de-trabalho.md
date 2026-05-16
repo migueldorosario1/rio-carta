@@ -11,8 +11,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com mais de mil vagas para o público em geral, destaque para motoristas, trabalhadoras domésticas, operadores de supermercado e farmacêuticos em alta demanda</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "pf-prende-mecanico-acusado-de-sumir-com-o-carro-usado-no-assassinato-de-m
 wp_id: 3581
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A&nbsp;<strong>Polícia Federal&nbsp;</strong>em conjunto com o&nbsp;<strong>Grupo de Atuação Especial de Repressão ao Crime Organizado (Gaeco)</strong>, do&nbsp;<strong>Ministério Público do Rio de Janeiro</strong>, realizou a prisão de&nbsp;<strong>Edilson Barbosa dos Santos</strong>, também conhecido como&nbsp;<strong>Orelha</strong>, na tarde desta quarta-feira, 28.</p>
 <!-- /wp:paragraph -->

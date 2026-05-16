@@ -7,8 +7,8 @@ slug: "lula-anuncia-glo-no-rio-e-em-sp-com-objetivo-de-combater-o-crime-organiza
 wp_id: 1834
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva, do Partido dos Trabalhadores (PT), declarou na última terça-feira que a operação de Garantia da Lei e da Ordem (GLO) no Rio de Janeiro e em São Paulo tem como finalidade "definitivamente tirar o poder do crime organizado". Esta operação, que foi anunciada na semana passada, está programada para vigorar até o dia 3 de maio de 2024.</p>
 <!-- /wp:paragraph -->

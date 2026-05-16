@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Novo texto foi sancionado pelo prefeito Eduardo Paes em 2 de janeiro</em></strong>. <em><strong>Foto: Agência Brasil.</strong></em></p>
 <!-- /wp:paragraph -->

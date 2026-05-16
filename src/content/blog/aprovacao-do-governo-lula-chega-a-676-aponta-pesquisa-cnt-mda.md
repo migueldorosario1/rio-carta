@@ -7,8 +7,8 @@ slug: "aprovacao-do-governo-lula-chega-a-676-aponta-pesquisa-cnt-mda"
 tags:
   - 'nacional'
 wp_id: 5998
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa realizada pela Confederação Nacional do Transporte (CNT), em parceria com o instituto MDA, mostra que 67,6% dos brasileiros classificam o governo do presidente Luiz Inácio Lula da Silva (PT) como "ótimo", "bom" ou "regular". </p>
 <!-- /wp:paragraph -->

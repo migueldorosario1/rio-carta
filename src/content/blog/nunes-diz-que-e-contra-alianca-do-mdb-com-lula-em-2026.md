@@ -7,8 +7,8 @@ slug: "nunes-diz-que-e-contra-alianca-do-mdb-com-lula-em-2026"
 wp_id: 5906
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito reeleito de São Paulo, Ricardo Nunes, manifestou sua intenção de impedir que o MDB apoie o presidente Luiz Inácio Lula da Silva em uma potencial candidatura à reeleição em 2026. </p>
 <!-- /wp:paragraph -->

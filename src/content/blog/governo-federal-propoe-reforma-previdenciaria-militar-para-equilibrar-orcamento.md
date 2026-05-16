@@ -7,8 +7,8 @@ slug: "governo-federal-propoe-reforma-previdenciaria-militar-para-equilibrar-orc
 tags:
   - 'nacional'
 wp_id: 6013
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo brasileiro está trabalhando em uma proposta para modificar o regime previdenciário das Forças Armadas, parte de um pacote fiscal mais amplo com o objetivo de cortar despesas e equilibrar as contas nacionais. </p>
 <!-- /wp:paragraph -->

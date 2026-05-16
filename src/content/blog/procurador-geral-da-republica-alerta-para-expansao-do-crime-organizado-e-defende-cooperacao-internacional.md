@@ -7,8 +7,8 @@ slug: "procurador-geral-da-republica-alerta-para-expansao-do-crime-organizado-e-
 tags:
   - 'nacional'
 wp_id: 5691
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o Fórum Esfera, realizado neste sábado em Roma, o procurador-geral da República, Paulo Gonet, destacou o avanço do crime organizado no cenário global, alertando para sua crescente natureza transnacional. </p>
 <!-- /wp:paragraph -->

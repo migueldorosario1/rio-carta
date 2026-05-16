@@ -7,8 +7,8 @@ slug: "governo-renova-operacao-da-forca-nacional-no-rj-ate-janeiro-de-2024"
 wp_id: 1967
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Nesta sexta-feira, o governo federal oficializou a prorrogação da atuação da Força Nacional no Estado do Rio de Janeiro até 31 de janeiro de 2024. A medida, que já havia sido anunciada pelo ministro da Justiça e Segurança Pública, Flávio Dino, foi publicada no Diário Oficial da União.</em></strong></p>
 <!-- /wp:paragraph -->

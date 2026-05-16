@@ -7,8 +7,8 @@ slug: "evento-debate-os-efeitos-das-mudancas-climaticas-em-petropolis"
 wp_id: 4807
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Evento contará com a representante do ministério do meio Ambiente, Inamara Melo, e Carlos Alberto Muniz, secretário de Meio Ambiente de Petrópolis.</em></p>
 <!-- /wp:paragraph -->

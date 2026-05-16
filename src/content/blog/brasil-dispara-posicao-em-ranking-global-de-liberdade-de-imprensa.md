@@ -7,8 +7,8 @@ slug: "brasil-dispara-posicao-em-ranking-global-de-liberdade-de-imprensa"
 tags:
   - 'nacional'
 wp_id: 4397
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Brasil alcançou a 82ª posição entre 180 países no mais recente ranking de liberdade de imprensa da Repórteres Sem Fronteiras (RSF), marcando sua melhor classificação na última década. </p>
 <!-- /wp:paragraph -->

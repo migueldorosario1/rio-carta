@@ -8,8 +8,8 @@ wp_id: 7549
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O caso reacende debates sobre transparência, limites da imunidade parlamentar e a relação entre Legislativo e Judiciário no Rio de Janeiro</h3>
 <!-- /wp:heading -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T09:05:35Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "helio-oiticica", "rio-capital-centro", "capital", "regiao-metropolitana", "portuguesa", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605150605-paula-parisot-e-o-direito-ontologico-de-narrar-se.webp"
+categoria_macro: lazer
 ---
 A arte contemporânea, em sua vertente mais confessional e política, frequentemente se debruça sobre a questão: a quem pertence o direito da memória? No dia 16 de maio, o Centro Municipal de Artes Hélio Oiticica inaugura a exposição “E eu me levanto e conto uma história”, de Paula Parisot.
 

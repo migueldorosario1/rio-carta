@@ -7,8 +7,8 @@ slug: "bolsonaro-vai-mergulhar-de-vez-na-campanha-de-nunes-apos-trocar-farpas-co
 wp_id: 5218
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-presidente Jair Bolsonaro (PL) foi destaque em um vídeo de campanha do atual prefeito de São Paulo e candidato à reeleição, Ricardo Nunes (MDB), neste 12 de setembro. </p>
 <!-- /wp:paragraph -->

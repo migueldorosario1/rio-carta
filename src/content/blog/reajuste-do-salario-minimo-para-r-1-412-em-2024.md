@@ -7,8 +7,8 @@ slug: "reajuste-do-salario-minimo-para-r-1-412-em-2024"
 tags:
   - 'nacional'
 wp_id: 2132
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Brasília, DF – Economia Brasileira, Políticas de Renda, Inflação</em></p>
 <!-- /wp:paragraph -->

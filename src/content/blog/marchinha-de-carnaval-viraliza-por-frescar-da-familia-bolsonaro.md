@@ -7,8 +7,8 @@ slug: "marchinha-de-carnaval-viraliza-por-frescar-da-familia-bolsonaro"
 wp_id: 3172
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma marchinha de carnaval que faz referência à recente operação da Polícia Federal, envolvendo a coleta de vídeos e documentos sobre uma suposta tentativa de golpe pelo governo de Jair Bolsonaro após a derrota nas eleições de 2022, tem se popularizado nas redes sociais.</p>
 <!-- /wp:paragraph -->

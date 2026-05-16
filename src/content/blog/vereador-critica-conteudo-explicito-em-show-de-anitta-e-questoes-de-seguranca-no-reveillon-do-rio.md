@@ -7,8 +7,8 @@ slug: "vereador-critica-conteudo-explicito-em-show-de-anitta-e-questoes-de-segur
 tags:
   - 'rio-de-janeiro'
 wp_id: 6344
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O show de Anitta durante o réveillon de Copacabana, que é financiado com dinheiro público, gerou controvérsia após o vereador Leniel Borel (PP) criticar o uso de linguagem explícita e palavrões durante a apresentação. </p>
 <!-- /wp:paragraph -->

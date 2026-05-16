@@ -7,8 +7,8 @@ slug: "prefeitura-destaca-desempenho-da-uniao-de-marica-na-serie-ouro-e-mantem-e
 wp_id: 7672
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A <a href="https://www.marica.rj.gov.br/noticia/prefeitura-destaca-desempenho-da-uniao-de-marica-na-serie-ouro-e-mantem-expectativa-na-conquista-do-titulo/">Prefeitura de Maricá ressalta o desempenho da União de Maricá</a> no desfile no Sambódromo e reforça a aposta de que a escola tem todas as condições de conquistar o título da Série Ouro do Carnaval do Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

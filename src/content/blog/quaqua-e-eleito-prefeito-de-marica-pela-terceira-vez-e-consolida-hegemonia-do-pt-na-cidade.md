@@ -7,8 +7,8 @@ slug: "quaqua-e-eleito-prefeito-de-marica-pela-terceira-vez-e-consolida-hegemoni
 wp_id: 5603
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Washington Quaquá (PT) foi eleito prefeito de Maricá neste domingo (6), obtendo 91.789 votos. Esse será o terceiro mandato de Quaquá na prefeitura, marcando a continuidade de uma hegemonia de 20 anos do Partido dos Trabalhadores no governo da cidade. </p>
 <!-- /wp:paragraph -->

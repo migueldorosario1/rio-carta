@@ -5,6 +5,7 @@ pubDate: "2026-05-16T16:24:45Z"
 draft: false
 tags: ["rio-de-janeiro", "saude", "sus", "capital", "regiao-metropolitana", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605161623-governo-do-rio-quer-reduzir-fila-de-consultas-exames-e-cirurgias-do-sus.webp"
+categoria_macro: politica
 ---
 O Governo do Estado do Rio de Janeiro iniciou uma articulação com o Governo Federal para ampliar o acesso da população a consultas, exames e cirurgias especializadas na rede pública. A ação faz parte do programa Agora Tem Especialistas, voltado para reduzir o tempo de espera por atendimentos no SUS.
 

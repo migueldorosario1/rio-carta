@@ -7,8 +7,8 @@ slug: "educacao-popular-vira-patrimonio-imaterial-do-rio"
 wp_id: 7107
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Agora é lei: Pré-Vestibular Social do Sintuperj é Patrimônio Cultural Imaterial do Estado do Rio</h3>
 <!-- /wp:heading -->

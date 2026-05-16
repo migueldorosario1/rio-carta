@@ -7,8 +7,8 @@ slug: "ministerio-da-fazenda-estuda-imposto-minimo-para-milionarios-no-brasil"
 wp_id: 5639
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério da Fazenda está analisando a possibilidade de implementar um imposto mínimo direcionado a milionários no Brasil, conforme apurado pela Folha de S. Paulo. </p>
 <!-- /wp:paragraph -->

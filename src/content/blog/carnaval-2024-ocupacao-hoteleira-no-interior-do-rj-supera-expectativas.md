@@ -16,8 +16,8 @@ tags:
   - 'arraial-do-cabo'
   - 'buzios'
   - 'angra-dos-reis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os municípios do interior do estado alcançaram uma ocupação hoteleira superior à média durante o feriado de carnaval deste ano, com oito cidades ultrapassando o índice de 81,24% de quartos reservados entre os dias 10 e 13 de fevereiro. </p>
 <!-- /wp:paragraph -->

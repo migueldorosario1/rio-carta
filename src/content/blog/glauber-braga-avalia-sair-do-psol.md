@@ -8,8 +8,8 @@ wp_id: 6569
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O deputado do Rio considera que sua corrente esteja sendo perseguida pelo campo majoritário do partido</em></strong></p>
 <!-- /wp:paragraph -->

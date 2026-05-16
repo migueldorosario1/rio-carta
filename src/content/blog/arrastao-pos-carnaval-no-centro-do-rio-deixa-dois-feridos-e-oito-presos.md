@@ -7,8 +7,8 @@ slug: "arrastao-pos-carnaval-no-centro-do-rio-deixa-dois-feridos-e-oito-presos"
 wp_id: 2519
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um arrastão ocorrido após o desfile do bloco Orquestra Voadora, no Centro do Rio de Janeiro, resultou em duas pessoas esfaqueadas e oito suspeitos presos na noite de domingo (21). O incidente gerou pânico entre os foliões, que foram surpreendidos pelo ataque violento.</p>
 <!-- /wp:paragraph -->

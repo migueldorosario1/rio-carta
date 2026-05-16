@@ -7,8 +7,8 @@ slug: "mudanca-no-imposto-de-renda-impactou-trabalhadores-do-comercio"
 tags:
   - 'nacional'
 wp_id: 7725
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A isenção no Imposto de Renda para quem ganha até R$ 5 mil e a redução gradual para quem recebe até R$ 7.350, promovida pelo Governo Federal, impactou diretamente cerca de 14,9% dos trabalhadores do comércio. A maior parte, 10,4%, passou a ser isenta, segundo cálculos do Dieese. Com essa mudança, 9 em cada 10 trabalhadores e trabalhadoras do comércio estão isentos de pagar Imposto de Renda a partir de janeiro de 2026.</p>
 <!-- /wp:paragraph -->

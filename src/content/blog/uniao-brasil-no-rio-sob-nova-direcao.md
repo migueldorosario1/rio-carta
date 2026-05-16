@@ -8,8 +8,8 @@ wp_id: 677
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O União Brasil definiu na última quarta-feira (07/07) a composição da sua nova direção estadual.</p>
 <!-- /wp:paragraph -->

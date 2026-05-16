@@ -7,8 +7,8 @@ slug: "a-importancia-da-une-e-gigante"
 wp_id: 855
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Ao contrário do que diz matéria do Metrópoles, a deputada Dani Balbi (PCdoB) explica a importância da UNE.</strong></em></p>
 <!-- /wp:paragraph -->

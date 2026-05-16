@@ -5,6 +5,7 @@ pubDate: "2026-05-16T03:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "lapa", "zona-central", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "mage", "problemas-estruturais", "seguranca-publica", "saude"]
 heroImage: "/hero/smoke-smoke-202605160323-video-mostra-descarte-de-documentos-do-antigo-iml-pela-janela-e-caso-caso-vai-parar-na-pf.jpg"
+categoria_macro: politica
 ---
 Um vídeo gravado no antigo prédio do Instituto Médico Legal (IML), na Lapa, região central do Rio de Janeiro, provocou indignação e abriu uma nova frente de preocupação sobre a preservação da memória da ditadura militar no Brasil. As imagens mostram documentos e fotografias sendo arremessados pelas janelas do edifício, em meio ao descarte de materiais que podem conter registros históricos e informações sobre desaparecidos políticos.
 

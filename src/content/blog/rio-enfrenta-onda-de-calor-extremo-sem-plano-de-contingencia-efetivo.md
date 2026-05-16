@@ -7,8 +7,8 @@ slug: "rio-enfrenta-onda-de-calor-extremo-sem-plano-de-contingencia-efetivo"
 wp_id: 2409
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em mais um dia de calor intenso no Rio de Janeiro, a cidade registrou uma sensação térmica de 53,3°C em Guaratiba, Zona Oeste, já nas primeiras horas da manhã. Apesar do calorão que culminou em chuvas de verão, o plano de contingência anunciado pela prefeitura para mitigar os impactos das altas temperaturas ainda mostra-se insuficiente, com falta de infraestrutura adequada nas unidades de saúde.</p>
 <!-- /wp:paragraph -->

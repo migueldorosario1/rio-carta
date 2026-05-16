@@ -7,8 +7,8 @@ slug: "centro-afrocarioca-de-cinema-se-torna-patrimonio-imaterial-do-estado-do-r
 wp_id: 2415
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Referência no incentivo à arte cinematográfica, Centro é importante fomentador de produções afrobrasileiras</em>. <em>Iniciativa é da deputada Dani Balbi (PCdoB)</em></p>
 <!-- /wp:paragraph -->

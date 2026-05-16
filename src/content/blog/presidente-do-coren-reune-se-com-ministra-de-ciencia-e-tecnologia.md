@@ -7,8 +7,8 @@ slug: "presidente-do-coren-reune-se-com-ministra-de-ciencia-e-tecnologia"
 tags:
   - 'nacional'
 wp_id: 6208
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Lilian Behring (PCdoB) assumirá a vaga de deputada estadual na Alerj em janeiro de 2025.</em></strong></p>
 <!-- /wp:paragraph -->

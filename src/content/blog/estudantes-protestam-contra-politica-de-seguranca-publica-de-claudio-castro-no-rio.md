@@ -7,8 +7,8 @@ slug: "estudantes-protestam-contra-politica-de-seguranca-publica-de-claudio-cast
 wp_id: 1326
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Ativistas da União da Juventude Socialista (UJS) criticaram o governador do Rio de Janeiro na porta do Palácio Guanabara</strong></em></p>
 <!-- /wp:paragraph -->

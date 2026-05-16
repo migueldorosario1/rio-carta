@@ -7,8 +7,8 @@ slug: "justica-eleitoral-suspende-direito-de-resposta-de-boulos-contra-marcal"
 wp_id: 4925
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Justiça Eleitoral de São Paulo revogou, na última quarta-feira, 21, o direito de resposta concedido ao deputado federal<strong> Guilherme Boulos (PSOL) </strong>nas redes sociais de <strong>Pablo Marçal (PRTB)</strong>. </p>
 <!-- /wp:paragraph -->

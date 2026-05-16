@@ -7,8 +7,8 @@ slug: "haddad-e-destacado-pela-revista-time-como-uma-das-liderancas-climaticas-m
 tags:
   - 'nacional'
 wp_id: 5992
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro da Fazenda do Brasil, Fernando Haddad, foi incluído na lista TIME100 Climate, divulgada nesta terça-feira (12) pela revista norte-americana Time, que reúne as personalidades mais influentes no debate climático global em 2024. </p>
 <!-- /wp:paragraph -->

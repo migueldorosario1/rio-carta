@@ -7,8 +7,8 @@ slug: "brazao-suspeito-no-caso-marielle-ganha-direito-a-ferias-remuneradas-no-tc
 wp_id: 2575
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os conselheiros Domingos Brazão e José Maurício Nolasco do Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ) foram autorizados a converter 360 dias de férias não usufruídas, referentes aos anos de 2017 a 2022, em dinheiro. Durante esse período, eles estiveram afastados de suas funções devido a suspeitas de fraude e corrupção.</p>
 <!-- /wp:paragraph -->

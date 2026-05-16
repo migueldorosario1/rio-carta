@@ -7,8 +7,8 @@ slug: "mpt-investiga-acusacoes-de-assedio-sexual-e-moral-no-ministerio-dos-direi
 wp_id: 5151
 tags:
   - 'macae'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público do Trabalho (MPT) instaurou um inquérito civil para investigar relatos de assédio sexual e moral no Ministério dos Direitos Humanos durante a gestão do ex-ministro Silvio Almeida. A investigação teve início na segunda-feira (9), conforme informações da Folha de S. Paulo.</p>
 <!-- /wp:paragraph -->

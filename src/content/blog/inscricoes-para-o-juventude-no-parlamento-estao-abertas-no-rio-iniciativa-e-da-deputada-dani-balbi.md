@@ -7,8 +7,8 @@ slug: "inscricoes-para-o-juventude-no-parlamento-estao-abertas-no-rio-iniciativa
 tags:
   - 'politica-rj'
 wp_id: 6792
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Estudantes universitários interessados em conhecer o dia a dia da mandata da deputada estadual Dani Balbi (PCdoB) na Alerj podem se inscrever até 4 de maio</strong></em></p>
 <!-- /wp:paragraph -->

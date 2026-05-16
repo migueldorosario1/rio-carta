@@ -7,8 +7,8 @@ slug: "governo-lula-vai-apresentar-proposta-para-acabar-com-a-greve-nas-universi
 tags:
   - 'nacional'
 wp_id: 4258
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) anunciou que nesta sexta-feira, 19, apresentará uma proposta direcionada ao setor da Educação. </p>
 <!-- /wp:paragraph -->

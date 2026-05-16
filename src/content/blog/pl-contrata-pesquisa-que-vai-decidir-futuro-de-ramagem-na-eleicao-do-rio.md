@@ -8,8 +8,8 @@ wp_id: 4776
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A campanha de Alexandre Ramagem (PL) anunciou a realização de uma nova pesquisa interna para avaliar o desempenho do pré-candidato no Rio de Janeiro. As pesquisas anteriores indicaram que Ramagem está cerca de 30 pontos percentuais atrás de Eduardo Paes (PSD).</p>
 <!-- /wp:paragraph -->

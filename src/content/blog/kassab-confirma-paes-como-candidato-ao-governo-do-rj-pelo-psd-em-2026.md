@@ -8,8 +8,8 @@ wp_id: 6747
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Presidente nacional do PSD, Gilberto Kassab esteve no Rio para encontro com o prefeito Eduardo Paes</strong></em></p>
 <!-- /wp:paragraph -->

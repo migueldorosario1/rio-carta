@@ -7,8 +7,8 @@ slug: "observatorio-das-metropoles-discute-desenvolvimento-urbano-sustentavel"
 wp_id: 7032
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>No evento, Elias Jabbour defendeu o socialismo e tratou dos caminhos para o desenvolvimento urbano no Brasil</em></strong></p>
 <!-- /wp:paragraph -->

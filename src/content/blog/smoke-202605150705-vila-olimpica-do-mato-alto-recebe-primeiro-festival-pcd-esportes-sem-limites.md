@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:25Z"
 draft: true
 tags: ["rio-de-janeiro", "praca-seca", "mato-alto", "zona-oeste", "rio-capital-zona-oeste", "capital", "penha", "ramos", "deodoro", "padre-miguel", "joa", "educacao", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150705-vila-olimpica-do-mato-alto-recebe-primeiro-festival-pcd-esportes-sem-limites.jpeg"
+categoria_macro: politica
 ---
 A Vila Olímpica Professor Manoel José Gomes Tubino, conhecida como Vila Olímpica do Mato Alto, na Praça Seca, recebeu o primeiro Festival PCD Esportes Sem Limites. O evento, organizado pela Secretaria Municipal de Esportes do Rio, reuniu mais de 300 atletas com deficiência na última terça-feira.
 

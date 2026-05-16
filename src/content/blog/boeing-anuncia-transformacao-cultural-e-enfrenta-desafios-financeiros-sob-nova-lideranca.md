@@ -7,8 +7,8 @@ slug: "boeing-anuncia-transformacao-cultural-e-enfrenta-desafios-financeiros-sob
 wp_id: 5865
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na quarta-feira, o presidente-executivo da Boeing, Kelly Ortberg, anunciou uma "mudança fundamental de cultura" como parte de um esforço para revitalizar a empresa, que enfrenta uma série de desafios financeiros e operacionais. </p>
 <!-- /wp:paragraph -->

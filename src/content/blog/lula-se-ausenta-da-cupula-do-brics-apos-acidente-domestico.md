@@ -7,8 +7,8 @@ slug: "lula-se-ausenta-da-cupula-do-brics-apos-acidente-domestico"
 tags:
   - 'nacional'
 wp_id: 5838
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo chinês manifestou, nesta segunda-feira (21), solidariedade ao presidente brasileiro, Luiz Inácio Lula da Silva, que precisou cancelar sua participação na próxima cúpula do BRICS na Rússia devido a um acidente doméstico. O bloco é composto por Brasil, Rússia, Índia, China e África do Sul.</p>
 <!-- /wp:paragraph -->

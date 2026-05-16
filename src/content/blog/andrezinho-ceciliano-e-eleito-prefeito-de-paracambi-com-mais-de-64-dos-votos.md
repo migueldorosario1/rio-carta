@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado estadual Andrezinho Ceciliano (PT) foi eleito prefeito de Paracambi, na Baixada Fluminense, com 64,11% dos votos, totalizando 16.401 eleitores. </p>
 <!-- /wp:paragraph -->

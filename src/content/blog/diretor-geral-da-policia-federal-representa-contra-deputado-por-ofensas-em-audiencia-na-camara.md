@@ -7,8 +7,8 @@ slug: "diretor-geral-da-policia-federal-representa-contra-deputado-por-ofensas-e
 tags:
   - 'nacional'
 wp_id: 6096
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O diretor-geral da Polícia Federal, Andrei Rodrigues, irá apresentar uma representação contra o deputado Marcel Van Hattem (Novo-RS), após ter sido chamado de "prevaricador" pelo parlamentar durante uma audiência na Câmara dos Deputados na última terça-feira. A informação foi reportada pela colunista Mônica Bergamo, da Folha de S.Paulo.</p>
 <!-- /wp:paragraph -->

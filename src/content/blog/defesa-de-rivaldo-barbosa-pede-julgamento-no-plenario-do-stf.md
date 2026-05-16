@@ -7,8 +7,8 @@ slug: "defesa-de-rivaldo-barbosa-pede-julgamento-no-plenario-do-stf"
 tags:
   - 'nacional'
 wp_id: 4646
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A defesa do delegado Rivaldo Barbosa, acusado de ser o mentor do assassinato da vereadora Marielle Franco (Psol-RJ), pediu ao <strong>Supremo Tribunal Federal (STF)</strong> que o julgamento que decidirá se a denúncia da Procuradoria-Geral da República (PGR) contra ele e os irmãos Brazão será aceita seja transferido para o plenário. O caso está previsto para ser julgado pela 1ª Turma da Corte em 18 de junho.</p>
 <!-- /wp:paragraph -->

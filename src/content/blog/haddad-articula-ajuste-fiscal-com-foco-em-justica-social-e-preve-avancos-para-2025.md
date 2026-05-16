@@ -7,8 +7,8 @@ slug: "haddad-articula-ajuste-fiscal-com-foco-em-justica-social-e-preve-avancos-
 wp_id: 6110
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em evento realizado pelo portal Jota em Brasília, o Ministro da Fazenda, Fernando Haddad, detalhou nesta quarta-feira (4/12) as estratégias do governo para equilibrar necessidades fiscais com a proteção dos direitos dos mais vulneráveis. </p>
 <!-- /wp:paragraph -->

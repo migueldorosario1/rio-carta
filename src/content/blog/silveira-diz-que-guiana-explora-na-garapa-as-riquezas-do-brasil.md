@@ -7,8 +7,8 @@ slug: "silveira-diz-que-guiana-explora-na-garapa-as-riquezas-do-brasil"
 tags:
   - 'nacional'
 wp_id: 4532
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante uma entrevista sobre Transição Energética no G20, realizada em Belo Horizonte, o Ministro de Minas e Energia, Alexandre Silveira, expressou sua discordância com a classificação da margem equatorial como "Foz do Amazonas", destacando uma distância de 500 quilômetros entre as regiões. </p>
 <!-- /wp:paragraph -->

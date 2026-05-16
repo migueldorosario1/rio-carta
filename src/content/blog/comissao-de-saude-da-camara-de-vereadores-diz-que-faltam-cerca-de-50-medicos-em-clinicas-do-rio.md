@@ -7,8 +7,8 @@ slug: "comissao-de-saude-da-camara-de-vereadores-diz-que-faltam-cerca-de-50-medi
 wp_id: 722
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Levantamento diz que problema afeta cerca de 150 mil pessoas.</em></strong></p>
 <!-- /wp:paragraph -->

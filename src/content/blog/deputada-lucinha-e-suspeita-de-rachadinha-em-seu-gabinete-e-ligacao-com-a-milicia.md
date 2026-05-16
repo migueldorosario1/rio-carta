@@ -7,8 +7,8 @@ slug: "deputada-lucinha-e-suspeita-de-rachadinha-em-seu-gabinete-e-ligacao-com-a
 wp_id: 3038
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) identificou indícios da prática de rachadinha no gabinete da deputada Lucinha (PSD) na Assembleia Legislativa do Rio de Janeiro (Alerj). </p>
 <!-- /wp:paragraph -->

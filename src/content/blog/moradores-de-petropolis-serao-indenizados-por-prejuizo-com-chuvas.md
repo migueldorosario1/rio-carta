@@ -8,8 +8,8 @@ wp_id: 779
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Foto: reprodução/Diário de Petrópolis</em></p>
 <!-- /wp:paragraph -->

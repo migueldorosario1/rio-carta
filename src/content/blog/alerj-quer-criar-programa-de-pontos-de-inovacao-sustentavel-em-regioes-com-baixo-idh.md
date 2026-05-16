@@ -7,8 +7,8 @@ slug: "alerj-quer-criar-programa-de-pontos-de-inovacao-sustentavel-em-regioes-co
 wp_id: 6691
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa é da deputada Dani Balbi (PCdoB); Ideia é inspirada nos Pontos de Cultura, do governo federal</strong></em></p>
 <!-- /wp:paragraph -->

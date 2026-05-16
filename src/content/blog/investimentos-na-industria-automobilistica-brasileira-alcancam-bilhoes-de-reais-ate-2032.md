@@ -7,8 +7,8 @@ slug: "investimentos-na-industria-automobilistica-brasileira-alcancam-bilhoes-de
 tags:
   - 'nacional'
 wp_id: 4124
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Segundo o <strong><a href="https://valor.globo.com/empresas/noticia/2024/04/06/investimentos-das-montadoras-no-sobem-para-r-11085-bi-com-r-4-bi-da-mitsubishi.ghtml">Valor Econômico</a></strong>, a indústria automobilística brasileira, incluindo as montadoras de carros e veículos comerciais leves, registrou um total acumulado de investimentos de R$ 110,85 bilhões no período de 2021 a 2032.</p>
 <!-- /wp:paragraph -->

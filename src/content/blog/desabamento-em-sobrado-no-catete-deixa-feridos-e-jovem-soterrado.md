@@ -7,8 +7,8 @@ slug: "desabamento-em-sobrado-no-catete-deixa-feridos-e-jovem-soterrado"
 tags:
   - 'catete'
 wp_id: 7556
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A parte dos fundos de um sobrado desabou na Rua Tavares Bastos e deixou feridos, mobilizando equipes dos bombeiros em uma operação delicada ao amanhecer</h3>
 <!-- /wp:heading -->

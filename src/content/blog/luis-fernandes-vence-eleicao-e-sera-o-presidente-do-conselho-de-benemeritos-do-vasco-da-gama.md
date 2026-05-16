@@ -8,8 +8,8 @@ wp_id: 2760
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Fernandes é também o número 2 do Ministério de Ciência e Tecnologia do governo Lula.</strong></em></p>
 <!-- /wp:paragraph -->

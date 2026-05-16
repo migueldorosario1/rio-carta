@@ -7,8 +7,8 @@ slug: "reforma-tributaria-avanca-e-segunda-fase-focara-na-renda"
 tags:
   - 'nacional'
 wp_id: 5712
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Fernando Haddad, Ministro da Fazenda, anunciou que a segunda fase da reforma tributária, concentrada na tributação da renda, será proposta ao Congresso Nacional em 2025. Essa declaração foi feita durante um evento em São Paulo, promovido pelo Itaú. </p>
 <!-- /wp:paragraph -->

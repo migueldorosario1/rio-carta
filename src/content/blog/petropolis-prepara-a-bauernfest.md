@@ -7,8 +7,8 @@ slug: "petropolis-prepara-a-bauernfest"
 wp_id: 428
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><a href="https://www.ofluminense.com.br/cidades/2023/06/1264497-petropolis-prepara-a-bauernfest.html">Com informações de O Fluminense</a></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "prefeito-eduardo-paes-anuncia-proibicao-da-feira-de-acari-no-rio"
 wp_id: 2522
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes, declarou que irá proibir o funcionamento da tradicional Feira de Acari, localizada na Zona Norte da cidade. O anúncio foi feito após uma conversa com o governador Cláudio Castro e será formalizado através de um decreto no Diário Oficial do Município.</p>
 <!-- /wp:paragraph -->

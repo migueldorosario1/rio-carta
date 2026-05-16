@@ -7,8 +7,8 @@ slug: "mauro-cid-faz-nova-revelacao-bombastica-em-delacao-a-pf"
 wp_id: 3343
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma delação premiada reveladora, o tenente-coronel Mauro Cid, ex-ajudante de ordens do ex-presidente Jair Bolsonaro, detalhou à Polícia Federal (PF) a existência de um plano golpista apoiado por um grupo de aliados radicais do ex-presidente.</p>
 <!-- /wp:paragraph -->

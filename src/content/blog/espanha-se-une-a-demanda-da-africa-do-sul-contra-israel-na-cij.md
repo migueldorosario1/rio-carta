@@ -7,8 +7,8 @@ slug: "espanha-se-une-a-demanda-da-africa-do-sul-contra-israel-na-cij"
 tags:
   - 'geopolitica'
 wp_id: 4587
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro espanhol dos Assuntos Exteriores, União Europeia e Cooperação, José Manuel Albares, anunciou nesta quinta-feira, 6, que a Espanha irá se juntar à demanda apresentada pela África do Sul na Corte Internacional de Justiça (CIJ) contra Israel por violação da Convenção contra o Genocídio devido à sua ofensiva militar em Gaza. </p>
 <!-- /wp:paragraph -->

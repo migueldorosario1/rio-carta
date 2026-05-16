@@ -8,8 +8,8 @@ wp_id: 2841
 tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal de Justiça do Rio de Janeiro aceitou a denúncia apresentada pelo Ministério Público do Estado e tornou rés por injúria racial as influenciadoras Kérollen Cunha e Nancy Gonçalves. </p>
 <!-- /wp:paragraph -->

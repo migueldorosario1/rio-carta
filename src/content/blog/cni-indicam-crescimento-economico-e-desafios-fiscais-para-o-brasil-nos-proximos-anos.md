@@ -7,8 +7,8 @@ slug: "cni-indicam-crescimento-economico-e-desafios-fiscais-para-o-brasil-nos-pr
 tags:
   - 'nacional'
 wp_id: 6249
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Confederação Nacional da Indústria (CNI) atualizou suas previsões para a economia brasileira, revelando um cenário de crescimento acompanhado de desafios fiscais significativos. </p>
 <!-- /wp:paragraph -->

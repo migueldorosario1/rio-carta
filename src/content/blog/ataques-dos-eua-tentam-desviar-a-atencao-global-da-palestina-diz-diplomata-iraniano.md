@@ -7,8 +7,8 @@ slug: "ataques-dos-eua-tentam-desviar-a-atencao-global-da-palestina-diz-diplomat
 tags:
   - 'geopolitica'
 wp_id: 2996
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>TASS</strong> - Os ataques dos Estados Unidos ao Iémen, à Síria e ao Iraque são uma tentativa de desviar a atenção da comunidade internacional da situação na Palestina, disse o porta-voz do Ministério dos Negócios Estrangeiros iraniano, Nasser Kanaani, num briefing semanal.</p>
 <!-- /wp:paragraph -->

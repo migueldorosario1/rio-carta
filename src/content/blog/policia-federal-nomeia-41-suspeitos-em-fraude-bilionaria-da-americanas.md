@@ -7,8 +7,8 @@ slug: "policia-federal-nomeia-41-suspeitos-em-fraude-bilionaria-da-americanas"
 tags:
   - 'nacional'
 wp_id: 5073
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal nomeou, nesta segunda-feira, 41 suspeitos de envolvimento na fraude que resultou em um dos maiores pedidos de recuperação judicial da história do Brasil pela Americanas, no início do ano passado. A informação foi revelada em documentos acessados pela Reuters.</p>
 <!-- /wp:paragraph -->

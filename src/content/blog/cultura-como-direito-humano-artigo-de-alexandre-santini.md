@@ -8,8 +8,8 @@ wp_id: 7192
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A 3ª Conferência Mundial sobre Políticas Culturais e Desenvolvimento Sustentável, a Mondiacult, foi realizada na Espanha e culminou com a Declaração de Barcelona</strong></em></p>
 <!-- /wp:paragraph -->

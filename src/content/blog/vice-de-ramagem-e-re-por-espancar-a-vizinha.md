@@ -8,8 +8,8 @@ wp_id: 4903
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Alexandre Ramagem, apoiado por Jair Bolsonaro para a prefeitura do Rio de Janeiro, enfrenta dificuldades na campanha, evidenciadas tanto por sua posição nas pesquisas quanto por controvérsias envolvendo sua vice, Índia Armelau. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "carluxo-chora-nas-redes-por-causa-da-bagunca-deixada-pela-pf-apos-operaca
 wp_id: 2696
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O vereador do Rio de Janeiro, Carlos Bolsonaro (Republicanos), compartilhou um vídeo em suas redes sociais que apresenta o estado de sua residência após uma operação realizada pela Polícia Federal. </p>
 <!-- /wp:paragraph -->

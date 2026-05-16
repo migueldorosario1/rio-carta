@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Licitação está marcada para 19 de dezembro</strong></em>; <strong><em>Moradores defendem expansão para Jacarepaguá em vez do Recreio</em></strong></p>
 <!-- /wp:paragraph -->

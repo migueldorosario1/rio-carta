@@ -7,8 +7,8 @@ slug: "bizarro-criminosos-usam-retroescavadeira-para-roubar-caixa-eletronico-na-
 wp_id: 3098
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Bandidos armados usaram uma retroescavadeira para invadir uma farmácia situada na Avenida Aurora, em Nova Aurora, bairro do subúrbio de Belford Roxo, na baixada fluminense. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-e-eleito-melhor-destino-para-vida-noturna-no-mundo"
 wp_id: 4835
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Rio de Janeiro foi eleito a cidade com a melhor vida noturna do mundo pela revista Time Out Global.</p>
 <!-- /wp:paragraph -->

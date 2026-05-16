@@ -7,8 +7,8 @@ slug: "mega-da-virada-2023-cinco-felizardos-dividirao-recorde-de-r-588-milhoes"
 tags:
   - 'nacional'
 wp_id: 2231
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A ansiedade chegou ao fim com a divulgação dos números vitoriosos da Mega da Virada 2023, que prometeu e entregou um valor estrondoso de R$ 588.891.021,22. Os afortunados dígitos revelados foram 24, 56, 33, 48, 21 e 41. A Caixa Econômica Federal anunciou que o prêmio colossal será dividido entre cinco apostas vencedoras - uma aposta eletrônica, e as demais vindas de Salvador (BA), Bom Despacho (MG), Redenção (PA) e Ipirá (SC). Cada sortudo receberá a impressionante quantia de R$ 117.778.204,25.</p>
 <!-- /wp:paragraph -->

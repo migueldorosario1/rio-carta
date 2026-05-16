@@ -7,8 +7,8 @@ slug: "governador-da-bahia-decreta-luto-oficial-apos-massacre-escolar"
 tags:
   - 'nacional'
 wp_id: 5749
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governador da Bahia, Jerônimo Rodrigues, decretou luto oficial de três dias no estado devido a um trágico incidente ocorrido na tarde de sexta-feira (18) no Colégio Municipal Dom Pedro I, localizado no povoado de Serra dos Correias, em Heliópolis. </p>
 <!-- /wp:paragraph -->

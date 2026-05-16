@@ -8,8 +8,8 @@ wp_id: 4167
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Câmara dos Deputados confirmou a manutenção da prisão de Chiquinho Brazão, ex-deputado pelo Rio de Janeiro, em decisão tomada nesta quarta-feira, 10. </p>
 <!-- /wp:paragraph -->

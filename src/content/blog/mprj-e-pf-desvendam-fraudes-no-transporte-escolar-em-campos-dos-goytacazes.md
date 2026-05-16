@@ -7,8 +7,8 @@ slug: "mprj-e-pf-desvendam-fraudes-no-transporte-escolar-em-campos-dos-goytacaze
 wp_id: 1866
 tags:
   - 'campos-dos-goytacazes'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Operação conjunta entre o Ministério Público do Rio (MPRJ) e a Polícia Federal (PF) busca desmantelar esquema de fraude no transporte escolar em Campos dos Goytacazes. Quatorze mandados de busca e apreensão foram cumpridos em diversos bairros, atingindo políticos, servidores da Secretaria Estadual de Educação e empresários do setor.</em></strong></p>
 <!-- /wp:paragraph -->

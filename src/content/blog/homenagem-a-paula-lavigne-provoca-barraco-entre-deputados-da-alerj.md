@@ -7,8 +7,8 @@ slug: "homenagem-a-paula-lavigne-provoca-barraco-entre-deputados-da-alerj"
 wp_id: 1188
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa da Medalha Tiradentes partiu da deputada Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

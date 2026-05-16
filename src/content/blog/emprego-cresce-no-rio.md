@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 As cidades da região metropolitana do Rio de Janeiro registraram um ambiente positivo no mercado de trabalho em julho, de acordo com números recentes do Cadastro Geral de Empregados e Desempregados (Novo CAGED). No total, foram criadas 91.400 novas oportunidades de trabalho, com um saldo líquido de 8.593 vagas após 82.807 demissões.
 
 Comparando com o mês anterior, houve uma pequena diminuição de 0,67% nas contratações, que haviam totalizado 92.020 em junho.

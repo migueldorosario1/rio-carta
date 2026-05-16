@@ -7,8 +7,8 @@ slug: "mae-de-aluna-do-colegio-na-barra-denuncia-alunos-responsaveis-por-nudes-f
 wp_id: 1778
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Uma mãe de uma das alunas do Colégio Santo Agostinho, na Barra da Tijuca, Rio de Janeiro, denunciou que um dos alunos supostamente envolvidos na divulgação de nudes falsos de colegas teria afirmado que não seria punido "porque é branco e rico". Cerca de 25 meninas teriam tido suas imagens editadas por meio de inteligência artificial. A mãe está preocupada com o uso dessas imagens em plataformas de conteúdo adulto e acredita que os responsáveis deveriam ser expulsos do colégio.</em></p>
 <!-- /wp:paragraph -->

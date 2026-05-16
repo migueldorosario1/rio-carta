@@ -7,8 +7,8 @@ slug: "o-alerta-de-xandao-24-horas-apos-o-ato-pro-bolsonaro-na-paulista"
 tags:
   - 'nacional'
 wp_id: 3498
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, emitiu um alerta às forças democráticas do país, enfatizando a importância de manter a vigilância para evitar possíveis ameaças à democracia.</p>
 <!-- /wp:paragraph -->

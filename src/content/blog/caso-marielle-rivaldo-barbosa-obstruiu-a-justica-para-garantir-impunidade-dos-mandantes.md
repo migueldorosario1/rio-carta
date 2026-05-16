@@ -7,8 +7,8 @@ slug: "caso-marielle-rivaldo-barbosa-obstruiu-a-justica-para-garantir-impunidade
 wp_id: 3949
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma operação coordenada realizada neste domingo, a Polícia Federal e o Grupo de Atuação Especial no Combate ao Crime Organizado (Gaeco) efetuaram a prisão de três figuras-chave: Domingos Brazão, membro do Tribunal de Contas do Estado (TCE), seu irmão, o deputado federal Chiquinho Brazão, e Rivaldo Barbosa, delegado da Polícia Civil do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

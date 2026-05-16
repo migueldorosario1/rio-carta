@@ -7,8 +7,8 @@ slug: "datena-fala-sobre-cadeirada-em-marcal-durante-debate"
 wp_id: 5241
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>José Luiz Datena, candidato à prefeitura de São Paulo pelo PSDB, explicou as razões por trás da agressão a Pablo Marçal durante um debate televisivo. </p>
 <!-- /wp:paragraph -->

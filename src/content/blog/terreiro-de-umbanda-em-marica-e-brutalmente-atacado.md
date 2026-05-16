@@ -7,8 +7,8 @@ slug: "terreiro-de-umbanda-em-marica-e-brutalmente-atacado"
 wp_id: 4761
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na madrugada deste sábado (13), o Centro Espírita Axé das Almas, localizado no bairro de Itaipuaçu, em Maricá, região metropolitana do Rio de Janeiro, sofreu um ataque que resultou em depredações e incêndio. O incidente levantou suspeitas de motivação por intolerância religiosa, conforme indicado pela destruição de imagens e utensílios específicos do espaço religioso.</p>
 <!-- /wp:paragraph -->

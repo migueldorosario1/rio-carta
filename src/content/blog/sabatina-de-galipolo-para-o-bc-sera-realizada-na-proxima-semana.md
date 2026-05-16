@@ -7,8 +7,8 @@ slug: "sabatina-de-galipolo-para-o-bc-sera-realizada-na-proxima-semana"
 wp_id: 4972
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A sabatina do indicado para a presidência do Banco Central, Gabriel Galípolo, está agendada para a próxima terça-feira, 10, na Comissão de Assuntos Econômicos (CAE), conforme informado pelo ministro da Secretaria de Relações Internacionais, Alexandre Padilha.</p>
 <!-- /wp:paragraph -->

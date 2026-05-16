@@ -7,8 +7,8 @@ slug: "relacoes-brasil-china-alcancam-melhor-momento-com-novos-acordos-afirma-ex
 tags:
   - 'geopolitica'
 wp_id: 6085
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O vice-presidente de Assuntos Institucionais da Vale, Alexandre D’Ambrosio, destacou em entrevista ao Brasil 247 que as relações entre Brasil e China estão vivendo seu melhor momento histórico, impulsionadas pela recente visita de Estado do presidente chinês, Xi Jinping, ao Brasil. </p>
 <!-- /wp:paragraph -->

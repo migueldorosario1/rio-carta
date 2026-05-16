@@ -7,8 +7,8 @@ slug: "marica-corta-burocracia-e-atrai-novos-investidores"
 wp_id: 7175
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Em setembro, a cidade reduziu pela metade o tempo para abrir empresas e entrou no top 5 do Estado em análise de viabilidade</h3>
 <!-- /wp:heading -->

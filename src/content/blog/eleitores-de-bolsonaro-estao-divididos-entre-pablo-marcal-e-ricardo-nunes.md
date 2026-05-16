@@ -7,8 +7,8 @@ slug: "eleitores-de-bolsonaro-estao-divididos-entre-pablo-marcal-e-ricardo-nunes
 wp_id: 5355
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Pesquisa Datafolha divulgada nesta quinta-feira (19) revela que os eleitores de Jair Bolsonaro (PL) estão divididos entre o influenciador Pablo Marçal (PRTB) e o prefeito de São Paulo, Ricardo Nunes (MDB), que conta com o apoio oficial do ex-presidente.</p>
 <!-- /wp:paragraph -->

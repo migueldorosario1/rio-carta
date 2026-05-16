@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-cria-programa-de-descoberta-precoce-do-autismo"
 wp_id: 872
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Lei vai auxiliar na eficácia do tratamento</em></strong></p>
 <!-- /wp:paragraph -->

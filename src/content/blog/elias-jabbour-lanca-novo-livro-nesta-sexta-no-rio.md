@@ -7,8 +7,8 @@ slug: "elias-jabbour-lanca-novo-livro-nesta-sexta-no-rio"
 tags:
   - 'rio-de-janeiro'
 wp_id: 7735
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>"Poder e Socialismo: governança, classes, ciência e projetamento na China" será lançado na próxima sexta-feira (13), às 19h, no Clube de Engenharia do Brasil</em></strong></p>
 <!-- /wp:paragraph -->

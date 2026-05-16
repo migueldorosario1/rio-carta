@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Deputadas do Rio Dani Balbi (PCdoB) e Dani Monteiro (PSOL) participaram do lançamento da bancada e de uma carta com as diretrizes do movimento</strong></em></p>
 <!-- /wp:paragraph -->

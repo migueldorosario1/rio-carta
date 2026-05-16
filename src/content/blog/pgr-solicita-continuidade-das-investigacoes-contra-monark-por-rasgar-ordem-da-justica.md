@@ -7,8 +7,8 @@ slug: "pgr-solicita-continuidade-das-investigacoes-contra-monark-por-rasgar-orde
 tags:
   - 'nacional'
 wp_id: 4323
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Procurador-Geral da República, Paulo Gonet, pediu à Polícia Federal aprofundamento nas investigações sobre o youtuber Bruno Monteiro Aiub, conhecido como Monark. </p>
 <!-- /wp:paragraph -->

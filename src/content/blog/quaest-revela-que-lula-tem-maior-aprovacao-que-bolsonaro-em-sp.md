@@ -7,8 +7,8 @@ slug: "quaest-revela-que-lula-tem-maior-aprovacao-que-bolsonaro-em-sp"
 wp_id: 4722
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa da Quaest, divulgada nesta quarta-feira (26), revelou que 28% dos eleitores de São Paulo avaliam positivamente o governo do presidente Luiz Inácio Lula da Silva (PT). Conforme os dados, 33% dos entrevistados consideram a gestão negativa, enquanto 35% a classificam como regular. Outros 3% não responderam.</p>
 <!-- /wp:paragraph -->

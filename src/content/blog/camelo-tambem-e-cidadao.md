@@ -7,8 +7,8 @@ slug: "camelo-tambem-e-cidadao"
 wp_id: 548
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <em>Por Edson Santos, vereador pelo Rio de Janeiro, pelo Partidos dos Trabalhadores&nbsp;</em>
 
 Entre arranha-céus, favelas, praias lotadas e paisagens naturais deslumbrantes, o Rio de Janeiro abriga uma figura resiliente, constante, e ao mesmo tempo quase invisível para o poder público. Falo do vendedor ambulante, chamado carinhosamente pelos cariocas de "camelô", que comercializa por toda a cidade uma variedade infinita de produtos, desde alimentos até roupas e artesanato.

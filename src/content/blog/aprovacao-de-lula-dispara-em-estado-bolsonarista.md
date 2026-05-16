@@ -7,8 +7,8 @@ slug: "aprovacao-de-lula-dispara-em-estado-bolsonarista"
 tags:
   - 'nacional'
 wp_id: 3300
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa conduzida pelo Instituto de Pesquisa em Reputação e Imagem (Ipri), a pedido da Secretaria de Comunicação (Secom) da Presidência e operacionalizada pela Agência FSB, revela um aumento significativo na popularidade do presidente Lula no Mato Grosso, um importante centro do agronegócio brasileiro.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "tragedia-na-barra-irmao-de-deputada-federal-e-assassinado"
 wp_id: 1501
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na madrugada de quinta-feira (5) na Barra da Tijuca, no Rio de Janeiro, um ataque brutal chocou a cidade. Três médicos foram vítimas de homicídio e um quarto médico ficou gravemente ferido em um episódio que ocorreu em um quiosque, com duração de menos de 30 segundos. As imagens das câmeras de segurança do estabelecimento registraram toda a ação, que se desenrolou à 0h59.<br><br><a href="https://x.com/riocartanoticia/status/1709959323583943069?s=20">https://x.com/riocartanoticia/status/1709959323583943069?s=20</a></p>
 <!-- /wp:paragraph -->

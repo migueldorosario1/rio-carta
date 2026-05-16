@@ -7,8 +7,8 @@ slug: "mulher-e-presa-no-rio-por-levar-cadaver-a-banco-para-liberar-emprestimo"
 wp_id: 4226
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No Rio de Janeiro, uma mulher foi presa após levar um homem morto a um banco para solicitar um empréstimo. A defesa de Érika de Souza afirma que a vítima estava viva ao chegar ao local, mas socorristas chamados para o local constataram o óbito, conforme reportagem do <strong><a href="https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/04/17/advogada-mulher-presa-idoso-banco-rio.htm">UOL</a></strong>.</p>
 <!-- /wp:paragraph -->

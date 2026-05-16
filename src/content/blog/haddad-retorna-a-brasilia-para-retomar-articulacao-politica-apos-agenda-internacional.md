@@ -7,8 +7,8 @@ slug: "haddad-retorna-a-brasilia-para-retomar-articulacao-politica-apos-agenda-i
 wp_id: 4606
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Após uma série de compromissos em São Paulo e na Europa, o Ministro da Fazenda, Fernando Haddad, está de volta a Brasília. </p>
 <!-- /wp:paragraph -->

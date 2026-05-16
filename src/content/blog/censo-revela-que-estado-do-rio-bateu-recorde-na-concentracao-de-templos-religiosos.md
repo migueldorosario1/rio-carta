@@ -8,8 +8,8 @@ wp_id: 2939
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Censo 2022 divulgado na última sexta-feira evidencia que o Brasil possui um número maior de estabelecimentos religiosos em comparação com os destinados à educação e saúde.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "haddad-cancela-viagem-a-europa-para-focar-em-crise-fiscal-e-cambial"
 wp_id: 5959
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Fazenda, Fernando Haddad, cancelou sua programada viagem à Europa que iniciaria nesta segunda-feira (4), a fim de concentrar esforços na resolução de questões fiscais e cambiais urgentes no Brasil. </p>
 <!-- /wp:paragraph -->

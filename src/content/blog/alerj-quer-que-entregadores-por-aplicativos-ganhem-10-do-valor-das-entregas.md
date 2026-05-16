@@ -7,8 +7,8 @@ slug: "alerj-quer-que-entregadores-por-aplicativos-ganhem-10-do-valor-das-entreg
 wp_id: 6721
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa da deputada Dani Balbi (PCdoB) prevê ainda uma taxa mínima de R$ 10,00 por serviço para os entregadores</strong></em></p>
 <!-- /wp:paragraph -->

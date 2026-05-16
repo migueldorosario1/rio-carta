@@ -7,8 +7,8 @@ slug: "brics-rio-sera-o-palco-da-nova-ordem-mundial"
 wp_id: 6839
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Pela primeira vez, a sociedade civil participa diretamente das negociações do BRICS, em um encontro histórico no Palácio Itamaraty, no Rio de Janeiro</h3>
 <!-- /wp:heading -->

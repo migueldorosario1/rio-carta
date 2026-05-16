@@ -7,8 +7,8 @@ slug: "lula-e-pedro-sanchez-organizam-evento-na-onu-para-discutir-democracia-e-e
 tags:
   - 'geopolitica'
 wp_id: 5310
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Brasil, Luiz Inácio Lula da Silva, juntamente com o chefe de governo da Espanha, Pedro Sánchez, convocaram uma mesa-redonda para discutir a defesa da democracia e o combate ao extremismo. </p>
 <!-- /wp:paragraph -->

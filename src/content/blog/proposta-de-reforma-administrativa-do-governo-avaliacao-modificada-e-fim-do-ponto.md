@@ -7,8 +7,8 @@ slug: "proposta-de-reforma-administrativa-do-governo-avaliacao-modificada-e-fim-
 wp_id: 2453
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governo de Luiz Inácio Lula da Silva está debatendo uma Reforma Administrativa própria, buscando evitar a continuidade do modelo proposto durante o governo de Jair Bolsonaro em 2020, defendido pelo presidente da Câmara, Arthur Lira (PP-AL).</p>
 <!-- /wp:paragraph -->

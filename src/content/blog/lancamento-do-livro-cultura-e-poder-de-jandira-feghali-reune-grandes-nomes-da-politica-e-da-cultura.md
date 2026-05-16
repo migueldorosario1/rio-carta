@@ -7,8 +7,8 @@ slug: "lancamento-do-livro-cultura-e-poder-de-jandira-feghali-reune-grandes-nome
 tags:
   - 'politica-rj'
 wp_id: 6894
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Evento na Livraria da Travessa, em Ipanema, celebrou a estreia da deputada como escritora</h3>
 <!-- /wp:heading -->

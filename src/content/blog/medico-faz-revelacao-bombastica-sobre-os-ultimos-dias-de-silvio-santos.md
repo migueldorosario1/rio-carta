@@ -7,8 +7,8 @@ slug: "medico-faz-revelacao-bombastica-sobre-os-ultimos-dias-de-silvio-santos"
 tags:
   - 'nacional'
 wp_id: 4877
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nos dias finais de sua vida, Silvio Santos recebeu intensos cuidados no Hospital Albert Einstein, em São Paulo, segundo o geriatra Victor Dornelas. </p>
 <!-- /wp:paragraph -->

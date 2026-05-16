@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:41Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "cedae", "abastecimento", "manutencao", "capital", "regiao-metropolitana", "botafogo", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150705-bairros-de-nova-iguacu-podem-ter-abastecimento-afetado-por-manutencao-da-cedae.jpg"
+categoria_macro: lazer
 ---
 A Cedae informou que a produção de água no Sistema Tinguá será reduzida para 40% da capacidade nesta quinta-feira (14/05), por causa de uma ação de melhoria em uma unidade de tratamento.
 

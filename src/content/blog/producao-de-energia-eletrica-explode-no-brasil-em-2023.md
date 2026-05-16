@@ -7,8 +7,8 @@ slug: "producao-de-energia-eletrica-explode-no-brasil-em-2023"
 tags:
   - 'nacional'
 wp_id: 2981
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Brasil bateu recorde de geração de energia limpa em 2023, com 93,1% de toda a energia gerada vindo de fontes renováveis. Os dados são da Câmara de Comercialização de Energia Elétrica (CCEE) e foram divulgados nesta sexta-feira.</p>
 <!-- /wp:paragraph -->

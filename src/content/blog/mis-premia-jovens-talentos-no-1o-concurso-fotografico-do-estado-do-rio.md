@@ -7,8 +7,8 @@ slug: "mis-premia-jovens-talentos-no-1o-concurso-fotografico-do-estado-do-rio"
 wp_id: 7579
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Essa é a primeira iniciativa da Fototeca Estadual do RJ, equipamento criado por lei da deputada Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

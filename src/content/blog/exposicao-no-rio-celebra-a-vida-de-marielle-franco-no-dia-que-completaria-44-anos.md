@@ -7,8 +7,8 @@ slug: "exposicao-no-rio-celebra-a-vida-de-marielle-franco-no-dia-que-completaria
 tags:
   - 'rio-capital-zona-sul-grande-tijuca'
 wp_id: 926
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma comovente homenagem, o Instituto Marielle Franco lançou uma exposição fotográfica e uma fotobiografia da vereadora Marielle Franco, no dia em que ela completaria 44 anos. A mostra intitulada 'Celebrando a Vida de Marielle Franco' foi realizada no Centro de Artes, localizado no Complexo da Maré, relembrando a trajetória política e pessoal da parlamentar, que foi brutalmente assassinada em 2018.</p>
 <!-- /wp:paragraph -->

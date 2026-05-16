@@ -8,8 +8,8 @@ wp_id: 4782
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta segunda-feira, 22, o Partido Liberal (PL) oficializou a candidatura de Alexandre Ramagem para a Prefeitura do Rio de Janeiro. O anúncio foi feito durante a convenção do partido, um procedimento necessário para validar a candidatura perante a Justiça Eleitoral. </p>
 <!-- /wp:paragraph -->

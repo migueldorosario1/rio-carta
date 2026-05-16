@@ -7,8 +7,8 @@ slug: "camara-do-rio-promove-semana-especial-para-discutir-politicas-culturais"
 wp_id: 1039
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Câmara Municipal do Rio de Janeiro abrirá suas portas para uma semana dedicada à cultura, com o evento "Semana das Culturas Urbanas e Populares", organizado pela Comissão Permanente de Cultura. Entre os dias 7 e 11 de agosto, o Palácio Pedro Ernesto será palco de mesas de debate, rodas de conversa, exposição e oficinas de capacitação, tudo de forma gratuita e aberta ao público.</p>
 <!-- /wp:paragraph -->

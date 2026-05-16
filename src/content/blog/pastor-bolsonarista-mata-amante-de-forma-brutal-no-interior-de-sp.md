@@ -7,8 +7,8 @@ slug: "pastor-bolsonarista-mata-amante-de-forma-brutal-no-interior-de-sp"
 tags:
   - 'nacional'
 wp_id: 3861
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No interior de São Paulo, em Americana, Hélio Leonardo Neto, 47 anos, gerente de uma rede de postos de combustíveis e casado com a pastora de uma igreja local, foi preso pela Polícia Civil. </p>
 <!-- /wp:paragraph -->

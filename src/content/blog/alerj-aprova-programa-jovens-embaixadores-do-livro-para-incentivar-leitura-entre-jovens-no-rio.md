@@ -7,8 +7,8 @@ slug: "alerj-aprova-programa-jovens-embaixadores-do-livro-para-incentivar-leitur
 wp_id: 7738
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>De iniciativa da deputada Dani Balbi (PCdoB), a Assembleia Legislativa do Estado do Rio de Janeiro aprovou nesta quinta-feira (12) o projeto de lei que cria o Programa Jovens Embaixadores do Livro no estado, voltado à formação de jovens mediadores de leitura e à ampliação do acesso à literatura.</strong></em></p>
 <!-- /wp:paragraph -->

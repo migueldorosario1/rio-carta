@@ -7,8 +7,8 @@ slug: "polarizacao-politica-molda-cenarios-globais-e-alimenta-tensoes-contempora
 wp_id: 5456
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A polarização política tem sido um motor de desenvolvimento e conflito em grandes nações ao longo da história, desempenhando um papel crucial no crescimento de países como os EUA, Inglaterra, Alemanha, China e Itália. </p>
 <!-- /wp:paragraph -->

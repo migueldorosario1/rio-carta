@@ -8,8 +8,8 @@ wp_id: 4937
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>“Sem transporte público gratuito, o desempregado não consegue nem sair de casa para conseguir emprego”, diz a candidata Rafaela Albergaria (PCdoB) que disputa uma vaga na Câmara do Rio de Janeiro.</strong></em></p>
 <!-- /wp:paragraph -->

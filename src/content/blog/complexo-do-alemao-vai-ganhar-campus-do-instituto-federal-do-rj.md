@@ -7,8 +7,8 @@ slug: "complexo-do-alemao-vai-ganhar-campus-do-instituto-federal-do-rj"
 wp_id: 887
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Governo Lula investe em educação de qualidade em uma das principais favelas do Rio de Janeiro</strong></em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 5595
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A vereadora Thais Ferreira (PSOL), que atualmente concorre à reeleição na Câmara Municipal do Rio de Janeiro, denunciou que está sendo alvo de ataques por parte de seu ex-marido, que incluem estratégias de alienação parental envolvendo os dois filhos do casal. </p>
 <!-- /wp:paragraph -->

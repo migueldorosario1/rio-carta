@@ -7,8 +7,8 @@ slug: "pm-e-preso-com-cem-quilos-de-drogas-durante-operacao-conjunta-no-rio"
 wp_id: 1550
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O sargento Yuri Luiz Desiderati Ribeiro, lotado no 21º Batalhão da Polícia Militar (BPM) em São João de Meriti, foi preso em flagrante na última segunda-feira, durante uma operação conjunta das Polícias Civil e Militar no Rio de Janeiro. Ribeiro foi detido quando transportava cem quilos de drogas enquanto passava pela Avenida Brasil, na altura da Rodovia Washington Luiz.</em></strong></p>
 <!-- /wp:paragraph -->

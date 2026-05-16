@@ -8,8 +8,8 @@ wp_id: 1288
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>PL é de autoria do deputado estadual Anderson Moraes (PL)</em></strong></p>
 <!-- /wp:paragraph -->

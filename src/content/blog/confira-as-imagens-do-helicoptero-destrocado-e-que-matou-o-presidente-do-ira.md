@@ -7,8 +7,8 @@ slug: "confira-as-imagens-do-helicoptero-destrocado-e-que-matou-o-presidente-do-
 tags:
   - 'geopolitica'
 wp_id: 4480
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente iraniano Ebrahim Raisi foi morto em um acidente de helicóptero ocorrido ontem. Relatórios indicam que o helicóptero colidiu com uma montanha antes de cair, resultado das condições climáticas severas e da neblina.</p>
 <!-- /wp:paragraph -->

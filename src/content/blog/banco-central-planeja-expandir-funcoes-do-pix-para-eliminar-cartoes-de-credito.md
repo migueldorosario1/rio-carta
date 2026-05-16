@@ -7,8 +7,8 @@ slug: "banco-central-planeja-expandir-funcoes-do-pix-para-eliminar-cartoes-de-cr
 tags:
   - 'nacional'
 wp_id: 5550
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Banco Central, Roberto Campos Neto, anunciou nesta quinta-feira que as evoluções planejadas para o Pix poderão, no futuro, permitir que a ferramenta de pagamento instantâneo desempenhe funções semelhantes às dos cartões de crédito, com a vantagem de custos mais baixos. </p>
 <!-- /wp:paragraph -->

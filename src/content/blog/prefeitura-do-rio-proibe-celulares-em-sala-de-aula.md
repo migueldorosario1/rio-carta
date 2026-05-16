@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-proibe-celulares-em-sala-de-aula"
 wp_id: 1054
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira, o prefeito do Rio de Janeiro, Eduardo Paes, publicou um decreto que regulamenta o uso de celulares e dispositivos tecnológicos nas escolas municipais. A decisão visa "estabelecer diretrizes para o uso consciente e responsável dessas tecnologias". As novas regras entram em vigor imediatamente e têm como objetivo principal combater o que é chamado de "epidemia de distrações" causada pelo uso excessivo de celulares em ambiente escolar.</p>
 <!-- /wp:paragraph -->

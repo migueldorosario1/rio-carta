@@ -8,8 +8,8 @@ wp_id: 5572
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->

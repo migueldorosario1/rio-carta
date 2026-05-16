@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "pirai", "saude-da-mulher", "programa-de-saude", "reconhecimento-nacional", "ministerio-da-saude", "fiocruz", "sul-fluminense", "sul-fluminense-costa-verde", "oswaldo-cruz", "comunidade", "saude", "educacao"]
 heroImage: "/hero/smoke-smoke-202605130905-pirai-recebe-reconhecimento-nacional-por-programa-de-saude-da-mulher.jpeg"
+categoria_macro: geral
 ---
 Piraí – A Secretaria Municipal de Saúde de Piraí recebeu, nesta semana, um reconhecimento nacional do Ministério da Saúde e da Fundação Oswaldo Cruz pela experiência desenvolvida no município com a implantação do Programa de Inserção do Implante Hormonal Subdérmico na Atenção Primária.
 

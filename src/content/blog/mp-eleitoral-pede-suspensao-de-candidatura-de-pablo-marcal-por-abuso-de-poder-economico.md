@@ -7,8 +7,8 @@ slug: "mp-eleitoral-pede-suspensao-de-candidatura-de-pablo-marcal-por-abuso-de-p
 wp_id: 4894
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público Eleitoral (MPE) entrou com uma ação na Justiça Eleitoral contra Pablo Marçal, candidato do PRTB à Prefeitura de São Paulo, acusando-o de abuso de poder econômico. </p>
 <!-- /wp:paragraph -->

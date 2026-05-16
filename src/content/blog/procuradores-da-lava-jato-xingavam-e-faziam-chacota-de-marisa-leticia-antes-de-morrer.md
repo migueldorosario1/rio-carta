@@ -7,8 +7,8 @@ slug: "procuradores-da-lava-jato-xingavam-e-faziam-chacota-de-marisa-leticia-ant
 tags:
   - 'nacional'
 wp_id: 3783
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Informações divulgadas pela revista <strong>Piauí</strong> revelam uma série de mensagens trocadas entre procuradores que buscavam aproximação com a equipe da <strong>Operação Lava Jato</strong>, liderada por <strong>Deltan Dallagnol</strong>, contendo ofensas dirigidas a personalidades públicas, incluindo a ex-primeira-dama <strong>Marisa Letícia</strong> e a ministra do Supremo Tribunal Federal (STF), <strong>Cármen Lúcia</strong>.</p>
 <!-- /wp:paragraph -->

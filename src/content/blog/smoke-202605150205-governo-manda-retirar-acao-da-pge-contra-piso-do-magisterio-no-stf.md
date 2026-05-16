@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:29Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "palacio-guanabara", "piso-do-magisterio", "educacao", "politica-rj", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605150205-governo-manda-retirar-acao-da-pge-contra-piso-do-magisterio-no-stf.png"
+categoria_macro: politica
 ---
 O debate sobre a recomposição salarial dos profissionais da educação colocou o Palácio Guanabara e a Assembleia Legislativa do Rio de Janeiro (Alerj) no centro de uma nova articulação em torno do piso nacional do magistério.
 

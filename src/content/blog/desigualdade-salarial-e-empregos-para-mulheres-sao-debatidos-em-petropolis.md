@@ -7,8 +7,8 @@ slug: "desigualdade-salarial-e-empregos-para-mulheres-sao-debatidos-em-petropoli
 wp_id: 6740
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Seminário aconteceu no último sábado, 29, e contou com a participação de figuras importantes do cenário político e social da cidade e do estado</strong></em></p>
 <!-- /wp:paragraph -->

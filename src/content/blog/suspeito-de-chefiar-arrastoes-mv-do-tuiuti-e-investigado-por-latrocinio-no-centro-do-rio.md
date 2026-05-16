@@ -8,8 +8,8 @@ wp_id: 2144
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Civil do Rio de Janeiro está investigando Marcos Vinicius Pereira Paiano, conhecido como "MV do Tuiuti", de 21 anos, por seu envolvimento em um latrocínio no Centro do Rio e por chefiar grupos de arrastões em Copacabana, Zona Sul da cidade. "MV", com um histórico de mais de 10 anotações criminais por furto e roubo, foi preso nesta quarta-feira (13) e é suspeito de participar do assalto que resultou na morte de Leonardo Alves Quintanilha, 28 anos, assistente de imigração.</p>
 <!-- /wp:paragraph -->

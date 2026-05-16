@@ -7,8 +7,8 @@ slug: "eduardo-paes-quer-passar-terreirao-do-samba-para-gestao-privada"
 tags:
   - 'centro'
 wp_id: 1149
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Privatização do equipamento público causa apreensão no mundo do samba</strong></em></p>
 <!-- /wp:paragraph -->

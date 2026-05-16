@@ -7,8 +7,8 @@ slug: "silvio-tendler-lanca-filme-sobre-blogosfera-no-rio-nesta-sexta-feira-27-1
 wp_id: 1684
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento é organizado pelo Centro de Estudos da Mídia Alternativa Barão de Itararé e acontecerá na Casa de Rui Barbosa</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "movimento-pede-demissao-de-presidente-do-inpi-por-dei-washing"
 tags:
   - 'nacional'
 wp_id: 6924
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Estopim foi a demissão da ex-coordenadora do Comitê de Diversidade do Instituto Nacional da Propriedade Industrial </em></strong></p>
 <!-- /wp:paragraph -->

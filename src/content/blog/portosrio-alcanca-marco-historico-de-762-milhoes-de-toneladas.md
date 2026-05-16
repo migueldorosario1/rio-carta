@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">PortosRio celebra um crescimento expressivo de 13,9% na movimentação de cargas, destacando os portos do Rio de Janeiro e Itaguaí como protagonistas do setor</h4>
 <!-- /wp:heading -->

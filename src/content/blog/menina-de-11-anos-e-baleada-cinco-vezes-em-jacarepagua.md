@@ -7,8 +7,8 @@ slug: "menina-de-11-anos-e-baleada-cinco-vezes-em-jacarepagua"
 wp_id: 7319
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Uma menina de 11 anos foi atingida por cinco tiros em um atentado em Jacarepaguá. O pai, suposto miliciano, era o alvo; a mãe também foi ferida</h3>
 <!-- /wp:heading -->

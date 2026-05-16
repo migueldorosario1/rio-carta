@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-apoia-discurso-de-lula-na-cupula-do-futuro-em-nova-york"
 tags:
   - 'nacional'
 wp_id: 5391
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do PT, Gleisi Hoffmann, manifestou seu apoio às declarações do presidente Luiz Inácio Lula da Silva durante a Cúpula do Futuro, evento que precedeu a 79ª Assembleia Geral da ONU, em Nova York. </p>
 <!-- /wp:paragraph -->

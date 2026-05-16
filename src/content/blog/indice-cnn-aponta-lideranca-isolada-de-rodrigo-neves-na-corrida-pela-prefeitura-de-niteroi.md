@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Foi divulgada nesta quarta-feira, 28, a projeção do "Índice CNN", elaborado pela CNN Brasil em parceria com o instituto Ipespe Analítica, na disputa eleitoral para a prefeitura de Niterói (RJ). </p>
 <!-- /wp:paragraph -->

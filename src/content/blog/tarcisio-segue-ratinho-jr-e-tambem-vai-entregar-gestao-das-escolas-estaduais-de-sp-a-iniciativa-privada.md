@@ -7,8 +7,8 @@ slug: "tarcisio-segue-ratinho-jr-e-tambem-vai-entregar-gestao-das-escolas-estadu
 tags:
   - 'nacional'
 wp_id: 4651
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governador de São Paulo, Tarcísio de Freitas (Republicanos), deu sinal verde para a abertura de um processo licitatório que delegará à iniciativa privada a responsabilidade pelos serviços administrativos e de manutenção de 33 escolas. </p>
 <!-- /wp:paragraph -->

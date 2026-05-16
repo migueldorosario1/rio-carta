@@ -7,8 +7,8 @@ slug: "religiosos-de-todas-as-crencas-poderao-ter-acesso-livre-as-instituicoes-d
 wp_id: 5655
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Objetivo da nova lei é garantir que instituições sociais não possam impedir a entrada de pessoas que pertencem a religiões de matriz africana como acontece atualmente</em></strong></p>
 <!-- /wp:paragraph -->

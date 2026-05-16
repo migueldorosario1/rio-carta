@@ -7,8 +7,8 @@ slug: "pesquisa-revela-que-mais-de-80-das-empresas-estrangeiras-estao-satisfeita
 tags:
   - 'geopolitica'
 wp_id: 2752
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Mais de 80% das empresas com fundos estrangeiros na China são satisfeitas com o ambiente de negócios do país, de acordo com uma pesquisa divulgada nesta terça-feira.</p>
 <!-- /wp:paragraph -->

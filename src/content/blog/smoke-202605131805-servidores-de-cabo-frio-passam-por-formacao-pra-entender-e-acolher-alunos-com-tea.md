@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "educacao", "tea", "autismo", "formacao-professores", "macae-norte-fluminense", "norte-fluminense", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131805-servidores-de-cabo-frio-passam-por-formacao-pra-entender-e-acolher-alunos-com-tea.jpeg"
+categoria_macro: politica
 ---
 A Prefeitura de Cabo Frio realizou, na segunda-feira (11), a aula inaugural da formação “AutismoS Presente”, voltada à capacitação de profissionais da rede municipal de ensino para o atendimento de estudantes com Transtorno do Espectro Autista. O encontro aconteceu no auditório da Secretaria de Educação, no bairro Jardim Flamboyant, reunindo servidores que atuam diretamente nas unidades escolares do município.
 

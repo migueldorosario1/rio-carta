@@ -7,8 +7,8 @@ slug: "homem-morto-no-rio-por-brigadeirao-envenenado-foi-alertado-pelos-amigos-s
 wp_id: 4582
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Júlia Andrade Cathermol Pimenta, de 29 anos, é apontada como a principal suspeita de assassinar o namorado Luiz Marcelo Antônio Ormond, de 44, ao supostamente oferecer-lhe um brigadeirão envenenado com morfina.</p>
 <!-- /wp:paragraph -->

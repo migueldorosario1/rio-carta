@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:07:27Z"
 draft: false
 tags: ["rio-de-janeiro", "uff", "universidade-federal-fluminense", "niteroi", "regiao-metropolitana", "educacao", "sao-goncalo-itaborai", "sao-goncalo", "comunidade", "itaborai"]
 heroImage: "/hero/smoke-smoke-202605151805-eleicoes-na-uff-roberto-salles-e-luciana-freitas-chegam-ao-segundo-turno-com-ampla-vantagem.jpg"
+categoria_macro: geral
 ---
 Chapa 2 lidera a disputa com 47,08% dos votos da comunidade universitária
 

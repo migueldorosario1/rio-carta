@@ -7,8 +7,8 @@ slug: "madonna-chega-ao-rio-para-unica-apresentacao-na-america-do-sul"
 wp_id: 4374
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Madonna desembarcou no aeroporto do Galeão às 10h desta segunda-feira. </p>
 <!-- /wp:paragraph -->

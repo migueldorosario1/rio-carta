@@ -8,8 +8,8 @@ wp_id: 2269
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Rio de Janeiro foi colocado no Estágio 3 de alerta às 20h55 de quarta-feira, devido a chuvas intensas que ultrapassaram os 30mm/1h em várias áreas, incluindo Anchieta, Irajá e Bangu. Este nível de alerta indica ocorrências já impactando a rotina da cidade e a possibilidade de agravamento das condições.</p>
 <!-- /wp:paragraph -->

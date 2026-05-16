@@ -7,8 +7,8 @@ slug: "ministro-das-comunicacoes-anuncia-investigacao-sobre-retorno-temporario-d
 tags:
   - 'nacional'
 wp_id: 5434
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro das Comunicações, Juscelino Filho, informou nesta terça-feira (24) que o retorno temporário da rede social X ao Brasil, ocorrido em 18 de setembro, está sendo investigado. </p>
 <!-- /wp:paragraph -->

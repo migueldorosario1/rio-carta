@@ -7,8 +7,8 @@ slug: "pms-sao-presos-suspeitos-de-envolvimento-na-morte-da-policial-vaneza"
 tags:
   - 'nacional'
 wp_id: 3103
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta quarta-feira, dois subtenentes da PMERJ foram presos sob suspeita de participação na morte da policial militar Vaneza Lobão, de apenas 31 anos. O assassinato da PM aconteceu em novembro do ano passado, em Santa Cruz, Zona Oeste do Rio. Lobão foi morta na porta de casa.</p>
 <!-- /wp:paragraph -->

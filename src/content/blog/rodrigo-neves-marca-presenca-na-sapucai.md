@@ -8,8 +8,8 @@ wp_id: 3180
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o desfile da escola de samba Unidos do Viradouro, importantes figuras políticas foram vistas na Sapucaí, evidenciando movimentações estratégicas visando as eleições de outubro. </p>
 <!-- /wp:paragraph -->

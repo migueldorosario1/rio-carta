@@ -7,8 +7,8 @@ slug: "pf-revela-se-nova-prisao-de-cid-impacta-provas-da-delacao"
 tags:
   - 'nacional'
 wp_id: 3926
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Investigadores da Polícia Federal sustentam que as evidências trazidas pela delação premiada do tenente-coronel Mauro Cid, anteriormente auxiliar direto de Jair Bolsonaro, se mantêm firmes mesmo após sua recente detenção.</p>
 <!-- /wp:paragraph -->

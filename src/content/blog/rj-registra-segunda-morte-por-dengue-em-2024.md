@@ -7,8 +7,8 @@ slug: "rj-registra-segunda-morte-por-dengue-em-2024"
 wp_id: 3190
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira, 14, a cidade do Rio de Janeiro registrou a segunda morte por dengue neste ano. O secretário municipal de Saúde, Daniel Soranz, confirmou ao Jornal O DIA que a vítima foi um homem de 23 anos, residente em Senador Camará, na Zona Oeste. </p>
 <!-- /wp:paragraph -->

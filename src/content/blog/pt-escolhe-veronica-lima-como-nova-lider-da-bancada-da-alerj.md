@@ -8,8 +8,8 @@ wp_id: 4173
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A bancada do PT na Assembleia Legislativa elegeu Verônica Lima, de Niterói, como nova líder do partido na Casa para o ano legislativo de 2024. A deputada está no seu primeiro mandato na Alerj, tendo sido eleita em 2022 com 55.738 votos. </p>
 <!-- /wp:paragraph -->

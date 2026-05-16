@@ -7,8 +7,8 @@ slug: "boulos-recebe-ameacas-e-advogados-recorrem-a-pf-em-vez-da-secretaria-de-s
 wp_id: 3537
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal iniciou um inquérito para investigar as ameaças de morte dirigidas ao deputado federal e pré-candidato a prefeito de São Paulo, Guilherme Boulos (PSOL-SP). </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "elon-musk-volta-a-atacar-moraes-em-postagem-no-x"
 wp_id: 4235
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em novas postagens na plataforma X, anteriormente conhecida como Twitter, o CEO Elon Musk retomou suas críticas ao ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes. </p>
 <!-- /wp:paragraph -->

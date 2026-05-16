@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:06:49Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "educacao", "universidade", "washington-quaqua", "capital-porto", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605151305-marica-cria-unimar-primeira-universidade-municipal-da-cidade-qwen.jpg"
+categoria_macro: politica
 ---
 Maricá deu um passo novo na área da educação com a sanção da lei que autoriza a criação da Unimar, a primeira universidade municipal da cidade. O texto foi publicado no Diário Oficial pelo prefeito Washington Quaquá (PT), após ser aprovado pela Câmara Municipal.
 

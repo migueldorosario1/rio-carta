@@ -7,8 +7,8 @@ slug: "prefeitura-de-marica-promove-conclusao-do-ensino-fundamental-para-275-est
 tags:
   - 'marica'
 wp_id: 7531
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Formatura reconhece habilidades e abre portas para novas oportunidades educacionais</h3>
 <!-- /wp:heading -->

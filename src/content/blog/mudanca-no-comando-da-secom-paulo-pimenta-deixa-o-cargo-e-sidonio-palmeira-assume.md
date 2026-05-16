@@ -7,8 +7,8 @@ slug: "mudanca-no-comando-da-secom-paulo-pimenta-deixa-o-cargo-e-sidonio-palmeir
 tags:
   - 'nacional'
 wp_id: 6350
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta terça-feira (7), foi anunciada a substituição de Paulo Pimenta por Sidônio Palmeira na Secretaria de Comunicação Social (Secom) da Presidência da República. </p>
 <!-- /wp:paragraph -->

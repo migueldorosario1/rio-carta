@@ -7,8 +7,8 @@ slug: "ramagem-usa-debate-na-globo-para-tentar-nacionalizar-a-eleicao-no-rio"
 wp_id: 5564
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A estratégia de Alexandre Ramagem é simples. A menos de 48 horas das eleições, ele usou o debate da Globo de ontem para tentar nacionalizar a campanha.</p>
 <!-- /wp:paragraph -->

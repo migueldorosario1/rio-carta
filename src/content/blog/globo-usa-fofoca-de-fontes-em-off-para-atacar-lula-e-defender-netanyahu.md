@@ -7,8 +7,8 @@ slug: "globo-usa-fofoca-de-fontes-em-off-para-atacar-lula-e-defender-netanyahu"
 tags:
   - 'nacional'
 wp_id: 3323
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma recente publicação do jornal <strong>O Globo</strong>, na segunda-feira, focou no posicionamento do presidente Luiz Inácio Lula da Silva em relação ao conflito entre Israel e Palestina, trazendo à tona a complexidade das relações internacionais e as divergentes perspectivas sobre o tema.</p>
 <!-- /wp:paragraph -->

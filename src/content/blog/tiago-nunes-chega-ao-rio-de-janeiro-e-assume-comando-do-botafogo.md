@@ -7,8 +7,8 @@ slug: "tiago-nunes-chega-ao-rio-de-janeiro-e-assume-comando-do-botafogo"
 wp_id: 1950
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O treinador Tiago Nunes aterrissou no Rio de Janeiro na noite desta segunda-feira (13) e já iniciou sua jornada como o novo técnico do Botafogo. Vindo do Sporting Cristal, do Peru, o comandante expressou elogios ao projeto liderado por John Textor, destacou a competitividade da equipe e demonstrou confiança na busca pelo título do Brasileirão.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 7259
 tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A maior chacina policial da história do Rio escancara o fracasso de uma política que insiste em trocar inteligência por sangue e medo por poder</h3>
 <!-- /wp:heading -->

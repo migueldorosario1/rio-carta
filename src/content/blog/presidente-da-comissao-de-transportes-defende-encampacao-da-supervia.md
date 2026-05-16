@@ -7,8 +7,8 @@ slug: "presidente-da-comissao-de-transportes-defende-encampacao-da-supervia"
 wp_id: 775
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Foto: Tania Rego / Agencia Brasil</em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 1238
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada estadual Dani Balbi (PCdoB) defende mais transparência nos dados da segurança pública no estado.</em></strong></p>
 <!-- /wp:paragraph -->

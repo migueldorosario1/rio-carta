@@ -7,8 +7,8 @@ slug: "operacao-nephelos-da-pf-desmantela-grupo-suspeito-de-trafico-de-drogas-pe
 wp_id: 1945
 tags:
   - 'itaguai'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Nesta terça-feira, a Polícia Federal deflagrou a Operação Nephelos, direcionada a um grupo suspeito de envolvimento no tráfico internacional de drogas pelo porto de Itaguaí. Os entorpecentes eram destinados a países europeus e africanos. As ações da PF envolvem um mandado de prisão e 25 de busca e apreensão em locais da Baixada Fluminense, Região dos Lagos, Região Metropolitana e São Paulo.</em></strong></p>
 <!-- /wp:paragraph -->

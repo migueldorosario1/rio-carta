@@ -7,8 +7,8 @@ slug: "caixa-economica-federal-fecha-acordos-trabalhistas-de-r-14-milhoes-apos-c
 tags:
   - 'nacional'
 wp_id: 5270
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Dois anos após vir à tona o escândalo de assédio moral e sexual envolvendo o então presidente da Caixa Econômica Federal, Pedro Guimarães, a instituição bancária fechou acordos trabalhistas que totalizam pelo menos R$ 14 milhões. As informações foram reportadas pela Folha de São Paulo.</p>
 <!-- /wp:paragraph -->

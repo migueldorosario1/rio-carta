@@ -7,8 +7,8 @@ slug: "governo-lula-mantem-nivel-de-emprego-em-janeiro-e-aumenta-a-renda-dos-tra
 tags:
   - 'nacional'
 wp_id: 3584
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A taxa de desemprego no Brasil permaneceu estável em 7,6% no trimestre encerrado em janeiro de 2024, mantendo o mesmo percentual observado no trimestre anterior que terminou em outubro de 2023. </p>
 <!-- /wp:paragraph -->

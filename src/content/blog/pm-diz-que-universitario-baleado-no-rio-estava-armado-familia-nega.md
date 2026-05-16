@@ -7,8 +7,8 @@ slug: "pm-diz-que-universitario-baleado-no-rio-estava-armado-familia-nega"
 wp_id: 6635
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">O caso de Igor Melo de Araújo, baleado por um PM no RJ, levanta acusações de racismo e engano, com a versão do policial sendo contestada pela família do estudante</h4>
 <!-- /wp:heading -->

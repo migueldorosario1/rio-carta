@@ -7,8 +7,8 @@ slug: "irmaos-brazao-acumularam-fortuna-milionaria-em-imoveis"
 wp_id: 4739
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Domingos Brazão, ex-conselheiro do Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ), e Chiquinho Brazão, deputado federal pelo União Brasil-PR, acusados de serem os mandantes do assassinato da ex-vereadora Marielle Franco (PSOL), possuem um império econômico construído ao longo de três décadas na política do Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

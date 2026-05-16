@@ -9,8 +9,8 @@ tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-atacante de futebol Emerson Sheik, conhecido por sua passagem no Flamengo e no Corinthians, está considerando uma candidatura na política municipal de Mangaratiba, Rio de Janeiro, com o apoio do ex-presidente Jair Bolsonaro. Durante um jantar em Angra dos Reis, organizado pelo PL (Partido Liberal), Sheik foi cotado para integrar a chapa eleitoral, seja como candidato a prefeito ou como vice.</p>
 <!-- /wp:paragraph -->

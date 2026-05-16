@@ -5,6 +5,7 @@ pubDate: "2026-05-14T01:05:03Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "orcamento", "ldo-2027", "politica-rj", "sul-fluminense", "regiao-metropolitana", "comunidade"]
 heroImage: "/hero/smoke-smoke-202605132205-comissao-de-orcamento-da-alerj-aprova-parecer-da-ldo-2027.jpeg"
+categoria_macro: politica
 ---
 Estado do Rio – A Comissão de Orçamento, Finanças, Fiscalização Financeira e Controle da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou nesta quarta-feira (13), por unanimidade, o parecer prévio ao Projeto de Lei de Diretrizes Orçamentárias para 2027 (PLDO). A matéria segue agora para discussão em plenário e apresentação de emendas pelos parlamentares.
 

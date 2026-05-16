@@ -8,8 +8,8 @@ wp_id: 1259
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Empresa nega ter jogado substância nas águas</em></strong></p>
 <!-- /wp:paragraph -->

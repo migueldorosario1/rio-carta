@@ -7,8 +7,8 @@ slug: "moraes-foi-quem-autorizou-operacao-da-pf-contra-carluxo"
 tags:
   - 'politica-rj'
 wp_id: 2597
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira, 29 de janeiro, a Polícia Federal deu início a uma operação com o propósito de investigar alegações de um suposto esquema de espionagem ilegal conduzido pela Agência Brasileira de Inteligência (Abin) durante o governo do ex-presidente Jair Bolsonaro.</p>
 <!-- /wp:paragraph -->

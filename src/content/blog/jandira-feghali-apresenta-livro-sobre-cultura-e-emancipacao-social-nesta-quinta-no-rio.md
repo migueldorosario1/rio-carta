@@ -7,8 +7,8 @@ slug: "jandira-feghali-apresenta-livro-sobre-cultura-e-emancipacao-social-nesta-
 wp_id: 7235
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada federal Jandira Feghali (PCdoB-RJ) apresenta nesta quinta-feira (23/10), às 18h, no Alfa Bar, no Centro do Rio, seu novo livro, em que reflete sobre o papel da cultura como instrumento de emancipação e transformação social no Brasil.</em></strong></p>
 <!-- /wp:paragraph -->

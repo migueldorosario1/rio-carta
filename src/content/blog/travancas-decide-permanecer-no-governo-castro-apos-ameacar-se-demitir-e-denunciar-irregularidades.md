@@ -7,8 +7,8 @@ slug: "travancas-decide-permanecer-no-governo-castro-apos-ameacar-se-demitir-e-d
 tags:
   - 'politica-rj'
 wp_id: 3069
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Dois dias após anunciar sua intenção de renunciar e prometer fazer uma denúncia por dia sobre supostas irregularidades no governo estadual, o advogado Victor Travancas afirma que permanecerá em seu cargo. </p>
 <!-- /wp:paragraph -->

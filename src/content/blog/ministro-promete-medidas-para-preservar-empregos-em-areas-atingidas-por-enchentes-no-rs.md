@@ -7,8 +7,8 @@ slug: "ministro-promete-medidas-para-preservar-empregos-em-areas-atingidas-por-e
 tags:
   - 'nacional'
 wp_id: 4575
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma visita aos municípios gaúchos afetados pelas recentes enchentes no Vale do Taquari, o ministro da Secretaria Extraordinária de Apoio à Reconstrução do Rio Grande do Sul, Paulo Pimenta, declarou que o Governo Federal está empenhado em agilizar o debate para implementar ações que assegurem a continuidade dos empregos na região.</p>
 <!-- /wp:paragraph -->

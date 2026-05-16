@@ -7,8 +7,8 @@ slug: "justica-do-rj-proibe-entrada-de-deputados-rodrigo-amorim-filippe-poubel-e
 wp_id: 1710
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Universidade do Estado do Rio de Janeiro (Uerj) obteve uma decisão liminar da Justiça do Rio de Janeiro que proíbe a entrada e gravação nos espaços públicos da instituição por parte dos deputados estaduais Rodrigo Amorim (PTB), Filippe Poubel (PL) e Alan Lopes (PL) em todo o estado. A medida foi concedida pelo juiz Afonso Henrique Ferreira Barbosa, da 1ª Vara de Fazenda Pública da Comarca da Capital e antecipa a decisão final do processo. O descumprimento dessa proibição pode resultar em multa de até R$ 100 mil para os deputados.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "apagao-em-sao-paulo-mais-de-100-mil-imoveis-afetados-pela-falta-de-energi
 tags:
   - 'nacional'
 wp_id: 5794
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>São Paulo enfrentou um novo apagão neste sábado (19), afetando pelo menos quatro bairros da capital e deixando mais de 100 mil residências sem eletricidade em todo o estado, segundo informações da Enel.</p>
 <!-- /wp:paragraph -->

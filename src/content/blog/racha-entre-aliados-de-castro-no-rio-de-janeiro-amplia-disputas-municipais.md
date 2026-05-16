@@ -10,8 +10,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governador do Rio de Janeiro, Cláudio Castro, membro do Partido Liberal (PL), está tomando medidas para conter a pressão de sua base de apoio às vésperas das eleições municipais de 2024. Para amenizar as tensões entre seus aliados políticos, Castro está realizando mudanças em seu secretariado, porém, essas mudanças estão causando atritos e divisões entre os caciques de partidos como PL, Progressistas (PP), União Brasil e Movimento Democrático Brasileiro (MDB), o que pode afetar a formação de candidaturas em diferentes municípios do estado.</p>
 <!-- /wp:paragraph -->

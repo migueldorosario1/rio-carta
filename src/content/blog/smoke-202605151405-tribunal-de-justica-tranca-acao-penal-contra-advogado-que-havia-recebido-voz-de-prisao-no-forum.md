@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:49Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "tribunal-de-justica", "advogado", "norte-noroeste-fluminense", "regiao-metropolitana", "leme", "noroeste-fluminense", "seguranca-publica", "transporte-mobilidade", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605151405-tribunal-de-justica-tranca-acao-penal-contra-advogado-que-havia-recebido-voz-de-prisao-no-forum.jpg"
+categoria_macro: politica
 ---
 O Tribunal de Justiça do Rio de Janeiro trancou a ação penal movida contra o advogado José Victor Machado Altino após decisão unânime da Sexta Câmara Criminal. O caso teve origem em uma intercorrência envolvendo o advogado e o promotor de Justiça após uma audiência em 2025 no Fórum de São Fidélis.
 

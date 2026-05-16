@@ -7,8 +7,8 @@ slug: "bolsonaro-cobra-resposta-firme-de-valdemar-apos-seguidas-operacoes-da-pf-
 tags:
   - 'politica-rj'
 wp_id: 2654
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-presidente Jair Bolsonaro (PL) convocou o presidente do Partido Liberal (PL), Valdemar Costa Neto, a tomar medidas enérgicas em resposta à operação conduzida pela Polícia Federal (PF) na segunda-feira (29), que teve o vereador Carlos Bolsonaro (Republicanos-RJ), um dos filhos do ex-presidente, como alvo.</p>
 <!-- /wp:paragraph -->

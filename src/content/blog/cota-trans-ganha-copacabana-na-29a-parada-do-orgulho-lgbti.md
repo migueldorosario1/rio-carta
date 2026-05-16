@@ -8,8 +8,8 @@ wp_id: 6031
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>29ª Parada Do Orgulho LGBTI+ Rio 2024 lotou a Praia de Copacabana neste domingo (24.11)</em></strong></p>
 <!-- /wp:paragraph -->

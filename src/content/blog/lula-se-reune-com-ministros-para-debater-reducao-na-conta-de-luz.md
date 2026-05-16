@@ -7,8 +7,8 @@ slug: "lula-se-reune-com-ministros-para-debater-reducao-na-conta-de-luz"
 tags:
   - 'nacional'
 wp_id: 4025
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva se encontrou nesta segunda-feira (1) com o ministro de Minas e Energia, Alexandre Silveira, e o ministro da Fazenda, Fernando Haddad (PT), para discutir um dos principais pontos do texto da medida provisória (MP) que visa reduzir o custo da energia em todo o país, a ser enviada em breve ao Congresso.</p>
 <!-- /wp:paragraph -->

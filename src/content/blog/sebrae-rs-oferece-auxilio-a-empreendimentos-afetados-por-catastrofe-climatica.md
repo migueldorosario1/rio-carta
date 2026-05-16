@@ -7,8 +7,8 @@ slug: "sebrae-rs-oferece-auxilio-a-empreendimentos-afetados-por-catastrofe-clima
 tags:
   - 'nacional'
 wp_id: 4579
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Serviço de Apoio às Micro e Pequenas Empresas do Rio Grande do Sul (Sebrae RS) está lançando o programa Sebraetec Supera para ajudar micro e pequenas empresas atingidas pela recente catástrofe climática. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "pm-divulga-o-saldo-da-violencia-no-carnaval-do-rio"
 wp_id: 3210
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Militar do Estado do Rio de Janeiro conduziu 276 indivíduos às delegacias de Polícia Civil desde a última sexta-feira (9), conforme dados divulgados pela Secretaria de Estado de Polícia Militar nesta segunda-feira (12). </p>
 <!-- /wp:paragraph -->

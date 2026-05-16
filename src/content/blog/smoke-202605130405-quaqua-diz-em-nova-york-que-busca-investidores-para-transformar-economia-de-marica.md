@@ -5,6 +5,7 @@ pubDate: "2026-05-13T07:05:05Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "washington-quaqua", "nova-york", "investimentos", "economia-local", "orla-itaipuacu", "orla-ponta-negra", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130405-quaqua-diz-em-nova-york-que-busca-investidores-para-transformar-economia-de-marica.jpg"
+categoria_macro: geral
 ---
 Quaquá diz em Nova York que busca investidores para transformar economia de Maricá
 

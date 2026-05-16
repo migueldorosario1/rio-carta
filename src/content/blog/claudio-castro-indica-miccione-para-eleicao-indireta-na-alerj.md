@@ -8,8 +8,8 @@ wp_id: 7611
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A eleição indireta para o governo do estado deverá ocorrer em abril.</strong></em></p>
 <!-- /wp:paragraph -->

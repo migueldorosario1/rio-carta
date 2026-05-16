@@ -7,8 +7,8 @@ slug: "flamengo-impoe-condicao-para-avaliar-propostas-por-pedro"
 tags:
   - 'flamengo'
 wp_id: 1009
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Pedro tem contrato com o Flamengo até dezembro de 2027</strong></em></p>
 <!-- /wp:paragraph -->

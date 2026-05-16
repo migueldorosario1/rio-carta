@@ -7,8 +7,8 @@ slug: "lula-confirma-viagem-a-bolivia-apesar-de-tentativa-de-golpe-no-pais"
 tags:
   - 'geopolitica'
 wp_id: 4708
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva mantém sua agenda de viagem para a Bolívia em 8 de julho, conforme reportado pela jornalista Jussara Soares na CNN Brasil. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lula-convoca-embaixadores-estrangeiros-para-celebrar-democracia-no-aniver
 wp_id: 6352
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governo brasileiro liderado pelo presidente Luiz Inácio Lula da Silva convocou embaixadores estrangeiros em Brasília para uma cerimônia marcante no Palácio do Planalto, ocorrendo no aniversário do ataque de 8 de janeiro de 2023, quando manifestantes invadiram os prédios dos três poderes. </p>
 <!-- /wp:paragraph -->

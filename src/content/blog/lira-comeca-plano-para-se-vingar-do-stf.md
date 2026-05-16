@@ -7,8 +7,8 @@ slug: "lira-comeca-plano-para-se-vingar-do-stf"
 wp_id: 4219
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na última terça-feira, Arthur Lira, presidente da Câmara dos Deputados, anunciou a criação de um grupo de trabalho com o objetivo de discutir restrições aos poderes do Supremo Tribunal Federal (STF). </p>
 <!-- /wp:paragraph -->

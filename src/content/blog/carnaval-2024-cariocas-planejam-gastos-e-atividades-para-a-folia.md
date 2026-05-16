@@ -7,8 +7,8 @@ slug: "carnaval-2024-cariocas-planejam-gastos-e-atividades-para-a-folia"
 wp_id: 2736
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ano de 2024 já está em curso, e os brasileiros estão se preparando para a temporada de Carnaval, um dos eventos mais aguardados do país. </p>
 <!-- /wp:paragraph -->

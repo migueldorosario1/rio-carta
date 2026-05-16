@@ -7,8 +7,8 @@ slug: "sede-da-igreja-mundial-sera-leiloada-para-quitar-divida-de-aluguel"
 tags:
   - 'nacional'
 wp_id: 3766
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Justiça de São Paulo determinou o leilão da sede da Igreja Mundial do Poder de Deus, liderada por Valdemiro Santiago, para o dia 24 de abril. O objetivo é arrecadar fundos para o pagamento de uma dívida de aluguel no valor de R$ 37.451,94.</p>
 <!-- /wp:paragraph -->

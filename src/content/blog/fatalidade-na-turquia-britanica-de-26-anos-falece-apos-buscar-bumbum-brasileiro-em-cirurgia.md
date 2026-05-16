@@ -7,8 +7,8 @@ slug: "fatalidade-na-turquia-britanica-de-26-anos-falece-apos-buscar-bumbum-bras
 tags:
   - 'geopolitica'
 wp_id: 2349
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A britânica Demi Agoglia, de 26 anos, faleceu na Turquia após se submeter a um procedimento estético conhecido como Brazilian butt lift (BBL), ou lifting de bumbum brasileiro. A jovem teria sofrido múltiplos ataques cardíacos devido a uma embolia gordurosa, uma complicação comum e perigosa associada a esse tipo de cirurgia.</p>
 <!-- /wp:paragraph -->

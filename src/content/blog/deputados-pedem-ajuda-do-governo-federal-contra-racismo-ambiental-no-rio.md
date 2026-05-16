@@ -8,8 +8,8 @@ wp_id: 1927
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A audiência pública contou com a presença de diversas organizações da sociedade civil e do secretário de Ciência e Tecnologia para o Desenvolvimento Social do Ministério de Ciência e Tecnologia, Inácio Arruda</strong></em></p>
 <!-- /wp:paragraph -->

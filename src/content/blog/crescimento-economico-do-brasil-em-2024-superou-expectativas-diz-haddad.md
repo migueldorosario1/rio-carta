@@ -7,8 +7,8 @@ slug: "crescimento-economico-do-brasil-em-2024-superou-expectativas-diz-haddad"
 tags:
   - 'nacional'
 wp_id: 6347
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro da Fazenda, Fernando Haddad, anunciou que a economia brasileira cresceu 3,6% em 2024, superando as projeções iniciais.</p>
 <!-- /wp:paragraph -->

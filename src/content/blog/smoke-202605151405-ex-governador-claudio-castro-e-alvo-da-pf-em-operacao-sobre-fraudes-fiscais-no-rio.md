@@ -5,6 +5,7 @@ pubDate: "2026-05-15T17:05:05Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "barra-da-tijuca", "zona-oeste", "politica-rj", "regiao-dos-lagos", "regiao-metropolitana", "tijuca", "manguinhos", "favela", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605151405-ex-governador-claudio-castro-e-alvo-da-pf-em-operacao-sobre-fraudes-fiscais-no-rio.webp"
+categoria_macro: politica
 ---
 O ex-governador do Rio de Janeiro, Cláudio Castro (PL), é alvo nesta sexta-feira (15) da Operação Sem Refino, deflagrada pela Polícia Federal para investigar um suposto esquema de fraudes fiscais, ocultação de patrimônio e evasão de recursos ligado à Refit, antiga Refinaria de Manguinhos. A empresa é apontada como um dos maiores grupos devedores de tributos do país.
 

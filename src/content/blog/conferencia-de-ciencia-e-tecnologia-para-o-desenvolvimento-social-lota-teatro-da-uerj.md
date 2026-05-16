@@ -7,8 +7,8 @@ slug: "conferencia-de-ciencia-e-tecnologia-para-o-desenvolvimento-social-lota-te
 wp_id: 3798
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Evento foi organizado pelo Ministério da Ciência, Tecnologia e Inovação</em></strong> <strong><em>(MCTI)</em></strong></p>
 <!-- /wp:paragraph -->

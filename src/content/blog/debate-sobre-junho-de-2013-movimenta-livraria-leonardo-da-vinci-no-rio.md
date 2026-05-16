@@ -7,8 +7,8 @@ slug: "debate-sobre-junho-de-2013-movimenta-livraria-leonardo-da-vinci-no-rio"
 wp_id: 2011
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>“Sob o céu de junho: as manifestações de 2013 à luz do materialismo cultural” foi lançado na Livraria Leonardo da Vinci, no Centro do Rio (Fotos: Vitor Vogel)</em></strong></p>
 <!-- /wp:paragraph -->

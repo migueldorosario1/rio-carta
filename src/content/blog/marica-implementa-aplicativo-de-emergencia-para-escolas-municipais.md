@@ -7,8 +7,8 @@ slug: "marica-implementa-aplicativo-de-emergencia-para-escolas-municipais"
 tags:
   - 'marica'
 wp_id: 2930
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura de Maricá iniciou na segunda-feira, 29, a instalação de um aplicativo com botão de emergência em celulares dos diretores das 65 escolas municipais. </p>
 <!-- /wp:paragraph -->

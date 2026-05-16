@@ -7,8 +7,8 @@ slug: "escritora-comunista-ocupa-o-leblon"
 tags:
   - 'leblon'
 wp_id: 6930
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Dani Balbi lançou seu primeiro livro ficcional em concorrido evento na Travessa do Leblon</em></strong></p>
 <!-- /wp:paragraph -->

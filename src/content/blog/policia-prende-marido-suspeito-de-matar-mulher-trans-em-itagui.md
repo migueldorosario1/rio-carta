@@ -7,8 +7,8 @@ slug: "policia-prende-marido-suspeito-de-matar-mulher-trans-em-itagui"
 wp_id: 2803
 tags:
   - 'itaguai'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Policiais da Delegacia de Homicídios da Baixada Fluminense (DHBF) prenderam, nesta quarta-feira, Evan França Ribeiro. Contra ele havia um mandado de prisão temporária em aberto. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 2406
 tags:
   - 'campos'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em Campos dos Goytacazes, a rivalidade política entre as famílias Garotinho e Bacellar tem intensificado uma crise orçamentária no maior município do interior do Rio. As disputas, que remontam ao século passado, continuam a influenciar a política local, afetando diretamente a administração de um orçamento de R$ 3 bilhões e quase 500 mil habitantes.</p>
 <!-- /wp:paragraph -->

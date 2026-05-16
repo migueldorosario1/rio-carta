@@ -7,8 +7,8 @@ slug: "anp-preve-investimentos-de-r-10-bilhoes-na-exploracao-de-petroleo-e-gas-e
 tags:
   - 'nacional'
 wp_id: 5064
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) anunciou que os investimentos na fase de exploração dos contratos de petróleo e gás natural deverão alcançar cerca de R$ 10 bilhões em 2024, conforme o Relatório Anual de Exploração 2023, publicado nesta segunda-feira (2).</p>
 <!-- /wp:paragraph -->

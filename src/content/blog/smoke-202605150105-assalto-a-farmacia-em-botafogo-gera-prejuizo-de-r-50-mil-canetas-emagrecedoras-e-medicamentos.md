@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:06:03Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "humaita", "ilha-do-governador", "itaborai", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150105-assalto-a-farmacia-em-botafogo-gera-prejuizo-de-r-50-mil-canetas-emagrecedoras-e-medicamentos.jpg"
+categoria_macro: politica
 ---
 Assalto à farmácia em Botafogo gera prejuízo de R$ 50 mil: canetas emagrecedoras e medicamentos
 

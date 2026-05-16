@@ -8,8 +8,8 @@ wp_id: 1560
 tags:
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Lívia Miranda será a nova presidenta do PCdoB na cidade da região serrana</strong></em></p>
 <!-- /wp:paragraph -->

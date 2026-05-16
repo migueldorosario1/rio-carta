@@ -8,8 +8,8 @@ wp_id: 5205
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta sexta-feira, 13 de setembro, às 9h, a Petrobras inaugurará o Complexo de Energias Boaventura, localizado em Itaboraí, na região metropolitana do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

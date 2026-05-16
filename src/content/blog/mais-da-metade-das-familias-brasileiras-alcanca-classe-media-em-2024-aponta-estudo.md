@@ -7,8 +7,8 @@ slug: "mais-da-metade-das-familias-brasileiras-alcanca-classe-media-em-2024-apon
 tags:
   - 'nacional'
 wp_id: 6341
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um estudo realizado pela Tendências Consultoria e divulgado pelo jornal O Globo revelou um avanço significativo na composição social do Brasil. </p>
 <!-- /wp:paragraph -->

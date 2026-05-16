@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Belford Roxo tem o menor percentual de ensino superior do Brasil, enquanto Niterói se destaca no Rio; prefeitura anuncia medidas para mudar o cenário</h4>
 <!-- /wp:heading -->

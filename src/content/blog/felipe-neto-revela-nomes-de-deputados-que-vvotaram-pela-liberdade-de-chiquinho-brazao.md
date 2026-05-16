@@ -8,8 +8,8 @@ wp_id: 4151
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira, 10, o influenciador digital Felipe Neto divulgou, por meio da plataforma de mídia social X, os nomes dos parlamentares que apoiaram a soltura de Chiquinho Brazão (ex-União Brasil-RJ) durante votação na Comissão de Constituição e Justiça (CCJ) da Câmara dos Deputados.</p>
 <!-- /wp:paragraph -->

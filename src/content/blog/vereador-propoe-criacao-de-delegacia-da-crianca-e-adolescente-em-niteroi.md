@@ -7,8 +7,8 @@ slug: "vereador-propoe-criacao-de-delegacia-da-crianca-e-adolescente-em-niteroi"
 wp_id: 83
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 Em uma reunião realizada nesta segunda-feira, dia 22 de maio de 2023, a Deputada Estadual Martha Rocha (PDT) e o vereador Jhonatan Anjos (PDT) discutiram uma proposta conjunta para a criação de uma Delegacia da Criança e do Adolescente Vítima (DCAV) em Niterói.
 
 O objetivo do vereador é garantir um atendimento especializado aos menores que sofrem violência, exploração ou constrangimento, fortalecendo assim a rede de apoio e proteção às crianças e adolescentes. A DCAV seria responsável por receber denúncias de crimes como abuso sexual, trabalho infantil, maus tratos físicos e psicológicos, suspeita de exploração, lesão, abandono de incapaz, bullying e cyberbullying.

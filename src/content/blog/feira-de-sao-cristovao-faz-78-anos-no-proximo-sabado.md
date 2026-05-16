@@ -7,8 +7,8 @@ slug: "feira-de-sao-cristovao-faz-78-anos-no-proximo-sabado"
 tags:
   - 'sao-cristovao'
 wp_id: 1234
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento terá uma programação com bolo gigante e muito forró</strong></em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 5894
 tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O contraventor Rogério Andrade foi preso na manhã desta terça-feira (25) em uma operação conduzida pelo Grupo de Atuação Especializada no Combate ao Crime Organizado (Gaeco), do Ministério Público do Rio de Janeiro (MPRJ). </p>
 <!-- /wp:paragraph -->

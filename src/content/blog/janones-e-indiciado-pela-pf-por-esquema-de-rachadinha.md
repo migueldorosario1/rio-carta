@@ -7,8 +7,8 @@ slug: "janones-e-indiciado-pela-pf-por-esquema-de-rachadinha"
 wp_id: 5211
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal indiciou o deputado André Janones (Avante-MG) sob a acusação de participação em um esquema de rachadinha em seu gabinete. </p>
 <!-- /wp:paragraph -->

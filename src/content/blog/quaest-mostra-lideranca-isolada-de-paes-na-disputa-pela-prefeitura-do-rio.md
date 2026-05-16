@@ -8,8 +8,8 @@ wp_id: 4688
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A pesquisa mais recente da Quaest, divulgada nesta terça-feira, revela que o atual prefeito do Rio de Janeiro, Eduardo Paes (PSD), lidera com 51% das intenções de voto estimuladas para a eleição de 2024, a menos de quatro meses do pleito. A pesquisa, encomendada pela Rádio Tupi, foi realizada presencialmente com 1.145 eleitores entre quinta-feira e domingo.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "senador-bolsonarista-destina-verbas-do-gabinete-para-site-de-conteudo-ext
 tags:
   - 'nacional'
 wp_id: 3592
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O senador Marcos do Val é apontado por direcionar recursos da cota parlamentar a um site com inclinação bolsonarista, que frequentemente publica conteúdos elogiosos à sua atuação no Congresso Nacional. Desde fevereiro de 2023, o parlamentar tem feito repasses mensais ao portal.</p>
 <!-- /wp:paragraph -->

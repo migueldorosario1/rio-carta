@@ -7,8 +7,8 @@ slug: "guilherme-boulos-ganha-terreno-entre-jovens-eleitores-em-sao-paulo-mostra
 wp_id: 5847
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente do Datafolha, divulgada nesta quinta-feira (24), revela uma mudança significativa na preferência dos eleitores mais jovens de São Paulo no contexto das eleições municipais. </p>
 <!-- /wp:paragraph -->

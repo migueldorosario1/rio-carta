@@ -7,8 +7,8 @@ slug: "disputa-pela-executiva-nacional-do-uniao-brasil-tem-violencia-e-ameacas-d
 wp_id: 3539
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Os ânimos se acirraram no União Brasil em meio à iminente eleição para a presidência do partido, agendada para esta quinta-feira. </p>
 <!-- /wp:paragraph -->

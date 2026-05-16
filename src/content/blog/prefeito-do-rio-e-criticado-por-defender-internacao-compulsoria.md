@@ -7,8 +7,8 @@ slug: "prefeito-do-rio-e-criticado-por-defender-internacao-compulsoria"
 wp_id: 1999
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Medida seria aplicada em usuários de drogas na cidade</strong></em></p>
 <!-- /wp:paragraph -->

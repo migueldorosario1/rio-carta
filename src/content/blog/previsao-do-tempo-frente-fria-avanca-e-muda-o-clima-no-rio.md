@@ -7,8 +7,8 @@ slug: "previsao-do-tempo-frente-fria-avanca-e-muda-o-clima-no-rio"
 wp_id: 6842
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O tempo vira no Rio! Previsão aponta aumento da nebulosidade, pancadas de chuva e rajadas de vento moderadas a fortes</h3>
 <!-- /wp:heading -->

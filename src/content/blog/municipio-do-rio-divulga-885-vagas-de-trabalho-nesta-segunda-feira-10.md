@@ -8,8 +8,8 @@ wp_id: 735
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Do total de oportunidades, 625 são para trabalhadores em geral e 260 para pessoas com deficiência</em></strong></p>
 <!-- /wp:paragraph -->

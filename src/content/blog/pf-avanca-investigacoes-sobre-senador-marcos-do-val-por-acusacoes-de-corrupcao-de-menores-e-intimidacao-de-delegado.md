@@ -7,8 +7,8 @@ slug: "pf-avanca-investigacoes-sobre-senador-marcos-do-val-por-acusacoes-de-corr
 tags:
   - 'nacional'
 wp_id: 5450
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal está intensificando as investigações sobre o senador Marcos do Val, representante do Espírito Santo, após receber denúncias anônimas que o vinculam a um possível esquema de exploração de jovens. </p>
 <!-- /wp:paragraph -->

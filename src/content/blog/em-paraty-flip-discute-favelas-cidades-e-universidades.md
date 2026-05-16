@@ -8,8 +8,8 @@ wp_id: 2024
 tags:
   - 'paraty'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Encontro contou com Dani Balbi, André Fernandes, Luana Bonone e Ivana Bentes</strong></em></p>
 <!-- /wp:paragraph -->

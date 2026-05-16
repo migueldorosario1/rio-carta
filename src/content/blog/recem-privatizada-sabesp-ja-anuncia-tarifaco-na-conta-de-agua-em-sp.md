@@ -7,8 +7,8 @@ slug: "recem-privatizada-sabesp-ja-anuncia-tarifaco-na-conta-de-agua-em-sp"
 tags:
   - 'nacional'
 wp_id: 4116
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Sabesp anunciou nesta segunda-feira que recebeu autorização da Agência Reguladora de Serviços Públicos do Estado de São Paulo (Arsesp) para aplicar um reajuste de 6,4469% nas tarifas vigentes. </p>
 <!-- /wp:paragraph -->

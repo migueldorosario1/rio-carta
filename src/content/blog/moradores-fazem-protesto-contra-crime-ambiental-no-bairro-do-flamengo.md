@@ -7,8 +7,8 @@ slug: "moradores-fazem-protesto-contra-crime-ambiental-no-bairro-do-flamengo"
 tags:
   - 'flamengo'
 wp_id: 7584
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Deputada Dani Balbi solicitou a paralisação da obra no IPHAN, no INEPAC e no IRPH. </strong></em></p>
 <!-- /wp:paragraph -->

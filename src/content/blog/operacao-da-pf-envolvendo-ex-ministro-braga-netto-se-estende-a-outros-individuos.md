@@ -7,8 +7,8 @@ slug: "operacao-da-pf-envolvendo-ex-ministro-braga-netto-se-estende-a-outros-ind
 tags:
   - 'nacional'
 wp_id: 6195
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal intensificou suas ações neste sábado, não apenas com a prisão do ex-ministro Walter Braga Netto, mas também por meio da execução de dois mandados de busca e apreensão, além da aplicação de uma medida cautelar diversa da prisão. </p>
 <!-- /wp:paragraph -->

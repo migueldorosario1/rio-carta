@@ -7,8 +7,8 @@ slug: "paes-tira-mais-de-meio-bilhao-da-saude-do-rio-e-transfere-para-outras-pas
 wp_id: 3504
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Prefeito do Rio de Janeiro, Eduardo Paes (PSD) cortou o orçamento da saúde da cidade pela metade</em></strong></p>
 <!-- /wp:paragraph -->

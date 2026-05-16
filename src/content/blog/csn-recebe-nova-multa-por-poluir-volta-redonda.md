@@ -7,8 +7,8 @@ slug: "csn-recebe-nova-multa-por-poluir-volta-redonda"
 wp_id: 820
 tags:
   - 'volta-redonda'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Moradores reclamam da poluição provocada pela empresa; governo do estado não monitora a poluição na cidade</strong></em></p>
 <!-- /wp:paragraph -->

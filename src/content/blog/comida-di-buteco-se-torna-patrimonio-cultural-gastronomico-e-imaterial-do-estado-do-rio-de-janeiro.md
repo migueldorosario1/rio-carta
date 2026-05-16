@@ -7,8 +7,8 @@ slug: "comida-di-buteco-se-torna-patrimonio-cultural-gastronomico-e-imaterial-do
 wp_id: 4597
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Verônica Lima, autora da lei Lei 10.396/24, destaca que o concurso reforça a cultura dos botecos cariocas&nbsp;&nbsp;</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "embaixada-da-hungria-demite-funcionarios-brasileiros-apos-vazamento-das-i
 wp_id: 4050
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Embaixada da Hungria no Brasil demitiu pelo menos dois funcionários brasileiros devido ao vazamento de imagens que registraram a estadia do ex-presidente Jair Bolsonaro nas instalações da embaixada entre os dias 12 e 14 de fevereiro. </p>
 <!-- /wp:paragraph -->

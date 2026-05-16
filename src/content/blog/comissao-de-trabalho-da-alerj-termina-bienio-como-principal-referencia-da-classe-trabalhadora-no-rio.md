@@ -7,8 +7,8 @@ slug: "comissao-de-trabalho-da-alerj-termina-bienio-como-principal-referencia-da
 wp_id: 6226
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Fiscalização da CSN, Emprego Verde, Economia Solidária, Previdência dos Pós-Graduandos, Trabalho Informal e Piso Salarial do estado foram alguns dos temas tratados pela Comissão no período 2023-2024</em></strong>.</p>
 <!-- /wp:paragraph -->

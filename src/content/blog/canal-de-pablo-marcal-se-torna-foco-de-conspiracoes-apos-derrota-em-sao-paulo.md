@@ -7,8 +7,8 @@ slug: "canal-de-pablo-marcal-se-torna-foco-de-conspiracoes-apos-derrota-em-sao-p
 wp_id: 5642
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-coach de extrema direita Pablo Marçal (PRTB) não avançou para o segundo turno na disputa pela prefeitura de São Paulo, e seu canal no Discord, "Cortes do Marçal", transformou-se em um ponto de encontro para apoiadores expressarem descontentamento e teorias conspiratórias. </p>
 <!-- /wp:paragraph -->

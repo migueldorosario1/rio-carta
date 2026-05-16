@@ -7,8 +7,8 @@ slug: "parada-lgbti-do-rio-celebra-30-anos-da-primeira-marcha-do-orgulho-no-bras
 wp_id: 7439
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O evento contou com a participação da deputada Dani Balbi (PCdoB) e das cantoras Daniela Mercury e Teresa Cristina</em></strong></p>
 <!-- /wp:paragraph -->

@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Leo Lupi e Fernanda Sixel para a Alerj e Vitor Roque e Martha Rocha para a Câmara Federal são algumas das opções</em></strong></p>
 <!-- /wp:paragraph -->

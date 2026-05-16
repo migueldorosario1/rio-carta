@@ -7,8 +7,8 @@ slug: "pcdob-de-niteroi-realiza-sua-24a-conferencia-municipal-com-presenca-de-li
 wp_id: 7115
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O encontro elege a nova direção do PCdoB em Niterói</em></strong></p>
 <!-- /wp:paragraph -->

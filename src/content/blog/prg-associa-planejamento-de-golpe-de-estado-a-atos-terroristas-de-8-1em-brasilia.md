@@ -7,8 +7,8 @@ slug: "prg-associa-planejamento-de-golpe-de-estado-a-atos-terroristas-de-8-1em-b
 wp_id: 5731
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Procurador-Geral da República, Paulo Gonet, apresentou uma manifestação ao Supremo Tribunal Federal (STF), na qual pela primeira vez relacionou diretamente o planejamento de um golpe de Estado por aliados do ex-presidente Jair Bolsonaro (PL) com os atos terroristas de 8 de Janeiro, que culminaram na invasão e vandalismo das sedes dos três Poderes em Brasília.</p>
 <!-- /wp:paragraph -->

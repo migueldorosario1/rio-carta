@@ -7,8 +7,8 @@ slug: "jogo-sujo-estadao-usa-ex-procurador-da-lava-jato-para-atacar-lula-e-a-pet
 tags:
   - 'nacional'
 wp_id: 3761
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em entrevista concedida ao jornal Estado de S. Paulo nesta quarta-feira, 13, o ex-procurador Carlos Fernando dos Santos Lima, figura central na operação Lava Jato, para comentar o cenário político e econômico brasileiro.</p>
 <!-- /wp:paragraph -->

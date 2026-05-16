@@ -7,8 +7,8 @@ slug: "bolsonaro-contesta-indiciamento-em-inquerito-por-tentativa-de-golpe-em-20
 wp_id: 5773
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal está prestes a indiciar o ex-presidente Jair Bolsonaro e outros seis altos oficiais por envolvimento na tentativa de golpe de Estado após as eleições de 2022, onde Bolsonaro foi derrotado por Luiz Inácio Lula da Silva.</p>
 <!-- /wp:paragraph -->

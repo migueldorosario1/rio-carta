@@ -7,8 +7,8 @@ slug: "malafaia-faz-novos-ataques-contra-o-stf-nas-redes"
 tags:
   - 'nacional'
 wp_id: 4179
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O pastor e empresário evangélico Silas Malafaia emitiu novas declarações dirigidas ao Poder Judiciário em um vídeo publicado em suas redes sociais. </p>
 <!-- /wp:paragraph -->

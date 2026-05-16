@@ -7,8 +7,8 @@ slug: "kassab-aponta-tarcisio-de-freitas-como-potencial-candidato-a-presidencia-
 wp_id: 5646
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma entrevista concedida à CNN Brasil nesta terça-feira, Gilberto Kassab, presidente do PSD, discutiu o futuro político do governador de São Paulo, Tarcísio de Freitas, apontando-o como um possível candidato à Presidência da República em 2030. </p>
 <!-- /wp:paragraph -->

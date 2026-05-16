@@ -8,8 +8,8 @@ wp_id: 5298
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente, encomendada pela TV Globo e realizada pela Quaest entre 15 e 17 de setembro, indica que o atual prefeito do Rio de Janeiro, Eduardo Paes (PSD), lidera com folga a corrida pela reeleição. Nos dados divulgados nesta quarta-feira (18), Paes aparece com 57% das intenções de voto em cenário estimulado, mantendo-se à frente de seus adversários.</p>
 <!-- /wp:paragraph -->

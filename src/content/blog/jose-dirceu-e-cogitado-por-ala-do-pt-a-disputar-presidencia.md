@@ -7,8 +7,8 @@ slug: "jose-dirceu-e-cogitado-por-ala-do-pt-a-disputar-presidencia"
 wp_id: 6420
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Lideranças do PT e movimentos sindicais estão mobilizando apoio para lançar a candidatura de José Dirceu à presidência do partido, conforme revelado por uma fonte parlamentar à coluna de Mônica Bergamo, da Folha de S. Paulo. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 1365
 tags:
   - 'rio-de-janeiro'
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Encontro reuniu centenas de ativistas</em></strong> <em><strong>da cidade da região serrana</strong></em> <em><strong>neste fim de semana</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "campanha-promove-a-doacao-de-bonecas-barbie-para-criancas-carentes-em-man
 wp_id: 1036
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Inspirados pelo sucesso do filme "Barbie", dirigido por Greta Gerwig e estrelado por Margot Robbie, uma campanha de doação de bonecas Barbie está sendo realizada para atender crianças carentes a partir de quatro anos que vivem na região de Manguinhos, Zona Norte do Rio de Janeiro. A iniciativa, liderada pela ONG É por Amor, tem como meta beneficiar pelo menos cem meninas, mas conta com a solidariedade da comunidade para alcançar um público ainda maior.</p>
 <!-- /wp:paragraph -->

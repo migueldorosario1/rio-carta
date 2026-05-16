@@ -7,8 +7,8 @@ slug: "pacheco-pede-ao-stf-lista-de-congressistas-espionados-pelo-governo-bolson
 tags:
   - 'nacional'
 wp_id: 2662
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Senado, Rodrigo Pacheco (PSD-MG), anunciou na segunda-feira, 29, que irá solicitar ao Supremo Tribunal Federal (STF) a relação dos parlamentares que foram alvos de um esquema de monitoramento considerado ilegal, conduzido pela Agência Brasileira de Inteligência (Abin) durante o governo de Jair Bolsonaro (PL). </p>
 <!-- /wp:paragraph -->

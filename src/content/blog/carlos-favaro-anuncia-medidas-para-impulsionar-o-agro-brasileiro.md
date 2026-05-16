@@ -7,8 +7,8 @@ slug: "carlos-favaro-anuncia-medidas-para-impulsionar-o-agro-brasileiro"
 tags:
   - 'nacional'
 wp_id: 2651
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Agricultura, Carlos Fávaro, expressou preocupação com a iminência de uma possível crise no setor do agronegócio. </p>
 <!-- /wp:paragraph -->

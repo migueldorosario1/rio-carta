@@ -7,8 +7,8 @@ slug: "eduardo-bolsonaro-resolve-atacar-a-pf-em-meio-as-investigacoes-contra-o-p
 tags:
   - 'nacional'
 wp_id: 3893
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Eduardo Bolsonaro (PL-SP) expressou críticas à Polícia Federal (PF) e levantou dúvidas sobre a independência da instituição em relação ao ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 636
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Deputada federal Talíria Petrone deverá concorrer contra o ex-prefeito Rodrigo Neves (PDT)</em></p>
 <!-- /wp:paragraph -->

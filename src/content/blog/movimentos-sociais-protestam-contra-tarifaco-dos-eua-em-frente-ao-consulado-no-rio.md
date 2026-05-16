@@ -7,8 +7,8 @@ slug: "movimentos-sociais-protestam-contra-tarifaco-dos-eua-em-frente-ao-consula
 wp_id: 7036
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading"><strong><em>Manifestação denuncia ataque à economia brasileira e defende soberania nacional</em></strong></h3>
 <!-- /wp:heading -->

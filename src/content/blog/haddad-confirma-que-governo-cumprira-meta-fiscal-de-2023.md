@@ -7,8 +7,8 @@ slug: "haddad-confirma-que-governo-cumprira-meta-fiscal-de-2023"
 tags:
   - 'nacional'
 wp_id: 5406
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma entrevista realizada em Nova York nesta segunda-feira, o Ministro da Fazenda, Fernando Haddad, assegurou que o governo federal está mantendo as despesas dentro das normas do arcabouço fiscal e está confiante de que cumprirá a meta fiscal para o ano em curso.</p>
 <!-- /wp:paragraph -->

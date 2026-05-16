@@ -7,8 +7,8 @@ slug: "a-sapatada-antologica-de-omar-aziz-em-pacheco"
 tags:
   - 'nacional'
 wp_id: 3355
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante a sessão do Senado desta terça-feira, 20, o presidente da casa, Rodrigo Pacheco (PSD-MG), solicitou uma retratação do ex-presidente Lula (PT) por suas declarações comparando o genocídio promovido por Israel contra a população de Gaza ao Holocausto.</p>
 <!-- /wp:paragraph -->

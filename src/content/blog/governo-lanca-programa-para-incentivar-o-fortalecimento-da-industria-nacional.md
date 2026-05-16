@@ -7,8 +7,8 @@ slug: "governo-lanca-programa-para-incentivar-o-fortalecimento-da-industria-naci
 tags:
   - 'nacional'
 wp_id: 5253
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A partir desta sexta-feira, 13, empresas brasileiras de 23 setores econômicos poderão aderir ao Programa de Depreciação Acelerada, anunciou a Receita Federal. </p>
 <!-- /wp:paragraph -->

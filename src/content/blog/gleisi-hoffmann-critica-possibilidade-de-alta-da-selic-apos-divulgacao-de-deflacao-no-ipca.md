@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-critica-possibilidade-de-alta-da-selic-apos-divulgacao-de
 tags:
   - 'nacional'
 wp_id: 5148
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A presidenta nacional do PT, Gleisi Hoffmann, usou suas redes sociais nesta terça-feira (9) para criticar a possibilidade de um novo aumento da taxa Selic, em meio a sinais de desaceleração da inflação.</p>
 <!-- /wp:paragraph -->

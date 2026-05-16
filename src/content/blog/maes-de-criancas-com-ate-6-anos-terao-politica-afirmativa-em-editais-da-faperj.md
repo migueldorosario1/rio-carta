@@ -7,8 +7,8 @@ slug: "maes-de-criancas-com-ate-6-anos-terao-politica-afirmativa-em-editais-da-f
 wp_id: 2008
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa é da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

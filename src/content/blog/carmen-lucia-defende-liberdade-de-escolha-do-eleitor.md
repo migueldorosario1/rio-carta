@@ -7,8 +7,8 @@ slug: "carmen-lucia-defende-liberdade-de-escolha-do-eleitor"
 wp_id: 5586
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do Tribunal Superior Eleitoral (TSE), ministra Cármen Lúcia, ressaltou a importância da liberdade de escolha dos eleitores brasileiros durante seu discurso de abertura do Programa de Convidados Internacionais para as Eleições Municipais de 2024. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "ato-em-copacabana-reune-50-mil-pessoas-contra-pl-da-dosimetria-aprovado-n
 wp_id: 7576
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O ato contou com a participação de Caetano Veloso, Gilberto Gil, Chico Buarque e Dani Balbi entre outros artistas e lideranças políticas</strong></em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 5527
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A cidade do Rio de Janeiro terá vans no serviço de transporte público gratuito nos dias 6 e 27 de outubro, quando ocorrerem o primeiro e segundo turnos das eleições de 2024. A resolução foi publicada no Diário Oficial do Município nesta sexta-feira (27).<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1613865&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1613865&amp;o=node"></p>
 <!-- /wp:paragraph -->

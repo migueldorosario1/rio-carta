@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading">União entre PL, PP e União Brasil amplia influência regional e antecipa eleições em áreas estratégicas como Baixada e Leste Metropolitano</h5>
 <!-- /wp:heading -->

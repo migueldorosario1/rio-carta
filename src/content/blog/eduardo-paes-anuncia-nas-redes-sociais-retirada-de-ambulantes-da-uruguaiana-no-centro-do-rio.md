@@ -7,8 +7,8 @@ slug: "eduardo-paes-anuncia-nas-redes-sociais-retirada-de-ambulantes-da-uruguaia
 wp_id: 3577
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Deputada Dani Balbi (PCdoB) e o Movimento Unido dos Camelôs criticaram o prefeito</strong></em></p>
 <!-- /wp:paragraph -->

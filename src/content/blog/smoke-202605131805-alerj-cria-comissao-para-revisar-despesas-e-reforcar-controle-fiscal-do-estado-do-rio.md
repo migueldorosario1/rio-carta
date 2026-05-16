@@ -5,6 +5,7 @@ pubDate: "2026-05-13T21:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "controle-fiscal", "sul-fluminense", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605131805-alerj-cria-comissao-para-revisar-despesas-e-reforcar-controle-fiscal-do-estado-do-rio.jpeg"
+categoria_macro: politica
 ---
 ESTADO
 

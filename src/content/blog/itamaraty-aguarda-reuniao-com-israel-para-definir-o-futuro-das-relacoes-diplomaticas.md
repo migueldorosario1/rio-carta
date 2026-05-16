@@ -7,8 +7,8 @@ slug: "itamaraty-aguarda-reuniao-com-israel-para-definir-o-futuro-das-relacoes-d
 tags:
   - 'geopolitica'
 wp_id: 3315
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Itamaraty optou pelo silêncio enquanto aguarda uma conversa entre o governo israelense e o embaixador brasileiro em Tel Aviv, Frederico Meyer. </p>
 <!-- /wp:paragraph -->

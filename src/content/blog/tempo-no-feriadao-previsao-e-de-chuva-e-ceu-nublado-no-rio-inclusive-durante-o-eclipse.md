@@ -7,8 +7,8 @@ slug: "tempo-no-feriadao-previsao-e-de-chuva-e-ceu-nublado-no-rio-inclusive-dura
 wp_id: 1582
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O feriadão de Nossa Senhora Aparecida teve início com sol no Rio de Janeiro nesta quinta-feira, apesar de chuvas no final do dia. No entanto, a previsão meteorológica indica que o tempo permanecerá instável até o próximo domingo, com céu nublado e chuvas, o que pode dificultar a observação do eclipse solar previsto para a tarde de sábado, dia 14.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "uniao-brasil-quer-pasta-completa-e-freixo-pode-deixar-embratur"
 tags:
   - 'nacional'
 wp_id: 163
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Por Raphael Lacerda</em></p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "jockey-club", "zona-sul", "flavio-valle", "eduardo-paes", "psd", "eleicoes", "politica-rj", "capital", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605150505-aniversario-de-flavio-valle-amizades-em-todas-as-geracoes.jpeg"
+categoria_macro: politica
 ---
 Aniversário de Flávio Valle: amizades em todas as gerações
 

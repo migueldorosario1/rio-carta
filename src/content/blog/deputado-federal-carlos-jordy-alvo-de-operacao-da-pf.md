@@ -10,8 +10,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Carlos Jordy (PL), líder da oposição na Câmara dos Deputados, está sendo investigado pela Polícia Federal (PF) na 24ª fase da Operação Lesa Pátria, focada em atos antidemocráticos. Segundo informações do Blog da Camila Bomfim, a ação da PF foi motivada por trocas de mensagens entre Jordy e indivíduos acusados de golpismo.</p>
 <!-- /wp:paragraph -->

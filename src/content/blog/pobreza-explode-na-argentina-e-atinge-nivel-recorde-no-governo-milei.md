@@ -7,8 +7,8 @@ slug: "pobreza-explode-na-argentina-e-atinge-nivel-recorde-no-governo-milei"
 tags:
   - 'geopolitica'
 wp_id: 3298
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Argentina registrou uma taxa de pobreza de 57,4% em janeiro, o maior índice em duas décadas, segundo pesquisa da Universidade Católica Argentina (UCA). </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "afoxe-filhos-de-gandhi-completa-70-anos-com-festa-no-rio"
 wp_id: 904
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Programação será nesta quinta-feira</em></strong></p>
 <!-- /wp:paragraph -->

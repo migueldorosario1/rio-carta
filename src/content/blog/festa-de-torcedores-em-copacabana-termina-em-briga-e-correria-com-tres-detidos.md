@@ -7,8 +7,8 @@ slug: "festa-de-torcedores-em-copacabana-termina-em-briga-e-correria-com-tres-de
 wp_id: 1772
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>O ambiente festivo reunindo torcedores do Fluminense e do Boca Juniors em Copacabana, na Zona Sul do Rio de Janeiro, sofreu uma reviravolta desagradável com uma briga e tumulto entre os grupos de fãs. Durante a tarde desta quinta-feira (2), a atmosfera era pacífica e sem ocorrências, mas, por volta das 17h, episódios de agitação foram registrados na orla. A Polícia Militar (PM) interveio e deteve dois torcedores argentinos e um brasileiro.</em></p>
 <!-- /wp:paragraph -->

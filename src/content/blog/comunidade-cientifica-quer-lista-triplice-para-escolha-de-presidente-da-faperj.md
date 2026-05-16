@@ -7,8 +7,8 @@ slug: "comunidade-cientifica-quer-lista-triplice-para-escolha-de-presidente-da-f
 wp_id: 5934
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Projeto de Lei da deputada Dani Balbi (PCdoB) propõe que Conselho Superior da Faperj apresente lista de nomes para que o governador indique</strong></em>; <em><strong>Audiência pública na Alerj reuniu comunidade científica em torno da proposta</strong></em></p>
 <!-- /wp:paragraph -->

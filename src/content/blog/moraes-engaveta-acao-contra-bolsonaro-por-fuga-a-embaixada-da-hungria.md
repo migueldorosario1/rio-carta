@@ -7,8 +7,8 @@ slug: "moraes-engaveta-acao-contra-bolsonaro-por-fuga-a-embaixada-da-hungria"
 wp_id: 4300
 tags:
   - 'nacional'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Alexandre de Moraes, do Supremo Tribunal Federal, declarou que não há evidências de que o ex-presidente Jair Bolsonaro buscava asilo diplomático ao se hospedar na embaixada da Hungria em Brasília. Segundo Moraes, a estadia de Bolsonaro na embaixada, que durou duas noites, não constitui uma tentativa de fuga do país.</p>
 <!-- /wp:paragraph -->

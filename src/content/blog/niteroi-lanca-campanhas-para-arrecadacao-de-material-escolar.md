@@ -7,8 +7,8 @@ slug: "niteroi-lanca-campanhas-para-arrecadacao-de-material-escolar"
 wp_id: 2602
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Com a proximidade do retorno às aulas, a cidade de Niterói organiza diversas campanhas de arrecadação de material escolar para ajudar crianças em situação de vulnerabilidade social. Entre as instituições envolvidas estão a ONG Sempre Criança, o Grupo Espírita Paz, Amor e Renovação (Gepar) e o Instituto Gingas, além de iniciativas em locais como o Plaza Shopping.</p>
 <!-- /wp:paragraph -->

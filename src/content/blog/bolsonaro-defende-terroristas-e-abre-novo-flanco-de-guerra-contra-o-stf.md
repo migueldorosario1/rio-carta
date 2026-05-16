@@ -7,8 +7,8 @@ slug: "bolsonaro-defende-terroristas-e-abre-novo-flanco-de-guerra-contra-o-stf"
 tags:
   - 'nacional'
 wp_id: 3466
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante evento na Avenida Paulista, em São Paulo, neste domingo, 25, o ex-presidente Jair Bolsonaro tentou contestar as investigações das quais é alvo, relacionadas a tentativa de golpe de Estado.</p>
 <!-- /wp:paragraph -->

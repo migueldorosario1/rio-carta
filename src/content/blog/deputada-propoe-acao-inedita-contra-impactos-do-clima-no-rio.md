@@ -7,8 +7,8 @@ slug: "deputada-propoe-acao-inedita-contra-impactos-do-clima-no-rio"
 wp_id: 6920
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com foco nas populações vulneráveis, o projeto da deputada Lilian Behring propõe capacitação de enfermeiros e ações intersetoriais para mitigar os efeitos da crise climática</h3>
 <!-- /wp:heading -->

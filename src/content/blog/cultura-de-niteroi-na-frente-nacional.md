@@ -8,8 +8,8 @@ wp_id: 813
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Indicada pelo PCdoB, Julia Pacheco foi eleita vice-presidenta da Frente Nacional de Secretários e de Dirigentes de Cultura</strong></em></p>
 <!-- /wp:paragraph -->

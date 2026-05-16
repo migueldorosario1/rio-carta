@@ -7,8 +7,8 @@ slug: "marcio-ayer-sem-retrocessos-para-abrir-no-feriado-so-com-acordo"
 tags:
   - 'politica-rj'
 wp_id: 3340
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Mais uma vez os empresários querem dar uma de espertos. Agora, a Associação Brasileira de Supermercados (Abras) quer retirar da portaria do governo federal a obrigatoriedade das lojas abrirem nos feriados somente em acordo com os sindicatos, como vem sendo discutido na Comissão Tripartite, em Brasília.</p>
 <!-- /wp:paragraph -->

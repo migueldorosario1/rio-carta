@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "mesquita", "baixada-fluminense", "nova-iguacu", "corpo-de-bombeiros", "seguranca-publica", "regiao-metropolitana", "sao-goncalo-itaborai", "joa", "baixada", "sao-goncalo", "itaborai", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150205-subtenente-do-corpo-de-bombeiros-e-condenado-por-morte-de-motociclista-em-2024.jpg"
+categoria_macro: seguranca
 ---
 Subtenente do Corpo de Bombeiros é condenado por morte de motociclista em 2024
 

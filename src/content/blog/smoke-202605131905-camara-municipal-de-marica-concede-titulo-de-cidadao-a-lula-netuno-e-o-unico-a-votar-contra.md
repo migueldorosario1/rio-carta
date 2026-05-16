@@ -5,6 +5,7 @@ pubDate: "2026-05-13T22:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "camara-municipal", "lula", "titulo-de-cidadao", "politica-local", "baixada-fluminense", "regiao-metropolitana", "joa", "saude", "educacao", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131905-camara-municipal-de-marica-concede-titulo-de-cidadao-a-lula-netuno-e-o-unico-a-votar-contra.webp"
+categoria_macro: politica
 ---
 Câmara Municipal de Maricá concede título de cidadão a Lula; Netuno é o único a votar contra
 

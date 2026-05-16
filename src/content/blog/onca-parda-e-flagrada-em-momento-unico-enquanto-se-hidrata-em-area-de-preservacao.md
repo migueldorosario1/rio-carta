@@ -7,8 +7,8 @@ slug: "onca-parda-e-flagrada-em-momento-unico-enquanto-se-hidrata-em-area-de-pre
 tags:
   - 'nacional'
 wp_id: 1880
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Uma cena rara e emocionante foi capturada esta semana por câmeras estrategicamente posicionadas na Reserva Ecológica de Guapiaçu e no Parque Estadual dos Três Picos, na Região Metropolitana do Rio. Uma onça parda, majestosa e discreta, foi flagrada enquanto se hidratava em um riacho, proporcionando um vislumbre íntimo da vida selvagem.</em></strong></p>
 <!-- /wp:paragraph -->

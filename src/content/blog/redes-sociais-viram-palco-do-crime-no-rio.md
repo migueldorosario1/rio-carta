@@ -7,8 +7,8 @@ slug: "redes-sociais-viram-palco-do-crime-no-rio"
 wp_id: 7430
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Matéria da Folha revela como traficantes do Rio transformam redes sociais em vitrine de poder, ostentação e propaganda de bets ilegais</h3>
 <!-- /wp:heading -->

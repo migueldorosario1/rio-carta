@@ -7,8 +7,8 @@ slug: "vasco-recebe-primeiro-ministro-do-vietna-em-visita-a-sao-januario"
 wp_id: 7094
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Encontro foi organizado por Luis Manuel Rebelo Fernandes, que é secretário executivo do Ministério da Ciência, Tecnologia e Inovação do governo Lula e presidente do Conselho de Beneméritos do clube</strong></em></p>
 <!-- /wp:paragraph -->

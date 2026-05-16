@@ -7,8 +7,8 @@ slug: "policia-prende-influenciador-acusado-de-cometer-uma-serie-de-estupros-em-
 tags:
   - 'nacional'
 wp_id: 3520
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um homem de 35 anos, que se apresenta como influenciador nas redes sociais, foi preso no último sábado, 24, no Centro de Fortaleza, acusado de cometer uma série de estupros na capital cearense e Região Metropolitana. </p>
 <!-- /wp:paragraph -->

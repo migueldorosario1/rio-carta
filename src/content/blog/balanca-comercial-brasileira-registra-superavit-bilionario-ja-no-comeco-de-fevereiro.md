@@ -7,8 +7,8 @@ slug: "balanca-comercial-brasileira-registra-superavit-bilionario-ja-no-comeco-d
 tags:
   - 'nacional'
 wp_id: 3271
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nas primeiras duas semanas de fevereiro, a balança comercial do Brasil registrou um superávit de US$ 1,996 bilhão, conforme divulgado pela Secretaria de Comércio Exterior do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Secex/Mdic). </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "jair-bolsonaro-mira-o-senado-apos-declaracao-de-inelegibilidade"
 wp_id: 5384
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Jair Bolsonaro (PL), após ser declarado inelegível pelo Tribunal Superior Eleitoral (TSE), informou a aliados que não planeja concorrer novamente à Presidência, mesmo que consiga reverter a decisão do tribunal. Segundo a coluna Painel da Folha de S. Paulo, o ex-presidente busca uma vaga no Senado. </p>
 <!-- /wp:paragraph -->

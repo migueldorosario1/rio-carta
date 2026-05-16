@@ -7,8 +7,8 @@ slug: "cota-de-tela-estadual-cinemas-do-rio-deverao-exibir-percentual-minimo-de-
 wp_id: 1449
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa é do deputado Munir Neto (PSD) em coautoria com a deputada Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

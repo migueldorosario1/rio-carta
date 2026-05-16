@@ -7,8 +7,8 @@ slug: "passagem-de-frente-fria-deixa-ceu-nublado-e-temperaturas-em-queda"
 wp_id: 1692
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Nesta quarta-feira, o Rio de Janeiro é impactado pela aproximação e passagem de uma frente fria no oceano, de acordo com informações fornecidas pelo Alerta Rio. O resultado imediato desse fenômeno climático é a predominância de céu nublado a encoberto na cidade. A previsão aponta para a possibilidade de chuvas moderadas ao longo do dia, com potenciais pancadas à tarde e à noite.</em></p>
 <!-- /wp:paragraph -->

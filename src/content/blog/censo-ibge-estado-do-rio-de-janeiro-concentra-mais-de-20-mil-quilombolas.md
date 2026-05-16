@@ -9,8 +9,8 @@ tags:
   - 'campos'
   - 'cabo-frio'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Maior população quilombolas está no município de Cabo Frio, na região dos lagos</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "reforma-educacional-marca-virada-na-rede-municipal-de-marica"
 wp_id: 7528
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com o fim da aprovação automática, Maricá inaugura um ciclo que une reestruturação pedagógica, expansão escolar e atenção ao aprendizado real dos estudantes</h3>
 <!-- /wp:heading -->

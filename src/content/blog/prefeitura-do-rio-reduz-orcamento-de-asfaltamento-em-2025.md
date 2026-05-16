@@ -8,8 +8,8 @@ wp_id: 6003
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Após investimentos intensivos realizados no programa Asfalto Liso em 2024, a Prefeitura do Rio de Janeiro projeta uma redução de 53% no orçamento para asfaltamento de ruas em 2025, em comparação com o ano eleitoral atual. </p>
 <!-- /wp:paragraph -->

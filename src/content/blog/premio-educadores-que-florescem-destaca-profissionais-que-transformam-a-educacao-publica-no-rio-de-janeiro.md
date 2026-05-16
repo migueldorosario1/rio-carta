@@ -7,8 +7,8 @@ slug: "premio-educadores-que-florescem-destaca-profissionais-que-transformam-a-e
 wp_id: 7381
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O Prêmio é uma iniciativa da deputada estadual Dani Balbi (PCdoB)</em>; <em>a premiação acontece no dia 01 de dezembro, na Alerj.</em></strong></p>
 <!-- /wp:paragraph -->

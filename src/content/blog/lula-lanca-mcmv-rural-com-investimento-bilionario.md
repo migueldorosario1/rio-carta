@@ -7,8 +7,8 @@ slug: "lula-lanca-mcmv-rural-com-investimento-bilionario"
 tags:
   - 'nacional'
 wp_id: 4145
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva, em conjunto com o ministro das Cidades, Jader Filho, vai anunciar nesta quarta-feira, 10, a ampliação do programa Minha Casa Minha Vida (MCMV), com a inclusão de mais de 112,5 mil moradias nas modalidades Rural e Entidades em todo o território nacional. </p>
 <!-- /wp:paragraph -->

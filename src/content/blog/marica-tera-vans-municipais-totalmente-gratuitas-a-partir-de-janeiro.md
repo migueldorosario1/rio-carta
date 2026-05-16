@@ -7,8 +7,8 @@ slug: "marica-tera-vans-municipais-totalmente-gratuitas-a-partir-de-janeiro"
 tags:
   - 'marica'
 wp_id: 7566
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Anúncio foi feito pelo prefeito Washington Quaquá sobre novo modal que amplia Tarifa Zero na cidade</h3>
 <!-- /wp:heading -->

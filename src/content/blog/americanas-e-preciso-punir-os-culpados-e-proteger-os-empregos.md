@@ -7,8 +7,8 @@ slug: "americanas-e-preciso-punir-os-culpados-e-proteger-os-empregos"
 wp_id: 431
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Presidente do Sindicato dos Comerciários do Rio de Janeiro, Marcio Ayer defende punição dos executivos da empresa.</em></p>
 <!-- /wp:paragraph -->

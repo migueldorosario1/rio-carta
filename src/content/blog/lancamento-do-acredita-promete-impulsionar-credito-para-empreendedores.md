@@ -7,8 +7,8 @@ slug: "lancamento-do-acredita-promete-impulsionar-credito-para-empreendedores"
 tags:
   - 'nacional'
 wp_id: 4291
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira, 22, foi lançado o Programa Acredita, uma iniciativa governamental que visa facilitar o acesso ao crédito para microempreendedores individuais (MEI), além de micro e pequenas empresas. </p>
 <!-- /wp:paragraph -->

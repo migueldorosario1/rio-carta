@@ -7,8 +7,8 @@ slug: "mutirao-oferece-17-mil-vagas-de-estagio-para-lgbtqia-no-rio"
 tags:
   - 'rio-de-janeiro'
 wp_id: 1336
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Inscrições podem ser feitas nesta terça-feira (12) das 7h às 18h</strong></em></p>
 <!-- /wp:paragraph -->

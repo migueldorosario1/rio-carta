@@ -7,8 +7,8 @@ slug: "fragilidade-do-sistema-hospitalar-devido-ao-verao-2025-impulsiona-acao-na
 wp_id: 6990
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Emenda da deputada Lilian Behring à LDO busca garantir recursos para modernizar o ar-condicionado do Hospital Pedro Ernesto, da UERJ</h3>
 <!-- /wp:heading -->

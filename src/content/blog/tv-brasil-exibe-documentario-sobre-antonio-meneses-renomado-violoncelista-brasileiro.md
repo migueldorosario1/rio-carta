@@ -7,8 +7,8 @@ slug: "tv-brasil-exibe-documentario-sobre-antonio-meneses-renomado-violoncelista
 tags:
   - 'nacional'
 wp_id: 4856
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O programa <strong>Partituras</strong> deste domingo (18), transmitido às 23h30 na TV Brasil, apresentará um documentário dedicado ao violoncelista brasileiro Antonio Meneses, que faleceu no início de agosto deste ano, aos 66 anos, na Suíça, vítima de um agressivo câncer cerebral.</p>
 <!-- /wp:paragraph -->

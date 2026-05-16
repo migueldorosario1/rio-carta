@@ -7,8 +7,8 @@ slug: "debate-na-lapa-discute-regulacao-das-big-techs-no-brasil-na-proxima-quint
 tags:
   - 'lapa'
 wp_id: 7148
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O evento é organizado pelo Centro de Estudos da Mídia Alternativa Barão de Itararé</strong></em></p>
 <!-- /wp:paragraph -->

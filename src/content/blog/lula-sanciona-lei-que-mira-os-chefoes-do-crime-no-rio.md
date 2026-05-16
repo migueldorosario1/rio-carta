@@ -8,8 +8,8 @@ wp_id: 7302
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading"><em>Em resposta ao cenário de guerra que deixou mais de 120 mortos no Rio, nova legislação altera Código Penal para punir quem "contrata" facções e transfere líderes para presídios federais</em></h3>
 <!-- /wp:heading -->

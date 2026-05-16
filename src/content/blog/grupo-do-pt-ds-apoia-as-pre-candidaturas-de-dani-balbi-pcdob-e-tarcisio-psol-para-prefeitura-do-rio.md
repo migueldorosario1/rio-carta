@@ -8,8 +8,8 @@ wp_id: 1769
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Cresce no PT o movimento para que o partido não apoie Eduardo Paes (PSD) para a prefeitura do Rio.</strong></em></p>
 <!-- /wp:paragraph -->

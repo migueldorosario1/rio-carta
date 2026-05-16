@@ -7,8 +7,8 @@ slug: "globo-e-a-fraude-moral-da-transparencia-internacional-contra-o-governo-lu
 wp_id: 2808
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Por Gabriel Barbosa </strong></p>
 <!-- /wp:paragraph -->

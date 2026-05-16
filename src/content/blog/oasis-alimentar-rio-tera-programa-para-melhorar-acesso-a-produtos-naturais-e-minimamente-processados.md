@@ -7,8 +7,8 @@ slug: "oasis-alimentar-rio-tera-programa-para-melhorar-acesso-a-produtos-naturai
 wp_id: 1397
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da deputada estadual Dani Balbi (PCdoB)</em></strong></p>
 <!-- /wp:paragraph -->

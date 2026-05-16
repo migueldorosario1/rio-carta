@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Artigo da deputada Dani Balbi (PCdoB) sobre o impacto socioambiental das chuvas no Rio de Janeiro</em></p>
 <!-- /wp:paragraph -->

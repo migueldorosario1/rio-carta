@@ -7,8 +7,8 @@ slug: "zona-oeste-tem-24-onibus-incendiados-apos-morte-de-sobrinho-de-miliciano"
 wp_id: 1659
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira (23), a Zona Oeste do Rio de Janeiro se viu mergulhada no caos após a morte de um chefe da milícia. Matheus Rezende, também conhecido como "Teteu" ou "Faustão," foi baleado e morto na comunidade Três Pontes. Ele era apontado como o número 2 na hierarquia da milícia comandada por seu tio, marcando o terceiro membro da família a ser morto pela Polícia Civil.</p>
 <!-- /wp:paragraph -->

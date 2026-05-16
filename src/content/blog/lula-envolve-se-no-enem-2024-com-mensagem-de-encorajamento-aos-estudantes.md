@@ -7,8 +7,8 @@ slug: "lula-envolve-se-no-enem-2024-com-mensagem-de-encorajamento-aos-estudantes
 tags:
   - 'nacional'
 wp_id: 5956
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva dirigiu-se aos estudantes via redes sociais neste domingo, com uma mensagem de incentivo para os que estão prestes a fazer o Exame Nacional do Ensino Médio (Enem) de 2024. </p>
 <!-- /wp:paragraph -->

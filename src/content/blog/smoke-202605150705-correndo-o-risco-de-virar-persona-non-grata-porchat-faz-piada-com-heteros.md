@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "alerj", "politica-rj", "capital", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605150705-correndo-o-risco-de-virar-persona-non-grata-porchat-faz-piada-com-heteros.png"
+categoria_macro: politica
 ---
 Correndo o risco de virar ‘persona non grata’, Porchat faz piada com heteros
 

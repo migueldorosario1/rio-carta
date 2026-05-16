@@ -7,8 +7,8 @@ slug: "lula-defende-medidas-de-contencao-de-gastos-e-projeta-crescimento-economi
 tags:
   - 'nacional'
 wp_id: 6107
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva, em pronunciamento nesta quarta-feira no Palácio do Planalto, defendeu as recentes medidas adotadas pelo governo para revisão e restrição de acesso a benefícios sociais, alegando que tais ações são realizadas com cautela e não possuem caráter punitivo. </p>
 <!-- /wp:paragraph -->

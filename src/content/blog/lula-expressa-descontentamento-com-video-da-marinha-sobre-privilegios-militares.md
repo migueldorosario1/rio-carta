@@ -7,8 +7,8 @@ slug: "lula-expressa-descontentamento-com-video-da-marinha-sobre-privilegios-mil
 tags:
   - 'nacional'
 wp_id: 6101
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva manifestou desagrado com um vídeo publicitário da Marinha que questiona os supostos "privilégios" da carreira militar, conforme reportado pela coluna Painel da Folha de S.Paulo. </p>
 <!-- /wp:paragraph -->

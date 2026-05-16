@@ -7,8 +7,8 @@ slug: "conheca-os-nomes-mais-populares-para-bebes-no-rio-em-2023"
 wp_id: 2170
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Portal da Transparência do Registro Civil, gerenciado pela Associação Nacional dos Registradores de Pessoas Naturais (Arpen-Brasil), revelou os nomes mais escolhidos pelos pais no Estado do Rio de Janeiro em 2023. Neste ano, nomes curtos para meninos e nomes tradicionais com origens gregas e latinas para meninas dominaram as escolhas.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "participacao-dos-salarios-no-pib-caiu-desde-a-derrubada-de-dilma"
 tags:
   - 'nacional'
 wp_id: 3013
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A participação dos salários no Produto Interno Bruto (PIB) do Brasil vem apresentando uma queda significativa desde 2016, ano que marcou o início de uma série de reformas econômicas neoliberais implementadas após o impeachment da ex-presidente Dilma Rousseff e a posse de Michel Temer. </p>
 <!-- /wp:paragraph -->

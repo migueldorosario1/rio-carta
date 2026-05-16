@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading"><strong>A remoção de 92 toneladas de obstáculos reacende discussões sobre segurança, abandono histórico e o direito básico de ir e vir nas periferias do Rio</strong></h4>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "operacao-conjunta-resulta-na-prisao-de-tres-suspeitos-pelo-assassinato-de
 wp_id: 3932
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma operação realizada na manhã de domingo, 24, envolvendo a Procuradoria Geral da República, o Ministério Público do Estado do Rio de Janeiro e a Polícia Federal, foram detidos três indivíduos suspeitos de envolvimento no planejamento do assassinato da vereadora Marielle Franco, em março de 2018.</p>
 <!-- /wp:paragraph -->

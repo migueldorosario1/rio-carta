@@ -7,8 +7,8 @@ slug: "brasil-retorna-a-classe-media-em-2024-revela-estudo-da-tendencias-consult
 tags:
   - 'nacional'
 wp_id: 6338
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Pela primeira vez desde 2015, mais da metade das famílias brasileiras atingiu o patamar de classe média em 2024, com 50,1% das famílias ganhando acima de R$ 3,4 mil por mês, segundo dados de um estudo da Tendências Consultoria divulgados pelo jornal O Globo. </p>
 <!-- /wp:paragraph -->

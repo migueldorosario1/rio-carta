@@ -7,8 +7,8 @@ slug: "museu-da-imagem-e-do-som-tera-primeira-fototeca-do-estado"
 wp_id: 836
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa foi aprovada em lei da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

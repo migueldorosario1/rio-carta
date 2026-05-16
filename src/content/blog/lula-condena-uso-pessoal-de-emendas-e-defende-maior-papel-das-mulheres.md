@@ -7,8 +7,8 @@ slug: "lula-condena-uso-pessoal-de-emendas-e-defende-maior-papel-das-mulheres"
 tags:
   - 'nacional'
 wp_id: 5094
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante a inauguração da ampliação do Hospital de Clínicas da Universidade Federal de Uberlândia, nesta quinta-feira (5), o presidente Luiz Inácio Lula da Silva criticou a destinação de emendas parlamentares para fins pessoais e reivindicou maior transparência no manejo de recursos federais. "Emendas parlamentares devem ter utilidade coletiva, e não pessoal", afirmou Lula no evento.</p>
 <!-- /wp:paragraph -->

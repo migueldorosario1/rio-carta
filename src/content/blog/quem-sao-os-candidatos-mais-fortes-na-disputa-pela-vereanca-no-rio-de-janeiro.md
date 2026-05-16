@@ -8,8 +8,8 @@ wp_id: 5523
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Eleição do Rio terá 1028 candidatos na disputa pelas 51 cadeiras da Câmara Municipal.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "confronto-em-vigario-geral-afeta-trens-e-deixa-policial-morto"
 wp_id: 2219
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma operação da Polícia Militar nas primeiras horas da manhã em Vigário Geral, Zona Norte do Rio de Janeiro, desencadeou um intenso tiroteio que afetou gravemente a região, resultando na morte de um policial militar e na interrupção dos serviços ferroviários do ramal Saracuruna. Moradores locais acordaram com o som de disparos, e a situação rapidamente escalou para um confronto significativo.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 4916
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério Público Eleitoral, por intermédio da 125ª Promotoria Eleitoral, protocolou uma Ação de Impugnação contra a candidatura de Anthony Garotinho ao cargo de vereador no município do Rio de Janeiro. </p>
 <!-- /wp:paragraph -->

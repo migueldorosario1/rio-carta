@@ -7,8 +7,8 @@ slug: "stf-pode-ampliar-investigacoes-contra-bolsonaro-e-aliados"
 tags:
   - 'nacional'
 wp_id: 2657
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Após as ações que envolveram os deputados Carlos Jordy (PL-RJ) e Alexandre Ramagem (PL-RJ), cresce a expectativa nos corredores do Supremo Tribunal Federal (STF) de que novas diligências sejam realizadas envolvendo o presidente Jair Bolsonaro (PL) e seus apoiadores, informa o <strong>Blog do Noblat</strong> no portal <strong><a href="https://www.metropoles.com/blog-do-noblat/achou-pouco-pf-prepara-mais-operacoes-contra-bolsonaristas">Metrópoles</a></strong>.</p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T12:05:10Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "marica", "leblon", "itaipuacu", "ponta-negra", "itacoatiara", "ressaca", "orla", "ondas", "alerta", "rio-capital-zona-sul-e-grande-tijuca", "niteroi-metropolitana", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605130905-mar-engole-orla-com-ondas-de-ate-3-metros-e-causa-alerta-no-rio-em-niteroi-e-marica.jpg"
+categoria_macro: geral
 ---
 Ondas de até 3 metros atingem o litoral do Rio e assustam moradores na capital, além de cidades como Niterói e Maricá, no distrito de Itaipuaçu. A força do mar já provocou interdições, avanço da água sobre pistas e deixou áreas da orla em alerta nesta terça-feira (12).
 

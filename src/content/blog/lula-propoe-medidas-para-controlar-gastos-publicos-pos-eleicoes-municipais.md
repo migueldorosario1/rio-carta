@@ -7,8 +7,8 @@ slug: "lula-propoe-medidas-para-controlar-gastos-publicos-pos-eleicoes-municipai
 wp_id: 5737
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A equipe econômica do governo de Luiz Inácio Lula da Silva está finalizando um pacote de medidas destinadas a conter o crescimento dos gastos públicos, que deverá ser apresentado ao presidente após o segundo turno das eleições municipais. </p>
 <!-- /wp:paragraph -->

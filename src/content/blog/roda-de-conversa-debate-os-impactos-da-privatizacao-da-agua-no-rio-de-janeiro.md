@@ -7,8 +7,8 @@ slug: "roda-de-conversa-debate-os-impactos-da-privatizacao-da-agua-no-rio-de-jan
 wp_id: 7454
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A roda de conversa reúne Jorge Briard e moradores para discutir o impacto da privatização na vida real: aumento de tarifas, cortes e fragilidade ambiental</h3>
 <!-- /wp:heading -->

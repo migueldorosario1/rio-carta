@@ -7,8 +7,8 @@ slug: "lula-autoriza-candidatura-de-hugo-motta-a-presidencia-da-camara-afirma-ma
 wp_id: 5082
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O vice-presidente da Câmara dos Deputados, Marcos Pereira (Republicanos-ES), declarou nesta quarta-feira (4) que o presidente Luiz Inácio Lula da Silva (PT) autorizou a candidatura de Hugo Motta (Republicanos-PB) à presidência da Casa. A informação foi divulgada pelo blog de Andréia Sadi no g1.</p>
 <!-- /wp:paragraph -->

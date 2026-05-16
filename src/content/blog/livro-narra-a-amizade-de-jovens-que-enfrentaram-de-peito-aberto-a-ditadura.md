@@ -7,8 +7,8 @@ slug: "livro-narra-a-amizade-de-jovens-que-enfrentaram-de-peito-aberto-a-ditadur
 tags:
   - 'cultura-carnaval'
 wp_id: 6815
+categoria_macro: lazer
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Evento na Livraria da Travessa de Ipanema marca o lançamento da obra que narra cinco décadas de amizade e luta política de grupo que viveu em vila carioca nos anos 1960</h4>
 <!-- /wp:heading -->

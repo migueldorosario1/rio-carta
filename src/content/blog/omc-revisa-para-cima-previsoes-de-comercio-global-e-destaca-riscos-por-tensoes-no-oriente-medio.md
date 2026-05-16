@@ -7,8 +7,8 @@ slug: "omc-revisa-para-cima-previsoes-de-comercio-global-e-destaca-riscos-por-te
 tags:
   - 'geopolitica'
 wp_id: 5675
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Organização Mundial do Comércio (OMC) atualizou suas projeções para o comércio global nesta quinta-feira, indicando uma melhoria nas expectativas para este ano e uma possível aceleração para 3% em 2025, contanto que os conflitos no Oriente Médio sejam contidos.</p>
 <!-- /wp:paragraph -->

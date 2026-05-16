@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Niterói, RJ – Homicídio Infantil, Violência Doméstica, Crime Brutal</em></p>
 <!-- /wp:paragraph -->

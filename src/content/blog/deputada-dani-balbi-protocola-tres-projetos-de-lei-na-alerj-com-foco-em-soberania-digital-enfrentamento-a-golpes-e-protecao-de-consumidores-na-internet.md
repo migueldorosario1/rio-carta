@@ -7,8 +7,8 @@ slug: "deputada-dani-balbi-protocola-tres-projetos-de-lei-na-alerj-com-foco-em-s
 wp_id: 7163
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Propostas foram construídas em parceria com a sociedade civil e apresentadas ao gabinete pelo professor Ergon Cugler</strong></em></p>
 <!-- /wp:paragraph -->

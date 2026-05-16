@@ -7,8 +7,8 @@ slug: "eneva-lanca-programa-de-estagio-2025-com-vagas-no-rio-de-janeiro"
 wp_id: 6309
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Eneva, operadora privada de gás natural, anunciou a abertura de inscrições para seu Programa de Estágio 2025. As oportunidades estão disponíveis no Rio de Janeiro, visando atrair estudantes universitários para um ambiente de trabalho dinâmico e enriquecedor. </p>
 <!-- /wp:paragraph -->

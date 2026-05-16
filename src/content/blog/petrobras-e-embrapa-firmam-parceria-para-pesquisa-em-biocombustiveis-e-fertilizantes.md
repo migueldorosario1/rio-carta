@@ -7,8 +7,8 @@ slug: "petrobras-e-embrapa-firmam-parceria-para-pesquisa-em-biocombustiveis-e-fe
 tags:
   - 'nacional'
 wp_id: 5189
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Petrobras anunciou a assinatura de um acordo de pesquisa e desenvolvimento com a Embrapa, voltado para a criação de produtos de baixo carbono, incluindo biocombustíveis, químicos verdes e fertilizantes.</p>
 <!-- /wp:paragraph -->

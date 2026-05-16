@@ -5,6 +5,7 @@ pubDate: "2026-05-13T18:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-oeste", "recreio-dos-bandeirantes", "seguranca-publica", "operacao-policial", "comando-vermelho", "seguranca-publica-rj", "capital-estado", "recreio", "comunidade"]
 heroImage: "/hero/smoke-smoke-202605131505-policia-prende-14-pessoas-em-operacao-contra-expansao-do-cv-na-zona-oeste.jpg"
+categoria_macro: seguranca
 ---
 Rio
 

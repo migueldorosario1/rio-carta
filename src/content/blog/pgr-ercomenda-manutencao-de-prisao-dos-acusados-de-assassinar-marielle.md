@@ -7,8 +7,8 @@ slug: "pgr-ercomenda-manutencao-de-prisao-dos-acusados-de-assassinar-marielle"
 wp_id: 4720
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Procuradoria-Geral da República (PGR) enviou ao Supremo Tribunal Federal (STF) um parecer nesta quinta-feira, 27, recomendando a manutenção da prisão dos irmãos Domingos e Chiquinho Brazão, além do ex-chefe da Polícia Civil do Rio de Janeiro, Rivaldo Barbosa. </p>
 <!-- /wp:paragraph -->

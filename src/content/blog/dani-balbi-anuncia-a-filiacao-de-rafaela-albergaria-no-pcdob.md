@@ -8,8 +8,8 @@ wp_id: 3675
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O anúncio foi feito nas redes sociais da deputada; Abergaria será a aposta para a Câmara de Vereadores do Rio</strong></em></p>
 <!-- /wp:paragraph -->

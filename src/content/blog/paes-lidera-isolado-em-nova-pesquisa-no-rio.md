@@ -8,8 +8,8 @@ wp_id: 5022
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Instituto Real Time Big Data divulgou nesta segunda-feira (2) os resultados de uma pesquisa estimulada que mostra Eduardo Paes (PSD) na frente na corrida pela prefeitura do Rio de Janeiro, com 58% das intenções de voto para as eleições municipais deste ano.</p>
 <!-- /wp:paragraph -->

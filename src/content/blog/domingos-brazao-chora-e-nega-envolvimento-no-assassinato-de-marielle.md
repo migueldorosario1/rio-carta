@@ -7,8 +7,8 @@ slug: "domingos-brazao-chora-e-nega-envolvimento-no-assassinato-de-marielle"
 wp_id: 4778
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O conselheiro do Tribunal de Contas do Estado do Rio de Janeiro, Domingos Brazão, afirmou nesta terça-feira, 16, que é uma "falácia" a acusação de parlamentares aliados do governo Lula de que ele foi um dos mandantes do assassinato da ex-vereadora do Rio Marielle Franco (PSOL). </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 535
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 A Baixada Fluminense, uma região do estado do Rio de Janeiro conhecida por sua diversidade cultural e econômica, está experimentando um aumento significativo nas oportunidades de emprego em junho de 2023. De acordo com os Classificados do Edimilson, uma variedade de empresas e organizações estão contratando, incluindo a Secretaria Municipal de Trabalho e Renda do Rio, a Secretaria de Estado de Trabalho e Renda, o Grupo EcoRodovias (EcoRioMinas), Gerando Vidas, Light, Zona Oeste Mais Saneamento, e o Grupo Trigo, que inclui marcas como China In Box, Spoleto, Koni, LeBonTon, Gendai e Gurumê.
 
 A Secretaria Municipal de Trabalho e Renda do Rio anunciou a disponibilidade de 1.031 postos de trabalho em diversas áreas, com e sem experiência, em vários bairros da cidade. A Secretaria de Estado de Trabalho e Renda também divulgou a oferta de 1.037 oportunidades de emprego, além de 1.259 chances de estágio e jovem aprendiz.

@@ -12,8 +12,8 @@ tags:
   - 'niteroi'
   - 'petropolis'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido dos Trabalhadores (PT) no Rio de Janeiro está ampliando alianças com partidos centristas e de direita, incluindo o Republicanos e o Progressistas (PP), para fortalecer sua posição nas eleições municipais de 2024. Esta iniciativa visa combater a influência do bolsonarismo no estado. Durante a Conferência Eleitoral PT 2024, realizada em Brasília, lideranças do PT destacaram a importância de expandir a base de vereadores e conquistar prefeituras para preparar o partido para as eleições de 2026.</p>
 <!-- /wp:paragraph -->

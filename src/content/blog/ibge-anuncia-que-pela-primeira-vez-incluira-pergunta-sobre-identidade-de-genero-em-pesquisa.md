@@ -7,8 +7,8 @@ slug: "ibge-anuncia-que-pela-primeira-vez-incluira-pergunta-sobre-identidade-de-
 tags:
   - 'nacional'
 wp_id: 1572
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa é uma conquista para a população Trans</strong></em></p>
 <!-- /wp:paragraph -->

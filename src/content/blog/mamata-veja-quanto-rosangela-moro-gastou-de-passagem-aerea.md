@@ -7,8 +7,8 @@ slug: "mamata-veja-quanto-rosangela-moro-gastou-de-passagem-aerea"
 wp_id: 3732
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A deputada federal Rosângela Moro, do União Brasil de São Paulo, tem gerado discussão ao utilizar R$ 56 mil de sua cota parlamentar em passagens aéreas para Curitiba, Paraná, no decorrer de um ano. </p>
 <!-- /wp:paragraph -->

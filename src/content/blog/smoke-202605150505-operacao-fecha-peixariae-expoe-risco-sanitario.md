@@ -5,6 +5,7 @@ pubDate: "2026-05-15T08:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "centro", "regiao-metropolitana", "niteroi-metropolitana", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150505-operacao-fecha-peixariae-expoe-risco-sanitario.jpg"
+categoria_macro: politica
 ---
 Uma ação integrada da Prefeitura de Niterói interditou por tempo indeterminado uma peixaria instalada em galeria do Centro da cidade durante nova etapa da Operação Pharmakon. Segundo o município, a fiscalização encontrou funcionamento sem autorização, armazenamento inadequado de pescados, acúmulo de objetos inservíveis e descarte irregular de resíduos sem refrigeração.
 

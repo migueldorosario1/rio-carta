@@ -7,8 +7,8 @@ slug: "protesto-historico-contra-extrema-direita-reune-mais-de-250-mil-na-aleman
 wp_id: 2483
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Mais de 250.000 pessoas tomaram as ruas em protestos por toda a Alemanha neste sábado, demonstrando uma forte rejeição ao partido de extrema-direita Alternativa para a Alemanha (AfD). A mobilização massiva ocorreu em resposta à revelação de que membros do AfD discutiram planos de deportação em uma reunião com extremistas, causando grande indignação pública.</p>
 <!-- /wp:paragraph -->

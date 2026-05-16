@@ -7,8 +7,8 @@ slug: "pt-amplia-representacao-nas-eleicoes-municipais-de-2024"
 wp_id: 5634
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido dos Trabalhadores (PT) anunciou nesta terça-feira (8) um aumento significativo no número de prefeituras e vereadores eleitos nas eleições municipais de 2024, comparado aos resultados anteriores.</p>
 <!-- /wp:paragraph -->

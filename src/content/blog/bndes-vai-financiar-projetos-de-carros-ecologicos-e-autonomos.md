@@ -7,8 +7,8 @@ slug: "bndes-vai-financiar-projetos-de-carros-ecologicos-e-autonomos"
 wp_id: 3913
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), Aloizio Mercadante, revelou nesta quinta-feira, 17, planos da instituição para financiar uma série de iniciativas voltadas à produção de veículos ecologicamente corretos. O anúncio ocorreu durante o evento BNDES Periferias, realizado na sede do banco no Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

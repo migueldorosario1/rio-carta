@@ -7,8 +7,8 @@ slug: "crescimento-do-pib-brasileiro-supera-expectativas-no-2o-tri-de-2024"
 tags:
   - 'nacional'
 wp_id: 5029
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Produto Interno Bruto (PIB) do Brasil registrou um aumento de 1,4% no segundo trimestre de 2024, comparado ao trimestre anterior. </p>
 <!-- /wp:paragraph -->

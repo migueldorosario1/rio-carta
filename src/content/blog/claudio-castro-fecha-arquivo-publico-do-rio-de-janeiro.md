@@ -7,8 +7,8 @@ slug: "claudio-castro-fecha-arquivo-publico-do-rio-de-janeiro"
 wp_id: 6371
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada Dani Balbi (PCdoB) pediu explicações ao governador</em></strong>; <strong><em>Aperj reúne arquivos sobre a ditadura militar</em></strong></p>
 <!-- /wp:paragraph -->

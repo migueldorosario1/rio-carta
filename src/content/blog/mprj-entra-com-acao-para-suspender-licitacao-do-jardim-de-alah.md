@@ -7,8 +7,8 @@ slug: "mprj-entra-com-acao-para-suspender-licitacao-do-jardim-de-alah"
 wp_id: 1177
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Para o Ministério Público, a privatização proposta por Eduardo Paes (PSD) é ilegal</strong></em></p>
 <!-- /wp:paragraph -->

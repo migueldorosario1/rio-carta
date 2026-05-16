@@ -7,8 +7,8 @@ slug: "netflix-desvenda-ligacoes-entre-pablo-escobar-e-griselda-blanco"
 tags:
   - 'nacional'
 wp_id: 2679
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A série "Griselda", lançada recentemente pela Netflix, trouxe novos detalhes sobre a relação entre Pablo Escobar e Griselda Blanco, dois dos mais infames traficantes de drogas das décadas de 1970 e 1980. </p>
 <!-- /wp:paragraph -->

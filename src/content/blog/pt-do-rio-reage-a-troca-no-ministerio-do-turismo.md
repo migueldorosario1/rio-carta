@@ -8,8 +8,8 @@ wp_id: 126
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 O Partido dos Trabalhadores do Rio de Janeiro se posicionou em defesa da continuidade de Daniela Carneiro como Ministra do Turismo. O nome cotado para assumir a gestão é o do deputado federal deputado Celso Sabino.
 
 O deputado federal Washington Quaquá, vice-presidente da legenda, afirmou que a troca da gestão do Ministério é um erro. Além de Quaquá, o diretório do PT no estado também divulgou uma nota em apoio à ministra.

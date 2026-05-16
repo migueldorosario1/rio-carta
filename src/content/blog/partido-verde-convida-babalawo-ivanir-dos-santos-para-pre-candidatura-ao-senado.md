@@ -7,8 +7,8 @@ slug: "partido-verde-convida-babalawo-ivanir-dos-santos-para-pre-candidatura-ao-
 wp_id: 7651
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O babalawô Ivanir dos Santos foi convidado pelo Partido Verde (PV), nesta semana, a integrar a sigla como pré-candidato ao Senado nas eleições de 2026. O convite foi anunciado no tradicional Amarelinho da Cinelândia, com a presença do presidente estadual do partido, Roberto Rocco, e do representante municipal, o vereador Márcio Santos.</p>
 <!-- /wp:paragraph -->

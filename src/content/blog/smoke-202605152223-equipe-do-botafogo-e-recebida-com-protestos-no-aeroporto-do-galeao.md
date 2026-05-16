@@ -5,6 +5,7 @@ pubDate: "2026-05-15T22:24:02Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "futebol", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "galeao", "sao-goncalo", "itaborai"]
 heroImage: "/hero/smoke-smoke-202605152223-equipe-do-botafogo-e-recebida-com-protestos-no-aeroporto-do-galeao.png"
+categoria_macro: lazer
 ---
 Mesmo em crise, o Glorioso ainda disputa a Copa Sul-Americana e o Campeonato Brasileiro
 

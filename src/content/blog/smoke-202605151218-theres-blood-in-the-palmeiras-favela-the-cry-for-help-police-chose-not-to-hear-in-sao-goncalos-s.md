@@ -5,8 +5,8 @@ pubDate: "2026-05-15T15:18:50Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "complexo-do-salgueiro", "palmeiras", "regiao-metropolitana", "seguranca-publica", "favelas-comunidades", "favela", "comunidade", "complexo", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "/hero/interior-entra-no-centro-da-disputa-pelo-governo-do-rio.png"
+categoria_macro: seguranca
 ---
-
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.
 
 The Palmeiras community, in Complexo do Salgueiro, a cluster of favelas in the Greater Rio municipality of São Gonçalo, became the scene of a crime that exposes the brutal face of Rio de Janeiro state public security policy. On Friday, March 27, amid a water shortage in the favela, Andressa Nogueira do Nascimento was executed after leaving her home with one of her children to buy water for her family. The afternoon was marked by the deafening silence of authorities in the face of the loss of life. What followed her death was a spectacle of state omission and abandonment, bordering on sadism.

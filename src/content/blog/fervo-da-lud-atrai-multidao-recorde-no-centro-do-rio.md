@@ -7,8 +7,8 @@ slug: "fervo-da-lud-atrai-multidao-recorde-no-centro-do-rio"
 wp_id: 3197
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã desta terça-feira, 13, aproximadamente 1,2 milhão de pessoas se reuniram na Rua Primeiro de Março, no Centro da cidade, para acompanhar o desfile do Fervo da Lud, bloco liderado pela cantora Ludmilla. </p>
 <!-- /wp:paragraph -->

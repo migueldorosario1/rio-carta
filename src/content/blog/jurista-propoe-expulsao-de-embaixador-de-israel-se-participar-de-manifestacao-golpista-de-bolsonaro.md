@@ -7,8 +7,8 @@ slug: "jurista-propoe-expulsao-de-embaixador-de-israel-se-participar-de-manifest
 tags:
   - 'nacional'
 wp_id: 3312
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O advogado Marcelo Uchôa lançou uma proposta direta em relação à possível participação do embaixador de Israel no Brasil, Daniel Zonshine, em um evento convocado por Jair Bolsonaro para o próximo dia 25 de fevereiro, na Avenida Paulista, em São Paulo. </p>
 <!-- /wp:paragraph -->

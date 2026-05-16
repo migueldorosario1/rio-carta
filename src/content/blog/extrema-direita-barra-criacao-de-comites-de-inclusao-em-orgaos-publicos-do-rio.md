@@ -8,8 +8,8 @@ wp_id: 6811
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Projeto da deputada Dani Balbi (PCdoB) visava a criação de comitês de equidade, diversidade e inclusão em todos os órgãos públicos do estado; extrema direita votou contra o projeto na sessão desta quarta-feira na Alerj.</strong></em></p>
 <!-- /wp:paragraph -->

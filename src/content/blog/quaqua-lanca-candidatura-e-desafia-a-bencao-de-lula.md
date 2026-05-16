@@ -8,8 +8,8 @@ wp_id: 6803
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Em evento no Circo Voador, prefeito de Maricá desafia a ala majoritária do PT e questiona possível apoio velado de Lula ao nome de Edinho Silva</h2>
 <!-- /wp:heading -->

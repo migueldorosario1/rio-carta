@@ -7,8 +7,8 @@ slug: "jandira-feghali-eu-acuso-os-impactos-da-falta-de-regulamentacao-da-intern
 wp_id: 2552
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Artigo da deputada federal Jandira Feghali (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

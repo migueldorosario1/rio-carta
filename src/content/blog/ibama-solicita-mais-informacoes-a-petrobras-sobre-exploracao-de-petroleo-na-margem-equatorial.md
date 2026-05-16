@@ -7,8 +7,8 @@ slug: "ibama-solicita-mais-informacoes-a-petrobras-sobre-exploracao-de-petroleo-
 tags:
   - 'nacional'
 wp_id: 5925
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), Rodrigo Agostinho, afirmou que a Petrobras ainda pode fornecer informações adicionais para a avaliação do projeto de exploração de petróleo na Margem Equatorial brasileira. </p>
 <!-- /wp:paragraph -->

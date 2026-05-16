@@ -7,8 +7,8 @@ slug: "confira-as-atracoes-culturais-e-de-lazer-no-rio-de-janeiro-para-o-fim-de-
 wp_id: 2393
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O fim de semana na cidade do Rio de Janeiro promete uma diversidade de eventos culturais e de lazer, oferecendo aos cariocas e visitantes uma ampla gama de opções entre os dias 12 e 14 de janeiro e durante a semana seguinte.</p>
 <!-- /wp:paragraph -->

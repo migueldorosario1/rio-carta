@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "banco-master", "cpi", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605132305-flavio-bolsonaro-admite-pedido-milionario-a-banqueiro-para-filme-sobre-jair-bolsonaro-e-reage-co.jpg"
+categoria_macro: politica
 ---
 O senador Flávio Bolsonaro confirmou nesta quarta-feira (13) que procurou o banqueiro Daniel Vorcaro em busca de financiamento privado para um filme sobre o ex-presidente Jair Bolsonaro. A declaração foi feita após a divulgação de informações pelo portal Intercept envolvendo supostos pagamentos ligados à produção cinematográfica “Dark Horse”.
 

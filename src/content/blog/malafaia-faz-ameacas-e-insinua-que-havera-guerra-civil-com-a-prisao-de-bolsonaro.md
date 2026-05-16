@@ -7,8 +7,8 @@ slug: "malafaia-faz-ameacas-e-insinua-que-havera-guerra-civil-com-a-prisao-de-bo
 tags:
   - 'nacional'
 wp_id: 3486
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante um evento realizado na Avenida Paulista, em São Paulo, neste domingo, 25, o pastor Silas Malafaia, conhecido por seu apoio a Jair Bolsonaro, comentou sobre a possibilidade de prisão do ex-presidente. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lula-anuncia-medida-provisoria-para-estabelecer-estatuto-juridico-da-emer
 tags:
   - 'nacional'
 wp_id: 5183
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva anunciou, em entrevista à Rádio Norte FM nesta quarta-feira (11), a criação de uma medida provisória para instituir o estatuto jurídico da emergência climática.</p>
 <!-- /wp:paragraph -->

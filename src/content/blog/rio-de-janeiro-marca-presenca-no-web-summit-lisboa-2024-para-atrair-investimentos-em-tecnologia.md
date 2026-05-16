@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-marca-presenca-no-web-summit-lisboa-2024-para-atrair-inves
 wp_id: 5988
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Rio de Janeiro terá um papel destacado no Web Summit Lisboa 2024, um dos principais eventos de tecnologia e inovação do mundo, com um estande dedicado à promoção da cidade como um centro de inovação. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "marcal-provoca-datena-e-leva-cadeirada-ao-vivo-durante-debate-na-tv-cultu
 wp_id: 5238
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o debate da TV Cultura para a prefeitura de São Paulo neste domingo, 15, o apresentador e candidato pelo PSDB, José Luiz Datena, foi expulso após agredir fisicamente o ex-coach e candidato Pablo Marçal. A confusão começou quando Marçal provocou Datena, questionando sua resiliência e intenção de permanecer na corrida eleitoral.</p>
 <!-- /wp:paragraph -->

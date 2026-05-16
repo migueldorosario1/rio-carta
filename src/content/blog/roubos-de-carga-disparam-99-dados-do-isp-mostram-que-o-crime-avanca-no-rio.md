@@ -7,8 +7,8 @@ slug: "roubos-de-carga-disparam-99-dados-do-isp-mostram-que-o-crime-avanca-no-ri
 wp_id: 6709
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Relatório revela aumento nos roubos e homicídios em fevereiro. Governador pede leis mais duras para manter criminosos longe das ruas</h3>
 <!-- /wp:heading -->

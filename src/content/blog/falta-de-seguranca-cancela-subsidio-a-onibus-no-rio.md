@@ -7,8 +7,8 @@ slug: "falta-de-seguranca-cancela-subsidio-a-onibus-no-rio"
 wp_id: 583
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Foto: Reuters / Ricardo Moraes</em></p>
 <!-- /wp:paragraph -->

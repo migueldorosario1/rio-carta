@@ -7,8 +7,8 @@ slug: "lula-sanciona-lei-de-incentivo-fiscal-para-modernizacao-industrial"
 tags:
   - 'nacional'
 wp_id: 4547
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva sancionou, nesta terça-feira, 28, a lei que prevê incentivos fiscais para a modernização do parque industrial brasileiro. </p>
 <!-- /wp:paragraph -->

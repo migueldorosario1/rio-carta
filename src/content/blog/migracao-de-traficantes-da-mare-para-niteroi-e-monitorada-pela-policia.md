@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma denúncia de migração de traficantes do Complexo da Maré, localizado no Rio de Janeiro, para o bairro de Santa Bárbara, em Niterói, levou a Polícia Militar a reforçar o patrulhamento na área. O reforço policial incluiu a presença de um veículo blindado e teve início cerca de uma semana atrás, após moradores relatarem movimentações suspeitas de maneira anônima.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 7003
 tags:
   - 'paraty'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Evento contará com a deputada Dani Balbi (PCdoB), o presidente do Sindicato dos Comerciários do Rio de Janeiro, Márcio Ayer, e o presidente da CTB-RJ, Paulo Farias, entre outros. Publicação mostra que esse tipo de jornada de trabalho atinge especialmente negros periféricos, que trabalham, sobretudo, em comércio e serviços</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "governo-propoe-aumento-real-do-salario-minimo-para-2025-no-novo-orcamento
 tags:
   - 'nacional'
 wp_id: 5023
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal apresentou detalhes do Projeto de Lei Orçamentária Anual (PLOA) de 2025 durante uma coletiva de imprensa nesta segunda-feira (2). </p>
 <!-- /wp:paragraph -->

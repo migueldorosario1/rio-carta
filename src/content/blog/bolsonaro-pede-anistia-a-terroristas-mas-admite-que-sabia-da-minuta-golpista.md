@@ -7,8 +7,8 @@ slug: "bolsonaro-pede-anistia-a-terroristas-mas-admite-que-sabia-da-minuta-golpi
 wp_id: 3469
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Jair Bolsonaro admitiu estar ciente de um documento que delineava planos para um golpe de Estado, documento este implicado nos eventos que levaram à invasão dos edifícios dos Três Poderes em 8 de janeiro de 2023.</p>
 <!-- /wp:paragraph -->

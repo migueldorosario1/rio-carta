@@ -7,8 +7,8 @@ slug: "cordao-do-boitata-lanca-financiamento-coletivo-para-o-carnaval-2024"
 wp_id: 2365
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Cordão do Boitatá, tradicional bloco de carnaval do Rio de Janeiro, comemorando seus 28 anos de cortejo acústico e 18 anos de Baile Multicultural, iniciou uma campanha de financiamento coletivo para suportar os custos da festa deste ano. A iniciativa visa também apoiar as atividades do grupo após o período carnavalesco.</p>
 <!-- /wp:paragraph -->

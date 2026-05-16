@@ -7,8 +7,8 @@ slug: "tre-tambem-cassa-o-mandato-de-fabio-silva-por-abuso-de-poder-economico"
 wp_id: 2902
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O pleno do Tribunal Regional Eleitoral (TRE) decidiu, na tarde desta quinta-feira, 1, pela cassação do mandato do deputado estadual Fábio Silva, líder do União Brasil na ALERJ.</p>
 <!-- /wp:paragraph -->

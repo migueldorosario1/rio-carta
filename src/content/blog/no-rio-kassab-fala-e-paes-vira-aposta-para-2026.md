@@ -7,8 +7,8 @@ slug: "no-rio-kassab-fala-e-paes-vira-aposta-para-2026"
 wp_id: 6780
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Em evento do PSD no Rio, Gilberto Kassab crava que Eduardo Paes será candidato ao governo em 2026, apesar da negação pública do prefeito</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "silvio-santos-morre-aos-93-anos-lula-e-lideres-brasileiros-lamentam-sua-p
 wp_id: 4838
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O empresário e apresentador Silvio Santos faleceu neste sábado (17), aos 93 anos, em São Paulo. A morte do fundador do Sistema Brasileiro de Televisão (SBT) foi confirmada pelo Hospital Israelita Albert Einstein, onde estava internado desde o início de agosto, devido a uma broncopneumonia causada por infecção por influenza (H1N1).</p>
 <!-- /wp:paragraph -->

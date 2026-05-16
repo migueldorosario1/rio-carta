@@ -8,8 +8,8 @@ wp_id: 2263
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva, juntamente com a primeira-dama Janja da Silva, demonstrou interesse em apoiar Anielle Franco, atual ministra da Igualdade Racial, para a candidatura a vice-prefeita do Rio de Janeiro ao lado de Eduardo Paes (PSD) nas eleições de 2024. A informação veio à tona durante a recente conferência eleitoral do PT em Brasília, onde, além das alianças em São Paulo, Lula discutiu estratégias para o Rio.</p>
 <!-- /wp:paragraph -->

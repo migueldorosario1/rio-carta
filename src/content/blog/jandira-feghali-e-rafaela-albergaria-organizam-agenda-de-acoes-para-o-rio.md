@@ -8,8 +8,8 @@ wp_id: 3839
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Albergaria é pré-candidata a vereadora pelo PCdoB no Rio de Janeiro</strong></em></p>
 <!-- /wp:paragraph -->

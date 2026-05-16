@@ -7,8 +7,8 @@ slug: "tentativa-de-roubo-de-carga-no-rio-e-frustrada-pela-policia"
 tags:
   - 'seguranca-publica'
 wp_id: 6465
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Acusados foram pegos em tentativa de roubo a caminhão enquanto tentavam levar carga avaliada em R$ 27 mil, frustrados pela polícia.</strong></p>
 <!-- /wp:paragraph -->

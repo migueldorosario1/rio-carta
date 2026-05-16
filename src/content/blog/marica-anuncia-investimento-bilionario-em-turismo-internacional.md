@@ -7,8 +7,8 @@ slug: "marica-anuncia-investimento-bilionario-em-turismo-internacional"
 tags:
   - 'marica'
 wp_id: 7604
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading" id="h-acordos-sao-firmados-em-um-cenario-de-crescimento-de-37-do-setor-no-brasil-objetivo-e-atrair-investimentos-internacionais-para-a-geracao-de-empregos-no-municipio">Parcerias firmadas na FITUR incluem carta de intenções para investimento inicial de R$ 1,5 bilhão e previsão de milhares de empregos diretos e permanentes</h3>
 <!-- /wp:heading -->

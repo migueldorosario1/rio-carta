@@ -8,8 +8,8 @@ wp_id: 7291
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O governador passa de “minha polícia está estruturada” a “preciso de blindados e apoio federal”, enquanto vidas se perdem nas comunidades</h3>
 <!-- /wp:heading -->

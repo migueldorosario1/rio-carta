@@ -7,8 +7,8 @@ slug: "vasco-tem-13-ex-jogadores-na-copa-do-mundo-de-clubes-da-fifa"
 tags:
   - 'vasco-da-gama'
 wp_id: 6955
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O time de São Januário conta com sete jogadores atuando em clubes de fora do Brasil e outros seis em times brasileiros</em></strong></p>
 <!-- /wp:paragraph -->

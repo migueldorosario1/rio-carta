@@ -7,8 +7,8 @@ slug: "onu-envia-painel-de-especialistas-eleitorais-para-observar-eleicoes-na-ve
 wp_id: 4697
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Organização das Nações Unidas confirmou o envio de um Painel de Especialistas Eleitorais para as eleições presidenciais venezuelanas programadas para 28 de julho. </p>
 <!-- /wp:paragraph -->

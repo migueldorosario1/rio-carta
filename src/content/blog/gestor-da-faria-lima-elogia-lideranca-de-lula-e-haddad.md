@@ -7,8 +7,8 @@ slug: "gestor-da-faria-lima-elogia-lideranca-de-lula-e-haddad"
 tags:
   - 'nacional'
 wp_id: 2789
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O financista Luis Stuhlberger, renomado gestor do fundo Verde, compartilhou sua visão otimista sobre a atual conjuntura brasileira durante um evento na Faria Lima. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "resistencia-islamica-no-iraque-reivindica-ataques-com-drones-contra-bases
 tags:
   - 'geopolitica'
 wp_id: 2642
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O grupo conhecido como Resistência Islâmica no Iraque, composto por várias milícias xiitas com apoio iraniano, anunciou ser o responsável por três ataques com drones direcionados a bases militares norte-americanas na Síria e uma instalação naval em Israel.</p>
 <!-- /wp:paragraph -->

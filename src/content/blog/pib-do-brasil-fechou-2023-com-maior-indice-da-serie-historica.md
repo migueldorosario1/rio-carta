@@ -7,8 +7,8 @@ slug: "pib-do-brasil-fechou-2023-com-maior-indice-da-serie-historica"
 tags:
   - 'nacional'
 wp_id: 3603
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O&nbsp;<strong>Produto Interno Bruto (PIB)</strong>&nbsp;brasileiro encerrou o<strong>&nbsp;ano de 2023</strong>&nbsp;com um crescimento acumulado de&nbsp;<strong>2,9%</strong>, conforme dados divulgados pelo&nbsp;<strong>Instituto Brasileiro de Geografia e Estatística (IBGE)</strong>&nbsp;nesta sexta-feira (1º).</p>
 <!-- /wp:paragraph -->

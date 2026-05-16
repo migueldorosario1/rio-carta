@@ -7,8 +7,8 @@ slug: "emenda-da-oposicao-salva-orcamento-de-cti-da-tesoura-de-claudio-castro"
 wp_id: 1681
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Emenda da deputada Dani Balbi (PCdoB) resguardou o Fundo de Ciência, Tecnologia e Inovação </strong></em></p>
 <!-- /wp:paragraph -->

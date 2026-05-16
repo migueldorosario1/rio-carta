@@ -8,8 +8,8 @@ wp_id: 1032
 tags:
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Segundo a presidente nacional do PT, Gleisi Hoffmann, a decisão será tomada nos próximos meses</strong></em></p>
 <!-- /wp:paragraph -->

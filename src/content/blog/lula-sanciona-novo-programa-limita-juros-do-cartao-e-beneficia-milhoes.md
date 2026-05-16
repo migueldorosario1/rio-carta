@@ -7,8 +7,8 @@ slug: "lula-sanciona-novo-programa-limita-juros-do-cartao-e-beneficia-milhoes"
 tags:
   - 'nacional'
 wp_id: 2243
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em um movimento significativo para a economia brasileira, o presidente Luiz Inácio Lula da Silva sancionou, nesta terça-feira (3), o projeto de lei que institui o programa 'Desenrola Brasil'. Este programa, aprovado sem vetos após passar pelo Senado, visa a renegociação de dívidas e impõe um limite aos juros do rotativo e parcelado do cartão de crédito. A assinatura ocorreu no Palácio da Alvorada, com Lula operando de forma remota durante sua recuperação pós-cirurgia.</p>
 <!-- /wp:paragraph -->

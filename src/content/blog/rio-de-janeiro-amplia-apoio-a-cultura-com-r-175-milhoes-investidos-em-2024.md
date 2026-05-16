@@ -8,8 +8,8 @@ wp_id: 5985
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Estado do Rio de Janeiro investiu R$ 175 milhões em iniciativas culturais de janeiro a outubro de 2024, superando os investimentos do ano anterior, por meio da Lei Estadual de Incentivo à Cultura. </p>
 <!-- /wp:paragraph -->

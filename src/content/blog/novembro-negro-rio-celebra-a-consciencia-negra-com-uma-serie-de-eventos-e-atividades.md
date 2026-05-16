@@ -7,8 +7,8 @@ slug: "novembro-negro-rio-celebra-a-consciencia-negra-com-uma-serie-de-eventos-e
 wp_id: 1837
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O município do Rio de Janeiro celebrará o Mês da Consciência Negra com uma série de eventos e atividades voltados para a promoção da igualdade racial e a valorização da cultura afro-brasileira. As iniciativas são lideradas pela Coordenadoria de Promoção da Igualdade Racial (CPIR), órgão vinculado à Casa Civil, e envolvem diversas secretarias, incluindo Cultura, Educação, Assistência Social, Turismo, Desenvolvimento Urbano e Econômico, Guarda Municipal e Ordem Pública.</strong></em></p>
 <!-- /wp:paragraph -->

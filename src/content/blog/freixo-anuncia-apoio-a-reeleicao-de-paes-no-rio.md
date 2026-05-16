@@ -8,8 +8,8 @@ wp_id: 4817
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Marcelo Freixo, figura central da esquerda no Rio de Janeiro nas últimas duas décadas e anteriormente adversário de Eduardo Paes, declarou seu apoio à campanha de reeleição do atual prefeito do Rio, Eduardo Paes (PSD). </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "tempestade-perde-forca-em-sao-paulo-mas-mantem-estado-em-alerta"
 wp_id: 5770
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Defesa Civil de São Paulo atualizou, em nota recente, que a tempestade prevista para este final de semana no estado apresentou uma diminuição de intensidade, com um cenário climático agora descrito como "mais ameno". Apesar da redução na força dos ventos e chuvas, o estado permanece em alerta até o domingo (20).</p>
 <!-- /wp:paragraph -->

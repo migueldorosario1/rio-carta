@@ -7,8 +7,8 @@ slug: "bolsonaro-homenageia-israel-pelo-genocidio-em-gaza"
 tags:
   - 'geopolitica'
 wp_id: 3463
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante a manifestação golpista realizada neste domingo na Avenida Paulista, em São Paulo, Jair Bolsonaro acenou com a bandeira de Israel ao subir no palanque, o gesto é para homenagear o genocídio praticado pelo governo Netanyahu contra os palestinos na Faixa de Gaza.</p>
 <!-- /wp:paragraph -->

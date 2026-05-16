@@ -7,8 +7,8 @@ slug: "audiencia-publica-na-alerj-sobre-saude-de-trabalhadores-trans-e-alvo-de-a
 tags:
   - 'politica-rj'
 wp_id: 6876
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A Audiência foi convocada pela deputada Dani Balbi (PCdoB); deputados bolsonaristas tentaram barrar a realização do encontro</em></strong></p>
 <!-- /wp:paragraph -->

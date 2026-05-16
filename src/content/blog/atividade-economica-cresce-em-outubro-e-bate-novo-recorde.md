@@ -7,8 +7,8 @@ slug: "atividade-economica-cresce-em-outubro-e-bate-novo-recorde"
 tags:
   - 'nacional'
 wp_id: 6141
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Índice de Atividade Econômica do Banco Central (IBC-Br), considerado um indicador prévio do Produto Interno Bruto (PIB), registrou alta de 0,1% em outubro na comparação com setembro, em dados ajustados sazonalmente, informou o Banco Central nesta sexta-feira (13).</p>
 <!-- /wp:paragraph -->

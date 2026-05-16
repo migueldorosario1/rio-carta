@@ -7,8 +7,8 @@ slug: "carnaval-do-rio-tera-quase-200-mictorios-para-evitar-urina-nas-ruas"
 wp_id: 6625
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Com 180 mictórios espalhados pela cidade, o Rio de Janeiro visa reduzir filas e manter a ordem durante o agito do Carnaval de Rua, garantindo mais conforto aos foliões</h4>
 <!-- /wp:heading -->

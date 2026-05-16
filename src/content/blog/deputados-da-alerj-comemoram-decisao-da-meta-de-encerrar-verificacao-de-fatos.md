@@ -7,8 +7,8 @@ slug: "deputados-da-alerj-comemoram-decisao-da-meta-de-encerrar-verificacao-de-f
 wp_id: 6379
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) teve reações mistas ao recente anúncio da Meta sobre a descontinuação do sistema de verificação de fatos no Facebook e Instagram. </p>
 <!-- /wp:paragraph -->

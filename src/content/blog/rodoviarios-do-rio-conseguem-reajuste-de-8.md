@@ -7,8 +7,8 @@ slug: "rodoviarios-do-rio-conseguem-reajuste-de-8"
 tags:
   - 'transporte-mobilidade'
 wp_id: 694
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em reunião virtual realizada na manhã desta sexta-feira entre a direção do Sindicato dos Rodoviários e representantes do Rio Ônibus, foi assinado o reajuste salarial de 8%, mais 10% de aumento no vale alimentação da categoria que agora passa a ser de R$ 550.</p>
 <!-- /wp:paragraph -->

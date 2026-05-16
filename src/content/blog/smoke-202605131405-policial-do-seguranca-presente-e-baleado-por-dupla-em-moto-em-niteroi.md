@@ -5,6 +5,7 @@ pubDate: "2026-05-13T17:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "engenho-do-mato", "regiao-oceanica", "seguranca-publica-rj", "operacao-seguranca-presente", "policial-baleado", "niteroi-sao-goncalo-metropolitana", "capital-estado", "regiao-metropolitana", "sao-goncalo", "seguranca-publica", "saude"]
 heroImage: "/hero/smoke-smoke-202605131405-policial-do-seguranca-presente-e-baleado-por-dupla-em-moto-em-niteroi.jpeg"
+categoria_macro: seguranca
 ---
 Rio
 

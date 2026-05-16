@@ -7,8 +7,8 @@ slug: "comboio-da-forca-nacional-reforca-seguranca-na-zona-oeste-do-rio"
 wp_id: 1664
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A cidade do Rio de Janeiro testemunhou um aumento na presença da Força Nacional na Zona Oeste após uma série de eventos que incluiu o incêndio de 24 ônibus na região. Os incêndios ocorreram em resposta à morte de Matheus Rezende, também conhecido como "Teteu" ou "Faustão," que era apontado como o número 2 na hierarquia da milícia comandada por seu tio, conhecido como Zinho. Matheus foi morto durante um confronto com a Polícia Civil.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "ingressos-para-a-expo-favela-innovation-rio-ja-estao-a-venda"
 wp_id: 823
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Feira selecionará 10 empreendedores para participar da edição nacional</em></strong></p>
 <!-- /wp:paragraph -->

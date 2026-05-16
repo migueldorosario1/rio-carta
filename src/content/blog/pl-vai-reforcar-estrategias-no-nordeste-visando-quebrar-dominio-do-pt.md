@@ -7,8 +7,8 @@ slug: "pl-vai-reforcar-estrategias-no-nordeste-visando-quebrar-dominio-do-pt"
 wp_id: 4682
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido Liberal (PL), liderado por Jair Bolsonaro, intensifica suas estratégias para as eleições municipais de outubro, visando expandir sua influência no Nordeste, uma região tradicionalmente dominada pelo Partido dos Trabalhadores (PT). </p>
 <!-- /wp:paragraph -->

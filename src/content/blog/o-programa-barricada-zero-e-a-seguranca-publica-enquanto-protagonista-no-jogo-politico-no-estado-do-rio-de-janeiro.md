@@ -10,8 +10,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>P<em><strong>or Ana Luiza Helpe e Rayssa Veras</strong></em></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 7296
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governo Lula precisa agir rápido. A nova crise na segurança pública do Rio de Janeiro, que rapidamente mobilizou toda a opinião pública nacional, é um momento estratégico para Lula fazer o que praticamente todos os grandes especialistas na área têm sugerido: a criação de um Ministério da Segurança Pública. É uma questão de visibilidade e comunicação, pois é crucial, do ponto de vista político, que a população veja que o governo tem um departamento especializado só nisso.</p>
 <!-- /wp:paragraph -->

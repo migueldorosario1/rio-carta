@@ -7,8 +7,8 @@ slug: "petista-defende-freixo-para-prefeitura-do-rio-em-2024"
 wp_id: 971
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Caso o prefeito Eduardo Paes (PSD) não abra espaço em sua vice, o PT pode lançar a candidatura de Marcelo Freixo para a prefeitura do Rio em 2024. É o que defende o ex-deputado estadual, Robson Leite (PT).</p>
 <!-- /wp:paragraph -->

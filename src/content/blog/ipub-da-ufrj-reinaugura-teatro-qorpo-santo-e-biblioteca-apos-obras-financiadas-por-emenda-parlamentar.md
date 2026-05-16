@@ -7,8 +7,8 @@ slug: "ipub-da-ufrj-reinaugura-teatro-qorpo-santo-e-biblioteca-apos-obras-financ
 tags:
   - 'botafogo'
 wp_id: 7786
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Com recursos de emenda parlamentar da deputada federal Jandira Feghali (PCdoB), o IPUB da UFRJ reinaugurou o Teatro Qorpo Santo e sua biblioteca após obras de recuperação estrutural.</strong></em></p>
 <!-- /wp:paragraph -->

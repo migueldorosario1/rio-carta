@@ -7,8 +7,8 @@ slug: "escandalo-lira-usou-aviao-da-fab-para-curtir-o-carnaval"
 wp_id: 3249
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o recente feriado de Carnaval, o Presidente da Câmara dos Deputados, Arthur Lira (PP-AL), utilizou aeronaves da Força Aérea Brasileira (FAB) para se deslocar entre várias cidades brasileiras, incluindo Brasília, Salvador, Rio de Janeiro e Campinas.</p>
 <!-- /wp:paragraph -->

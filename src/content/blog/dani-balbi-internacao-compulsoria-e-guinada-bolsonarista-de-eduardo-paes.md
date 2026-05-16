@@ -8,8 +8,8 @@ wp_id: 1996
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Artigo da deputada estadual Dani Balbi (PCdoB-RJ)</strong></em></p>
 <!-- /wp:paragraph -->

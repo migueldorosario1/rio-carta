@@ -7,8 +7,8 @@ slug: "ccj-da-camara-debate-anistia-para-atos-antidemocraticos-e-limitacao-de-po
 wp_id: 5631
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Comissão de Constituição e Justiça (CCJ) da Câmara dos Deputados está analisando nesta terça-feira (8) um projeto de lei que busca conceder anistia aos indivíduos presos por envolvimento nos ataques às sedes dos três poderes em 8 de janeiro de 2023, e também àqueles envolvidos em outros atos antidemocráticos que ocorreram após as eleições de 2022. </p>
 <!-- /wp:paragraph -->

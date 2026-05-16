@@ -7,8 +7,8 @@ slug: "crise-no-plano-de-saude-aposentados-do-itau-comparecem-a-alerj-e-clamam-p
 wp_id: 6755
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Aposentados abandonados pelo banco enfrentam custos exorbitantes com os planos. A reunião, que contou ainda com sindicalistas bancários e a deputada Lilian Behring, teve o intuito de criar soluções para a crise enfrentada. Audiência pública pode ser o caminho</strong></em></p>
 <!-- /wp:paragraph -->

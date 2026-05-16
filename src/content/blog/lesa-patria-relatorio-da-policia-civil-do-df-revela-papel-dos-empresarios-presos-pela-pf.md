@@ -7,8 +7,8 @@ slug: "lesa-patria-relatorio-da-policia-civil-do-df-revela-papel-dos-empresarios
 wp_id: 3586
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na 25ª fase da Operação Lesa Pátria, deflagrada nesta quinta-feira, 29, a Polícia Federal (PF) mira empresários suspeitos de financiar manifestações antidemocráticas em Brasília. </p>
 <!-- /wp:paragraph -->

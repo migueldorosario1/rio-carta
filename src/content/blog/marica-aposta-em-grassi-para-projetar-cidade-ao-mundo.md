@@ -7,8 +7,8 @@ slug: "marica-aposta-em-grassi-para-projetar-cidade-ao-mundo"
 tags:
   - 'marica'
 wp_id: 7158
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O Festival Língua ao Mar será o primeiro grande projeto da empresa, reunindo países de língua portuguesa em novembro na cidade litorânea do Rio</h3>
 <!-- /wp:heading -->

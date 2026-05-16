@@ -7,8 +7,8 @@ slug: "senado-avalia-pec-para-privatizacao-das-praias-brasileiras"
 tags:
   - 'nacional'
 wp_id: 4529
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira (27), a Comissão de Constituição, Justiça e Cidadania (CCJ) do Senado Federal agendou uma audiência pública para discutir a Proposta de Emenda à Constituição (PEC) 03/2022. A proposta, de autoria do deputado Arnaldo Jordy (Cidadania-PA), sugere a transformação de praias brasileiras em propriedades privadas, inspirando-se no modelo de "Cancún". A sessão está marcada para iniciar às 14h.</p>
 <!-- /wp:paragraph -->

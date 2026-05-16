@@ -7,8 +7,8 @@ slug: "violencia-contra-a-mulher-no-rio-de-janeiro-dossie-revela-14-vitimas-a-ca
 wp_id: 1734
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Instituto de Segurança Pública (ISP) apresentou o chocante "Dossiê Mulher" ao jornal O GLOBO, expondo uma alarmante realidade no Estado do Rio de Janeiro. Os dados revelam que, ao longo de 2022, 125.704 mulheres foram vítimas de violência doméstica, o que equivale a uma média de 14 mulheres agredidas a cada hora. Além disso, o estudo destacou que cerca de 21 mil mulheres sofreram simultaneamente diferentes formas de violência, incluindo agressões físicas, psicológicas e morais.</p>
 <!-- /wp:paragraph -->

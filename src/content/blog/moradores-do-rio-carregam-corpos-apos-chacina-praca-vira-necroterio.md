@@ -8,8 +8,8 @@ wp_id: 7272
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Moradores da Penha carregam 55 corpos da mata à praça após a operação mais letal da história do Rio, enquanto o governo tenta maquiar o número de vítimas</h3>
 <!-- /wp:heading -->

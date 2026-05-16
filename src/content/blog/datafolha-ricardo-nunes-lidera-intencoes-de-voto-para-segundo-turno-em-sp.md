@@ -7,8 +7,8 @@ slug: "datafolha-ricardo-nunes-lidera-intencoes-de-voto-para-segundo-turno-em-sp
 wp_id: 5666
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nova pesquisa Datafolha, divulgada nesta quinta-feira, revela que Ricardo Nunes (MDB) está à frente nas intenções de voto para o segundo turno das eleições municipais de São Paulo, com 55%. Guilherme Boulos (PSOL) registra 33% das intenções. </p>
 <!-- /wp:paragraph -->

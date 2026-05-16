@@ -7,8 +7,8 @@ slug: "moradores-de-copacabana-se-organizam-em-grupos-de-vigilancia-apos-onda-de
 wp_id: 2083
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Comunidade busca alternativas diante da sensação de insegurança crescente no bairro</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "esquerda-critica-proposta-de-internacao-compulsoria-feita-por-eduardo-pae
 wp_id: 1990
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>"Prefeito quer substituir políticas públicas por truculência", diz Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

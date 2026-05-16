@@ -7,8 +7,8 @@ slug: "lula-propoe-compartilhar-regulamentacao-do-trabalho-por-aplicativo-com-os
 tags:
   - 'nacional'
 wp_id: 3657
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva encaminhou uma sugestão ao Ministro do Trabalho, Luiz Marinho, para que compartilhe o recém-assinado Projeto de Lei de Regulamentação do Trabalho por Aplicativos de Transporte de Pessoas com o Presidente dos Estados Unidos, Joe Biden.</p>
 <!-- /wp:paragraph -->

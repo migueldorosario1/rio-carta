@@ -7,8 +7,8 @@ slug: "estrategia-eleitoral-de-nunes-intensifica-ataques-a-boulos"
 wp_id: 5295
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nunes tem adotado uma estratégia eleitoral agressiva em sua campanha, mirando Guilherme Boulos com ataques que refletem uma mudança tática em resposta a sinais de alerta das pesquisas internas.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "encontro-na-alerj-discute-criacao-de-legislacao-para-proteger-criancas-co
 wp_id: 6895
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Deputada Lilian Behring recebe mães e especialistas em saúde para debater medidas de segurança e inclusão de alérgicos nos espaços educacionais</h3>
 <!-- /wp:heading -->

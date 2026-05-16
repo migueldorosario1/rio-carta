@@ -8,8 +8,8 @@ wp_id: 2225
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>À medida que as eleições municipais de 2024 se aproximam, uma pesquisa recente revela o panorama atual da corrida pela Prefeitura do Rio de Janeiro. Eduardo Paes (PSD) aparece na liderança com 42,6% das intenções de voto, uma posição confortável que reflete, em parte, suas manobras políticas recentes, incluindo um aceno à direita e uma tentativa de ampliar suas alianças.</p>
 <!-- /wp:paragraph -->

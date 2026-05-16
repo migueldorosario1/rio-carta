@@ -7,8 +7,8 @@ slug: "lula-reafirma-compromisso-com-educacao-e-anuncia-expansao-do-programa-pe-
 tags:
   - 'nacional'
 wp_id: 5725
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em discurso realizado nesta quinta-feira (17) em Salvador, Bahia, o presidente Luiz Inácio Lula da Silva destacou a importância da educação na transformação do Brasil e anunciou a expansão do programa federal Pé-de-meia, uma iniciativa de poupança para estudantes do ensino médio. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "governo-lula-anuncia-reajuste-em-beneficios-para-servidores-publicos"
 tags:
   - 'nacional'
 wp_id: 4306
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) confirmou que nesta quinta-feira, 25, será assinado o reajuste nos benefícios dos servidores públicos. </p>
 <!-- /wp:paragraph -->

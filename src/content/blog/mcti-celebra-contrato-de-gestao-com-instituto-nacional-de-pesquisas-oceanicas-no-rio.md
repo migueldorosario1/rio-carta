@@ -7,8 +7,8 @@ slug: "mcti-celebra-contrato-de-gestao-com-instituto-nacional-de-pesquisas-ocean
 wp_id: 1590
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Para ministra Luciana Santos, contrato é o começo de uma parceria longeva e necessária, que marca uma nova etapa de avanço do conhecimento científico e desenvolvimento tecnológico</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "sabatina-de-gabriel-galipolo-para-presidencia-do-banco-central-e-adiada-a
 tags:
   - 'nacional'
 wp_id: 5049
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente da Comissão de Assuntos Econômicos (CAE) do Senado, Vanderlan Cardoso (PSD-GO), anunciou nesta terça-feira que a sabatina de Gabriel Galípolo, indicado para o cargo de presidente do Banco Central, não será realizada no próximo dia 10 de setembro, como desejava o governo.</p>
 <!-- /wp:paragraph -->

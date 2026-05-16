@@ -7,8 +7,8 @@ slug: "forcas-armadas-na-operacao-de-glo-entenda-a-atuacao-em-portos-e-aeroporto
 wp_id: 1781
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Uma operação de Garantia da Lei e da Ordem (GLO) foi autorizada pelo presidente Luiz Inácio Lula da Silva, determinando o emprego das Forças Armadas em áreas federais, como portos e aeroportos, em ações de prevenção e repressão para combater o tráfico de drogas e armas, especialmente nos estados do Rio de Janeiro e São Paulo. O decreto foi publicado no Diário Oficial da União.</p>
 <!-- /wp:paragraph -->

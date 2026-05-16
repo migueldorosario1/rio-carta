@@ -8,8 +8,8 @@ wp_id: 6978
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Projeto de lei reconhece o curso popular do Sintuperj como patrimônio imaterial e reforça o papel da educação crítica na luta por justiça social no Rio</h3>
 <!-- /wp:heading -->

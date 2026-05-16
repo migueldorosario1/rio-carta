@@ -7,8 +7,8 @@ slug: "seguranca-reforcada-no-maracana-para-a-final-da-libertadores-veja"
 wp_id: 1804
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Maracanã está prestes a sediar a final da Taça Libertadores da América, e a segurança é uma preocupação primordial para garantir o sucesso do evento. A Polícia Militar do Estado do Rio de Janeiro elaborou um plano meticuloso para evitar conflitos entre torcedores do Fluminense e do Boca Juniors, que se enfrentam neste sábado. A operação de segurança contará com a presença de 2.240 agentes no entorno do estádio, além do apoio da Força Nacional. Este artigo traz informações detalhadas sobre as medidas adotadas para promover um ambiente seguro durante o evento.</p>
 <!-- /wp:paragraph -->

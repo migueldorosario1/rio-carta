@@ -7,8 +7,8 @@ slug: "so-23-dos-policiais-usaram-cameras-na-megaoperacao-do-rio"
 wp_id: 7398
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Relatório enviado ao STF mostra que só 569 câmeras funcionaram na operação que mobilizou 2,5 mil agentes e deixou 121 mortos nos complexos da Penha e do Alemão</h3>
 <!-- /wp:heading -->

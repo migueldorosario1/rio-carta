@@ -7,8 +7,8 @@ slug: "saiba-quem-e-a-medica-acusada-de-dar-falso-diagnostico-de-cancer-em-dezen
 tags:
   - 'nacional'
 wp_id: 3869
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em Pato Branco, Paraná, a médica Carolina Biscaia Carminatti, de 35 anos, enfrenta alegações sérias de 22 pacientes, que a acusam de emitir falsos diagnósticos de câncer de pele, resultando em procedimentos cirúrgicos desnecessários. </p>
 <!-- /wp:paragraph -->

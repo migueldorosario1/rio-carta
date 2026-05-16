@@ -7,8 +7,8 @@ slug: "tio-e-avo-presos-apos-estupros-em-serie-chocarem-comunidade"
 tags:
   - 'seguranca-publica'
 wp_id: 2086
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p>Uma investigação conduzida pela Polícia Civil do Distrito Federal (PCDF) revelou um caso aterrorizante de abuso sexual infantil, envolvendo tio e avô, que estupravam sistematicamente todas as crianças de uma mesma família. As vítimas incluem duas meninas, de 9 e 12 anos, e um menino de 8 anos, e os abusos ocorreram ao longo de três meses, durante as férias das crianças na casa dos agressores, localizada no município de Mundo Novo, em Goiás.</p>
 <!-- /wp:paragraph -->

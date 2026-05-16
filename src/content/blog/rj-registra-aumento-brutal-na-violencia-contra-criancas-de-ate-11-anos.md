@@ -7,8 +7,8 @@ slug: "rj-registra-aumento-brutal-na-violencia-contra-criancas-de-ate-11-anos"
 wp_id: 4676
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nos últimos três anos, o número de casos de maus-tratos contra crianças de até 11 anos no Rio de Janeiro registrou um aumento de 173%. </p>
 <!-- /wp:paragraph -->

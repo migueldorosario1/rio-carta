@@ -7,8 +7,8 @@ slug: "manifestantes-apoiam-presidente-da-bolivia-apos-tentativa-de-golpe"
 tags:
   - 'geopolitica'
 wp_id: 4711
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Manifestantes ocuparam a Plaza Murillo em La Paz em um ato de demonstração de apoio ao presidente da Bolívia, Luis Arce, após uma tentativa de golpe ocorrida nesta quarta-feira, 26. </p>
 <!-- /wp:paragraph -->

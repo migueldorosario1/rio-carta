@@ -7,8 +7,8 @@ slug: "lula-anuncia-as-prioridades-do-governo-em-2024"
 wp_id: 2733
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva proferiu um discurso no encerramento da Conferência Nacional de Educação (Conae) nesta terça-feira (30), reforçando o compromisso de seu governo com a educação, a saúde pública e a cultura como temas prioritários. </p>
 <!-- /wp:paragraph -->

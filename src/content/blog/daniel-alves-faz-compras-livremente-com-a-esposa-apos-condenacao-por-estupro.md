@@ -7,8 +7,8 @@ slug: "daniel-alves-faz-compras-livremente-com-a-esposa-apos-condenacao-por-estu
 tags:
   - 'nacional'
 wp_id: 4229
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Daniel Alves, ex-lateral da seleção brasileira, foi observado em público pelas ruas de Barcelona após sua liberação da prisão em março, onde esteve detido desde janeiro de 2023. </p>
 <!-- /wp:paragraph -->

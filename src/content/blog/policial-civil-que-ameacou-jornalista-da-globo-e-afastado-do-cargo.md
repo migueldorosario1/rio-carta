@@ -7,8 +7,8 @@ slug: "policial-civil-que-ameacou-jornalista-da-globo-e-afastado-do-cargo"
 tags:
   - 'nacional'
 wp_id: 6334
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Secretaria de Segurança Pública de São Paulo confirmou o afastamento do policial civil Arcenio Scribone Junior de suas funções operacionais após ser acusado de ameaçar a jornalista Natuza Nery em um supermercado. </p>
 <!-- /wp:paragraph -->

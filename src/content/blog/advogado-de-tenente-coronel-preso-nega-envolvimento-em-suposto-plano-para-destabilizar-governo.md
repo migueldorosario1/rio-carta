@@ -7,8 +7,8 @@ slug: "advogado-de-tenente-coronel-preso-nega-envolvimento-em-suposto-plano-para
 tags:
   - 'nacional'
 wp_id: 6075
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em entrevista ao UOL nesta sexta-feira (29), Jeffrey Chiquini, advogado de defesa do tenente-coronel Rodrigo Bezerra Azevedo, refutou as acusações de envolvimento de seu cliente em um suposto plano para assassinar figuras políticas de alto escalão, incluindo o presidente Luiz Inácio Lula da Silva, o vice-presidente Geraldo Alckmin, e o ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes.</p>
 <!-- /wp:paragraph -->

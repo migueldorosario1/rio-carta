@@ -8,8 +8,8 @@ wp_id: 5556
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma nova pesquisa do Datafolha, divulgada nesta quinta-feira, 3, apresenta os números atualizados das intenções de voto para a Prefeitura do Rio de Janeiro. Eduardo Paes (PSD) lidera com 54%, seguido por Alexandre Ramagem (PL) com 22%. Tarcísio Motta (PSOL) aparece com 4% das intenções.</p>
 <!-- /wp:paragraph -->

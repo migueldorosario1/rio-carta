@@ -7,8 +7,8 @@ slug: "hackers-reivindicam-ataques-a-sistemas-de-escritorio-da-familia-de-alexan
 tags:
   - 'nacional'
 wp_id: 5055
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta terça-feira (3), um grupo hacker reivindicou a autoria dos ataques aos sistemas do escritório de advocacia Barci de Moraes, pertencente à família do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes, bem como aos sistemas da Polícia Federal e da Agência Nacional de Telecomunicações (Anatel). </p>
 <!-- /wp:paragraph -->

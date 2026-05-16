@@ -7,8 +7,8 @@ slug: "deputada-do-psol-recebe-graves-ameacas-por-ser-contra-o-genocidio-em-gaza
 wp_id: 3422
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A deputada federal Sâmia Bomfim (Psol-SP) recebeu um e-mail ameaçador relacionado ao seu posicionamento em defesa do povo palestino e contra o que descreve como genocídio conduzido pelo Estado de Israel na Faixa de Gaza. </p>
 <!-- /wp:paragraph -->

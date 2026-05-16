@@ -8,8 +8,8 @@ wp_id: 7207
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada do PCdoB defende o saneamento como direito humano e critica medidas coercitivas que afetam a saúde pública</em></strong></p>
 <!-- /wp:paragraph -->

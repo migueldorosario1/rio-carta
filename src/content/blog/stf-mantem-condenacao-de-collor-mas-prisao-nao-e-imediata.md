@@ -7,8 +7,8 @@ slug: "stf-mantem-condenacao-de-collor-mas-prisao-nao-e-imediata"
 wp_id: 5982
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) votou pela manutenção da condenação do ex-presidente Fernando Collor por corrupção passiva e lavagem de dinheiro, com pena fixada em oito anos e dez meses de prisão. </p>
 <!-- /wp:paragraph -->

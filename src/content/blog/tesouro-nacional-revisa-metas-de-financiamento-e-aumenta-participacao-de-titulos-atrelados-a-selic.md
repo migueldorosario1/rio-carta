@@ -7,8 +7,8 @@ slug: "tesouro-nacional-revisa-metas-de-financiamento-e-aumenta-participacao-de-
 tags:
   - 'nacional'
 wp_id: 5079
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Tesouro Nacional anunciou nesta quarta-feira (4) uma revisão nas metas do Plano Anual de Financiamento (PAF) para 2024, elevando a participação de títulos públicos atrelados à taxa Selic na composição da dívida pública federal. </p>
 <!-- /wp:paragraph -->

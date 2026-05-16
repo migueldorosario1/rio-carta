@@ -7,8 +7,8 @@ slug: "agu-damares-pode-ser-investigada-por-fake-news-sobre-maraja"
 tags:
   - 'nacional'
 wp_id: 3436
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O advogado-geral da União, Jorge Messias, anunciou no sábado, 24, a mobilização da Procuradoria Nacional da União de Defesa da Democracia (PNDD) para identificar e combater a disseminação de notícias falsas envolvendo a Ilha de Marajó. </p>
 <!-- /wp:paragraph -->

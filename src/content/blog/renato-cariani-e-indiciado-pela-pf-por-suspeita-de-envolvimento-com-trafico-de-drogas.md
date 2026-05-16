@@ -7,8 +7,8 @@ slug: "renato-cariani-e-indiciado-pela-pf-por-suspeita-de-envolvimento-com-trafi
 tags:
   - 'nacional'
 wp_id: 2701
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal de São Paulo concluiu uma investigação de dez meses que resultou no indiciamento do influenciador fitness Renato Cariani, juntamente com dois amigos, por tráfico equiparado, associação para o tráfico de drogas e lavagem de dinheiro. </p>
 <!-- /wp:paragraph -->

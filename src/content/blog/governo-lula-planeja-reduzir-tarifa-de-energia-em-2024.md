@@ -7,8 +7,8 @@ slug: "governo-lula-planeja-reduzir-tarifa-de-energia-em-2024"
 tags:
   - 'nacional'
 wp_id: 3989
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo liderado por Lula, do Partido dos Trabalhadores (PT), está próximo de implementar medidas visando aliviar o impacto financeiro dos consumidores brasileiros em relação à conta de luz. </p>
 <!-- /wp:paragraph -->

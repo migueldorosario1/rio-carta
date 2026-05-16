@@ -7,8 +7,8 @@ slug: "parana-pesquisas-tambem-indica-queda-de-marcal-em-sp"
 wp_id: 5520
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Um levantamento realizado pela Paraná Pesquisas e divulgado nesta sexta-feira, 27, mostra mudanças nas intenções de voto para os candidatos à Prefeitura de São Paulo. </p>
 <!-- /wp:paragraph -->

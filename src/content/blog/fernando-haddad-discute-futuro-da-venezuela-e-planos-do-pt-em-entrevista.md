@@ -7,8 +7,8 @@ slug: "fernando-haddad-discute-futuro-da-venezuela-e-planos-do-pt-em-entrevista"
 wp_id: 5375
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro da Fazenda, Fernando Haddad, em entrevista à jornalista Mônica Bergamo do jornal Folha de S. Paulo, abordou a situação da Venezuela e os desafios futuros do Partido dos Trabalhadores (PT) no cenário político brasileiro. </p>
 <!-- /wp:paragraph -->

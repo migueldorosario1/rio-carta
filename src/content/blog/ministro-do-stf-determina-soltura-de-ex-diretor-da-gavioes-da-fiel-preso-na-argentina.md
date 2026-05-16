@@ -7,8 +7,8 @@ slug: "ministro-do-stf-determina-soltura-de-ex-diretor-da-gavioes-da-fiel-preso-
 tags:
   - 'nacional'
 wp_id: 5359
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), determinou nesta quinta-feira (19) a soltura de Elvis Riola de Andrade, conhecido como "Cantor", ex-diretor da torcida organizada Gaviões da Fiel.</p>
 <!-- /wp:paragraph -->

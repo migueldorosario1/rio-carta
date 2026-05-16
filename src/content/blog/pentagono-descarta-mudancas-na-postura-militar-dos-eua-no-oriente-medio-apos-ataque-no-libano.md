@@ -7,8 +7,8 @@ slug: "pentagono-descarta-mudancas-na-postura-militar-dos-eua-no-oriente-medio-a
 tags:
   - 'geopolitica'
 wp_id: 5334
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Pentágono afirmou nesta quinta-feira (19) que não haverá alterações na postura militar dos Estados Unidos no Oriente Médio, em resposta a questionamentos sobre ataques recentes atribuídos a Israel contra o grupo Hezbollah, no Líbano.</p>
 <!-- /wp:paragraph -->

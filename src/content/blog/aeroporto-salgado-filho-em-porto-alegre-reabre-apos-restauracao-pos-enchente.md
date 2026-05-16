@@ -7,8 +7,8 @@ slug: "aeroporto-salgado-filho-em-porto-alegre-reabre-apos-restauracao-pos-enche
 tags:
   - 'nacional'
 wp_id: 5762
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Aeroporto Salgado Filho, localizado em Porto Alegre, retomou suas operações nesta sexta-feira, 18 de outubro, após permanecer fechado por mais de cinco meses devido a severas enchentes que atingiram o Rio Grande do Sul em maio. </p>
 <!-- /wp:paragraph -->

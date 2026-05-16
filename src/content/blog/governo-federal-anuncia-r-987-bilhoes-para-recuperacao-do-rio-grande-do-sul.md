@@ -7,8 +7,8 @@ slug: "governo-federal-anuncia-r-987-bilhoes-para-recuperacao-do-rio-grande-do-s
 tags:
   - 'nacional'
 wp_id: 5195
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Governo Federal destinou R$ 98,7 bilhões para ações emergenciais e de reconstrução no Rio Grande do Sul, afetado por enchentes e uma tragédia climática nos meses de abril e maio. </p>
 <!-- /wp:paragraph -->

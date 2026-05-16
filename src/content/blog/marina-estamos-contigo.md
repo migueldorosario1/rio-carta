@@ -8,8 +8,8 @@ wp_id: 1208
 tags:
   - 'nova-friburgo'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <strong><em>Artigo do vereador Edson Santos (PT)</em></strong>
 
 “Ninguém nasce odiando outra pessoa pela cor de sua pele, ou sua origem, ou sua religião. Para odiar, as pessoas precisam aprender, e se elas aprendem a odiar, podem ser ensinadas a amar.” – Nelson Mandela

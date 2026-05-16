@@ -8,8 +8,8 @@ wp_id: 2222
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>À medida que as eleições municipais se aproximam, o prefeito do Rio de Janeiro, Eduardo Paes (PSD), parece estar recalibrando sua estratégia política em uma tentativa de diversificar suas alianças e ampliar seu apelo eleitoral. Recentemente, Paes tem feito acenos ao eleitorado de direita, uma manobra vista por muitos como um afastamento de suas alianças tradicionais, particularmente com o PT, e um movimento em direção a uma postura mais alinhada com o bolsonarismo.</p>
 <!-- /wp:paragraph -->

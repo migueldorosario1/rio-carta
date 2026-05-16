@@ -7,8 +7,8 @@ slug: "eduardo-paes-anuncia-nova-equipe-economica-para-o-rio-com-foco-em-grandes
 wp_id: 6201
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes, revelou na quinta-feira (12/12) os nomes que formarão a equipe econômica da cidade a partir de 2025. Maria Silvia Bastos Marques foi nomeada para comandar a Secretaria de Grandes Projetos, enquanto Osmar Lima assumirá a Secretaria de Desenvolvimento Econômico e Sidney Levy será o presidente da Invest.Rio.</p>
 <!-- /wp:paragraph -->

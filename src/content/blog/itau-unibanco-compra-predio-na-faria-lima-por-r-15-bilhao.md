@@ -7,8 +7,8 @@ slug: "itau-unibanco-compra-predio-na-faria-lima-por-r-15-bilhao"
 tags:
   - 'nacional'
 wp_id: 2486
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Itaú Unibanco realizou a maior transação imobiliária de um único edifício na história do Brasil, adquirindo o prédio Faria Lima 3500, em São Paulo, por aproximadamente R$ 1,5 bilhão. Localizado no coração do centro financeiro da cidade, na Avenida Brigadeiro Faria Lima, o edifício é considerado um empreendimento de alto padrão, classificado como "triplo A".</p>
 <!-- /wp:paragraph -->

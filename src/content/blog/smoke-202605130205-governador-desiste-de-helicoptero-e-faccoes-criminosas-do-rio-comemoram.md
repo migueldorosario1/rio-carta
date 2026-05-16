@@ -5,6 +5,7 @@ pubDate: "2026-05-13T05:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "governo-rj", "seguranca-publica", "faccoes-criminosas", "helicoptero-black-hawk", "seguranca-publica-rj", "niteroi-metropolitana", "regiao-metropolitana", "comunidade", "niteroi", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605130205-governador-desiste-de-helicoptero-e-faccoes-criminosas-do-rio-comemoram.jpg"
+categoria_macro: politica
 ---
 A decisão do governo do Rio de Janeiro de suspender a aquisição do helicóptero blindado Black Hawk representa um retrocesso estratégico no combate às facções criminosas que dominam territórios no estado. Sob a justificativa de auditar o processo licitatório de 70,3 milhões de reais, a administração interina deixa a Polícia Militar desguarnecida de um equipamento de guerra capaz de resistir ao armamento pesado utilizado pelo narcotráfico.
 

@@ -7,8 +7,8 @@ slug: "jandira-feghali-chega-de-barbarie-e-hora-de-recivilizar-o-parlamento"
 wp_id: 4670
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Por Jandira Feghali</strong></p>
 <!-- /wp:paragraph -->

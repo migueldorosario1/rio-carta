@@ -8,8 +8,8 @@ wp_id: 5170
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Rodrigo Neves (PDT), candidato à prefeitura de Niterói, recebeu nesta semana o endosso da ministra da Ciência e Tecnologia, Luciana Santos, em evento no Restaurante Jambeiro, localizado no Ingá, Zona Sul de Niterói. </p>
 <!-- /wp:paragraph -->

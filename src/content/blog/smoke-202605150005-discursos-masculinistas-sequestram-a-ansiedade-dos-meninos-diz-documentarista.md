@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "violencia-domestica", "adolescentes", "rio-capital-zona-sul-grande-tijuca", "serrana", "regiao-metropolitana", "petropolis", "transporte-mobilidade", "educacao"]
 heroImage: "/hero/smoke-smoke-202605150005-discursos-masculinistas-sequestram-a-ansiedade-dos-meninos-diz-documentarista.jpg"
+categoria_macro: geral
 ---
 ‘Discursos masculinistas sequestram a ansiedade dos meninos’, diz documentarista
 

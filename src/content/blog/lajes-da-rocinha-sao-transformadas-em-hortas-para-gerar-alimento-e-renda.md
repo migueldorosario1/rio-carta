@@ -7,8 +7,8 @@ slug: "lajes-da-rocinha-sao-transformadas-em-hortas-para-gerar-alimento-e-renda"
 wp_id: 728
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Áreas subutilizadas e ociosas da Rocinha, na zona sul do Rio de Janeiro, aos poucos estão sendo transformadas em espaços verdes, produtivos e sustentáveis. Foi com esse desejo que, em 2017, o empreendedor social Flávio Gomes, morador da comunidade, começou a ensinar para cerca de 70 crianças práticas de compostagem, plantio de alimentos, ações de sustentabilidade e reciclagem na esperança de poder levar uma horta para cada uma delas. </p>
 <!-- /wp:paragraph -->

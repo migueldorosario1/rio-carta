@@ -8,8 +8,8 @@ wp_id: 862
 tags:
   - 'paraty'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O objetivo do programa do IFRJ no Sul Fluminense é fortalecer a inserção  no mercado de trabalho com a devida qualificação técnica.</em></strong></p>
 <!-- /wp:paragraph -->

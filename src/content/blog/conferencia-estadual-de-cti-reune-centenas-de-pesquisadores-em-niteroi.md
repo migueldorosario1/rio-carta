@@ -8,8 +8,8 @@ wp_id: 3501
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Ponto alto do evento foi a participação do Secretário-Executivo do Ministério de Ciência, Tecnologia e Inovação (MCTI), Luis Fernandes.</strong></em></p>
 <!-- /wp:paragraph -->

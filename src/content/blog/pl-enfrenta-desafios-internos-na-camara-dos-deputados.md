@@ -7,8 +7,8 @@ slug: "pl-enfrenta-desafios-internos-na-camara-dos-deputados"
 tags:
   - 'nacional'
 wp_id: 5378
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Partido Liberal (PL), atualmente com a maior bancada na Câmara dos Deputados, está passando por uma crise interna que ameaça sua coesão. </p>
 <!-- /wp:paragraph -->

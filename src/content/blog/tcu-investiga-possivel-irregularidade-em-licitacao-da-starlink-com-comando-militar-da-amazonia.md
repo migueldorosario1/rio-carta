@@ -7,8 +7,8 @@ slug: "tcu-investiga-possivel-irregularidade-em-licitacao-da-starlink-com-comand
 tags:
   - 'nacional'
 wp_id: 5046
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Tribunal de Contas da União (TCU) está conduzindo uma investigação sobre uma possível irregularidade em uma licitação envolvendo a Starlink, empresa de propriedade do empresário Elon Musk, e o Comando Militar da Amazônia.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "brasil-e-eua-fortalecem-cooperacao-para-o-desenvolvimento-do-etanol"
 tags:
   - 'geopolitica'
 wp_id: 5284
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante a reunião do G20 Agro realizada em Mato Grosso, o ministro da Agricultura e Pecuária do Brasil, Carlos Fávaro, e a vice-secretária de Agricultura dos Estados Unidos, Xochitl Small, discutiram a importância do etanol na transição para energias renováveis. </p>
 <!-- /wp:paragraph -->

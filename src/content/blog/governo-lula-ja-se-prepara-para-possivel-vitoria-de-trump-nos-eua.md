@@ -7,8 +7,8 @@ slug: "governo-lula-ja-se-prepara-para-possivel-vitoria-de-trump-nos-eua"
 wp_id: 3696
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Diante da crescente possibilidade de Donald Trump reassumir a presidência dos Estados Unidos, o governo do Brasil, sob a liderança de Luiz Inácio Lula da Silva, antecipa os potenciais impactos de tal desfecho. </p>
 <!-- /wp:paragraph -->

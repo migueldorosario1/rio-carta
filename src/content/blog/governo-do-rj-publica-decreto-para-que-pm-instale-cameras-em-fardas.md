@@ -7,8 +7,8 @@ slug: "governo-do-rj-publica-decreto-para-que-pm-instale-cameras-em-fardas"
 wp_id: 579
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Texto atende a uma determinação do STF e enumera as diretrizes para a gravação, armazenamento e divulgação de imagens</strong></em></p>
 <!-- /wp:paragraph -->

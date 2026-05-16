@@ -7,8 +7,8 @@ slug: "operacao-da-pf-mira-influenciador-fitness-e-empresa-quimica-em-esquema-de
 tags:
   - 'seguranca-publica'
 wp_id: 2135
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><em>Combate ao Tráfico de Drogas, Desvio de Produtos Químicos, Investigação Policial</em></p>
 <!-- /wp:paragraph -->

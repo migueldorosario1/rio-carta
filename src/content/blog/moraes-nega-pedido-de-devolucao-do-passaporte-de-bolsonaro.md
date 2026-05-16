@@ -7,8 +7,8 @@ slug: "moraes-nega-pedido-de-devolucao-do-passaporte-de-bolsonaro"
 tags:
   - 'nacional'
 wp_id: 4031
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, negou nesta quarta-feira, 28, o pedido de devolução do passaporte de Jair Bolsonaro (PL), que havia sido apreendido em fevereiro pela Polícia Federal. A Procuradoria-Geral da República (PGR) também havia se manifestado contra a restituição do documento.</p>
 <!-- /wp:paragraph -->

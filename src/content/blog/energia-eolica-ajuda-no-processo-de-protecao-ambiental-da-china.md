@@ -7,8 +7,8 @@ slug: "energia-eolica-ajuda-no-processo-de-protecao-ambiental-da-china"
 tags:
   - 'geopolitica'
 wp_id: 2883
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Mais um projeto de energia eólica está em construção ao longo da costa da província de Zhejiang no sul da China. A eletricidade gerada por uma turbina eólica de 10 megawatts do projeto pode satisfazer entre 5 e 6 dias de consumo de uma família chinesa.</p>
 <!-- /wp:paragraph -->

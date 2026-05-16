@@ -7,8 +7,8 @@ slug: "ex-diretora-de-inteligencia-do-ministerio-da-justica-e-intimada-para-depo
 wp_id: 5663
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Marília Alencar, ex-diretora de Inteligência do Ministério da Justiça durante a gestão de Anderson Torres, foi convocada para prestar depoimento no inquérito que investiga bloqueios ilegais em rodovias ocorridos durante as eleições de 2022. </p>
 <!-- /wp:paragraph -->

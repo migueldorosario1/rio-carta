@@ -7,8 +7,8 @@ slug: "setor-de-servicos-avanca-23-em-2023-revela-o-ibge"
 wp_id: 3128
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os serviços cresceram 2,3% em 2023 no terceiro ano seguido de expansão do setor. Em dezembro passado, o volume de serviços no Brasil avançou 0,3%, sendo o segundo resultado positivo consecutivo. O acumulado nos dois últimos meses do ano representou avanço de 1,2%, o que permitiu a recuperação de parte da perda de 2,1% anotada entre agosto e outubro.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1580347&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1580347&amp;o=node"></p>
 <!-- /wp:paragraph -->

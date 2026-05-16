@@ -7,8 +7,8 @@ slug: "carnaval-2024-venda-de-ingressos-para-as-arquibancadas-da-sapucai-comeca-
 tags:
   - 'cultura-carnaval'
 wp_id: 1747
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p>A expectativa para o carnaval de 2024 está aumentando, e os amantes dos desfiles das escolas de samba do Grupo Especial já podem marcar a data. A venda de ingressos para as arquibancadas, onde o espetáculo acontece, terá início em 23 de novembro.</p>
 <!-- /wp:paragraph -->

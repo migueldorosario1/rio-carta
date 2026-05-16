@@ -7,8 +7,8 @@ slug: "governo-palestino-acusa-israel-de-planejar-massacre-em-campo-de-refugiado
 tags:
   - 'geopolitica'
 wp_id: 4522
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A presidência palestina acusou Israel de realizar um ataque deliberado a um centro de refugiados em Rafah, sul de Gaza, resultando em pelo menos 35 mortes. </p>
 <!-- /wp:paragraph -->

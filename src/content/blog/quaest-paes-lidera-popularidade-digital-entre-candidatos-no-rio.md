@@ -8,8 +8,8 @@ wp_id: 4905
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes (PSD), está à frente na popularidade digital entre os candidatos na cidade, conforme apontado pelo Índice de Popularidade Digital (IPD) da Quaest. Paes registra 73,9 pontos no índice, que tem uma escala de 0 a 100 e é atualizado diariamente.</p>
 <!-- /wp:paragraph -->

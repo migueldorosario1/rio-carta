@@ -7,8 +7,8 @@ slug: "bndes-e-ministerio-do-planejamento-assinam-acordo-para-desenvolver-estrat
 tags:
   - 'nacional'
 wp_id: 5180
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e o Ministério do Planejamento e Orçamento (MPO) formalizaram, nesta quarta-feira (11), um acordo de cooperação técnica. </p>
 <!-- /wp:paragraph -->

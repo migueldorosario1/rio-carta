@@ -7,8 +7,8 @@ slug: "terreiros-se-preparam-para-a-3a-caminhada-contra-as-intolerancias-e-o-rac
 wp_id: 1933
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento, que se tornou um símbolo de unidade, tem como objetivo central promover a harmonia, aceitação e respeito entre as diferentes religiões e crenças.</strong></em></p>
 <!-- /wp:paragraph -->

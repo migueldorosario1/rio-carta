@@ -7,8 +7,8 @@ slug: "boletim-focus-mercado-reduz-de-novo-expectativa-para-inflacao-de-2024"
 tags:
   - 'nacional'
 wp_id: 2707
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na semana que antecede a primeira reunião do Comitê de Política Monetária (Copom) do ano, o mercado financeiro reduziu sua expectativa para a inflação em 2024 pelo terceiro semana consecutiva, de acordo com o Boletim Focus do Banco Central. </p>
 <!-- /wp:paragraph -->

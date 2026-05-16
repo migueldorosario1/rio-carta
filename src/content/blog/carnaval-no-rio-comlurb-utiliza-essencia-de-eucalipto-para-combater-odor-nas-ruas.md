@@ -7,8 +7,8 @@ slug: "carnaval-no-rio-comlurb-utiliza-essencia-de-eucalipto-para-combater-odor-
 wp_id: 2378
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o carnaval de rua no Rio de Janeiro, a Comlurb (Companhia Municipal de Limpeza Urbana) implementará uma estratégia inovadora para manter a cidade limpa: o uso de 2.000 litros de essência de eucalipto. Esta medida visa neutralizar odores desagradáveis, especialmente de urina, nas ruas após a passagem dos blocos carnavalescos. A iniciativa faz parte do plano operacional anunciado pela Riotur para o carnaval deste ano.</p>
 <!-- /wp:paragraph -->

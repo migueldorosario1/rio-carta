@@ -7,8 +7,8 @@ slug: "educacao-em-greve-pelo-piso-no-plano-de-carreira"
 wp_id: 169
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Por José Roberto Medeiros</em></p>
 <!-- /wp:paragraph -->

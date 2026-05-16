@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "servidores", "sistema", "contracheque", "instabilidade", "baixada-fluminense", "regiao-metropolitana", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605131305-sistema-da-prefeitura-de-marica-apresenta-instabilidade-e-afeta-acesso-a-contracheques-de-servid.jpg"
+categoria_macro: politica
 ---
 Sistema da Prefeitura de Maricá apresenta instabilidade e afeta acesso a contracheques de servidores
 

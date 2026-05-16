@@ -7,8 +7,8 @@ slug: "advogados-de-bolsonaro-querem-usar-ataques-de-musk-para-embasar-defesa-co
 wp_id: 4142
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A equipe jurídica de Jair Bolsonaro está estudando a possibilidade de incorporar declarações públicas de Elon Musk, que recentemente confrontou o judiciário brasileiro, em sua luta legal contra a inelegibilidade do ex-presidente. </p>
 <!-- /wp:paragraph -->

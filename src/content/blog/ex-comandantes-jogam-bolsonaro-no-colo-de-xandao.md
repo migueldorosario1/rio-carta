@@ -7,8 +7,8 @@ slug: "ex-comandantes-jogam-bolsonaro-no-colo-de-xandao"
 tags:
   - 'nacional'
 wp_id: 3645
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Altos oficiais militares do Brasil, incluindo o ex-comandante do Exército, general Marco Antônio Freire Gomes, e o ex-comandante da Aeronáutica, brigadeiro Carlos Baptista Júnior, forneceram depoimentos que implicam diretamente o ex-presidente Jair Bolsonaro em uma suposta conspiração para obstruir a posse do presidente Luiz Inácio Lula da Silva.</p>
 <!-- /wp:paragraph -->

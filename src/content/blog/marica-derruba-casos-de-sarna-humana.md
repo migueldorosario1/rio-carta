@@ -7,8 +7,8 @@ slug: "marica-derruba-casos-de-sarna-humana"
 tags:
   - 'regiao-metropolitana'
 wp_id: 7374
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Com redução de 53% nos casos de escabiose, Maricá aposta em ações educativas e sanitização para enfrentar desinformação e reforçar a confiança nas políticas públicas</strong></p>
 <!-- /wp:paragraph -->

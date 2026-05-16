@@ -7,8 +7,8 @@ slug: "governo-lula-quer-evitar-rotulo-de-defensor-de-traficante"
 wp_id: 7307
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading"><em>Planalto atua para gerenciar a crise de imagem gerada pela chacina no RJ. Em vídeo, governo critica a lógica do "matar criminosos" e diz que "matar 120 pessoas não adianta nada"</em></h3>
 <!-- /wp:heading -->

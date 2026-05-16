@@ -7,8 +7,8 @@ slug: "lula-define-estrategia-para-se-aproximar-dos-evangelicos"
 wp_id: 3901
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva tem se mantido firme em sua decisão de não adotar estratégias direcionadas exclusivamente ao público evangélico, apesar de sugestões de ministros e de enfrentar uma baixa popularidade neste segmento. </p>
 <!-- /wp:paragraph -->

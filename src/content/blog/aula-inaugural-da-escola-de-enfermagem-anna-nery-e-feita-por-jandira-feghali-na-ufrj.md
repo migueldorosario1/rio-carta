@@ -7,8 +7,8 @@ slug: "aula-inaugural-da-escola-de-enfermagem-anna-nery-e-feita-por-jandira-fegh
 tags:
   - 'educacao'
 wp_id: 3851
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada federal Jandira Feghali (PCdoB) é médica e especialista em saúde pública</em></strong></p>
 <!-- /wp:paragraph -->

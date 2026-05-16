@@ -7,8 +7,8 @@ slug: "flavio-tenta-comparar-atentado-a-trump-com-o-de-bolsonaro-em-2018"
 tags:
   - 'nacional'
 wp_id: 4766
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O senador Flávio Bolsonaro (PL-RJ) traçou um paralelo entre um incidente ocorrido durante um comício do ex-presidente dos Estados Unidos, Donald Trump, no último sábado (13), e o ataque sofrido por Jair Bolsonaro em 2022, em Juiz de Fora (MG). O parlamentar expressou suas preocupações através da rede social X, criticando ações violentas associadas à esquerda.</p>
 <!-- /wp:paragraph -->

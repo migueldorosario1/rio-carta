@@ -5,6 +5,7 @@ pubDate: "2026-05-15T21:07:31Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "itaipava", "regiao-serrana", "educacao", "estado", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605151805-feirinha-de-itaipava-recebe-estudantes-da-rede-municipal-para-acao-de-lancamento-de-foguetes.jpeg"
+categoria_macro: geral
 ---
 Nesta quarta-feira (13), a Feirinha de Itaipava acolheu cerca de 50 alunos da Escola Municipal Professor Nilton São Thiago para a execução de disparos de foguetes da OBAFOG — Olimpíada Brasileira de Foguetes. A ação incentiva o aprendizado através da prática, possibilitando que os jovens apliquem noções de ciência, matemática, química e outras disciplinas na fabricação dos foguetes elaborados previamente em classe e testados durante a atividade realizada na Feirinha.
 

@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governador do Rio de Janeiro, Claudio Castro (PL), anunciou nesta quarta-feira a nomeação de Arthur Monteiro (Podemos) como o novo secretário de Trabalho e Renda do estado. A decisão foi oficializada com a publicação no Diário Oficial da exoneração de Kelly Mattos, que ocupava o cargo anteriormente. A movimentação ocorreu dois meses após o previsto, uma vez que a mudança estava sendo aguardada desde as férias do chefe do executivo do Rio, que ocorreram em setembro.</p>
 <!-- /wp:paragraph -->

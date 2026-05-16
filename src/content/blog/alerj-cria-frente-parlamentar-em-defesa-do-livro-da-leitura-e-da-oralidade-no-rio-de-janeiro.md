@@ -7,8 +7,8 @@ slug: "alerj-cria-frente-parlamentar-em-defesa-do-livro-da-leitura-e-da-oralidad
 wp_id: 7780
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Por iniciativa da deputada estadual Dani Balbi (PCdoB), a Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) oficializou a criação da Frente Parlamentar em Defesa do Livro, da Leitura e da Oralidade no estado.</strong></em></p>
 <!-- /wp:paragraph -->

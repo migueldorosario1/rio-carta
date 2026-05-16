@@ -8,8 +8,8 @@ wp_id: 7624
 tags:
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A pré-candidatura de Vitor Junior a deputado federal expôs uma tensão no PDT de Niterói, que agora enfrenta o impasse entre o deputado estadual e o ex-prefeito Axel Grael.</strong></em></p>
 <!-- /wp:paragraph -->

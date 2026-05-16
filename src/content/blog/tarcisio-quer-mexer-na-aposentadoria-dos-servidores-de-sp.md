@@ -7,8 +7,8 @@ slug: "tarcisio-quer-mexer-na-aposentadoria-dos-servidores-de-sp"
 tags:
   - 'nacional'
 wp_id: 4727
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo de São Paulo, liderado pelo governador Tarcísio de Freitas, está considerando a adoção do regime de capitalização na São Paulo Previdência (SPPREV), o sistema previdenciário dos servidores estaduais. </p>
 <!-- /wp:paragraph -->

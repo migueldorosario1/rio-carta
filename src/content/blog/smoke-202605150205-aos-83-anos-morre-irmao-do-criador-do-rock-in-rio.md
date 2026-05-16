@@ -5,6 +5,7 @@ pubDate: "2026-05-15T05:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "rubem-medina", "politica-rj", "camara-municipal-do-rio", "niteroi-metropolitana", "regiao-metropolitana", "ramos", "mage", "niteroi", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605150205-aos-83-anos-morre-irmao-do-criador-do-rock-in-rio.jpg"
+categoria_macro: politica
 ---
 Morreu na manhã desta quinta-feira (14), no Rio de Janeiro, o ex-deputado federal e irmão do criador do Rock in Rio, Rubem Medina, aos 83 anos. A morte foi confirmada em nota conjunta pelo Grupo Dreamers, pela Rock World e pela família Medina.
 

@@ -7,8 +7,8 @@ slug: "sargento-da-marinha-morre-afogado-em-clube-sem-salva-vidas-no-rj"
 wp_id: 2489
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um sargento da Marinha de 30 anos, identificado como Giovani Lima da Silva, faleceu após um incidente em uma das piscinas do Tênis Clube de Mesquita, na Baixada Fluminense, no dia 10 de janeiro. A família do militar denuncia a falta de salva-vidas no local, o que teria contribuído para o trágico desfecho. Apesar de alegações iniciais do clube negando que o sargento estivesse dentro da piscina, a publicação foi apagada após contato da imprensa.</p>
 <!-- /wp:paragraph -->

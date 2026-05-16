@@ -7,8 +7,8 @@ slug: "tres-policiais-militares-condenados-por-morte-de-seis-pessoas-no-morro-da
 wp_id: 1874
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Três policiais militares enfrentarão 54 anos de prisão e a perda de seus cargos após serem condenados pela morte de seis pessoas em abril de 2009, no Morro da Coroa, Catumbi, Região Central do Rio de Janeiro. O veredicto foi emitido pelo Ministério Público do Rio (MPRJ), que alegou que os agentes agiram com "violência desnecessária" durante a incursão, sem evidências de ataque contra eles.</p>
 <!-- /wp:paragraph -->

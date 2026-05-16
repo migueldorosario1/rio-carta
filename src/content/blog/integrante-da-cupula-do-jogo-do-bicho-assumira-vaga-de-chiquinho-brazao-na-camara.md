@@ -7,8 +7,8 @@ slug: "integrante-da-cupula-do-jogo-do-bicho-assumira-vaga-de-chiquinho-brazao-n
 wp_id: 3938
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Ricardo Abrão é sobrinho de Anísio Abraão David, patrono da escola de samba Beija-Flor</em></strong></p>
 <!-- /wp:paragraph -->

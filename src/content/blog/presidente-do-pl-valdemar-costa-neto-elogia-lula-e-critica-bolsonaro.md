@@ -7,8 +7,8 @@ slug: "presidente-do-pl-valdemar-costa-neto-elogia-lula-e-critica-bolsonaro"
 wp_id: 2422
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Valdemar Costa Neto, presidente do Partido Liberal (PL), destacou as diferenças entre os ex-presidentes Luiz Inácio Lula da Silva (PT) e Jair Bolsonaro (PL) em uma entrevista ao jornal "O Diário". Costa Neto elogiou as gestões de Lula, enfatizando que não há comparação com Bolsonaro, a quem atribuiu grande carisma, mas um único mandato.</p>
 <!-- /wp:paragraph -->

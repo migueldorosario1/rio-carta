@@ -7,8 +7,8 @@ slug: "bomba-suprema-corte-dos-eua-autoriza-candidatura-de-trump-nas-eleicoes-do
 wp_id: 3628
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Suprema Corte dos Estados Unidos emitiu uma decisão na segunda-feira, permitindo que o ex-presidente Donald Trump concorra nas eleições presidenciais previstas para novembro deste ano. </p>
 <!-- /wp:paragraph -->

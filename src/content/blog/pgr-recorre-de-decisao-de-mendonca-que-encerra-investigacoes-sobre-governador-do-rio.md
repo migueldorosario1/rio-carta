@@ -7,8 +7,8 @@ slug: "pgr-recorre-de-decisao-de-mendonca-que-encerra-investigacoes-sobre-govern
 wp_id: 5900
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Procuradoria-Geral da República (PGR) apresentou recurso contra a decisão do ministro André Mendonça, do Supremo Tribunal Federal (STF), que havia determinado o encerramento de duas investigações sobre o governador do Rio de Janeiro, Cláudio Castro (PL), no Superior Tribunal de Justiça (STJ).</p>
 <!-- /wp:paragraph -->

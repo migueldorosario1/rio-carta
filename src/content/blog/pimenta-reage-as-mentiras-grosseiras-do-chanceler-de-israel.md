@@ -7,8 +7,8 @@ slug: "pimenta-reage-as-mentiras-grosseiras-do-chanceler-de-israel"
 tags:
   - 'geopolitica'
 wp_id: 3365
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro da defesa de Israel divulga uma fake news. O Brasil sempre, desde 7 de outubro, condenou os ataques terroristas do Hamas em todos os fóruns.</p>
 <!-- /wp:paragraph -->

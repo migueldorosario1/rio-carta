@@ -7,8 +7,8 @@ slug: "turismo-no-brasil-registra-crescimento-expressivo-fatura-bilhoes-de-dolar
 tags:
   - 'nacional'
 wp_id: 3843
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O setor de turismo no Brasil evidenciou uma expansão de 7,8% no último ano, alcançando um faturamento de aproximadamente R$ 189,4 bilhões, conforme dados divulgados pela Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP).</p>
 <!-- /wp:paragraph -->

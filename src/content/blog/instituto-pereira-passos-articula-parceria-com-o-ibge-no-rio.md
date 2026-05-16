@@ -7,8 +7,8 @@ slug: "instituto-pereira-passos-articula-parceria-com-o-ibge-no-rio"
 wp_id: 6473
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Novo presidente do IPP, Elias Jabbour teve reunião com o presidente do IBGE, Marcio Pochmann, na tarde desta quarta-feira (15/01)</strong></em></p>
 <!-- /wp:paragraph -->

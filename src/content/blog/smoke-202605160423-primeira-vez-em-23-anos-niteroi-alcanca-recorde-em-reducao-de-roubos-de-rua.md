@@ -5,6 +5,7 @@ pubDate: "2026-05-16T04:24:06Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "seguranca-publica", "regiao-metropolitana", "capital-estado", "sao-goncalo", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605160423-primeira-vez-em-23-anos-niteroi-alcanca-recorde-em-reducao-de-roubos-de-rua.jpg"
+categoria_macro: politica
 ---
 Rio
 

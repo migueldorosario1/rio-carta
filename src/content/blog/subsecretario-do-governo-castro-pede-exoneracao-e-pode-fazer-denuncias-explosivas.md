@@ -7,8 +7,8 @@ slug: "subsecretario-do-governo-castro-pede-exoneracao-e-pode-fazer-denuncias-ex
 wp_id: 3022
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira, 5, o advogado Victor Travancas, anteriormente subsecretário do gabinete do governador Cláudio Castro, anunciou sua exoneração após apresentar um relatório sobre as falhas de segurança na Marquês de Sapucaí. </p>
 <!-- /wp:paragraph -->

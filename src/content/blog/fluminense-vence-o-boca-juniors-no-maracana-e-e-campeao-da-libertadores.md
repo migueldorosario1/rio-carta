@@ -7,8 +7,8 @@ slug: "fluminense-vence-o-boca-juniors-no-maracana-e-e-campeao-da-libertadores"
 tags:
   - 'maracana'
 wp_id: 1814
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p>Após um longo período de espera, a torcida do Fluminense finalmente pôde celebrar a conquista da Taça Libertadores. A vitória sobre o Boca Juniors, num Maracanã lotado e eufórico, marcou o fim de uma jornada de 15 anos e coroou o trabalho incansável da equipe carioca. Este é o título que os tricolores tanto almejavam, e a História foi escrita em uma noite memorável para o clube.</p>
 <!-- /wp:paragraph -->

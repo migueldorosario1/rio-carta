@@ -7,8 +7,8 @@ slug: "lula-assume-de-vez-articulacao-politica-para-aprovar-medidas-no-congresso
 wp_id: 6361
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva planeja envolver-se diretamente na articulação de pautas governistas essenciais durante o primeiro semestre de 2025. </p>
 <!-- /wp:paragraph -->

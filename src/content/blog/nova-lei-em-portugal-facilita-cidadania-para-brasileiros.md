@@ -7,8 +7,8 @@ slug: "nova-lei-em-portugal-facilita-cidadania-para-brasileiros"
 wp_id: 2371
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma recente mudança legislativa em Portugal promete beneficiar milhares de brasileiros interessados em obter a cidadania portuguesa. A alteração, aprovada pelo Parlamento português, modifica significativamente a maneira como o tempo de residência no país é contabilizado para fins de naturalização.</p>
 <!-- /wp:paragraph -->

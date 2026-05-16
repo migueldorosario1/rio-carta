@@ -5,6 +5,7 @@ pubDate: "2026-05-14T02:05:29Z"
 draft: true
 tags: ["rio-de-janeiro", "corpo-de-bombeiros", "libras", "acessibilidade", "inclusao", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "comunidade", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "/hero/smoke-smoke-202605132305-corpo-de-bombeiros-capacitam-membros-para-atendimento-em-libras.png"
+categoria_macro: geral
 ---
 Rio
 

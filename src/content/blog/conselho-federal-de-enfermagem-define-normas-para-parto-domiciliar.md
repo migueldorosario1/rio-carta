@@ -7,8 +7,8 @@ slug: "conselho-federal-de-enfermagem-define-normas-para-parto-domiciliar"
 tags:
   - 'nacional'
 wp_id: 2974
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Conselho Federal de Enfermagem ( Coren) estabeleceu normas para a atuação de enfermeiros obstétricos e obstetriz - profissional responsável pela assistência à mulher da gestação ao puerpério – no parto domiciliar planejado. </p>
 <!-- /wp:paragraph -->

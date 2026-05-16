@@ -7,8 +7,8 @@ slug: "marica-tem-balanco-positivo-na-fitur-2026-na-espanha-com-avancos-estrateg
 tags:
   - 'marica'
 wp_id: 7614
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading">Participação na feira em Madri projeta município para o mundo, com destaque para a assinatura com a Universidade de Lausanne, da Suíça, visitas institucionais ao estande da cidade e articulações institucionais e empresariais</h5>
 <!-- /wp:heading -->

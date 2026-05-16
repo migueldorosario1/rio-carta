@@ -7,8 +7,8 @@ slug: "lula-garante-autonomia-a-galipolo-no-bc"
 tags:
   - 'nacional'
 wp_id: 4974
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva afirmou nesta sexta-feira (30) que Gabriel Galípolo, futuro presidente do Banco Central, terá autonomia no cargo. Galípolo, indicado por Lula na quarta-feira (28), receberá um mandato de quatro anos, semelhante ao do presidente da República. </p>
 <!-- /wp:paragraph -->

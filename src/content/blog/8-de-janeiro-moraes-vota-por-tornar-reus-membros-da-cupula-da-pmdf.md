@@ -7,8 +7,8 @@ slug: "8-de-janeiro-moraes-vota-por-tornar-reus-membros-da-cupula-da-pmdf"
 wp_id: 3133
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira (9) por aceitar denúncia contra sete integrantes da antiga cúpula da Polícia Militar do Distrito Federal (PMDF) e torná-los réus no caso dos atos antidemocráticos de 8 de janeiro de 2023, quando as sedes dos Três Poderes foram invadidas e depredadas por apoiadores do ex-presidente Jair Bolsonaro.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1580348&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1580348&amp;o=node"></p>
 <!-- /wp:paragraph -->

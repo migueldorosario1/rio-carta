@@ -7,8 +7,8 @@ slug: "pesquisadores-da-faperj-poderao-ter-direito-de-ferias-iniciativa-para-bol
 wp_id: 6540
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A proposta da deputada Dani Balbi (PCdoB) entrou em tramitação na Alerj nesta terça-feira (04/02)</em></strong></p>
 <!-- /wp:paragraph -->

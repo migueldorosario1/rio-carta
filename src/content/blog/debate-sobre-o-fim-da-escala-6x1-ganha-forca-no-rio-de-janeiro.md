@@ -8,8 +8,8 @@ wp_id: 6576
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Sindicato dos Comerciários promoveu evento sobre o tema no Rio de Janeiro</strong></em></p>
 <!-- /wp:paragraph -->

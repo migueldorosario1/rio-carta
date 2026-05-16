@@ -11,8 +11,8 @@ tags:
   - 'baixada'
   - 'nacional'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Governador confirma pré-candidatura ao Senado e antecipa cenário de 2026</h4>
 <!-- /wp:heading -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T04:05:10Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "rio-das-ostras", "br-101", "infraestrutura", "transporte", "norte-noroeste-fluminense", "macae-norte-fluminense", "regiao-metropolitana", "niteroi", "sao-goncalo", "itaborai", "regiao-dos-lagos", "campos"]
 heroImage: "/hero/smoke-smoke-202605130105-ministro-dos-transportes-confirma-obras-de-duplicacao-da-br-101-entre-rio-das-ostras-e-macae.jpg"
+categoria_macro: geral
 ---
 O ministro dos Transportes, George Santoro, confirmou a intenção de retomar as obras de duplicação da BR-101 no trecho entre os municípios de Macaé e Rio das Ostras, considerado um dos principais gargalos logísticos da região.
 

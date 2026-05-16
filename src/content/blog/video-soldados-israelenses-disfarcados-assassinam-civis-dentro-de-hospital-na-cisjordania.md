@@ -7,8 +7,8 @@ slug: "video-soldados-israelenses-disfarcados-assassinam-civis-dentro-de-hospita
 tags:
   - 'geopolitica'
 wp_id: 2709
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Soldados israelenses, disfarçados como médicos e enfermeiros, invadiram o Hospital Ibn Sina em Jenin, na Cisjordânia, e alegadamente abriram fogo, resultando na morte de três palestinos. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "dallagnol-queria-usar-ong-para-evitar-fiscalizacao-do-tcu-sobre-multas-da
 tags:
   - 'nacional'
 wp_id: 4554
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Mensagens obtidas através da Operação Spoofing revelaram que o ex-procurador Deltan Dallagnol demonstrou extrema preocupação sobre a destinação das multas de leniência aplicadas à companhia J&amp;F em 2019, indicando uma ONG para evitar tal intermédio.</p>
 <!-- /wp:paragraph -->

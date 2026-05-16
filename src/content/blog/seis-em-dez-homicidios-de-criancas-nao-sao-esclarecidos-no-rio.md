@@ -7,8 +7,8 @@ slug: "seis-em-dez-homicidios-de-criancas-nao-sao-esclarecidos-no-rio"
 wp_id: 685
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Relatório sobre inquéritos de crimes contra crianças saiu nesta sexta-feira (07/07)</em></p>
 <!-- /wp:paragraph -->

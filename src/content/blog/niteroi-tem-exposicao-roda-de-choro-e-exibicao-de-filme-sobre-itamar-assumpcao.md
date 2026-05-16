@@ -8,8 +8,8 @@ wp_id: 691
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A programação cultural em Niterói na segunda semana de julho está cheia de atrações, em tempo para se planejar e aproveitar todas elas. Na próxima terça-feira (11), tem o Choro das Minas na Sala Carlos Couto. A exposição “O Brasil Que Eu Vejo”, que reúne obras de 30 artistas, será inaugurada no Solar do Jambeiro na quarta-feira (12). A Biblioteca Parque de Niterói vai exibir filmes sobre a trajetória do músico Itamar Assumpção dias 11 e 13. Confira a programação.</p>
 <!-- /wp:paragraph -->

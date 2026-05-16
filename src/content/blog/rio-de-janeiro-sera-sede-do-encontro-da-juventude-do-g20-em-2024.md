@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-sera-sede-do-encontro-da-juventude-do-g20-em-2024"
 wp_id: 1164
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Anúncio foi feito no encerramento da edição deste ano, na Índia</em></strong></p>
 <!-- /wp:paragraph -->

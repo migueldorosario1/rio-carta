@@ -7,8 +7,8 @@ slug: "renato-russo-ganha-homenagem-em-rua-eternizada-pela-bossa-nova"
 wp_id: 982
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Placa indica local onde morou um dos grandes nomes do rock nacional</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "lula-planeja-ato-em-memoria-do-ataque-aos-tres-poderes-em-2023"
 tags:
   - 'nacional'
 wp_id: 6276
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva anunciou planos para realizar uma cerimônia em 2025, marcando o segundo aniversário dos ataques às sedes dos Três Poderes, ocorridos em 8 de janeiro de 2023. </p>
 <!-- /wp:paragraph -->

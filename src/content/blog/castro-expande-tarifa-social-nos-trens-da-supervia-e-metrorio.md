@@ -7,8 +7,8 @@ slug: "castro-expande-tarifa-social-nos-trens-da-supervia-e-metrorio"
 tags:
   - 'transporte-mobilidade'
 wp_id: 2837
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governador Cláudio Castro anunciou oficialmente a extensão da tarifa social nos trens da SuperVia e MetrôRio até 1º de fevereiro de 2025, conforme publicado no Diário Oficial desta quarta-feira, 31. </p>
 <!-- /wp:paragraph -->

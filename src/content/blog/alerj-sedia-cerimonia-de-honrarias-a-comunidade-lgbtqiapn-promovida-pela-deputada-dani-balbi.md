@@ -7,8 +7,8 @@ slug: "alerj-sedia-cerimonia-de-honrarias-a-comunidade-lgbtqiapn-promovida-pela-
 wp_id: 7384
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O evento acontece nesta quarta-feira (19/11) no Palácio Tiradentes.</em></strong></p>
 <!-- /wp:paragraph -->

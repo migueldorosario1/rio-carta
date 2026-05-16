@@ -7,8 +7,8 @@ slug: "brasileiros-vitimas-de-violencia-brutal-em-portugal-policia-identifica-se
 tags:
   - 'geopolitica'
 wp_id: 2346
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia de Segurança Pública (PSP) de Portugal informou ao Portugal Giro que identificou seis dos dez suspeitos envolvidos na agressão ao casal brasileiro Bruno Marcelino e Kaique dos Santos Soares. O incidente ocorreu em Vila Nova de Gaia, cidade próxima ao Porto, quando o casal retornava de uma festa brasileira.</p>
 <!-- /wp:paragraph -->

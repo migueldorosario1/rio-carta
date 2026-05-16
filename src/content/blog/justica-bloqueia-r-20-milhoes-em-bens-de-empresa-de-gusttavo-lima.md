@@ -7,8 +7,8 @@ slug: "justica-bloqueia-r-20-milhoes-em-bens-de-empresa-de-gusttavo-lima"
 tags:
   - 'nacional'
 wp_id: 5755
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Justiça do Estado de Pernambuco confirmou o bloqueio de aproximadamente R$ 20 milhões em bens da Balada Eventos e Produções, empresa pertencente ao cantor Gusttavo Lima. </p>
 <!-- /wp:paragraph -->

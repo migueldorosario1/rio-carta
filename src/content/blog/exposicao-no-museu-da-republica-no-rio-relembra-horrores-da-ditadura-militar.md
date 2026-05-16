@@ -7,8 +7,8 @@ slug: "exposicao-no-museu-da-republica-no-rio-relembra-horrores-da-ditadura-mili
 wp_id: 6516
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong> A exposição "Rua da Relação, 40: Testemunho material da violência de Estado" foi organizada pelo Coletivo RJ Memória e conta com financiamento de emenda parlamentar da mandata da deputada estadual Dani Balbi (PCdoB). A exposição estará aberta de 26 de janeiro até 04 de fevereiro.</strong></em></p>
 <!-- /wp:paragraph -->

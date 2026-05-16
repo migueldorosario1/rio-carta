@@ -7,8 +7,8 @@ slug: "paes-encara-o-8-de-janeiro-com-firmeza-e-sem-perdao"
 wp_id: 6774
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Eduardo Paes se posiciona contra a anistia aos envolvidos no 8 de janeiro e afirma que o respeito ao Judiciário é base da democracia</h3>
 <!-- /wp:heading -->

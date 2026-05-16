@@ -7,8 +7,8 @@ slug: "rio-regulamenta-spray-de-pimenta-para-autodefesa-feminina"
 wp_id: 7471
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A lei prevê gratuidade do spray para mulheres com medida protetiva, transferindo ao agressor o custo do equipamento enquanto a decisão judicial estiver vigente</h3>
 <!-- /wp:heading -->

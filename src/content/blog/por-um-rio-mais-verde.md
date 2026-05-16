@@ -7,8 +7,8 @@ slug: "por-um-rio-mais-verde"
 wp_id: 7663
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O <a href="https://eco21.eco.br/cidades/por-um-rio-mais-verde/">corte de 71 árvores no terreno do antigo Colégio Bennett</a>, no Flamengo, tornou-se o estopim de uma mobilização mais ampla no Rio de Janeiro. O episódio, que envolveu a derrubada de árvores centenárias protegidas, denúncias de descumprimento do Estudo de Impacto de Vizinhança e falta de transparência na compensação ambiental, expôs um problema que, segundo ambientalistas e associações de moradores, vem se repetindo em todas as regiões da cidade.</p>
 <!-- /wp:paragraph -->

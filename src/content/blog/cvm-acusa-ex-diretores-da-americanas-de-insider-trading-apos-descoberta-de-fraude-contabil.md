@@ -7,8 +7,8 @@ slug: "cvm-acusa-ex-diretores-da-americanas-de-insider-trading-apos-descoberta-d
 tags:
   - 'nacional'
 wp_id: 5743
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Comissão de Valores Imobiliários (CVM) concluiu um inquérito na sexta-feira (18) que acusa oito ex-executivos da varejista Americanas de utilizarem informação privilegiada para obter vantagens financeiras, prática conhecida como insider trading. </p>
 <!-- /wp:paragraph -->

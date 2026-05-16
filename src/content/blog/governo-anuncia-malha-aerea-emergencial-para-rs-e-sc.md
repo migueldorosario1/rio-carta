@@ -7,8 +7,8 @@ slug: "governo-anuncia-malha-aerea-emergencial-para-rs-e-sc"
 tags:
   - 'nacional'
 wp_id: 4459
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério de Portos e Aeroportos anunciou nesta quinta-feira, 9, a implementação de uma malha aérea emergencial com 116 voos comerciais semanais para apoiar a população do Rio Grande do Sul após o fechamento do Aeroporto Internacional Salgado Filho, em Porto Alegre, devido a chuvas e enchentes. A pista, o pátio e o saguão do aeroporto continuam alagados.</p>
 <!-- /wp:paragraph -->

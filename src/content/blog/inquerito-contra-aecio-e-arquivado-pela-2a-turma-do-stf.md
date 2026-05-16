@@ -7,8 +7,8 @@ slug: "inquerito-contra-aecio-e-arquivado-pela-2a-turma-do-stf"
 wp_id: 3547
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Os ministros da 2ª Turma do Supremo Tribunal Federal (STF) decidiram arquivar, por 4 votos a 1, um inquérito que investigava o deputado federal Aécio Neves (PSDB-MG) por suposta prática de corrupção passiva, relacionada ao recebimento de propina da construtora OAS.</p>
 <!-- /wp:paragraph -->

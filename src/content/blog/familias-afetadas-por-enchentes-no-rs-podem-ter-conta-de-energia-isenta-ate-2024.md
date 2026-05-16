@@ -7,8 +7,8 @@ slug: "familias-afetadas-por-enchentes-no-rs-podem-ter-conta-de-energia-isenta-a
 tags:
   - 'nacional'
 wp_id: 4565
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em entrevista ao Metrópoles, Enio Verri, diretor-geral brasileiro da usina Itaipu Binacional, anunciou que as famílias do Rio Grande do Sul atingidas pelas recentes enchentes podem receber ajuda financeira significativa. </p>
 <!-- /wp:paragraph -->

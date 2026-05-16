@@ -7,8 +7,8 @@ slug: "boninho-deixa-globo-apos-disputa-interna-com-diretor-de-programacao"
 tags:
   - 'nacional'
 wp_id: 5247
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>J.B. Oliveira, conhecido como Boninho, não teve seu contrato renovado com a Globo, marcando sua saída da emissora. A decisão, revelada na última sexta-feira, 13, é o ápice de uma disputa interna, de acordo com informações do portal Notícias da TV.</p>
 <!-- /wp:paragraph -->

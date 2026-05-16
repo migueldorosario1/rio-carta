@@ -8,8 +8,8 @@ wp_id: 7347
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em>Iniciativa da deputada Dani Balbi já é realidade na UFRJ, UniRio, UFF e UFRRJ</em>. <em>Também já há vagas remanescentes para pessoas trans na UENF.</em></p>
 <!-- /wp:paragraph -->

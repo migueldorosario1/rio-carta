@@ -5,6 +5,7 @@ pubDate: "2026-05-13T20:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "fiscalizacao", "gastos-publicos", "capital", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605131705-alerj-cria-comissao-para-fiscalizar-gastos-do-estado-e-promete-comecar-pela-propria-casa.jpg"
+categoria_macro: politica
 ---
 O presidente da Assembleia Legislativa do Estado do Rio de Janeiro, deputado Douglas Ruas (PL), anunciou nesta quarta-feira (13/05) a composição da comissão especial criada para analisar gastos públicos e discutir medidas de equilíbrio fiscal no estado. O colegiado terá a missão de acompanhar a evolução das despesas, avaliar o orçamento e produzir relatórios sobre possíveis cortes e ajustes.
 

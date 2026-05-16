@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-revitaliza-seguranca-com-nova-secretaria-e-orcamento-de-r-
 wp_id: 2158
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Governador Cláudio Castro (PL) oficializou, nesta segunda-feira (18), a reestruturação da Secretaria de Segurança Pública no Rio de Janeiro, um marco após mais de três anos de sua extinção. A decisão, ratificada pela Assembleia Legislativa do Rio de Janeiro (Alerj), promete revitalizar a gestão da segurança pública no estado com um orçamento previsto de R$ 80 milhões para 2024.</p>
 <!-- /wp:paragraph -->

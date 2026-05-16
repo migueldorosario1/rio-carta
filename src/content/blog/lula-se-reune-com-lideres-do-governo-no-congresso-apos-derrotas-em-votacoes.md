@@ -7,8 +7,8 @@ slug: "lula-se-reune-com-lideres-do-governo-no-congresso-apos-derrotas-em-votaco
 wp_id: 4574
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva (PT) convocou uma reunião com os líderes do governo no Congresso nesta segunda-feira (3), em meio a uma série de derrotas sofridas pelo governo em votações recentes. </p>
 <!-- /wp:paragraph -->

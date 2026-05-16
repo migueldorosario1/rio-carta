@@ -7,8 +7,8 @@ slug: "lula-critica-falta-de-acao-politica-contra-a-fome-na-premiacao-goalkeeper
 tags:
   - 'nacional'
 wp_id: 5387
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante a premiação Goalkeepers, organizada pela Fundação Bill e Melinda Gates, o presidente Luiz Inácio Lula da Silva abordou a urgência de uma ação global coordenada para erradicar a fome. </p>
 <!-- /wp:paragraph -->

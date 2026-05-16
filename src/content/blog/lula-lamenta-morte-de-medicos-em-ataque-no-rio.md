@@ -7,8 +7,8 @@ slug: "lula-lamenta-morte-de-medicos-em-ataque-no-rio"
 wp_id: 1506
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva usou as redes sociais para lamentar a morte dos médicos que sofreram um ataque a tiros num quiosque do Rio, na madrugada desta quinta-feira. Uma das vítimas do ataque, Diego Ralf de Souza Bomfim, é irmão da deputada federal Sâmia Bomfim e cunhado do também deputado Glauber Braga, ambos do PSOL, a quem o presidente prestou solidariedade.</p>
 <!-- /wp:paragraph -->

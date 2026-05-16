@@ -7,8 +7,8 @@ slug: "mostra-na-biblioteca-nacional-conta-historia-dos-periodicos-do-pais"
 wp_id: 803
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Imprensa negra, LGBT, feminista e títulos infantis são os destaques</em></strong></p>
 <!-- /wp:paragraph -->

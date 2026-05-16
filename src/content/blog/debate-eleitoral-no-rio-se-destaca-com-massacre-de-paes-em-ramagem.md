@@ -8,8 +8,8 @@ wp_id: 4810
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O debate entre os candidatos à prefeitura do Rio de Janeiro ocorreu na noite desta quinta-feira (8), revelando diferenças significativas entre os participantes. </p>
 <!-- /wp:paragraph -->

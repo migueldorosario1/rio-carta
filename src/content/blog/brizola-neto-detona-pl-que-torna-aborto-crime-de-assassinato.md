@@ -7,8 +7,8 @@ slug: "brizola-neto-detona-pl-que-torna-aborto-crime-de-assassinato"
 wp_id: 4663
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-vereador do Rio de Janeiro Leonel Brizola Neto (PT-RJ), neto do fundador do PDT Leonel Brizola (1922-2004), criticou a influência dos evangélicos na Câmara dos Deputados. </p>
 <!-- /wp:paragraph -->

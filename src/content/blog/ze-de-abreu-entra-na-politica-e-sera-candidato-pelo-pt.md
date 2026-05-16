@@ -8,8 +8,8 @@ wp_id: 7641
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">Partido aposta na popularidade e na postura combativa de Zé de Abreu para fortalecer a comunicação eleitoral no estado</h4>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "anielle-detalha-as-abordagens-de-silvio-almeida-em-caso-de-assedio"
 tags:
   - 'nacional'
 wp_id: 5596
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A ministra da Igualdade Racial, Anielle Franco, afirmou em depoimento à Polícia Federal que foi alvo de importunações sexuais do ex-ministro dos Direitos Humanos, Silvio Almeida, desde 2022. A informação foi divulgada pela jornalista Mônica Bergamo, da <em>Folha de S. Paulo</em>. </p>
 <!-- /wp:paragraph -->

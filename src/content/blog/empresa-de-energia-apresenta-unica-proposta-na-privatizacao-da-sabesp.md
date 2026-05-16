@@ -7,8 +7,8 @@ slug: "empresa-de-energia-apresenta-unica-proposta-na-privatizacao-da-sabesp"
 tags:
   - 'nacional'
 wp_id: 4701
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Equatorial Energia é a única empresa que apresentou proposta para se tornar acionista de referência na privatização da Sabesp, conforme informações divulgadas por uma fonte familiarizada com o processo nesta quarta-feira. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "participe-da-pesquisa-nacional-sobre-a-escala-6x1"
 wp_id: 6638
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading" id="h-participe-da-pesquisa-nacional-sobre-a-escala-6x1-e-contribua-para-entender-os-desafios-dessa-jornada-de-trabalho-que-afeta-milhares-de-brasileiros">Participe da pesquisa sobre o fim da escala 6x1 e contribua para entender os desafios dessa jornada de trabalho que afeta milhares de brasileiros</h4>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "abin-paralela-mpf-e-tcu-pedem-informacoes-sobre-o-prejuizo-aos-cofres-pub
 wp_id: 2682
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na data de 29 de janeiro, o Ministério Público junto ao Tribunal de Contas da União encaminhou um pedido para investigar supostas práticas irregulares da Agência Brasileira de Inteligência (Abin).</p>
 <!-- /wp:paragraph -->

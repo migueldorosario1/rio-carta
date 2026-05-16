@@ -8,8 +8,8 @@ wp_id: 7102
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Projeto aprovado cria o Programa Beleza Empoderada, que capacita profissionais para apoiar mulheres em risco</h2>
 <!-- /wp:heading -->

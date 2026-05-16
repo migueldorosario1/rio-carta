@@ -5,6 +5,7 @@ pubDate: "2026-05-16T06:23:52Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "bangu", "zona-oeste", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "angra", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605160623-esposa-de-piloto-baleado-em-operacao-no-rio-atualiza-estado-de-saude-momento-dificil.png"
+categoria_macro: seguranca
 ---
 O piloto de helicóptero da Polícia Civil e morador de Niterói, Felipe Marques Monteiro, segue em estado grave após complicações decorrentes de uma cirurgia de prótese craniana realizada em abril, segundo sua esposa, Keidna Marques. Ele foi baleado durante uma operação na Vila Aliança, em Bangu, na Zona Oeste do Rio, em março de 2025.
 

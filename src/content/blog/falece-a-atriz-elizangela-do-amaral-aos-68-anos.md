@@ -7,8 +7,8 @@ slug: "falece-a-atriz-elizangela-do-amaral-aos-68-anos"
 wp_id: 1784
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>A atriz Elizangela do Amaral Vergueiro, de 68 anos, faleceu na sexta-feira, 3 de novembro, no Hospital Municipal José Rabello de Mello, localizado em Guapimirim, na Região Metropolitana do Rio de Janeiro. A causa da morte foi uma parada cardiorespiratória.</em></p>
 <!-- /wp:paragraph -->

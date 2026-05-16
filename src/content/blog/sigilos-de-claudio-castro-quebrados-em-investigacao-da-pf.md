@@ -7,8 +7,8 @@ slug: "sigilos-de-claudio-castro-quebrados-em-investigacao-da-pf"
 wp_id: 2196
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governador do Rio de Janeiro, Cláudio Castro, enfrenta uma intensificação nas investigações da Operação Sétimo Mandamento, com a quebra de seus sigilos bancário e telefônico determinada pelo Superior Tribunal de Justiça (STJ). A ação, coordenada pela Polícia Federal, ocorreu nesta quarta-feira (20) e incluiu buscas na residência de Vinícius Sarciá Rocha, irmão de criação de Castro, onde foram encontrados R$ 128 mil e US$ 7,5 mil em dinheiro, parte escondida em uma caixa de remédios.</p>
 <!-- /wp:paragraph -->

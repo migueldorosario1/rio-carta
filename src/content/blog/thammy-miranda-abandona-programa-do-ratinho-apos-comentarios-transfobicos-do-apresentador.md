@@ -7,8 +7,8 @@ slug: "thammy-miranda-abandona-programa-do-ratinho-apos-comentarios-transfobicos
 tags:
   - 'nacional'
 wp_id: 3609
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite desta segunda-feira, 26, Thammy Miranda, parlamentar e homem transgênero, optou por deixar o estúdio do "Programa do Ratinho" momentos antes de sua participação ao vivo, devido a comentários feitos pelo apresentador que considerou desrespeitosos.</p>
 <!-- /wp:paragraph -->

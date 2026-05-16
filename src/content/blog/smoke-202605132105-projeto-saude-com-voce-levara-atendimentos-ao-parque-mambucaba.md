@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:53Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "parque-mambucaba", "saude", "projeto-saude-com-voce", "sul-fluminense", "sul-fluminense-costa-verde", "rocha", "comunidade", "complexo", "angra", "transporte-mobilidade", "educacao", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605132105-projeto-saude-com-voce-levara-atendimentos-ao-parque-mambucaba.jpeg"
+categoria_macro: lazer
 ---
 Angra dos Reis – A Prefeitura de Angra dos Reis promove neste sábado (16), a primeira edição do projeto “Saúde com Você”, no Parque Mambucaba. A ação será realizada das 9h às 17h, em frente ao Complexo de Saúde, na Rua Francisco Magalhães de Castro, oferecendo diversos serviços gratuitos para a população do 4º Distrito.
 

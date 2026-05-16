@@ -7,8 +7,8 @@ slug: "stf-retoma-discussao-sobre-suspensao-do-x-no-brasil-apos-acao-do-partido-
 tags:
   - 'nacional'
 wp_id: 5032
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) retomará a discussão sobre a suspensão do X no Brasil, após uma decisão do ministro Alexandre de Moraes, confirmada pela 1ª Turma do STF. A questão foi trazida à Corte por uma Arguição de Descumprimento de Preceito Fundamental (ADPF) apresentada pelo Partido Novo, que busca reverter a medida.</p>
 <!-- /wp:paragraph -->

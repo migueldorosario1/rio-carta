@@ -7,8 +7,8 @@ slug: "falsa-medica-e-investigada-por-estelionato-em-maceio"
 tags:
   - 'nacional'
 wp_id: 4372
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Helenedja Oliveira é identificada como a falsa médica que atuava em um renomado centro médico de Maceió, atendendo uma extensa rede de clientes sem possuir formação em medicina. </p>
 <!-- /wp:paragraph -->

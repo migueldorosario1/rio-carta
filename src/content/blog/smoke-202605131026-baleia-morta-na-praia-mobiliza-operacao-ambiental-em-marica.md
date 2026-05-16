@@ -5,6 +5,7 @@ pubDate: "2026-05-13T13:27:03Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "cordeirinho", "baleia", "fauna-marinha", "meio-ambiente", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605131026-baleia-morta-na-praia-mobiliza-operacao-ambiental-em-marica.jpg"
+categoria_macro: geral
 ---
 Meio AmbienteNotícias de Maricá
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-13T14:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "miracema", "regiao-noroeste-fluminense", "festival", "cultura", "shows", "norte-noroeste-fluminense", "noroeste-fluminense", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605131105-miracema-recebe-shows-de-dudu-nobre-marvvila-ara-ketu-buchecha-e-felipe-araujo.jpg"
+categoria_macro: lazer
 ---
 O município de Miracema vai receber nos dias 29, 30 e 31 de maio o festival Brasil de Todos os Ritmos, no Parque de Exposições. O evento promete reunir música, cultura e diversidade em uma grande celebração da identidade cultural brasileira.
 

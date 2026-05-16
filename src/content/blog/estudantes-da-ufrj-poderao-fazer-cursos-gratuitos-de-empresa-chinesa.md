@@ -7,8 +7,8 @@ slug: "estudantes-da-ufrj-poderao-fazer-cursos-gratuitos-de-empresa-chinesa"
 wp_id: 2412
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Todos gratuitos, cursos terão certificação reconhecida pela indústria</em>. <em>Parceria é com a multinacional de origem chinesa Huawei</em></p>
 <!-- /wp:paragraph -->

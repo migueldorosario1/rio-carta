@@ -7,8 +7,8 @@ slug: "cgu-comeca-a-processar-servidores-que-participaram-da-abin-paralela-na-er
 tags:
   - 'nacional'
 wp_id: 4155
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Controladoria-Geral da União (CGU) anunciou o início de processos administrativos disciplinares contra três funcionários do Departamento de Polícia. </p>
 <!-- /wp:paragraph -->

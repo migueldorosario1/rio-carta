@@ -7,8 +7,8 @@ slug: "alerj-promove-encontro-do-movimento-pelo-campo-do-livro-na-proxima-segund
 wp_id: 7139
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa da deputada estadual Dani Balbi (PCdoB) busca ampliar o debate sobre o acesso à literatura e fortalecer políticas públicas para o setor</strong></em></p>
 <!-- /wp:paragraph -->

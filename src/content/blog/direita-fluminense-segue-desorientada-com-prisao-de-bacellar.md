@@ -11,8 +11,8 @@ tags:
   - 'rio-de-janeiro'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A prisão de Rodrigo Bacellar <strong>desmontou abruptamente a articulação bolsonarista para a sucessão do governador Cláudio Castro</strong> e reorganizou o tabuleiro político do Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

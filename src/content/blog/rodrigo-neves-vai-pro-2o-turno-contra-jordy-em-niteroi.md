@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nas eleições municipais de 2024 em Niterói, Rodrigo Neves (PDT) e Carlos Jordy (PL) estão confirmados para disputar o segundo turno pela prefeitura. </p>
 <!-- /wp:paragraph -->

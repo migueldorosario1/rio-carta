@@ -7,8 +7,8 @@ slug: "outubro-rosa-marica-zera-fila-de-mamografias-com-ampliacao-de-servicos-e-
 tags:
   - 'marica'
 wp_id: 7277
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Mais de 13 mil exames foram realizados em 2025 com reforço da rede pública e unidades móveis; saiba como ter acesso a atendimento e exames</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "alerta-de-chuva-nao-chega-onde-mais-se-precisa"
 wp_id: 6784
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Mais de 400 comunidades cariocas seguem sem sirenes ou estudos geológicos, enquanto zona oeste permanece invisível ao radar do alerta da cidade</h3>
 <!-- /wp:heading -->

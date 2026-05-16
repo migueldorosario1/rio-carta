@@ -7,8 +7,8 @@ slug: "blocos-do-rio-enfrentam-impasse-na-autorizacao-para-desfiles-no-carnaval"
 wp_id: 2253
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Faltando apenas alguns dias para o carnaval, os blocos de rua do Rio de Janeiro ainda aguardam a autorização para desfilarem pela cidade. Rita Fernandes, presidente da Sebastiana, a associação que representa os principais blocos da região, revela que a Riotur e o Corpo de Bombeiros ainda não emitiram um parecer oficial. Os primeiros desfiles estão programados para começar em 27 de janeiro.</p>
 <!-- /wp:paragraph -->

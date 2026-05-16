@@ -7,8 +7,8 @@ slug: "o-chefe-que-manda-desarmar-o-crime-para-nao-morrer"
 tags:
   - 'seguranca-publica'
 wp_id: 7322
+categoria_macro: seguranca
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Documentos da investigação revelam que até comparsas eram proibidos de portar armas na casa de Doca, o chefe do Comando Vermelho que escapou da megaoperação</h3>
 <!-- /wp:heading -->

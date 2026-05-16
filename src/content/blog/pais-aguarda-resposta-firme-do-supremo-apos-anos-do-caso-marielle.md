@@ -7,8 +7,8 @@ slug: "pais-aguarda-resposta-firme-do-supremo-apos-anos-do-caso-marielle"
 wp_id: 7535
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">O pedido de Alexandre de Moraes para pautar o julgamento renova expectativas de responsabilização pelos assassinatos de Marielle Franco e Anderson Gomes</h3>
 <!-- /wp:heading -->

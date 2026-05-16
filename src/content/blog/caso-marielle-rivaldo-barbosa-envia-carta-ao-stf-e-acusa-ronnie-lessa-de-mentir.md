@@ -7,8 +7,8 @@ slug: "caso-marielle-rivaldo-barbosa-envia-carta-ao-stf-e-acusa-ronnie-lessa-de-
 wp_id: 4716
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O ex-chefe da Polícia Civil do Rio de Janeiro, Rivaldo Barbosa, enviou um bilhete ao ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, em que acusa o ex-policial militar Ronnie Lessa de mentir e nega qualquer ligação com o conselheiro do Tribunal de Contas do Rio (TCE-RJ), Domingos Brazão, e seu irmão, o deputado federal Chiquinho Brazão (sem partido-RJ). </p>
 <!-- /wp:paragraph -->

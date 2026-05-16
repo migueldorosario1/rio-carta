@@ -7,8 +7,8 @@ slug: "deputados-estaduais-intimidam-guardas-municipais-durante-operacao-no-rio-
 wp_id: 1585
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite de terça-feira, dia 10, uma tumultuada situação ocorreu no Rio de Janeiro envolvendo agentes da Guarda Municipal e deputados estaduais da Assembleia Legislativa do estado. A confusão teve início após uma abordagem da Comissão Especial de Combate à Desordem Urbana da Alerj, na avenida Brasil.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "pesquisa-revela-que-67-milhoes-de-estudantes-sofreram-algum-tipo-de-viole
 wp_id: 4643
 tags:
   - 'petropolis'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A pesquisadora em educação, Lívia Miranda, aponta caminhos para a superação do problema</em></strong></p>
 <!-- /wp:paragraph -->

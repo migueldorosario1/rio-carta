@@ -7,8 +7,8 @@ slug: "marcal-chegou-e-enviar-mensagens-de-desculpas-para-datena-por-ter-espalha
 wp_id: 5245
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O debate para a prefeitura de São Paulo, realizado pela TV Cultura no último domingo (15), foi abruptamente interrompido devido a uma agressão física de José Luiz Datena (PSDB) contra Pablo Marçal (PRTB). </p>
 <!-- /wp:paragraph -->

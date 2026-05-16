@@ -7,8 +7,8 @@ slug: "trazendo-equilibrio-ao-reviver-centro-meu-compromisso-com-a-justica-socia
 wp_id: 1269
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Por Edson Santos</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "camara-rejeita-taxacao-de-grandes-fortunas-e-deputado-critica-decisao-que
 wp_id: 5922
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Lindbergh Farias (PT-RJ) manifestou-se nas redes sociais nesta quarta-feira (30) criticando a postura da Câmara dos Deputados quanto à proposta de taxação de grandes fortunas, sugerindo que os parlamentares "têm medo" de aprovar uma medida que atinge os super-ricos. </p>
 <!-- /wp:paragraph -->

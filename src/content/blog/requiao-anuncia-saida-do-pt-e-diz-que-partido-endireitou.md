@@ -7,8 +7,8 @@ slug: "requiao-anuncia-saida-do-pt-e-diz-que-partido-endireitou"
 wp_id: 3979
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em entrevista concedida ao <strong><a href="https://www.esmaelmorais.com.br/requiao-explica-saida-do-pt-exclusiva/">Blog do Esmael</a></strong> na última segunda-feira, o ex-governador do Paraná, Roberto Requião, anunciou sua saída do Partido dos Trabalhadores (PT). </p>
 <!-- /wp:paragraph -->

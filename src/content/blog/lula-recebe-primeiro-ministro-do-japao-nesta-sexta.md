@@ -7,8 +7,8 @@ slug: "lula-recebe-primeiro-ministro-do-japao-nesta-sexta"
 tags:
   - 'geopolitica'
 wp_id: 4400
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Presidente Lula recebe nesta sexta-feira, 3, no Palácio do Planalto o Primeiro-Ministro do Japão, Fumio Kishida, que está acompanhado por 35 lideranças empresariais. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-e-mais-um-estado-que-quer-proibir-gas-de-xisto-fracking"
 wp_id: 6253
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da deputada estadual Dani Balbi (PCdoB); fracking é um dos métodos mais poluentes de energia</em></strong></p>
 <!-- /wp:paragraph -->

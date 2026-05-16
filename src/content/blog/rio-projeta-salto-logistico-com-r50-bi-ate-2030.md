@@ -8,8 +8,8 @@ wp_id: 7494
 tags:
   - 'rio-de-janeiro'
   - 'macae'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Com R$50 bilhões previstos, o Rio aposta em obras que vão de portos a concessões rodoviárias, redesenhando seu peso nas cadeias de exportação e energia</h3>
 <!-- /wp:heading -->

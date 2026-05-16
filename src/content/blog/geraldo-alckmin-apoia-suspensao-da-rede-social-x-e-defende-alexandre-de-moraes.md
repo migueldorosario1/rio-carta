@@ -7,8 +7,8 @@ slug: "geraldo-alckmin-apoia-suspensao-da-rede-social-x-e-defende-alexandre-de-m
 wp_id: 4996
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O vice-presidente Geraldo Alckmin expressou apoio à decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que suspendeu as operações da rede social X no Brasil, propriedade do bilionário Elon Musk. “O 'x' da questão é que o Elon Musk precisa cumprir a lei. </p>
 <!-- /wp:paragraph -->

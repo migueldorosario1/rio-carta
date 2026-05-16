@@ -8,8 +8,8 @@ wp_id: 2531
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Domingos Brazão, político experiente e atual conselheiro do Tribunal de Contas do Rio de Janeiro, foi indicado pelo atirador Ronnie Lessa como um dos mandantes do assassinato da vereadora Marielle Franco e seu motorista, Anderson Gomes. Essa informação foi divulgada pelo site The Intercept Brasil.</p>
 <!-- /wp:paragraph -->

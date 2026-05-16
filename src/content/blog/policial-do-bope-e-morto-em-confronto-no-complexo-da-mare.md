@@ -7,8 +7,8 @@ slug: "policial-do-bope-e-morto-em-confronto-no-complexo-da-mare"
 wp_id: 4628
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na manhã de terça-feira, 11, uma operação da Polícia Militar resultou na morte do Sargento J. Cruz, do Batalhão de Operações Policiais Especiais (BOPE), no Complexo da Maré, zona norte do Rio de Janeiro. Durante a ação, um segundo policial foi ferido, encontrando-se em estado grave, porém estável.</p>
 <!-- /wp:paragraph -->

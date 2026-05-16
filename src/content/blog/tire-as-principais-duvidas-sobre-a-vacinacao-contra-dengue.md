@@ -7,8 +7,8 @@ slug: "tire-as-principais-duvidas-sobre-a-vacinacao-contra-dengue"
 tags:
   - 'saude'
 wp_id: 3136
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A vacina Qdenga, do laboratório japonês Takeda, teve seu&nbsp;<a href="https://agenciabrasil.ebc.com.br/saude/noticia/2023-03/anvisa-aprova-uma-vacina-contra-dengue" target="_blank" rel="noreferrer noopener">registro aprovado pela Agência Nacional de Vigilância Sanitária (Anvisa) em março de 2023</a>. O processo permite a comercialização do produto no Brasil, desde que mantidas as condições aprovadas. Em dezembro, o Ministério da Saúde anunciou a incorporação do insumo no Sistema Único de Saúde (SUS).<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1579207&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1579207&amp;o=node"></p>
 <!-- /wp:paragraph -->

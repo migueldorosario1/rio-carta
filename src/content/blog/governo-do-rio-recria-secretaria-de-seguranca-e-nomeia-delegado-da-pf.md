@@ -7,8 +7,8 @@ slug: "governo-do-rio-recria-secretaria-de-seguranca-e-nomeia-delegado-da-pf"
 wp_id: 2029
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governador Cláudio Castro anunciou, na tarde desta segunda-feira, a recriação da Secretaria de Segurança Pública do Rio de Janeiro. O escolhido para liderar a pasta foi o delegado da Polícia Federal Victor Cesar Carvalho dos Santos, conhecido por sua atuação na prisão do contraventor Rogério de Andrade, em setembro de 2006, quando chefiava a Delegacia de Repressão a Entorpecentes (DRE) da PF.</p>
 <!-- /wp:paragraph -->

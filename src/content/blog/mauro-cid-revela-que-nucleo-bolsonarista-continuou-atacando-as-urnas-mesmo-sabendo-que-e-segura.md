@@ -7,8 +7,8 @@ slug: "mauro-cid-revela-que-nucleo-bolsonarista-continuou-atacando-as-urnas-mesm
 wp_id: 3727
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Durante um depoimento à Polícia Federal que durou quase nove horas, o tenente-coronel Mauro Cid, ex-ajudante de ordens do ex-presidente Jair Bolsonaro, detalhou informações pertinentes à sua delação premiada. </p>
 <!-- /wp:paragraph -->

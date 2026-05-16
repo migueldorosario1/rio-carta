@@ -7,8 +7,8 @@ slug: "rio-entra-entre-os-melhores-destinos-do-mundo-em-2026"
 wp_id: 7468
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Cidade integra a lista Best of The World 2026, da National Geographic, reforçando seu peso turístico e sua capacidade de unir patrimônio natural, cultura e renovação urbana</h3>
 <!-- /wp:heading -->

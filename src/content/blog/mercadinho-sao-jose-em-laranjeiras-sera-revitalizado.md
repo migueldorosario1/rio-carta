@@ -7,8 +7,8 @@ slug: "mercadinho-sao-jose-em-laranjeiras-sera-revitalizado"
 tags:
   - 'laranjeiras'
 wp_id: 1402
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O histórico Mercadinho São José, localizado em Laranjeiras, que estava fechado e abandonado desde 2018, passará por um processo de revitalização e reabertura. O espaço, que teve sua origem como mercado em 1942 e foi transformado em centro cultural em 1988, além de ser tombado pela prefeitura em 1994, será novamente um ponto de encontro entre cultura e gastronomia. A administração do local será realizada pelo coletivo Junta Local. O anúncio dessa iniciativa foi feito pelo prefeito Eduardo Paes.</p>
 <!-- /wp:paragraph -->

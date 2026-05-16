@@ -7,8 +7,8 @@ slug: "unirio-promove-debate-sobre-racismo-ambiental-e-reune-liderancas-sociais-
 wp_id: 7783
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Com a participação da deputada estadual Dani Balbi, a UNIRIO promoveu uma mesa de diálogo sobre racismo ambiental em alusão ao Dia Estadual de Combate ao Racismo Ambiental no Rio de Janeiro.</em></strong></p>
 <!-- /wp:paragraph -->

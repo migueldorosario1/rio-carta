@@ -7,8 +7,8 @@ slug: "lula-apoia-suspensao-do-x-pelo-stf-e-critica-elon-musk"
 tags:
   - 'nacional'
 wp_id: 5014
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva elogiou a decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que suspendeu a operação da rede social X (antigo Twitter) no Brasil. </p>
 <!-- /wp:paragraph -->

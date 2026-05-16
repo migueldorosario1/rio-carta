@@ -7,8 +7,8 @@ slug: "rio-passa-a-ter-conselho-ecologico-popular-para-fortalecer-agenda-ambient
 wp_id: 7069
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa da deputada Dani Balbi (PCdoB) visa ampliar a participação popular na formulação de políticas públicas e acompanhar ações relacionadas à justiça climática e ao combate ao racismo ambiental.</em></strong></p>
 <!-- /wp:paragraph -->

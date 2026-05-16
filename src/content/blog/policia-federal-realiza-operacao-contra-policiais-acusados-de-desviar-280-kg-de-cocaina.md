@@ -8,8 +8,8 @@ wp_id: 1643
 tags:
   - 'resende'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) está conduzindo uma operação no Rio de Janeiro e em Araruama, na Região dos Lagos fluminense, com o objetivo de investigar policiais civis suspeitos de desviar e traficar parte de uma carga de cocaína apreendida, estimada em 280 kg. O grupo inclui um delegado, mas até o momento, não houve prisões. Os suspeitos foram afastados de seus cargos, estão sob monitoramento eletrônico e tiveram cerca de R$ 5 milhões em patrimônio bloqueados pela Justiça. A operação Déjá Vu, que significa "já visto" em francês, mobiliza 50 policiais federais.</p>
 <!-- /wp:paragraph -->

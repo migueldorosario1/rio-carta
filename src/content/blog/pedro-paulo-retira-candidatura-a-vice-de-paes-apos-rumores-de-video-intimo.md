@@ -8,8 +8,8 @@ wp_id: 4786
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta segunda-feira pela manhã, o deputado federal Pedro Paulo procurou o prefeito do Rio de Janeiro, Eduardo Paes, para comunicar sua decisão de não mais concorrer ao cargo de vice-prefeito nas próximas eleições. </p>
 <!-- /wp:paragraph -->

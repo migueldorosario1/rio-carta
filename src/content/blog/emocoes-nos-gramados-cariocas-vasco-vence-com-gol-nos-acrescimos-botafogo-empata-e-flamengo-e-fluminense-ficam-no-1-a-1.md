@@ -7,8 +7,8 @@ slug: "emocoes-nos-gramados-cariocas-vasco-vence-com-gol-nos-acrescimos-botafogo
 tags:
   - 'rio-de-janeiro'
 wp_id: 1906
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Vasco vence o América-MG nos acréscimos com gol de Payet</strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "g20-social-lanca-consulta-publica-para-cupula-em-novembro-no-rio-de-janei
 wp_id: 5465
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A comissão organizadora do G20 Social abriu nesta terça-feira uma consulta pública para o texto-base da Cúpula Social que ocorrerá em novembro. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "superlotacao-favoreceu-fuga-em-degase-da-ilha"
 tags:
   - 'nacional'
 wp_id: 7559
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A rebelião no Cense Dom Bosco resultou na fuga de catorze adolescentes e colocou em evidência a sobrecarga estrutural de uma rede que já opera no limite</h3>
 <!-- /wp:heading -->

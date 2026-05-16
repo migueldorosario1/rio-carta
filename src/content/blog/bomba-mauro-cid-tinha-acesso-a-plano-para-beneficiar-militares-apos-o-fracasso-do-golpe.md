@@ -7,8 +7,8 @@ slug: "bomba-mauro-cid-tinha-acesso-a-plano-para-beneficiar-militares-apos-o-fra
 wp_id: 3337
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Mensagens interceptadas pela Polícia Federal apontam uma tentativa de conspiração entre Mauro Cid, ex-ajudante de ordens do ex-presidente Jair Bolsonaro, e Sérgio Cavaliere, ambos tenentes-coronéis, com o objetivo de interferir no resultado das eleições. </p>
 <!-- /wp:paragraph -->

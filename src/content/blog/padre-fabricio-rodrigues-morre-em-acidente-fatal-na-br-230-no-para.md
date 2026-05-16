@@ -7,8 +7,8 @@ slug: "padre-fabricio-rodrigues-morre-em-acidente-fatal-na-br-230-no-para"
 tags:
   - 'nacional'
 wp_id: 5220
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na última sexta-feira (13), o padre Fabrício Rodrigues faleceu em um acidente de trânsito na rodovia BR-230, próximo à vila 1° de Março, na zona rural de São João do Araguaia, sudeste do Pará. </p>
 <!-- /wp:paragraph -->

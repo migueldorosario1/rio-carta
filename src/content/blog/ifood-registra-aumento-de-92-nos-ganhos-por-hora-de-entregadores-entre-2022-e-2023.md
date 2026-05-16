@@ -7,8 +7,8 @@ slug: "ifood-registra-aumento-de-92-nos-ganhos-por-hora-de-entregadores-entre-20
 tags:
   - 'nacional'
 wp_id: 5331
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O iFood divulgou nesta quinta-feira (19) dados que mostram um aumento de 9,2% nos ganhos médios por hora dos entregadores cadastrados na modalidade nuvem entre 2022 e 2023.</p>
 <!-- /wp:paragraph -->

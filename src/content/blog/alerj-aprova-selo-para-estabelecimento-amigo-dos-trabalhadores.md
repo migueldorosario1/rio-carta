@@ -7,8 +7,8 @@ slug: "alerj-aprova-selo-para-estabelecimento-amigo-dos-trabalhadores"
 wp_id: 4658
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Iniciativa partiu da deputada estadual Dani Balbi (PCdoB), após sugestão feita pela ativista Rafaela Albergaria</strong></em></p>
 <!-- /wp:paragraph -->

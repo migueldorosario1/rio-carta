@@ -7,8 +7,8 @@ slug: "deficit-das-contas-externas-do-brasil-atinge-maior-nivel-desde-2019"
 tags:
   - 'nacional'
 wp_id: 4956
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Banco Central do Brasil divulgou nesta segunda-feira (26) que o déficit nas contas externas do país alcançou US$ 25,552 bilhões de janeiro a julho de 2024, marcando o maior nível desde 2019 para os sete primeiros meses do ano.</p>
 <!-- /wp:paragraph -->

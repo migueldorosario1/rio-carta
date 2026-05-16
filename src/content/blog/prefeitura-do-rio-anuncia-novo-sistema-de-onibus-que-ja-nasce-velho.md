@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-anuncia-novo-sistema-de-onibus-que-ja-nasce-velho"
 wp_id: 6997
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Nova frota será movida por diesel EURO VI, combustível que é mais sustentável do que o diesel normal, mas que não zera emissões como veículos elétricos</em></strong></p>
 <!-- /wp:paragraph -->

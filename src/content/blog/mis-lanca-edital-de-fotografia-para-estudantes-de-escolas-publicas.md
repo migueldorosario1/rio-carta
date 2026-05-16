@@ -7,8 +7,8 @@ slug: "mis-lanca-edital-de-fotografia-para-estudantes-de-escolas-publicas"
 wp_id: 6902
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Edital é mais um instrumento da Fototeca Estadual do Rio de Janeiro; espaço foi criado por lei de autoria da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

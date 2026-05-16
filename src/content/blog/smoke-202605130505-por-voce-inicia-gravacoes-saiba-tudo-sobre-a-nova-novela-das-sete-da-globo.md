@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:16Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-sul", "lagoa", "novela", "cultura", "cultura-e-carnaval-rj", "serrana", "regiao-metropolitana", "ramos", "anil", "mage", "petropolis", "campos", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605130505-por-voce-inicia-gravacoes-saiba-tudo-sobre-a-nova-novela-das-sete-da-globo.jpg"
+categoria_macro: lazer
 ---
 ‘Por Você’ inicia gravações; saiba tudo sobre a nova novela das sete da Globo
 

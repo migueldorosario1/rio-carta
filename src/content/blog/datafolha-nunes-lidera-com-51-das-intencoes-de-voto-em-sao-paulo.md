@@ -7,8 +7,8 @@ slug: "datafolha-nunes-lidera-com-51-das-intencoes-de-voto-em-sao-paulo"
 wp_id: 5722
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Uma pesquisa recente do Datafolha, publicada nesta quinta-feira (17), mostra que o prefeito de São Paulo, Ricardo Nunes (MDB), lidera as intenções de voto para o segundo turno das eleições municipais com 51%. Seu adversário, o deputado federal Guilherme Boulos (Psol), tem 33% das intenções de voto.</p>
 <!-- /wp:paragraph -->

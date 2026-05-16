@@ -7,8 +7,8 @@ slug: "fbi-confirma-que-suspeito-de-ataque-nos-eua-agiu-sozinho-e-que-apoia-o-es
 tags:
   - 'geopolitica'
 wp_id: 6310
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O FBI confirmou que um ex-militar do Exército dos Estados Unidos, que atropelou uma multidão durante as celebrações de Ano Novo em Nova Orleans, agiu sozinho e jurou lealdade ao Estado Islâmico antes do ataque que resultou na morte de pelo menos 14 pessoas. </p>
 <!-- /wp:paragraph -->

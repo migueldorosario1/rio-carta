@@ -8,8 +8,8 @@ wp_id: 6025
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em meio às presidências do G20 e do G7 por Brasil e Itália, respectivamente, o presidente brasileiro, Luiz Inácio Lula da Silva, e a primeira-ministra italiana, Giorgia Meloni, têm destacado a primazia dos interesses estruturais e complementares de ambos os países, apesar de suas divergências ideológicas.</p>
 <!-- /wp:paragraph -->

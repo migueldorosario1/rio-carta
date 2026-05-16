@@ -7,8 +7,8 @@ slug: "ex-almirante-da-marinha-que-apoiou-plano-golpista-de-bolsonaro-e-alvo-de-
 wp_id: 3080
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal realizou uma série de buscas e apreensões na quinta-feira, 8, como parte da Operação Tempus Veritatis, sob ordem do ministro do Supremo Tribunal Federal, Alexandre de Moraes.</p>
 <!-- /wp:paragraph -->

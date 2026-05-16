@@ -7,8 +7,8 @@ slug: "educacao-popular-vira-patrimonio-do-rio"
 wp_id: 7052
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading"><strong>Projeto de Lei da deputada Lilian Behring aprovado na Alerj reconhece o Pré-Vestibular Social do Sintuperj como patrimônio cultural do Estado</strong></h3>
 <!-- /wp:heading -->

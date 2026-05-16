@@ -7,8 +7,8 @@ slug: "erundina-critica-retorno-de-marta-suplicy-ao-pt-e-formacao-de-chapa-com-b
 wp_id: 3825
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Luiza Erundina, deputada pelo PSOL e cofundadora do PT, manifestou sua contrariedade à decisão do PT de reincorporar Marta Suplicy ao partido e nomeá-la vice na chapa de Guilherme Boulos para a prefeitura de São Paulo. </p>
 <!-- /wp:paragraph -->

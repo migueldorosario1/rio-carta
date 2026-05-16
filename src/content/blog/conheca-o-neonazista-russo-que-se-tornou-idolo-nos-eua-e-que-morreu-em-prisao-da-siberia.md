@@ -7,8 +7,8 @@ slug: "conheca-o-neonazista-russo-que-se-tornou-idolo-nos-eua-e-que-morreu-em-pr
 tags:
   - 'geopolitica'
 wp_id: 3265
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo da Rússia e autoridades penais da Sibéria anunciaram nesta sexta-feira, 16, o falecimento de Alexey Navalny, político russo detido desde 2021.</p>
 <!-- /wp:paragraph -->

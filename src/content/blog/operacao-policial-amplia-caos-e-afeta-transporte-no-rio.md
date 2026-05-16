@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Tiroteio na Cidade Alta interrompeu totalmente a Avenida Brasil por 15 minutos e provocou impactos imediatos no trânsito, no transporte público e na rotina de milhares de pessoas</h3>
 <!-- /wp:heading -->

@@ -7,8 +7,8 @@ slug: "gleisi-hoffmann-critica-netanyahu-por-explosoes-no-libano"
 tags:
   - 'geopolitica'
 wp_id: 5304
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira (18), Gleisi Hoffmann, presidente do PT, manifestou-se em sua conta no Bluesky sobre os recentes incidentes no Líbano. </p>
 <!-- /wp:paragraph -->

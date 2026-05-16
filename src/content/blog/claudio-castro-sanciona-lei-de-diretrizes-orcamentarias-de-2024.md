@@ -7,8 +7,8 @@ slug: "claudio-castro-sanciona-lei-de-diretrizes-orcamentarias-de-2024"
 wp_id: 847
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Texto prevê déficit para os próximos três anos.</em></strong></p>
 <!-- /wp:paragraph -->

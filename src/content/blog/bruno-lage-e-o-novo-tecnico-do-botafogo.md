@@ -7,8 +7,8 @@ slug: "bruno-lage-e-o-novo-tecnico-do-botafogo"
 tags:
   - 'botafogo'
 wp_id: 711
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em>Português cede às investidas de John Textor e assina contrato até o fim do ano</em></p>
 <!-- /wp:paragraph -->

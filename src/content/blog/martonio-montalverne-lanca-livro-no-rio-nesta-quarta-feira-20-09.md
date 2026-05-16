@@ -7,8 +7,8 @@ slug: "martonio-montalverne-lanca-livro-no-rio-nesta-quarta-feira-20-09"
 wp_id: 1387
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Obra do Prof. Dr. Martonio Mont’Alverne Barreto Lima analisa o protagonismo do Poder Judiciário em situações históricas de crise institucional e política</strong></em></p>
 <!-- /wp:paragraph -->

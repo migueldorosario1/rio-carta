@@ -7,8 +7,8 @@ slug: "policial-civil-reage-a-assalto-no-rio-e-surpreende-pelo-carro-de-luxo"
 wp_id: 2419
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um suspeito foi baleado na tarde desta sexta-feira após tentar assaltar um policial civil na Lagoa, Zona Sul do Rio de Janeiro. O incidente ocorreu próximo à Base do Lagoa Presente, enquanto o policial estava em seu Porsche GT, avaliado em quase R$ 1 milhão.</p>
 <!-- /wp:paragraph -->

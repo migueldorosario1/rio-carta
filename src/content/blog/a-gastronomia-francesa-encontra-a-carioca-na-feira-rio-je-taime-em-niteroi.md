@@ -7,8 +7,8 @@ slug: "a-gastronomia-francesa-encontra-a-carioca-na-feira-rio-je-taime-em-nitero
 wp_id: 1964
 tags:
   - 'niteroi'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>No próximo fim de semana, o Reserva Cultural, em Niterói, será palco da aguardada feira "Rio Je t’aime", que retorna ao Brasil após seis anos, promovendo um encontro entre chefs franceses e brasileiros renomados. O evento, que celebra a fusão da gastronomia franco-carioca, acontecerá no sábado e domingo, das 11h às 22h, com entrada gratuita.</em></strong></p>
 <!-- /wp:paragraph -->

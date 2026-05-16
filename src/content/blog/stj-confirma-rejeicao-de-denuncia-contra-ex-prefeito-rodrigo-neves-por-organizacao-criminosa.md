@@ -8,8 +8,8 @@ wp_id: 2141
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Superior Tribunal de Justiça (STJ) decidiu manter a rejeição da denúncia contra Rodrigo Neves, ex-prefeito de Niterói, acusado de integrar uma organização criminosa. A decisão do STJ veio após a negativa de um recurso apresentado pelo Ministério Público.</p>
 <!-- /wp:paragraph -->

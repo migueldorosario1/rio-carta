@@ -7,8 +7,8 @@ slug: "trf-mantem-suspensao-de-instalacao-de-tirolesa-no-pao-de-acucar"
 wp_id: 570
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Autorização para as obras havia sido dada pelo Iphan</em></p>
 <!-- /wp:paragraph -->

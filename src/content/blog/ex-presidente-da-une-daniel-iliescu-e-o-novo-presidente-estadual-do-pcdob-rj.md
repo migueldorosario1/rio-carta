@@ -8,8 +8,8 @@ wp_id: 2074
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Novo presidente foi eleito neste domingo (03/12) na 23a. Conferência Estadual do PCdoB-RJ</em></strong></p>
 <!-- /wp:paragraph -->

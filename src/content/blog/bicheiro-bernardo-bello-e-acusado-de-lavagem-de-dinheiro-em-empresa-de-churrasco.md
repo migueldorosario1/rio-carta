@@ -8,8 +8,8 @@ wp_id: 2123
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>As investigações da Polícia Civil e do Ministério Público do Rio de Janeiro (MPRJ) revelaram que a empresa de delivery de churrasco "Zé do Churrasco", que teve um crescimento explosivo durante a pandemia, era uma fachada para lavagem de dinheiro do jogo do bicho. O bicheiro Bernardo Bello é acusado de usar a empresa para dissimular lucros ilegais de jogos e cassinos clandestinos.</p>
 <!-- /wp:paragraph -->

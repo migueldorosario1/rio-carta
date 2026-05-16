@@ -8,8 +8,8 @@ wp_id: 4795
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em sabatina promovida pelo portal G1 nesta terça-feira, 6, o candidato do PL à prefeitura do Rio de Janeiro, Alexandre Ramagem, manifestou a intenção de descontinuar gradualmente o sistema de BRT na cidade. </p>
 <!-- /wp:paragraph -->

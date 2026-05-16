@@ -7,8 +7,8 @@ slug: "fgts-sera-corrigido-pelo-inflacao-anualmente-diz-ibge"
 tags:
   - 'nacional'
 wp_id: 4652
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os ministros do Supremo Tribunal Federal (STF) determinaram nesta quarta-feira que o saldo das contas do Fundo de Garantia por Tempo de Serviço (FGTS) será corrigido, a partir de agora, anualmente, pela inflação oficial do país, o Índice Nacional de Preços ao Consumidor Amplo (IPCA). </p>
 <!-- /wp:paragraph -->

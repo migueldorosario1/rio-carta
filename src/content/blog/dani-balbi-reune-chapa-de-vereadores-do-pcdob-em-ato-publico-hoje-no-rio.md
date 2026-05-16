@@ -8,8 +8,8 @@ wp_id: 4089
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Encontro acontecerá no lançamento do livro "Direito à cidade no Rio de Janeiro" nesta segunda-feira (08/04) no Corecon</strong></em></p>
 <!-- /wp:paragraph -->

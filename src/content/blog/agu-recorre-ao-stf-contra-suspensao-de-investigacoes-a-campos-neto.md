@@ -7,8 +7,8 @@ slug: "agu-recorre-ao-stf-contra-suspensao-de-investigacoes-a-campos-neto"
 tags:
   - 'nacional'
 wp_id: 5142
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Advocacia-Geral da União (AGU) apresentou recurso ao Supremo Tribunal Federal (STF) para reverter a decisão do ministro Dias Toffoli, que suspendeu três investigações da Comissão de Ética da Presidência contra o presidente do Banco Central, Roberto Campos Neto. </p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 1653
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Pré-candidatura do PCdoB foi aprovada hoje na Conferência Municipal do partido</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "tarifaco-nas-passagens-de-onibus-e-nos-taxis-comecou-a-valer-no-rio"
 wp_id: 6316
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Diário Oficial do Município do Rio de Janeiro publicou nesta quinta-feira, 2, um decreto que estabelece novas tarifas para os transportes municipais e táxis, com vigência a partir de janeiro de 2025. </p>
 <!-- /wp:paragraph -->

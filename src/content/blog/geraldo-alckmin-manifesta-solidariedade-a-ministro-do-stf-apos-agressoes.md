@@ -7,8 +7,8 @@ slug: "geraldo-alckmin-manifesta-solidariedade-a-ministro-do-stf-apos-agressoes"
 wp_id: 5372
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente em exercício, Geraldo Alckmin, expressou solidariedade ao ministro do Supremo Tribunal Federal, Alexandre de Moraes, após um incidente de agressão ocorrido no aeroporto internacional de Roma.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "cupula-militar-se-articula-para-garantir-impunidade-a-general-golpista"
 wp_id: 3563
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O general Marco Antônio Freire Gomes, anteriormente no comando do Exército Brasileiro, está sendo investigado por militares próximos a Jair Bolsonaro (PL) por sua possível omissão ou prevaricação em relação a um alegado golpe de Estado planejado para impedir a posse do presidente eleito Luiz Inácio Lula da Silva (PT). </p>
 <!-- /wp:paragraph -->

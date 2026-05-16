@@ -7,8 +7,8 @@ slug: "psd-supera-mdb-e-se-torna-o-partido-com-mais-prefeitos-no-brasil"
 wp_id: 4281
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O PSD, liderado por Gilberto Kassab, agora detém o maior número de prefeitos no país, superando o MDB. Esse avanço posiciona o partido como um forte concorrente para a corrida presidencial de 2026, com Ratinho entre os nomes considerados para a candidatura.</p>
 <!-- /wp:paragraph -->

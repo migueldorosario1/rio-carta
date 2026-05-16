@@ -7,8 +7,8 @@ slug: "bolsonaro-e-aliados-devem-jogar-a-bucha-do-golpe-no-colo-de-braga-netto"
 wp_id: 3394
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>No depoimento agendado para esta quinta-feira, 22, à Polícia Federal (PF), Jair Bolsonaro (PL) pretende manter-se em silêncio, conforme relatos da colunista Andréia Sadi, do <a href="https://g1.globo.com/politica/blog/andreia-sadi/post/2024/02/22/com-cerco-fechando-entorno-de-bolsonaro-empurra-para-braga-netto-mentoria-de-golpe.ghtml">G1</a>. </p>
 <!-- /wp:paragraph -->

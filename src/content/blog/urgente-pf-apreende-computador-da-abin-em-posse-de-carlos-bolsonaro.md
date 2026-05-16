@@ -7,8 +7,8 @@ slug: "urgente-pf-apreende-computador-da-abin-em-posse-de-carlos-bolsonaro"
 tags:
   - 'nacional'
 wp_id: 2613
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) realizou uma operação de busca e apreensão nesta segunda-feira (29), na qual apreendeu um computador pertencente à Agência Brasileira de Inteligência (Abin) com o vereador Carlos Bolsonaro (Republicanos-RJ). Filho do ex-presidente Jair Bolsonaro (PL), Carlos Bolsonaro é alvo de investigações que apuram o uso indevido de informações coletadas pela Abin.</p>
 <!-- /wp:paragraph -->

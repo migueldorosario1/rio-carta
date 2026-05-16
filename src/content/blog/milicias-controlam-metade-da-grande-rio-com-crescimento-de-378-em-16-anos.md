@@ -7,8 +7,8 @@ slug: "milicias-controlam-metade-da-grande-rio-com-crescimento-de-378-em-16-anos
 wp_id: 1670
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Áreas dominadas por milícias na região metropolitana do Rio de Janeiro cresceram 378% nos últimos 16 anos, representando atualmente 49,9% do território da Grande Rio, de acordo com dados da ONG Fogo Cruzado.</p>
 <!-- /wp:paragraph -->

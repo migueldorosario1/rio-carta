@@ -7,8 +7,8 @@ slug: "conflitos-e-desafios-da-pesca-artesanal-na-cidade-do-rio-de-janeiro"
 wp_id: 4755
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Por Edmir Amanajás Celestino</strong>, <strong>Alexandre Freitas e Roberto Monteiro</strong></p>
 <!-- /wp:paragraph -->

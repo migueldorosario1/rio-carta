@@ -7,8 +7,8 @@ slug: "sindicato-dos-comerciarios-do-rio-garante-aumento-real-a-categorias-saiba
 wp_id: 708
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>Presidente do sindicato viu negociação como vitória às classes</em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "resumo-da-rodada-clubes-cariocas-no-brasileirao"
 tags:
   - 'nacional'
 wp_id: 1044
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Brasileirão 2023 teve mais uma rodada emocionante para os clubes cariocas. Confira o resumo das partidas:</p>
 <!-- /wp:paragraph -->

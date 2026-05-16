@@ -7,8 +7,8 @@ slug: "lindbergh-farias-defende-lula-e-critica-neoliberalismo-em-debate"
 wp_id: 5788
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Durante um debate no Instituto Conhecimento Liberta (ICL), o deputado federal Lindbergh Farias (PT-RJ) reforçou sua visão do governo de Luiz Inácio Lula da Silva como comprometido com o desenvolvimento econômico e social, destacando um distanciamento das políticas neoliberais anteriores. </p>
 <!-- /wp:paragraph -->

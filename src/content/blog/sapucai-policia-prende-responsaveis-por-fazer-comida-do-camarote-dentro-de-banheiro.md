@@ -7,8 +7,8 @@ slug: "sapucai-policia-prende-responsaveis-por-fazer-comida-do-camarote-dentro-d
 tags:
   - 'cultura-carnaval'
 wp_id: 3163
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p>No domingo, 11 de fevereiro, uma operação conjunta do Ministério Público Estadual, Instituto Municipal de Vigilância Sanitária (Ivisa-Rio) e Polícia Civil resultou na prisão de duas pessoas associadas a um camarote na Sapucaí. </p>
 <!-- /wp:paragraph -->

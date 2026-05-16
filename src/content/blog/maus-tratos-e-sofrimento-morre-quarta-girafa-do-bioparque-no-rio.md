@@ -7,8 +7,8 @@ slug: "maus-tratos-e-sofrimento-morre-quarta-girafa-do-bioparque-no-rio"
 tags:
   - 'rio-capital-zona-oeste'
 wp_id: 725
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Controvérsia surge após série de mortes de animais no zoológico carioca</em></strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "nesta-quinta-6-tem-inicio-o-12a-festival-internacional-de-cinema-lgbtqia-
 tags:
   - 'cultura-carnaval'
 wp_id: 644
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em>Neste ano, mostra exibirá em cinco espaços culturais diferentes 80 produções audiovisuais</em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "justica-condena-empresas-por-nao-fazerem-acordo-de-feriados"
 tags:
   - 'nacional'
 wp_id: 7638
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":5} -->
 <h5 class="wp-block-heading">Sentença reconhece violação de direitos dos comerciários e aplica multas previstas na Convenção Coletiva de Trabalho</h5>
 <!-- /wp:heading -->

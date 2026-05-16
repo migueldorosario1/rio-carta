@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O Governo do Estado do Rio de Janeiro, por meio da Secretaria de Estado de Transporte e Mobilidade Urbana (Setram), está avançando com planos para expandir o sistema metroviário na região. Para isso, marcou uma licitação que ocorrerá no dia 19 de dezembro com o objetivo de contratar uma empresa que elaborará estudos abrangentes sobre essa expansão. A iniciativa busca abordar aspectos técnicos, jurídicos, econômicos e ambientais relacionados à implementação das seguintes rotas de metrô: Praça XV- Araribóia-Alcântara e Jardim Oceânico-Alvorada- Recreio dos Bandeirantes, conforme proposto no Plano Diretor Metroviário (PDM).</strong></em></p>
 <!-- /wp:paragraph -->

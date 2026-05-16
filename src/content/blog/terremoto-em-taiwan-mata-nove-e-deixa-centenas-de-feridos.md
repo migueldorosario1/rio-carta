@@ -7,8 +7,8 @@ slug: "terremoto-em-taiwan-mata-nove-e-deixa-centenas-de-feridos"
 tags:
   - 'geopolitica'
 wp_id: 4042
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Um forte terremoto de magnitude 7,2 atingiu Taiwan nesta quarta-feira, sendo registrado como o maior tremor na região em pelo menos 25 anos. O desastre deixou nove mortos e mais de 800 feridos, com 50 pessoas desaparecidas enquanto se dirigiam a um parque nacional.</p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 3976
 tags:
   - 'niteroi'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na última segunda-feira, 25, ocorreu o lançamento do "Manifesto em Defesa das Indústrias Naval e de Petróleo e Gás do Estado do Rio de Janeiro". </p>
 <!-- /wp:paragraph -->

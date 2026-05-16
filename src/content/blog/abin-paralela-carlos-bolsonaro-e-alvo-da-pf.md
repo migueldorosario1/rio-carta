@@ -7,8 +7,8 @@ slug: "abin-paralela-carlos-bolsonaro-e-alvo-da-pf"
 wp_id: 2594
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal (PF) lançou uma operação nesta segunda-feira (29) para apurar as atividades da Agência Brasileira de Inteligência (Abin) durante o período do governo de Jair Bolsonaro.</p>
 <!-- /wp:paragraph -->

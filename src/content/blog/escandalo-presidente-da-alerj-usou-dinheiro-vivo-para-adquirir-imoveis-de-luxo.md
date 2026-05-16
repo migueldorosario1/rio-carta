@@ -10,8 +10,8 @@ tags:
   - 'campos'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O cenário político do Rio de Janeiro mais uma vez se vê envolto em polêmicas e reviravoltas, dessa vez com o atual presidente da Assembleia Legislativa do Estado (Alerj), Rodrigo Bacellar, no centro das atenções. A revelação de que Bacellar usufrui de uma cobertura no bairro de Botafogo, zona sul do Rio, e de uma suntuosa mansão em Teresópolis, na Região Serrana, ambas adquiridas recentemente por R$ 5,1 milhões, levanta questionamentos sobre a origem dos recursos e as conexões políticas que podem estar por trás dessas aquisições.</p>
 <!-- /wp:paragraph -->

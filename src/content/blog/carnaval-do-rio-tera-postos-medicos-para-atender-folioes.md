@@ -7,8 +7,8 @@ slug: "carnaval-do-rio-tera-postos-medicos-para-atender-folioes"
 wp_id: 2477
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Secretaria Municipal de Saúde do Rio de Janeiro (SMS) anunciou um esquema especial de atendimento médico durante o carnaval de rua da cidade. Quatro unidades médicas serão instaladas nas áreas de maior concentração de foliões, nos bairros do Centro, Copacabana e Ipanema, visando oferecer suporte aos participantes de 47 blocos carnavalescos.</p>
 <!-- /wp:paragraph -->

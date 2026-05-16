@@ -10,8 +10,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading"><em>Com crescimento urbano acelerado, cidade aposta na modernização da segurança, incluindo armamento da Guarda, câmeras corporais e treinamentos rigorosos</em></h3>
 <!-- /wp:heading -->

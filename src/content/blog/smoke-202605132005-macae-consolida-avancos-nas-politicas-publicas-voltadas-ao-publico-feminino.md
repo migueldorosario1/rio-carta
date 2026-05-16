@@ -5,6 +5,7 @@ pubDate: "2026-05-13T23:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "norte-noroeste-fluminense", "politicas-publicas", "mulheres", "vereadora-mayara-rezende", "macae-norte-fluminense", "penha", "norte-fluminense", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605132005-macae-consolida-avancos-nas-politicas-publicas-voltadas-ao-publico-feminino.jpg"
+categoria_macro: politica
 ---
 A vereadora Mayara Rezende tem se destacado na defesa dos direitos das mulheres, promovendo debates e apoiando projetos voltados ao acolhimento
 

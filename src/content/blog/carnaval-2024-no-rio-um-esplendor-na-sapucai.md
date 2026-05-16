@@ -7,8 +7,8 @@ slug: "carnaval-2024-no-rio-um-esplendor-na-sapucai"
 wp_id: 2284
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Com o Carnaval 2024 se aproximando, a expectativa em torno dos grandiosos desfiles na Marquês de Sapucaí, no Rio de Janeiro, cresce a cada dia. As festividades começam no dia 9 de fevereiro, com as escolas da Série Ouro, e alcançam seu ápice nos dias 11 e 12 de fevereiro, com as espetaculares apresentações das agremiações do Grupo Especial.</p>
 <!-- /wp:paragraph -->

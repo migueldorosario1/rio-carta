@@ -7,8 +7,8 @@ slug: "rio-de-janeiro-abre-mais-de-11-mil-empresas-e-gera-massa-salarial-de-r-2-
 wp_id: 1857
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nos últimos dois anos e meio, a cidade do Rio de Janeiro testemunhou a abertura de mais de 1.120 empresas, conforme revelado por cálculos realizados pela Secretaria Municipal de Desenvolvimento Urbano e Econômico (SMDUE) em colaboração com a Invest.Rio, a agência de atração e promoção de investimentos da Prefeitura do Rio.</p>
 <!-- /wp:paragraph -->

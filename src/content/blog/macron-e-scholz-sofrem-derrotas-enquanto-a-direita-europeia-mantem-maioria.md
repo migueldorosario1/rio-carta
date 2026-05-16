@@ -7,8 +7,8 @@ slug: "macron-e-scholz-sofrem-derrotas-enquanto-a-direita-europeia-mantem-maiori
 wp_id: 4600
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Nas eleições para o Parlamento Europeu realizadas no domingo, 9, os partidos de direita tradicional europeia, os de centro, liberais e social-democratas conseguiram manter uma maioria de 720 assentos. </p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T10:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "cultura-carnaval", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "saude"]
 heroImage: "/hero/smoke-smoke-202605150705-rio-recebe-conferencia-internacional-sobre-expansao-da-musica-latina.webp"
+categoria_macro: lazer
 ---
 Rio recebe conferência internacional sobre expansão da música latina
 

@@ -7,8 +7,8 @@ slug: "confira-a-previsao-do-tempo-para-os-proximos-dias-no-rio"
 wp_id: 4823
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A partir desta quarta-feira, o frio começa a diminuir no Rio de Janeiro, com uma previsão de céu claro e poucas nuvens, alcançando uma máxima de 26 graus. O aviso de ressaca emitido pela Marinha do Brasil, que previa ondas de até 4 metros, termina hoje às 21h. A partir de quinta-feira, espera-se uma elevação nas temperaturas, que podem atingir os 31 graus no sábado.</p>
 <!-- /wp:paragraph -->

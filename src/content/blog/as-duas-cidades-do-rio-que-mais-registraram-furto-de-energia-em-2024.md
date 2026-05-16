@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'angra-dos-reis'
   - 'cabo-frio'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em 2024, Magé e São Gonçalo foram as cidades com os maiores índices de furto de energia na área de concessão da Enel Rio, de acordo com um levantamento da empresa. Entre janeiro e novembro, estes municípios apresentaram perdas de 39,3% e 39,2%, respectivamente, devido principalmente a ligações ilegais.</p>
 <!-- /wp:paragraph -->

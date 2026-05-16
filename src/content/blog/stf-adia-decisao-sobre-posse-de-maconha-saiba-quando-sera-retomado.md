@@ -7,8 +7,8 @@ slug: "stf-adia-decisao-sobre-posse-de-maconha-saiba-quando-sera-retomado"
 wp_id: 3722
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Supremo Tribunal Federal (STF) postergou a decisão final sobre a definição da quantidade de cannabis que um usuário pode portar para 2025. Esse adiamento ocorre após o ministro Dias Toffoli solicitar mais tempo para análise, refletindo a preocupação entre os ministros sobre as possíveis implicações políticas do veredicto.</p>
 <!-- /wp:paragraph -->

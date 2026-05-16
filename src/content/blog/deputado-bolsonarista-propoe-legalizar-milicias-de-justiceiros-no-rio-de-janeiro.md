@@ -7,8 +7,8 @@ slug: "deputado-bolsonarista-propoe-legalizar-milicias-de-justiceiros-no-rio-de-
 wp_id: 2093
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Na data de hoje, foi publicada uma proposta no Diário Oficial do Estado do Rio de Janeiro que tem gerado preocupações entre os observadores da política e da segurança pública. O projeto, de autoria do deputado bolsonarista Anderson Moraes, visa instituir o "Programa Guardião da Segurança Pública no Estado do Rio", um programa que levanta sérias questões sobre a legalização de milícias formadas por "cidadãos praticantes de artes marciais ou ex-agentes de segurança pública ou privada".</p>
 <!-- /wp:paragraph -->

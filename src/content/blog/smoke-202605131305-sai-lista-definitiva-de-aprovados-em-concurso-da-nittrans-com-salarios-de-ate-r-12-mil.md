@@ -5,6 +5,7 @@ pubDate: "2026-05-13T16:05:51Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "concurso-publico", "nitrans", "transporte", "transito", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605131305-sai-lista-definitiva-de-aprovados-em-concurso-da-nittrans-com-salarios-de-ate-r-12-mil.jpg"
+categoria_macro: geral
 ---
 A espera acabou! A Niterói Transporte e Trânsito (NitTrans) validou oficialmente o resultado final do concurso público de 2025 e publicou nesta quarta-feira (13) em Diário Oficial a lista definitiva dos aprovados para cargos de níveis médio, técnico e superior.
 

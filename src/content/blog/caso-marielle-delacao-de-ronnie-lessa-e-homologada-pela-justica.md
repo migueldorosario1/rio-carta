@@ -7,8 +7,8 @@ slug: "caso-marielle-delacao-de-ronnie-lessa-e-homologada-pela-justica"
 wp_id: 3872
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A investigação sobre o assassinato de Marielle Franco ganhou novos contornos com delações recentes à Polícia Federal. Em um acordo de delação, o ex-policial militar Élcio Queiroz confirmou sua participação no crime e identificou Ronnie Lessa, policial reformado, como o executor.</p>
 <!-- /wp:paragraph -->

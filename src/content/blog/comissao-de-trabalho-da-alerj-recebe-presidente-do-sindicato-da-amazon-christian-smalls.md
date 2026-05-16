@@ -7,8 +7,8 @@ slug: "comissao-de-trabalho-da-alerj-recebe-presidente-do-sindicato-da-amazon-ch
 wp_id: 5963
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Na reunião, o presidente do Sindicato da Amazon, Christian Smalls, falou sobre a semelhança dos problemas enfrentados pela categoria no Brasil e Estados Unidos.</strong></em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "urgente-bolsonaro-anuncia-seu-candidato-para-enfrentar-lula-em-2026"
 wp_id: 3387
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma entrevista ao <strong>Blog do Esmael</strong> ontem, 21 de fevereiro, o ex-presidente Jair Bolsonaro (PL) revelou que o governador de São Paulo, Tarcísio de Freitas (Republicanos), será o candidato de seu grupo político nas eleições de 2026, enfrentando o atual presidente Luiz Inácio Lula da Silva (PT). </p>
 <!-- /wp:paragraph -->

@@ -5,6 +5,7 @@ pubDate: "2026-05-15T03:02:00Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "saude", "mortalidade-materna", "mortalidade-infantil", "politica-estadual", "politica-rj", "sul-fluminense", "regiao-metropolitana", "leme", "angra"]
 heroImage: "/hero/smoke-smoke-202605150001-alerj-aprova-politica-estadual-para-prevencao-da-mortalidade-materna-e-infantil.jpeg"
+categoria_macro: politica
 ---
 Angra – A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou, nesta quarta-feira (13), o Projeto de Lei que cria a Política Estadual de Saúde Materno-Juvenil, integrada à Política Estadual pela Primeira Infância. A proposta é de autoria da deputada estadual Célia Jordão e busca garantir atenção integral à saúde de gestantes, puérperas, crianças e adolescentes.
 

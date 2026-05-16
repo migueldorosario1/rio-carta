@@ -7,8 +7,8 @@ slug: "debate-em-laranjeiras-discute-a-questao-da-palestina-na-proxima-quarta-fe
 wp_id: 7144
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O debate acontece na Praça São Salvador. A iniciativa é do movimento Esquerda da Praça</strong></em></p>
 <!-- /wp:paragraph -->

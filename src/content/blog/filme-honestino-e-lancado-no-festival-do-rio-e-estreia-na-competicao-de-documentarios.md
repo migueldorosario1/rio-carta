@@ -7,8 +7,8 @@ slug: "filme-honestino-e-lancado-no-festival-do-rio-e-estreia-na-competicao-de-d
 tags:
   - 'cultura-carnaval'
 wp_id: 7210
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Dani Balbi, Jandira Feghali e Lindbergh Farias prestigiaram o lançamento da obra dirigida por Aurélio Michiles</strong></em></p>
 <!-- /wp:paragraph -->

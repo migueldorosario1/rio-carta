@@ -7,8 +7,8 @@ slug: "exposicao-sobre-antigo-predio-do-dops-e-prorrogada-ate-16-02"
 wp_id: 6558
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A Mostra “Rua da Relação, 40: Testemunho material da violência de Estado” está em cartaz no Museu da República</em></strong></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 7427
 tags:
   - 'angra-dos-reis'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A partir de 2026, turistas pagarão tarifa ambiental para acessar Angra dos Reis e a Ilha Grande, medida que busca frear impactos crescentes sobre fauna e flora</h3>
 <!-- /wp:heading -->

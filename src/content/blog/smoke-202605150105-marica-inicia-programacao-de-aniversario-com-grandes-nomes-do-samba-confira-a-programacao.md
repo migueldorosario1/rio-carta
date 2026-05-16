@@ -5,6 +5,7 @@ pubDate: "2026-05-15T04:06:03Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "cultura-carnaval", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605150105-marica-inicia-programacao-de-aniversario-com-grandes-nomes-do-samba-confira-a-programacao.jpg"
+categoria_macro: politica
 ---
 Maricá inicia programação de aniversário com grandes nomes do samba; Confira a programação!
 

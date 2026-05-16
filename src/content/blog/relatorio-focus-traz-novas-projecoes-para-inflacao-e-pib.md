@@ -7,8 +7,8 @@ slug: "relatorio-focus-traz-novas-projecoes-para-inflacao-e-pib"
 tags:
   - 'nacional'
 wp_id: 5714
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Banco Central divulgou nesta segunda-feira, 7, os mais recentes dados do Relatório Focus, revelando ajustes nas expectativas dos analistas para indicadores chave da economia brasileira para os próximos anos.</p>
 <!-- /wp:paragraph -->

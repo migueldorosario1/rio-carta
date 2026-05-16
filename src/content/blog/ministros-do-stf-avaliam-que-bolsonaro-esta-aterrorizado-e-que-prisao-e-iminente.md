@@ -7,8 +7,8 @@ slug: "ministros-do-stf-avaliam-que-bolsonaro-esta-aterrorizado-e-que-prisao-e-i
 wp_id: 3479
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na noite de domingo, 25, ministros do Supremo Tribunal Federal (STF) se reuniram para discutir as implicações do discurso realizado por Jair Bolsonaro na Avenida Paulista, em São Paulo. </p>
 <!-- /wp:paragraph -->

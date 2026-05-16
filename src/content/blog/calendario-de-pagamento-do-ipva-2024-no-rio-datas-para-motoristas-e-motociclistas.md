@@ -7,8 +7,8 @@ slug: "calendario-de-pagamento-do-ipva-2024-no-rio-datas-para-motoristas-e-motoc
 wp_id: 2167
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Proprietários de veículos no Estado do Rio de Janeiro já podem se preparar para o pagamento do Imposto sobre a Propriedade de Veículos Automotores (IPVA) de 2024. A Secretaria estadual de Fazenda (Sefaz) divulgou as datas de vencimento do imposto, baseadas no final da placa dos veículos, facilitando a organização financeira dos motoristas e motociclistas.</p>
 <!-- /wp:paragraph -->

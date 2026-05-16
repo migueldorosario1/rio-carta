@@ -7,8 +7,8 @@ slug: "esposa-de-daniel-alves-ataca-feministas-apos-a-condenacao-do-marido-por-e
 tags:
   - 'nacional'
 wp_id: 3442
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Joana Sanz, esposa de Daniel Alves, quebrou o silêncio sobre a condenação do ex-jogador a 4 anos e 6 meses de prisão por estupro, conforme decisão judicial espanhola. </p>
 <!-- /wp:paragraph -->

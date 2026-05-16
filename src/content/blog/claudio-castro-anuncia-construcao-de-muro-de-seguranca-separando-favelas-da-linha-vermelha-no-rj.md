@@ -8,8 +8,8 @@ wp_id: 1090
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Nas redes sociais, moradores da Maré protestam argumentando que o muro representa o "apartheid carioca"</em></strong></p>
 <!-- /wp:paragraph -->

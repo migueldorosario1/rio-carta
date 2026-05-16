@@ -7,8 +7,8 @@ slug: "reuniao-estrategica-discute-futuro-da-energia-nuclear-no-rio-de-janeiro"
 wp_id: 2936
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em encontro realizado na última terça-feira, 30, representantes da Eletronuclear e da Empresa Brasileira de Participações em Energia Nuclear e Binacional (ENBpar) reuniram-se com autoridades da Secretaria de Energia e Economia do Mar do Estado do Rio de Janeiro para debater projetos estratégicos para o setor nuclear.</p>
 <!-- /wp:paragraph -->

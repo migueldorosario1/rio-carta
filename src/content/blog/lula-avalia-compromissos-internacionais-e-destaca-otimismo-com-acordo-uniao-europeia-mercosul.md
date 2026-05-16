@@ -7,8 +7,8 @@ slug: "lula-avalia-compromissos-internacionais-e-destaca-otimismo-com-acordo-uni
 wp_id: 5478
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta quarta-feira (25), o presidente Luiz Inácio Lula da Silva fez um balanço de sua visita oficial aos Estados Unidos, que incluiu a participação na 79ª Sessão da Assembleia Geral da ONU e reuniões bilaterais com líderes mundiais.</p>
 <!-- /wp:paragraph -->

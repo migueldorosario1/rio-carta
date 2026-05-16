@@ -7,8 +7,8 @@ slug: "prefeitura-do-rio-notifica-parque-bondinho-sobre-uso-de-imagens-do-pao-de
 wp_id: 2151
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Prefeitura do Rio de Janeiro emitiu uma notificação à empresa Parque Bondinho em meio à controvérsia sobre os direitos autorais de imagens do Pão de Açúcar. O documento de três páginas, divulgado nesta quarta-feira, esclarece que a concessão das montanhas para exploração turística não inclui o direito exclusivo de uso das imagens.</p>
 <!-- /wp:paragraph -->

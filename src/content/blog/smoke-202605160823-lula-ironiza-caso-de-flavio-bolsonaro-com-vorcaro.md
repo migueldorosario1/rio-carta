@@ -5,6 +5,7 @@ pubDate: "2026-05-16T08:23:51Z"
 draft: false
 tags: ["rio-de-janeiro", "politica", "flavio-bolsonaro", "vorcaro", "politica-rj", "capital", "seguranca-publica", "saude"]
 heroImage: "/hero/smoke-smoke-202605160823-lula-ironiza-caso-de-flavio-bolsonaro-com-vorcaro.webp"
+categoria_macro: politica
 ---
 O presidente Luiz Inácio Lula da Silva transformou uma agenda de saúde pública em Barretos em palco de provocação política. Durante visita ao Hospital de Amor, nesta sexta-feira (15), Lula fez referência direta ao escândalo envolvendo o banqueiro Daniel Vorcaro, investigado pela Polícia Federal.
 

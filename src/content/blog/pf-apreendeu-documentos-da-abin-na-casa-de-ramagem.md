@@ -7,8 +7,8 @@ slug: "pf-apreendeu-documentos-da-abin-na-casa-de-ramagem"
 wp_id: 3041
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma operação de busca e apreensão realizada em 25 de janeiro, a Polícia Federal encontrou documentos relacionados a uma ação da Agência Brasileira de Inteligência (Abin) na casa do deputado federal Alexandre Ramagem (PL-RJ), que anteriormente atuou como diretor da Abin durante o governo Jair Bolsonaro (PL). </p>
 <!-- /wp:paragraph -->

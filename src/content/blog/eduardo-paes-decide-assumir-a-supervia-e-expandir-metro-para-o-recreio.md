@@ -7,8 +7,8 @@ slug: "eduardo-paes-decide-assumir-a-supervia-e-expandir-metro-para-o-recreio"
 wp_id: 6799
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Prefeitura propõe metrô para Jacarepaguá, Recreio e Zona Norte, além de bilhete único e controle municipal da SuperVia para mudar a mobilidade no Rio</h3>
 <!-- /wp:heading -->

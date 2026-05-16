@@ -7,8 +7,8 @@ slug: "ibovespa-registra-queda-pelo-quinto-dia-consecutivo"
 tags:
   - 'nacional'
 wp_id: 5400
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ibovespa, principal índice do mercado acionário brasileiro, encerrou em baixa nesta segunda-feira, marcando seu quinto dia consecutivo de declínio. </p>
 <!-- /wp:paragraph -->

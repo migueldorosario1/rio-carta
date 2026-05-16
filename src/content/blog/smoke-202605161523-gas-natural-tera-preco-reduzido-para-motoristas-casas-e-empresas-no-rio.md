@@ -5,6 +5,7 @@ pubDate: "2026-05-16T15:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "economia", "energia", "economia-local", "capital-estado", "regiao-metropolitana", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605161523-gas-natural-tera-preco-reduzido-para-motoristas-casas-e-empresas-no-rio.jpg"
+categoria_macro: politica
 ---
 Rio
 

@@ -5,6 +5,7 @@ pubDate: "2026-05-16T15:25:30Z"
 draft: false
 tags: ["rio-de-janeiro", "cardoso-moreira", "seguranca-publica", "norte-noroeste-fluminense", "regiao-metropolitana", "jacare", "jacarepagua", "noroeste-fluminense", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605161523-policia-civil-prende-acusado-de-atropelar-e-matar-mulher-em-praca-de-cardoso-moreira.jpg"
+categoria_macro: seguranca
 ---
 A Polícia Civil de Italva, com apoio da Delegacia de Repressão aos Crimes de Informática, prendeu o motorista acusado de atropelar e matar uma mulher em uma praça de Cardoso Moreira. O acidente havia acontecido no dia 18 de abril.
 

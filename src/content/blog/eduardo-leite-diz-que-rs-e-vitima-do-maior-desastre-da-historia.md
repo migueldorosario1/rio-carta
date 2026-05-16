@@ -7,8 +7,8 @@ slug: "eduardo-leite-diz-que-rs-e-vitima-do-maior-desastre-da-historia"
 wp_id: 4379
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O governador do Rio Grande do Sul, Eduardo Leite, anunciou nesta quarta-feira que os recentes temporais que assolam o estado configuram o maior desastre histórico em termos de prejuízos materiais. "Este será o maior desastre que nosso estado já enfrentou", afirmou Leite em coletiva de imprensa.</p>
 <!-- /wp:paragraph -->

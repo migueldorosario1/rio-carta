@@ -7,8 +7,8 @@ slug: "brasil-fecha-2024-com-deficit-primario-de-01-do-pib-abaixo-das-previsoes-
 wp_id: 6358
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro da Fazenda, Fernando Haddad, anunciou nesta terça-feira (7) que o déficit primário do Brasil para o ano de 2024 foi de apenas 0,1% do Produto Interno Bruto (PIB), valor significativamente abaixo do previsto anteriormente, que era de R$ 28,7 bilhões. </p>
 <!-- /wp:paragraph -->

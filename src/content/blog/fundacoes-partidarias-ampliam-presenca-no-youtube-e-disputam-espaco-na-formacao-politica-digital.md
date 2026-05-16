@@ -7,8 +7,8 @@ slug: "fundacoes-partidarias-ampliam-presenca-no-youtube-e-disputam-espaco-na-fo
 wp_id: 7006
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Fundação Maurício Grabois, do PCdoB, é a que possui maior influência nas redes sociais</strong></em></p>
 <!-- /wp:paragraph -->

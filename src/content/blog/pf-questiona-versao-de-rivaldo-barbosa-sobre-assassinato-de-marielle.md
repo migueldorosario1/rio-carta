@@ -7,8 +7,8 @@ slug: "pf-questiona-versao-de-rivaldo-barbosa-sobre-assassinato-de-marielle"
 wp_id: 4615
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Policiais federais expressaram dúvidas em relação à versão apresentada pela defesa de Rivaldo Barbosa, ex-chefe da Polícia Civil do Rio de Janeiro, que alegou ter conduzido uma "investigação detalhada" sobre os irmãos Domingos e Chiquinho Brazão, enquanto alegam que tais informações foram negligenciadas. </p>
 <!-- /wp:paragraph -->

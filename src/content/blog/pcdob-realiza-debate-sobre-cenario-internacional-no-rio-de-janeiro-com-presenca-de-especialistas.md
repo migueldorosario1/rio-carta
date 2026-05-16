@@ -7,8 +7,8 @@ slug: "pcdob-realiza-debate-sobre-cenario-internacional-no-rio-de-janeiro-com-pr
 wp_id: 7028
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Evento será realizado na segunda-feira (04/08) das 18h às 21h no auditório da</strong> <strong>Sociedade dos Engenheiros e Arquitetos do Estado do Rio de Janeiro (SEAERJ)</strong></em></p>
 <!-- /wp:paragraph -->

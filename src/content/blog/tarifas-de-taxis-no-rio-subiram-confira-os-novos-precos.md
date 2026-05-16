@@ -7,8 +7,8 @@ slug: "tarifas-de-taxis-no-rio-subiram-confira-os-novos-precos"
 wp_id: 2240
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os táxis do Rio de Janeiro começam a semana com novidades no bolso dos passageiros: um reajuste tarifário já em vigor nesta segunda-feira. Publicado no Diário Oficial na última quinta-feira (28), o aumento autorizado pela Prefeitura do Rio ajusta a bandeirada dos táxis comuns de R$ 6 para R$ 6,10. Mas não é só isso. Os novos valores trazem mudanças também nas tarifas quilométricas.</p>
 <!-- /wp:paragraph -->

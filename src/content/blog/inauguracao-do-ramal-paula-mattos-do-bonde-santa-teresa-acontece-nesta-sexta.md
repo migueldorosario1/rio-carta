@@ -7,8 +7,8 @@ slug: "inauguracao-do-ramal-paula-mattos-do-bonde-santa-teresa-acontece-nesta-se
 tags:
   - 'santa-teresa'
 wp_id: 6397
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Deputada Dani Balbi (PCdoB) diz que pressão continua para ampliar o horário e baratear os preços do Bonde.</strong></em></p>
 <!-- /wp:paragraph -->

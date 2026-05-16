@@ -8,8 +8,8 @@ wp_id: 7169
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Iniciativa é da deputada estadual Dani Balbi (PCdoB); ideia é valorizar a obra do compositor carioca</em></strong></p>
 <!-- /wp:paragraph -->

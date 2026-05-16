@@ -7,8 +7,8 @@ slug: "16a-rodada-do-brasileirao-botafogo-lidera-e-vasco-esta-na-ultima-colocaca
 tags:
   - 'nacional'
 wp_id: 884
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Desfalcado e perdendo por 2 a 0 até os 39 minutos do segundo tempo, o Botafogo arrancou neste domingo (23/07) um empate com o Santos em 2 a 2 no fim, quase virou e comprovou sua força de líder isolado do Campeonato Brasileiro. O Glorioso mostrou poder de recuperação e chegou aos 40 pontos, ficando 11 à frente do vice-líder Grêmio, que tem um jogo a menos.</p>
 <!-- /wp:paragraph -->

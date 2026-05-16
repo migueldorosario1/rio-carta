@@ -7,8 +7,8 @@ slug: "governo-brasileiro-registra-recorde-de-empregos-formais-anuncia-ministro-
 tags:
   - 'nacional'
 wp_id: 5928
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministro da Secretaria de Comunicação Social (Secom) da Presidência da República, Paulo Pimenta, divulgou nesta quarta-feira (30) estatísticas atualizadas sobre o mercado de trabalho no Brasil, destacando um crescimento significativo no número de empregos formais. </p>
 <!-- /wp:paragraph -->

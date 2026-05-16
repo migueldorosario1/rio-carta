@@ -7,8 +7,8 @@ slug: "irregularidades-no-rioprevidencia-travam-verbas-federais"
 wp_id: 7415
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A perda do CRP após falhas no Rioprevidência impede o Rio de receber verbas federais e evidencia a complexidade fiscal de um estado já pressionado pela crise</h3>
 <!-- /wp:heading -->

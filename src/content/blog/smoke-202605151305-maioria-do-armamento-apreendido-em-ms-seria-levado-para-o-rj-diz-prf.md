@@ -5,6 +5,7 @@ pubDate: "2026-05-15T16:08:50Z"
 draft: true
 tags: ["rio-de-janeiro", "seguranca-publica", "armamento", "prf", "capital-estado", "regiao-metropolitana", "lagoa", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605151305-maioria-do-armamento-apreendido-em-ms-seria-levado-para-o-rj-diz-prf-qwen.jpg"
+categoria_macro: seguranca
 ---
 A maioria das armas e munições apreendidas em rodovias de Mato Grosso do Sul tinham como destino o Rio de Janeiro. É o que afirma a Polícia Rodoviária Federal (PRF) no estado que fica na região de fronteira com o Paraguai e com a Bolívia.
 

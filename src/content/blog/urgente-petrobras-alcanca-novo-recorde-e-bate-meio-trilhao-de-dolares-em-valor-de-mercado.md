@@ -7,8 +7,8 @@ slug: "urgente-petrobras-alcanca-novo-recorde-e-bate-meio-trilhao-de-dolares-em-
 tags:
   - 'nacional'
 wp_id: 3284
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Nesta sexta-feira, 16, a Petrobras atingiu um marco histórico ao registrar um valor de mercado de R$569 bilhões ao final do pregão na B3, a Bolsa de Valores de São Paulo. Este feito marca a nona vez desde outubro do ano passado que a companhia estabelece um novo recorde.</p>
 <!-- /wp:paragraph -->

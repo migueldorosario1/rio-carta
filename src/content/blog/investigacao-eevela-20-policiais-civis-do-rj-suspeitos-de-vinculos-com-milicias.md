@@ -7,8 +7,8 @@ slug: "investigacao-eevela-20-policiais-civis-do-rj-suspeitos-de-vinculos-com-mi
 wp_id: 2247
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Pelo menos 20 membros da Polícia Civil do Rio de Janeiro estão sob investigação da Corregedoria da corporação por suposto envolvimento com milícias, de acordo com dados obtidos por meio da Lei de Acesso à Informação. Essas investigações foram iniciadas a partir de 2021, levantando preocupações sobre a conduta policial no estado.</p>
 <!-- /wp:paragraph -->

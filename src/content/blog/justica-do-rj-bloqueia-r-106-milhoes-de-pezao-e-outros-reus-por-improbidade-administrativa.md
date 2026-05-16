@@ -7,8 +7,8 @@ slug: "justica-do-rj-bloqueia-r-106-milhoes-de-pezao-e-outros-reus-por-improbida
 wp_id: 2101
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Justiça do Rio de Janeiro decidiu bloquear bens no valor de R$ 106 milhões do ex-governador Luiz Fernando Pezão e de dois outros réus, em um caso de improbidade administrativa. O bloqueio é uma resposta às acusações de que o ex-governador e os réus associados causaram um prejuízo superior a R$ 912 milhões ao Rioprevidência, o Fundo Único de Previdência Social do Estado do Rio de Janeiro.</p>
 <!-- /wp:paragraph -->

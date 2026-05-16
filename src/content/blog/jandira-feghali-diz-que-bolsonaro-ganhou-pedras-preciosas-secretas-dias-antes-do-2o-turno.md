@@ -7,8 +7,8 @@ slug: "jandira-feghali-diz-que-bolsonaro-ganhou-pedras-preciosas-secretas-dias-a
 wp_id: 1003
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Deputada, que é membro da CPMI do Golpe, disse que o 'presente' consta em um relatório da Abin, obtido em interceptação de e-mails</em></strong></p>
 <!-- /wp:paragraph -->

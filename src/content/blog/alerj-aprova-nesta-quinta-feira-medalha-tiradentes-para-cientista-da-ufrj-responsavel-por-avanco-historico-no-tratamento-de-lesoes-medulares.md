@@ -7,8 +7,8 @@ slug: "alerj-aprova-nesta-quinta-feira-medalha-tiradentes-para-cientista-da-ufrj
 wp_id: 7621
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Tatiana Lobo Coelho de Sampaio é Chefe do Laboratório de Biologia da Matriz Extracelular do Instituto de Ciências Biomédicas da Universidade Federal do Rio de Janeiro (UFRJ)</em></strong>; <em><strong>Iniciativa é da deputada estadual Dani Balbi (PCdoB), que também foi professora da UFRJ</strong></em></p>
 <!-- /wp:paragraph -->

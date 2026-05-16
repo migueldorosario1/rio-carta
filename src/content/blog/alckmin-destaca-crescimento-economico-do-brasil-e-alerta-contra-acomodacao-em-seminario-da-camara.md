@@ -7,8 +7,8 @@ slug: "alckmin-destaca-crescimento-economico-do-brasil-e-alerta-contra-acomodaca
 tags:
   - 'nacional'
 wp_id: 6104
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o 2º Seminário de Política Industrial na Câmara dos Deputados, o vice-presidente da República, Geraldo Alckmin, enfatizou nesta quarta-feira (4) que o desempenho positivo do Produto Interno Bruto (PIB) brasileiro não deve levar a uma postura de acomodação por parte do governo Lula. </p>
 <!-- /wp:paragraph -->

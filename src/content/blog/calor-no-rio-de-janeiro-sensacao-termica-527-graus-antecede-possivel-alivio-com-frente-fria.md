@@ -7,8 +7,8 @@ slug: "calor-no-rio-de-janeiro-sensacao-termica-527-graus-antecede-possivel-aliv
 wp_id: 1902
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Na manhã desta segunda-feira, antes mesmo da chegada oficial do verão, o Rio de Janeiro experimentou uma sensação térmica extraordinária de 52,7 graus, conforme registrado em Guaratiba, na Zona Oeste da cidade, de acordo com o Alerta Rio, sistema de monitoramento da prefeitura. Este valor supera a marca do domingo, que atingiu 50,5 graus. No mesmo horário e bairro, também foi registrada a temperatura máxima mais elevada até agora, atingindo 36,4 graus.</em></strong></p>
 <!-- /wp:paragraph -->

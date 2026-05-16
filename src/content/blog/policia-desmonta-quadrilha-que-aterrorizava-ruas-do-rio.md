@@ -7,8 +7,8 @@ slug: "policia-desmonta-quadrilha-que-aterrorizava-ruas-do-rio"
 tags:
   - 'seguranca-publica'
 wp_id: 7395
+categoria_macro: seguranca
 ---
-
 <!-- wp:paragraph -->
 <p><strong>A quadrilha usava motos para agir e fugir rapidamente, enquanto comparsas recebiam dados das vítimas em tempo real para esvaziar contas</strong></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "anuncios-de-investimentos-batem-recorde-no-brasil"
 tags:
   - 'nacional'
 wp_id: 4981
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Os anúncios de investimentos no Brasil atingiram o maior patamar desde 2020, conforme levantamento do Bradesco. Entre janeiro e julho de 2024, foram registrados 362 anúncios, um aumento de 23,6% em comparação com o mesmo período do ano anterior. O número também supera o total de 397 anúncios no mesmo período de 2020.</p>
 <!-- /wp:paragraph -->

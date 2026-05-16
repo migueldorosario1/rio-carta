@@ -7,8 +7,8 @@ slug: "reinaldo-azevedo-detona-cobertura-da-midia-sobre-a-operacao-da-pf-contra-
 tags:
   - 'nacional'
 wp_id: 2773
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Em uma análise publicada no <strong><a href="https://noticias.uol.com.br/colunas/reinaldo-azevedo/2024/01/30/pedido-a-ramagem-quando-fora-da-abin-piora-situacao-para-ele-e-para-carlos.htm">UOL</a></strong>, o colunista Reinaldo Azevedo aponta para um aspecto crucial no atual cenário político, destacando que parte da imprensa parece empenhada em esclarecer as complexidades das investigações envolvendo Carlos Bolsonaro.</p>
 <!-- /wp:paragraph -->

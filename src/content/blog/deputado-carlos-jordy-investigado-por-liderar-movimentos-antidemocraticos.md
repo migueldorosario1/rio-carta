@@ -9,8 +9,8 @@ tags:
   - 'campos'
   - 'niteroi'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O deputado federal Carlos Jordy (PL-RJ) está sob suspeita de ter envolvimento em atos antidemocráticos, conforme revelado em mensagens interceptadas pela Polícia Federal (PF). Jordy foi descrito como "líder" por Carlos Victor de Carvalho, um dos organizadores de manifestações e bloqueios em Campos dos Goytacazes (RJ), e apontado como tendo o "poder de parar tudo" após as eleições do ano passado.</p>
 <!-- /wp:paragraph -->

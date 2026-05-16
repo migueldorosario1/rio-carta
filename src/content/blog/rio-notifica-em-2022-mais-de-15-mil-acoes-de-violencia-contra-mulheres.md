@@ -7,8 +7,8 @@ slug: "rio-notifica-em-2022-mais-de-15-mil-acoes-de-violencia-contra-mulheres"
 wp_id: 1863
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Cidade tem 7.865 pessoas em situação de rua</em></strong></p>
 <!-- /wp:paragraph -->

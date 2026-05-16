@@ -7,8 +7,8 @@ slug: "moraes-da-prazo-de-cinco-dias-ao-x-para-responder-sobre-descumprimentos-d
 wp_id: 4279
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro Alexandre de Moraes, do Supremo Tribunal Federal, ordenou que a rede social X (anteriormente conhecida como Twitter) se pronuncie em cinco dias sobre falhas nos bloqueios de contas, conforme relatório da Polícia Federal. </p>
 <!-- /wp:paragraph -->

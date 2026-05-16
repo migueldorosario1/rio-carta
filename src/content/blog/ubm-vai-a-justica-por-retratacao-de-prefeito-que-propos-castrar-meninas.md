@@ -7,8 +7,8 @@ slug: "ubm-vai-a-justica-por-retratacao-de-prefeito-que-propos-castrar-meninas"
 tags:
   - 'politica-rj'
 wp_id: 1390
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>União Brasileira de Mulheres (UBM) entrou na justiça contra o prefeito de Barra do Piraí (RJ)</strong></em></p>
 <!-- /wp:paragraph -->

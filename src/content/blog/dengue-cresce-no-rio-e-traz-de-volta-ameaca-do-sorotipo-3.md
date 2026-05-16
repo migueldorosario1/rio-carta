@@ -8,8 +8,8 @@ wp_id: 6459
 tags:
   - 'paraty'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong>Estado do Rio registra 810 casos de dengue nas primeiras semanas de 2025 e confirma o retorno do sorotipo 3 após quase duas décadas sem circulação predominante</strong></p>
 <!-- /wp:paragraph -->

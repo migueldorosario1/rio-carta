@@ -7,8 +7,8 @@ slug: "show-de-lady-gaga-no-rio-sera-em-3-de-maio-as-21-horas-saiba-os-detalhes"
 wp_id: 6444
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Está prevista a presença de 1 milhão de pessoas na praia de Copacabana</em></strong></p>
 <!-- /wp:paragraph -->

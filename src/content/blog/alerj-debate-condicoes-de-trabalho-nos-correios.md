@@ -7,8 +7,8 @@ slug: "alerj-debate-condicoes-de-trabalho-nos-correios"
 wp_id: 7078
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Audiência pública reuniu denúncias de precarização e cortes de direitos na estatal</em>. <em>A iniciativa foi da deputada Dani Balbi (PCdoB), presidenta da Comissão de Trabalho.</em></strong></p>
 <!-- /wp:paragraph -->

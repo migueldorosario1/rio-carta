@@ -7,8 +7,8 @@ slug: "alerj-promove-debate-sobre-democracia-e-movimentos-sociais-lgbti-no-brasi
 wp_id: 7401
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A deputada estadual Dani Balbi (PCdoB) participou, nesta terça-feira (18/11), do debate promovido pela Alerj sobre democracia e movimentos sociais LGBTI+, que reuniu parlamentares, ativistas e pesquisadores do Brasil e da Argentina para discutir conquistas, desafios e o avanço da extrema direita no Cone-Sul.</em></strong></p>
 <!-- /wp:paragraph -->

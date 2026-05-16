@@ -8,8 +8,8 @@ wp_id: 6161
 tags:
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal apreendeu dois celulares escondidos em um freezer na casa do prefeito eleito de Duque de Caxias, Netinho Reis (MDB), durante a operação Têmis, deflagrada nesta sexta-feira (13). A ação mira uma organização criminosa suspeita de compra de votos e lavagem de dinheiro.</p>
 <!-- /wp:paragraph -->

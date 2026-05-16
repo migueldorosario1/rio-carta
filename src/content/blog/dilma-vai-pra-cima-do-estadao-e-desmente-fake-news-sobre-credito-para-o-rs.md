@@ -7,8 +7,8 @@ slug: "dilma-vai-pra-cima-do-estadao-e-desmente-fake-news-sobre-credito-para-o-r
 tags:
   - 'nacional'
 wp_id: 4488
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A presidente do Novo Banco de Desenvolvimento (NDB), conhecido como 'Banco dos BRICS', Dilma Rousseff, emitiu uma nota nesta terça-feira, 21, refutando uma reportagem do Estado de S. Paulo. </p>
 <!-- /wp:paragraph -->

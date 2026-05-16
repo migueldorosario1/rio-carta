@@ -7,8 +7,8 @@ slug: "brics-discutem-rumos-do-bloco-em-ambiente-popular"
 wp_id: 7482
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">A cúpula popular reúne representantes de 21 países no Rio para discutir multipolaridade, desdolarização e cooperação entre movimentos sociais e governos do BRICS</h3>
 <!-- /wp:heading -->

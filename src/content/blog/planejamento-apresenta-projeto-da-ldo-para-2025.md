@@ -7,8 +7,8 @@ slug: "planejamento-apresenta-projeto-da-ldo-para-2025"
 tags:
   - 'politica-rj'
 wp_id: 4185
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O Ministério do Planejamento e Orçamento divulgou nesta segunda-feira, 15, o Projeto da Lei de Diretrizes Orçamentárias (PLDO) para 2025, juntamente com o novo Marco Fiscal que estabelece as normas para o controle dos gastos públicos. </p>
 <!-- /wp:paragraph -->

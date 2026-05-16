@@ -8,8 +8,8 @@ wp_id: 3810
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Albergaria é pré-candidata do PCdoB para a Câmara de Vereadores do Rio de Janeiro; além de Luciana, que é presidenta nacional do PCdoB, a deputada Jandira Feghali também esteve presente</em></strong></p>
 <!-- /wp:paragraph -->

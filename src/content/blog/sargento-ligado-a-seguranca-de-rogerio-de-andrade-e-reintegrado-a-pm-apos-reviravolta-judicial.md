@@ -7,8 +7,8 @@ slug: "sargento-ligado-a-seguranca-de-rogerio-de-andrade-e-reintegrado-a-pm-apos
 wp_id: 1940
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O sargento reformado da Polícia Militar Márcio Araújo de Souza, acusado de envolvimento na morte do bicheiro Fernando Iggnácio, foi reintegrado aos quadros da PM do Rio de Janeiro. Apontado pelo Ministério Público como chefe da segurança pessoal do contraventor Rogério de Andrade, Márcio Araújo de Souza teve sua exclusão ex-officio da corporação em 31 de março de 2023. No entanto, uma decisão judicial favorável ao sargento determinou sua reintegração em 1º de outubro de 2023, além de cessar os efeitos da cassação de sua aposentadoria.</em></strong></p>
 <!-- /wp:paragraph -->

@@ -8,8 +8,8 @@ wp_id: 5381
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Daniela Carneiro (União Brasil-RJ), até então ministra do Turismo, foi designada para a vice-liderança do governo Lula (PT) na Câmara dos Deputados.</p>
 <!-- /wp:paragraph -->

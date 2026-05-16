@@ -7,8 +7,8 @@ slug: "presidente-da-embratur-marcelo-freixo-defende-turismo-sustentavel"
 wp_id: 451
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em>O presidente da Embratur, Marcelo Freixo, participou do 1º Seminário Internacional de Turismo Sustentável 2023, no Rio de Janeiro</em></p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "governo-propoe-cashback-do-povo-para-familias-de-baixa-renda-em-nova-refo
 tags:
   - 'nacional'
 wp_id: 4304
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O governo federal apresentou uma proposta que sugere a devolução de parte dos impostos pagos por cidadãos de baixa renda, conhecida como "cashback do povo", destinada a famílias que recebem até meio salário-mínimo. </p>
 <!-- /wp:paragraph -->

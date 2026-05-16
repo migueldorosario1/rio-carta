@@ -7,8 +7,8 @@ slug: "consulta-ao-valor-do-pis-pasep-de-2024-e-liberada"
 tags:
   - 'nacional'
 wp_id: 3124
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Cerca de 24 milhões de pessoas que trabalharam com carteira assinada em 2022 podem consultar, a partir desta segunda-feira (5), o valor do abono salarial do Programa de Integração Social (PIS) e do Programa de Formação do Patrimônio do Servidor Público (Pasep) em 2024. A quantia está disponível no aplicativo da Carteira de Trabalho Digital (disponível na&nbsp;<a href="https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&amp;hl=pt_BR&amp;gl=US&amp;pli=1" target="_blank" rel="noreferrer noopener">Google Play</a>&nbsp;e na&nbsp;<a href="https://apps.apple.com/br/app/carteira-de-trabalho-digital/id1295257499" target="_blank" rel="noreferrer noopener">App Store</a>)&nbsp;e no&nbsp;<a href="https://www.gov.br/pt-br" target="_blank" rel="noreferrer noopener">Portal Gov.br</a>.<img src="https://agenciabrasil.ebc.com.br/ebc.png?id=1579470&amp;o=node"><img src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1579470&amp;o=node"></p>
 <!-- /wp:paragraph -->

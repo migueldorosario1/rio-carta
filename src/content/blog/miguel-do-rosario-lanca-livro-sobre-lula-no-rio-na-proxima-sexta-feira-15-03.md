@@ -7,8 +7,8 @@ slug: "miguel-do-rosario-lanca-livro-sobre-lula-no-rio-na-proxima-sexta-feira-15
 wp_id: 3740
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Rosário é editor do blog O Cafezinho; o lançamento acontecerá em Bar na Lapa a partir das 19 horas</strong></em></p>
 <!-- /wp:paragraph -->

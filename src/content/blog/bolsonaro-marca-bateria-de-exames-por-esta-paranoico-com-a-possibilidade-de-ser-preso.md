@@ -7,8 +7,8 @@ slug: "bolsonaro-marca-bateria-de-exames-por-esta-paranoico-com-a-possibilidade-
 tags:
   - 'nacional'
 wp_id: 3451
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Jair Bolsonaro agendou uma série de exames médicos para a próxima semana em São Paulo. Esta ação ocorre em um momento de intensas especulações sobre uma potencial prisão do ex-presidente, relacionada à operação Tempus Veritatis da Polícia Federal (PF), conforme apontado pela Veja.</p>
 <!-- /wp:paragraph -->

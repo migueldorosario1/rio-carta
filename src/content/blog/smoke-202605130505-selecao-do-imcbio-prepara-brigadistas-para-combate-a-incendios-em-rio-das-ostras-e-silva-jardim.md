@@ -5,6 +5,7 @@ pubDate: "2026-05-13T08:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "silva-jardim", "icmbio", "brigadistas", "incendios", "reserva-biologica-poco-das-antas", "reserva-biologica-uniao", "apa-rio-sao-joao", "regiao-dos-lagos", "baixada-fluminense", "macae-norte-fluminense", "joa", "norte-fluminense"]
 heroImage: "/hero/smoke-smoke-202605130505-selecao-do-imcbio-prepara-brigadistas-para-combate-a-incendios-em-rio-das-ostras-e-silva-jardim.jpg"
+categoria_macro: geral
 ---
 O Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), do governo federal, promoveu mais uma fase de seleção de agentes temporários ambientais, que atuarão como brigadistas contra incêndios em Rio das Ostras e Silva Jardim.
 

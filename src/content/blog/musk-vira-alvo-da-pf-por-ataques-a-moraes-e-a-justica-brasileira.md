@@ -7,8 +7,8 @@ slug: "musk-vira-alvo-da-pf-por-ataques-a-moraes-e-a-justica-brasileira"
 tags:
   - 'nacional'
 wp_id: 4122
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal brasileira inicia investigação sobre Elon Musk por potencial desobediência a ordens judiciais do ministro Alexandre de Moraes, do STF. </p>
 <!-- /wp:paragraph -->

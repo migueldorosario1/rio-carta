@@ -7,8 +7,8 @@ slug: "ronnie-lessa-assassino-de-marielle-acusa-domingos-brazao-de-mandante-da-m
 wp_id: 2528
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O assassinato de Marielle Franco e Anderson Gomes em 14 de março de 2018 continua a intrigar o mundo, com a pergunta #QuemMandouMatarMarielle? ganhando destaque internacional. Agora, surgem novas informações com Ronnie Lessa, o ex-PM acusado dos assassinatos, implicando Domingos Brazão, ex-MDB, como um dos possíveis mandantes, de acordo com fontes ligadas à investigação confirmadas pelo Intercept Brasil.</p>
 <!-- /wp:paragraph -->

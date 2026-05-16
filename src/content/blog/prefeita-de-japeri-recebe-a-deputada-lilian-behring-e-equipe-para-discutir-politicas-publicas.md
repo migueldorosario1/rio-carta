@@ -7,8 +7,8 @@ slug: "prefeita-de-japeri-recebe-a-deputada-lilian-behring-e-equipe-para-discuti
 wp_id: 6520
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>A parlamentar que é também presidente do Coren-RJ, foi uma das pioneiras na luta pelo piso da enfermagem, e Japeri uma das primeiras cidades a fazer o reajuste da categoria</strong></em></p>
 <!-- /wp:paragraph -->

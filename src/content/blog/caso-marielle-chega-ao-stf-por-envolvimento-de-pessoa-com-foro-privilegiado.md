@@ -7,8 +7,8 @@ slug: "caso-marielle-chega-ao-stf-por-envolvimento-de-pessoa-com-foro-privilegia
 tags:
   - 'nacional'
 wp_id: 3875
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A investigação sobre o assassinato da ex-vereadora Marielle Franco (PSOL) e seu motorista, Anderson Gomes, foi transferida para o Supremo Tribunal Federal (STF). </p>
 <!-- /wp:paragraph -->

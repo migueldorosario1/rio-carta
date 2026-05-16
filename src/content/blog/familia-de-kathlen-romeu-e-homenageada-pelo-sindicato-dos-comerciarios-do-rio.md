@@ -7,8 +7,8 @@ slug: "familia-de-kathlen-romeu-e-homenageada-pelo-sindicato-dos-comerciarios-do
 wp_id: 1100
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A jovem, grávida, foi assassinada pela polícia militar do Rio em 2021</em></strong></p>
 <!-- /wp:paragraph -->

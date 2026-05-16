@@ -7,8 +7,8 @@ slug: "pf-pode-fechar-mais-acordos-de-delacao-premiada-nas-investigacoes-sobre-o
 tags:
   - 'nacional'
 wp_id: 3430
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal, que conduz o inquérito sobre os planos de um suposto golpe, observa um momento de intensa movimentação entre os advogados dos investigados.</p>
 <!-- /wp:paragraph -->

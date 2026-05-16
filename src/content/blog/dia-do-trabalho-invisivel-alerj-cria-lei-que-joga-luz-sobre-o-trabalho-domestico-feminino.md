@@ -7,8 +7,8 @@ slug: "dia-do-trabalho-invisivel-alerj-cria-lei-que-joga-luz-sobre-o-trabalho-do
 wp_id: 4404
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O projeto foi uma iniciativa da deputada estadual Dani Balbi (PCdoB)</strong></em></p>
 <!-- /wp:paragraph -->

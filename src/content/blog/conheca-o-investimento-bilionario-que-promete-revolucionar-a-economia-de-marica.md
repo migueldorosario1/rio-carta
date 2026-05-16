@@ -7,8 +7,8 @@ slug: "conheca-o-investimento-bilionario-que-promete-revolucionar-a-economia-de-
 wp_id: 3175
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O Maraey, localizado em Maricá, Rio de Janeiro, firmou um acordo de intenção com o Banco de Desenvolvimento da América Latina e Caribe (CAF), BID Invest do Grupo Banco Interamericano de Desenvolvimento, e a International Finance Corporation (IFC) do Grupo Banco Mundial.</p>
 <!-- /wp:paragraph -->

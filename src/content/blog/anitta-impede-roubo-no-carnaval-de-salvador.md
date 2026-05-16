@@ -7,8 +7,8 @@ slug: "anitta-impede-roubo-no-carnaval-de-salvador"
 tags:
   - 'cultura-carnaval'
 wp_id: 3154
+categoria_macro: lazer
 ---
-
 <!-- wp:paragraph -->
 <p>Durante o desfile de seu trio elétrico no Carnaval de Salvador, na última sexta-feira, 9, a cantora Anitta tomou medidas decisivas ao perceber desentendimentos entre os participantes. </p>
 <!-- /wp:paragraph -->

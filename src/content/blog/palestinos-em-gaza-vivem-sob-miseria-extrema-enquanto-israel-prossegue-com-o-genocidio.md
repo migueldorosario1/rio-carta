@@ -7,8 +7,8 @@ slug: "palestinos-em-gaza-vivem-sob-miseria-extrema-enquanto-israel-prossegue-co
 tags:
   - 'geopolitica'
 wp_id: 2771
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>Pouco mais de um mês após o início da ofensiva israelense na Faixa de Gaza, a situação humanitária atingiu níveis alarmantes, com 2,2 milhões de palestinos, a totalidade da população do enclave, enfrentando o risco iminente de morrer por desnutrição. </p>
 <!-- /wp:paragraph -->

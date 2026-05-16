@@ -7,8 +7,8 @@ slug: "alerj-cria-centro-de-referencia-em-dor-cronica-no-rj"
 wp_id: 6881
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Estudo mostra que mais de 3,7 milhões de idosos no estado convivem com dor crônica, afetando qualidade de vida e saúde mental</h3>
 <!-- /wp:heading -->

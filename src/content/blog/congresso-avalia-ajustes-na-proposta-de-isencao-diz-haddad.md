@@ -7,8 +7,8 @@ slug: "congresso-avalia-ajustes-na-proposta-de-isencao-diz-haddad"
 wp_id: 6069
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O ministro da Fazenda, Fernando Haddad, comentou sobre as prerrogativas do Congresso em relação à proposta de isenção do Imposto de Renda, indicando que a faixa de isenção, originalmente prevista pelo governo para rendimentos de até R$ 5 mil mensais, poderia ser ajustada. </p>
 <!-- /wp:paragraph -->

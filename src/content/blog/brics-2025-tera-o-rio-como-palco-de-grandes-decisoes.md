@@ -7,8 +7,8 @@ slug: "brics-2025-tera-o-rio-como-palco-de-grandes-decisoes"
 wp_id: 6587
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">O Rio de Janeiro sediará a Cúpula do BRICS nos dias 6 e 7 de julho, reunindo líderes dos 20 países do bloco; O anúncio foi feito pelo ministro Mauro Vieira</h4>
 <!-- /wp:heading -->

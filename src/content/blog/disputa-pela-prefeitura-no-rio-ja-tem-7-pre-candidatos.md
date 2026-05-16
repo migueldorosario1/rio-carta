@@ -8,8 +8,8 @@ wp_id: 1687
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Eduardo Paes tentará a reeleição para um quarto mandato; desafiantes acham que o prefeito já ficou tempo demais na prefeitura do Rio</em></strong></p>
 <!-- /wp:paragraph -->

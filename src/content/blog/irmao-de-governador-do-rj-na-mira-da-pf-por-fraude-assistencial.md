@@ -7,8 +7,8 @@ slug: "irmao-de-governador-do-rj-na-mira-da-pf-por-fraude-assistencial"
 wp_id: 2192
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A Polícia Federal realizou nesta quarta-feira (20) a Operação Sétimo Mandamento, visando investigar suspeitas de irregularidades em programas de assistência social do estado do Rio de Janeiro. Vinícius Sarciá Rocha, irmão de criação do governador Cláudio Castro, foi um dos alvos. A ação, que contou com mandados expedidos pelo Superior Tribunal de Justiça, incluiu buscas também em outros importantes nomes vinculados à administração estadual.</p>
 <!-- /wp:paragraph -->

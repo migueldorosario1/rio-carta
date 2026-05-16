@@ -7,8 +7,8 @@ slug: "x-pede-ao-stf-para-retomar-atividades-no-brasil-apos-cumprir-exigencias"
 tags:
   - 'nacional'
 wp_id: 5499
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A rede social X, pertencente ao bilionário Elon Musk, formalizou um pedido ao Supremo Tribunal Federal (STF) nesta quinta-feira para retomar suas atividades no Brasil. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "pablo-marcal-e-um-dos-favoritos-na-disputa-pela-prefeitura-de-sp"
 wp_id: 4552
 tags:
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>Na pesquisa AtlasIntel divulgada na terça-feira, 28, o pré-candidato coach Pablo Marçal apareceu em terceiro lugar, com 10,4% das intenções de voto, chamando a atenção por passar na frente de candidatos como a deputada Tabata Amaral. Ricardo Nunes ficou em segundo, com 20,5%, atrás de Guilherme Boulos (PSol), com 37,2%, que lidera o pleito.</p>
 <!-- /wp:paragraph -->

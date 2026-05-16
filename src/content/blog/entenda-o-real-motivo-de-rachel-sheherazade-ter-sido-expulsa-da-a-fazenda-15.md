@@ -7,8 +7,8 @@ slug: "entenda-o-real-motivo-de-rachel-sheherazade-ter-sido-expulsa-da-a-fazenda
 tags:
   - 'nacional'
 wp_id: 1636
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A participação de Rachel Sheherazade em "A Fazenda 15" chegou a um fim abrupto após a jornalista ser expulsa do programa. A decisão da produção foi baseada em um incidente que ocorreu durante um acalorado bate-boca entre Rachel e a confinada Jenny.</p>
 <!-- /wp:paragraph -->

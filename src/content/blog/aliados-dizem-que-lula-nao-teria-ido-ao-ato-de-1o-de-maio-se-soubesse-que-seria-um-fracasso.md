@@ -7,8 +7,8 @@ slug: "aliados-dizem-que-lula-nao-teria-ido-ao-ato-de-1o-de-maio-se-soubesse-que
 tags:
   - 'nacional'
 wp_id: 4391
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O evento do 1º de maio, que contou com a presença do presidente Lula, registrou uma baixa participação nesta quarta-feira, com menos de duas mil pessoas presentes, segundo medição da USP. </p>
 <!-- /wp:paragraph -->

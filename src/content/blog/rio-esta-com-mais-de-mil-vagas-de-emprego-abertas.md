@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'baixada'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Prefeitura do Rio oferece 1.052 vagas em diversos bairros; Festival do Trabalhador e show de Lady Gaga agitam a cidade no feriado de 1º de Maio</h3>
 <!-- /wp:heading -->

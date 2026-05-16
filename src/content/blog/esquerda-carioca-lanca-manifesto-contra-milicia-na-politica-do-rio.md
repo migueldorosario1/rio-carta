@@ -8,8 +8,8 @@ wp_id: 4004
 tags:
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>O objetivo é impedir a eleição de representantes da milícia na eleição municipal desse ano</strong></em></p>
 <!-- /wp:paragraph -->

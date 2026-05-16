@@ -7,8 +7,8 @@ slug: "luiz-eduardo-soares-lanca-escolha-sua-distopia-e-lota-livraria-no-centro-
 wp_id: 7075
 tags:
   - 'centro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Novo livro do antropólogo reúne ensaios sobre violência, política e democracia; lançamento contou com parlamentares e intelectuai</em>s</strong></p>
 <!-- /wp:paragraph -->

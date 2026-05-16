@@ -7,8 +7,8 @@ slug: "taxa-para-compras-online-de-ate-us-50-deve-arrecadar-r-700-milhoes"
 tags:
   - 'nacional'
 wp_id: 4993
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A nova taxa sobre compras online de produtos de até US$ 50, em vigor desde agosto, deverá gerar uma arrecadação de R$ 700 milhões este ano, conforme anunciou o secretário-executivo do Ministério da Fazenda, Dario Durigan, em entrevista coletiva sobre o Orçamento de 2025.</p>
 <!-- /wp:paragraph -->

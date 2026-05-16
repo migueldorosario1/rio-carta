@@ -7,8 +7,8 @@ slug: "lula-volta-ao-rs-para-visitar-areas-atingidas-pelas-chuvas"
 tags:
   - 'nacional'
 wp_id: 4592
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva retorna ao Rio Grande do Sul nesta quinta-feira, 6, para visitar regiões afetadas pelas chuvas. Esta é a quarta vez que o chefe da nação viaja ao estado desde o início da tragédia climática, há um mês. </p>
 <!-- /wp:paragraph -->

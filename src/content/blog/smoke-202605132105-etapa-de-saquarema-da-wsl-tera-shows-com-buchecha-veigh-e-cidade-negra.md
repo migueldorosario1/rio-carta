@@ -5,6 +5,7 @@ pubDate: "2026-05-14T00:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "surfe", "wsl", "shows", "cultura", "macae-norte-fluminense", "maracana", "norte-fluminense", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
 heroImage: "/hero/smoke-smoke-202605132105-etapa-de-saquarema-da-wsl-tera-shows-com-buchecha-veigh-e-cidade-negra.jpg"
+categoria_macro: politica
 ---
 A World Surf League (WSL), que organiza o Circuito Mundial de Surfe, e que terá sua 6ª etapa na Praia de Itaúna, em Saquarema, anunciou, nessa semana, a programação do WSL Sunset, que acontece no próximo dia 18 de junho, das 17h às 23h.
 

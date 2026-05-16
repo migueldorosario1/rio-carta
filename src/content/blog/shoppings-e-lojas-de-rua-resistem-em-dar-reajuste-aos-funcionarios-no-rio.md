@@ -7,8 +7,8 @@ slug: "shoppings-e-lojas-de-rua-resistem-em-dar-reajuste-aos-funcionarios-no-rio
 tags:
   - 'rio-de-janeiro'
 wp_id: 1006
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Presidente do </em></strong><em><strong>Sindicato dos Comerciários, Marcio Ayer reivindica mais do que a inflação</strong></em></p>
 <!-- /wp:paragraph -->

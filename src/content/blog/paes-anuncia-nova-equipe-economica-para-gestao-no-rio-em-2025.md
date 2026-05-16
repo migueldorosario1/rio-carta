@@ -7,8 +7,8 @@ slug: "paes-anuncia-nova-equipe-economica-para-gestao-no-rio-em-2025"
 wp_id: 6153
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O prefeito do Rio de Janeiro, Eduardo Paes, divulgou nesta quinta-feira (12) os nomes que irão compor a equipe econômica da cidade a partir de 2025. As nomeações incluem Maria Silvia Bastos Marques, que assumirá a Secretaria de Grandes Projetos; Osmar Lima, à frente da Secretaria de Desenvolvimento Econômico; e Sidney Levy, que presidirá a Invest.Rio.</p>
 <!-- /wp:paragraph -->

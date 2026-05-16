@@ -7,8 +7,8 @@ slug: "ccbb-rio-mostra-de-heitor-dos-prazeres-tem-acesso-por-audiodescricao"
 wp_id: 1340
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Conteúdo é distribuído a pessoas com deficiência que visitam a exposição</strong></em></p>
 <!-- /wp:paragraph -->

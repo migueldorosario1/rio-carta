@@ -7,8 +7,8 @@ slug: "novo-salario-minimo-entra-em-vigor"
 tags:
   - 'nacional'
 wp_id: 6318
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O salário mínimo no Brasil será elevado para R$ 1.518 a partir de janeiro de 2025, um aumento de R$ 106 ou 7,5% em relação ao valor anterior de R$ 1.412. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "diana-conrado-do-pcdob-e-a-nova-coordenadora-de-diversidade-sexual-da-pre
 wp_id: 6429
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>A assessora da deputada Dani Balbi (PCdoB) foi nomeada pelo prefeito Eduardo Paes na manhã desta terça-feira (14/01)</em></strong></p>
 <!-- /wp:paragraph -->

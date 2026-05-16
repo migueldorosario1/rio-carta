@@ -9,8 +9,8 @@ tags:
   - 'baixada'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>Sociólogo analisa o terror espalhado no território carioca nesta semana mergulhando nas questões de fundo que sustentam esta última explosão de violência</em></strong></p>
 <!-- /wp:paragraph -->

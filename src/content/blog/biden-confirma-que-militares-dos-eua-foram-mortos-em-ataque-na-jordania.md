@@ -7,8 +7,8 @@ slug: "biden-confirma-que-militares-dos-eua-foram-mortos-em-ataque-na-jordania"
 tags:
   - 'geopolitica'
 wp_id: 2645
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>No último domingo, o presidente Joe Biden anunciou que três membros das forças armadas dos Estados Unidos perderam a vida e vários outros ficaram feridos em um ataque aéreo executado por drones contra as tropas norte-americanas na Jordânia, nas proximidades da fronteira com a Síria. O presidente atribuiu a responsabilidade pelo ataque a grupos militantes apoiados pelo Irã.</p>
 <!-- /wp:paragraph -->

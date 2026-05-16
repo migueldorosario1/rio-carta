@@ -9,8 +9,8 @@ tags:
   - 'sao-goncalo'
   - 'rio-de-janeiro'
   - 'baixada'
+categoria_macro: geral
 ---
-
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Polícias removem 2 mil toneladas de barricadas no Rio e Castro promete reação dura: ‘Onde tentar voltar, terá visitinha do Bope e Core’</h3>
 <!-- /wp:heading -->

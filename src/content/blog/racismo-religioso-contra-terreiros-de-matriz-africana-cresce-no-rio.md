@@ -8,8 +8,8 @@ wp_id: 1474
 tags:
   - 'baixada'
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><em><strong>Relatório aponta falta de segurança pública como um dos fatores</strong></em></p>
 <!-- /wp:paragraph -->

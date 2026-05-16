@@ -7,8 +7,8 @@ slug: "renata-souza-registra-ameaca-de-morte-e-ofensas-racistas-na-policia"
 wp_id: 4631
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>A deputada estadual pelo Rio de Janeiro, Renata Souza (PSol), formalizou um boletim de ocorrência na polícia após receber uma ameaça de morte por e-mail. </p>
 <!-- /wp:paragraph -->

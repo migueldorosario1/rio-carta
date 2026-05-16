@@ -7,8 +7,8 @@ slug: "paes-vai-contra-especialistas-em-covid-19"
 wp_id: 1170
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>O prefeito do Rio de Janeiro, Eduardo Paes, contraria orientação de especialistas da UFRJ sobre utilização de máscaras em lugares fechados</em></strong></p>
 <!-- /wp:paragraph -->

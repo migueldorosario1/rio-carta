@@ -9,8 +9,8 @@ tags:
   - 'niteroi'
   - 'rio-de-janeiro'
   - 'eleicoes-2026'
+categoria_macro: politica
 ---
-
 <!-- wp:paragraph -->
 <p>O presidente Luiz Inácio Lula da Silva esteve em Niterói nesta terça-feira, em um gesto de apoio ao pré-candidato à prefeitura Rodrigo Neves (PDT). Lula também participou da inauguração de obras de dragagem no Canal do São Francisco.</p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "youtuber-da-calote-nas-parcelas-da-lamborghini-apos-ser-alvo-de-operacao-
 tags:
   - 'nacional'
 wp_id: 3259
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p>O influenciador digital Kleber Rodrigues de Moraes, conhecido como Klebim, interrompeu o pagamento das parcelas de sua Lamborghini Huracán após ter sido alvo de uma operação da Polícia Civil do Distrito Federal (PCDF) em março de 2022. </p>
 <!-- /wp:paragraph -->

@@ -7,8 +7,8 @@ slug: "comerciarios-do-rio-conquistam-aumento-salarial-real-em-acordo"
 wp_id: 1310
 tags:
   - 'rio-de-janeiro'
+categoria_macro: geral
 ---
-
 <!-- wp:paragraph -->
 <p><strong><em>"A nossa luta sempre foi pelo aumento real dos salários e a garantia de todos os direitos", disse o presidente do Sindicato dos Comerciários, Marcio Ayer.</em></strong></p>
 <!-- /wp:paragraph -->
