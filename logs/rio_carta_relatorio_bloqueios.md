@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T09:33:47.310Z
-Publicadas/auditadas com sucesso no historico: 825
-Materias com bloqueio acumulado: 311
+Atualizado em: 2026-05-16T10:33:44.444Z
+Publicadas/auditadas com sucesso no historico: 828
+Materias com bloqueio acumulado: 313
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -319,8 +319,10 @@ Materias com bloqueio acumulado: 311
 - smoke-202605160723-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605160723-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas durante a era das Olimpíadas 
 - smoke-202605160823-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605160823-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
 - smoke-202605160923-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605160923-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas durante a era das Olimpíadas 
+- smoke-202605161023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: auditoria reteve smoke-202605161023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma visão aprofundada sobre a situação dos catadores de lixo no Jardim Gramacho, com citações de resi
+- smoke-202605161023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605161023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
 
 ## Publicadas nesta rodada
-- smoke-202605160923-claudio-castro-reage-a-operacao-da-pf-e-nega-favorecimento-a-refit-em-video-nas-redes-assista.md
-- smoke-202605160923-ministerio-confirma-677-casos-de-sarampo-em-seis-estados-do-brasil.md
-- smoke-202605160923-haddad-e-bora-exaltam-comunidade-da-vila-isabel-e-prometem-enredo-construido-com-carinho-e-respe.md
+- smoke-202605161023-uso-exclusivo-do-cartao-jae-nos-onibus-do-rio-sera-investigado-pelo-ministerio-publico.md
+- smoke-202605161023-mae-atipica-tera-documento-de-identificacao-criado-no-estado-do-rio.md
+- smoke-202605161023-clin-promove-atividades-especiais-em-comemoracao-ao-dia-do-gari.md
