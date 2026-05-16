@@ -4,7 +4,7 @@ description: "rejei"
 pubDate: "2026-05-16T18:24:05Z"
 draft: false
 tags: ["rio-de-janeiro", "politica", "pesquisa-datafolha", "politica-rj", "serrana", "regiao-serrana", "petropolis"]
-heroImage: "/hero/smoke-smoke-202605161823-datafolha-lula-e-flavio-lideram-rejeicao-com-47-e-43-zema-tem-15-e-caiado-13.jpg"
+heroImage: "/hero/smoke-smoke-202605160823-lula-ironiza-caso-de-flavio-bolsonaro-com-vorcaro.webp"
 ---
 O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ) lideram em rejeição entre os presidenciáveis, com 47% e 43%, respectivamente, segundo a pesquisa Datafolha divulgada neste sábado, 16. Os números seguem estáveis em relação à pesquisa anterior, de abril, quando Lula tinha 48% de rejeição e Flávio, 46%.
 
