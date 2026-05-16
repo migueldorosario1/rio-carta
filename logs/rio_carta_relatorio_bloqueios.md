@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T21:33:01.790Z
-Publicadas/auditadas com sucesso no historico: 861
-Materias com bloqueio acumulado: 325
+Atualizado em: 2026-05-16T22:31:59.927Z
+Publicadas/auditadas com sucesso no historico: 864
+Materias com bloqueio acumulado: 326
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -333,8 +333,9 @@ Materias com bloqueio acumulado: 325
 - smoke-202605161923-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605161923-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
 - smoke-202605162023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: auditoria reteve smoke-202605162023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma visão aprofundada sobre a situação dos catadores de lixo em Jardim Gramacho, com citações de resi
 - smoke-202605162023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605162023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
+- smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: auditoria reteve smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece informações detalhadas sobre a plataforma Water Watch, suas origens, o contexto de desigualdades em a
 
 ## Publicadas nesta rodada
-- smoke-202605162123-policia-apreende-6-adolescentes-por-estupro-coletivo-de-menina-de-12-anos-videos-do-crime-eram-v.md
-- smoke-202605162123-pm-e-baleado-durante-confronto-no-rio-e-socorrido-por-taxista.md
-- smoke-202605162123-jovem-criado-em-favelas-do-rio-se-torna-o-primeiro-bailarino-do-australian-ballet.md
+- smoke-202605162223-guadalupe-ganha-ginasio-educacional-tecnologico.md
+- smoke-202605162223-policial-militar-e-baleado-durante-confronto-no-rio-comprido.md
+- smoke-202605162223-apos-esfriamento-de-conversas-com-o-palmeiras-fluminense-ve-chances-de-retorno-de-nino-ao-elenco.md
