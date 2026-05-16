@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T08:33:26.334Z
-Publicadas/auditadas com sucesso no historico: 822
-Materias com bloqueio acumulado: 310
+Atualizado em: 2026-05-16T09:33:47.310Z
+Publicadas/auditadas com sucesso no historico: 825
+Materias com bloqueio acumulado: 311
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -318,8 +318,9 @@ Materias com bloqueio acumulado: 310
 - smoke-202605160723-caminhao-com-transformador-de-480-t-volta-a-circular-pela-via-dutra-no-sul-do-rj.md: auditoria reteve smoke-202605160723-caminhao-com-transformador-de-480-t-volta-a-circular-pela-via-dutra-no-sul-do-rj.md: veto externo consistente: kimi: A data do texto menciona um evento ocorrido em 19 de julho de 2018, mas a data/hora atual para auditoria é 16 de maio de 2026. Portanto, o texto parece ser um rascunho antigo e não deve ser publicado como uma notícia atual. | qwen: A data mencionada no texto ('quinta
 - smoke-202605160723-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605160723-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas durante a era das Olimpíadas 
 - smoke-202605160823-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605160823-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
+- smoke-202605160923-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605160923-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas durante a era das Olimpíadas 
 
 ## Publicadas nesta rodada
-- smoke-202605160823-lula-ironiza-caso-de-flavio-bolsonaro-com-vorcaro.md
-- smoke-202605160823-caminhao-com-transformador-de-480-t-volta-a-circular-pela-via-dutra-no-sul-do-rj.md
-- smoke-202605160823-haroldo-costa-e-reverenciado-em-evento-ideia-original-do-tambor-de-2009-foi-dele-revela-gustavo.md
+- smoke-202605160923-claudio-castro-reage-a-operacao-da-pf-e-nega-favorecimento-a-refit-em-video-nas-redes-assista.md
+- smoke-202605160923-ministerio-confirma-677-casos-de-sarampo-em-seis-estados-do-brasil.md
+- smoke-202605160923-haddad-e-bora-exaltam-comunidade-da-vila-isabel-e-prometem-enredo-construido-com-carinho-e-respe.md
