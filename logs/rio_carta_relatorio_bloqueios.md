@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T18:33:00.120Z
-Publicadas/auditadas com sucesso no historico: 852
-Materias com bloqueio acumulado: 322
+Atualizado em: 2026-05-16T19:32:42.832Z
+Publicadas/auditadas com sucesso no historico: 855
+Materias com bloqueio acumulado: 323
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -330,8 +330,9 @@ Materias com bloqueio acumulado: 322
 - smoke-202605161623-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605161623-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre a comunidade de Vila Autódromo, suas lutas e ações coletivas
 - smoke-202605161723-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605161723-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
 - smoke-202605161823-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605161823-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
+- smoke-202605161923-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605161923-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
 
 ## Publicadas nesta rodada
-- smoke-202605161823-mprj-pede-suspensao-de-regras-para-bicicletas-e-patinetes-eletricos-no-rio.md
-- smoke-202605161823-video-de-estupro-coletivo-de-menina-de-12-anos-no-rio-foi-vendido-por-r-5.md
-- smoke-202605161823-datafolha-lula-e-flavio-lideram-rejeicao-com-47-e-43-zema-tem-15-e-caiado-13.md
+- smoke-202605161923-gas-natural-tera-reducao-de-preco-nos-postos-de-combustivel-residencias-industrias-e-comercios-d.md
+- smoke-202605161923-casos-de-feminicidio-caem-37-no-rio-no-1o-trimestre-de-2026-aponta-isp.md
+- smoke-202605161923-douglas-ruas-recebera-medalha-pedro-ernesto-na-camara-do-rio.md
