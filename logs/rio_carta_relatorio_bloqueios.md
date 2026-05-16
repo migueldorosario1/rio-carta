@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T22:31:59.927Z
-Publicadas/auditadas com sucesso no historico: 864
+Atualizado em: 2026-05-16T23:32:53.956Z
+Publicadas/auditadas com sucesso no historico: 867
 Materias com bloqueio acumulado: 326
 
 ## Solucoes do cerebro aplicadas
@@ -336,6 +336,6 @@ Materias com bloqueio acumulado: 326
 - smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: auditoria reteve smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece informações detalhadas sobre a plataforma Water Watch, suas origens, o contexto de desigualdades em a
 
 ## Publicadas nesta rodada
-- smoke-202605162223-guadalupe-ganha-ginasio-educacional-tecnologico.md
-- smoke-202605162223-policial-militar-e-baleado-durante-confronto-no-rio-comprido.md
-- smoke-202605162223-apos-esfriamento-de-conversas-com-o-palmeiras-fluminense-ve-chances-de-retorno-de-nino-ao-elenco.md
+- smoke-202605162323-governo-do-rio-debate-agenda-2030-com-governo-sociedade-civil-e-setor-privado.md
+- smoke-202605162323-suspeitos-fogem-para-area-de-mata-e-pm-apreende-carga-de-drogas-em-marica.md
+- smoke-202605162323-praca-maua-recebe-2o-dia-da-semana-s-com-show-de-gloria-groove-lazer-e-turismo.md
