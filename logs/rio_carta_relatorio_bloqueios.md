@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T05:32:53.284Z
-Publicadas/auditadas com sucesso no historico: 813
+Atualizado em: 2026-05-16T06:33:03.835Z
+Publicadas/auditadas com sucesso no historico: 816
 Materias com bloqueio acumulado: 307
 
 ## Solucoes do cerebro aplicadas
@@ -317,6 +317,6 @@ Materias com bloqueio acumulado: 307
 - smoke-202605160523-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605160523-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
 
 ## Publicadas nesta rodada
-- smoke-202605160523-justica-aceita-recuperacao-judicial-da-saf-do-botafogo.md
-- smoke-202605160523-voo-pela-brasilidade-camisa-verde-e-branco-anuncia-ajuruetes-para-o-carnaval-2027.md
-- smoke-202605160523-hits-de-bruno-mars-ganham-versoes-orquestrais-em-apresentacao-no-rio.md
+- smoke-202605160623-caminhao-desgovernado-em-nova-friburgo-faz-quarta-vitima-fatal-video.md
+- smoke-202605160623-esposa-de-piloto-baleado-em-operacao-no-rio-atualiza-estado-de-saude-momento-dificil.md
+- smoke-202605160623-firjan-senai-abre-quase-4-mil-vagas-gratuitas-em-cursos-tecnicos-de-nivel-medio.md
