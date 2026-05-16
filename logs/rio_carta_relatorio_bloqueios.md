@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T20:34:07.645Z
-Publicadas/auditadas com sucesso no historico: 858
+Atualizado em: 2026-05-16T21:33:01.790Z
+Publicadas/auditadas com sucesso no historico: 861
 Materias com bloqueio acumulado: 325
 
 ## Solucoes do cerebro aplicadas
@@ -335,6 +335,6 @@ Materias com bloqueio acumulado: 325
 - smoke-202605162023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605162023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
 
 ## Publicadas nesta rodada
-- smoke-202605162023-mprj-pede-suspensao-de-parte-do-decreto-que-regulamenta-circulacao-de-ciclomotores-bicicletas-e.md
-- smoke-202605162023-castro-nega-irregularidades-e-diz-que-investigacao-da-pf-tem-algo-estranho.md
-- smoke-202605162023-gas-natural-pode-ter-reducao-de-2-5-a-6-5-em-todo-o-estado-do-rio-apos-acordo.md
+- smoke-202605162123-policia-apreende-6-adolescentes-por-estupro-coletivo-de-menina-de-12-anos-videos-do-crime-eram-v.md
+- smoke-202605162123-pm-e-baleado-durante-confronto-no-rio-e-socorrido-por-taxista.md
+- smoke-202605162123-jovem-criado-em-favelas-do-rio-se-torna-o-primeiro-bailarino-do-australian-ballet.md
