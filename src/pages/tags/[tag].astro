@@ -9,12 +9,24 @@ import { SITE_DESCRIPTION } from '../../consts';
 import { allRjTagSlugs, rioZones, rjRegions, topicTags } from '../../data/rjTaxonomy';
 import { sortPostsWithSticky } from '../../utils/stickyPosts';
 import vereadoresRj from '../../data/vereadores_rj.json';
+import parlamentaresRj from '../../data/parlamentares_rj.json';
 
 type Vereador = { nome: string; slug: string; partido?: string; numero?: string; votosNominaisValidos?: number };
 type CidadeVer = { cidade: string; cidadeSlug: string; total: number; vereadores: Vereador[] };
+type Parlamentar = { nome: string; slug: string; partido?: string; urlOficial?: string };
 
 const cidadesComVereadores = (vereadoresRj.cidades ?? []) as CidadeVer[];
 const cidadeVereadoresMap = new Map(cidadesComVereadores.map((c) => [c.cidadeSlug, c]));
+const deputadosEstaduais = (parlamentaresRj.deputadosEstaduais ?? []) as Parlamentar[];
+const deputadosFederais = (parlamentaresRj.deputadosFederais ?? []) as Parlamentar[];
+const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
+const parlamentaresMap = new Map(
+	[
+		...deputadosEstaduais.map((p) => [p.slug, { title: 'Deputado estadual', subtitle: p.nome, icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #d32f2f)' }]),
+		...deputadosFederais.map((p) => [p.slug, { title: p.partido ? `Deputado federal · ${p.partido}` : 'Deputado federal', subtitle: p.nome, icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #2c3e50)' }]),
+		...senadores.map((p) => [p.slug, { title: p.partido ? `Senador · ${p.partido}` : 'Senador', subtitle: p.nome, icon: '🏛️', color: 'linear-gradient(135deg, #2c3e50, #3498db)' }]),
+	] as [string, { title: string; subtitle: string; icon: string; color: string }][]
+);
 
 export async function getStaticPaths() {
 	// Slugs gerados pelo menu (Sprints 1-3): camara/prefeitura/turismo/bares por cidade,
@@ -30,6 +42,15 @@ export async function getStaticPaths() {
 	);
 	const regionTurismoSlugs = rjRegions.map((region) => `turismo-${region.slug}`);
 	const culturaSlugs = ['cultura-shows', 'cultura-teatro', 'cultura-cinema', 'cultura-exposicoes'];
+	const parlamentaresSlugs = [
+		'deputados-estaduais',
+		'parlamentares-federais-rj',
+		'deputados-federais-rj',
+		'senadores-rj',
+		...(parlamentaresRj.deputadosEstaduais ?? []).map((p: Parlamentar) => p.slug),
+		...(parlamentaresRj.deputadosFederais ?? []).map((p: Parlamentar) => p.slug),
+		...(parlamentaresRj.senadores ?? []).map((p: Parlamentar) => p.slug),
+	];
 	const opiniaoSlugs = [
 		'opiniao-diaria',
 		'colunista-heitor-vasques',
@@ -55,6 +76,7 @@ export async function getStaticPaths() {
 		...cityPoliticalSlugs,
 		...regionTurismoSlugs,
 		...culturaSlugs,
+		...parlamentaresSlugs,
 		...opiniaoSlugs,
 	];
 	const allPosts = (await getCollection('blog')).filter((post) => !post.data.draft);
@@ -107,6 +129,10 @@ const regionMap = {
 	'nacional': { title: 'Brasil', subtitle: 'Nacional', icon: '🇧🇷', color: 'linear-gradient(135deg, #009c3b, #ffdf00)' },
 	'geopolitica': { title: 'Mundo', subtitle: 'Internacional', icon: '🌍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' },
 	'eleicoes-2026': { title: 'Política', subtitle: 'Eleições 2026', icon: '🗳️', color: 'linear-gradient(135deg, #141e30, #d32f2f)' },
+	'deputados-estaduais': { title: 'Política RJ', subtitle: 'Deputados Estaduais', icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #d32f2f)' },
+	'parlamentares-federais-rj': { title: 'Política RJ', subtitle: 'Parlamentares Federais', icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #2c3e50)' },
+	'deputados-federais-rj': { title: 'Política RJ', subtitle: 'Deputados Federais', icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #2c3e50)' },
+	'senadores-rj': { title: 'Política RJ', subtitle: 'Senadores', icon: '🏛️', color: 'linear-gradient(135deg, #2c3e50, #3498db)' },
 };
 
 // Cidades por slug (pra resolver camara-{slug} / prefeitura-{slug})
@@ -179,7 +205,7 @@ function buildCouncilMeta(tag: string) {
 	return null;
 }
 
-const meta = taxonomyMeta.get(tag) || regionMap[tag] || buildCouncilMeta(tag) || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
+const meta = taxonomyMeta.get(tag) || regionMap[tag] || buildCouncilMeta(tag) || parlamentaresMap.get(tag) || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
 
 // Listar vereadores quando a tag for camara-{cidadeSlug}
 let cidadeCouncil: CidadeVer | undefined;
