@@ -1,8 +1,8 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-17T03:31:22.348Z
-Publicadas/auditadas com sucesso no historico: 879
-Materias com bloqueio acumulado: 326
+Atualizado em: 2026-05-17T04:31:14.781Z
+Publicadas/auditadas com sucesso no historico: 882
+Materias com bloqueio acumulado: 327
 
 ## Solucoes do cerebro aplicadas
 - falha editorial crítica deve segurar a publicação, corrigir e tentar novamente
@@ -334,8 +334,9 @@ Materias com bloqueio acumulado: 326
 - smoke-202605162023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: auditoria reteve smoke-202605162023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma visão aprofundada sobre a situação dos catadores de lixo em Jardim Gramacho, com citações de resi
 - smoke-202605162023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: auditoria reteve smoke-202605162023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece uma narrativa coerente e detalhada sobre o impacto das evasões forçadas realizadas na Vila Autódromo 
 - smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: auditoria reteve smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece informações detalhadas sobre a plataforma Water Watch, suas origens, o contexto de desigualdades em a
+- smoke-202605170423-policia-recupera-parte-das-cinzas-da-mae-de-passageiro-de-onibus-assaltado-na-linha-vermelha.md: auditoria reteve smoke-202605170423-policia-recupera-parte-das-cinzas-da-mae-de-passageiro-de-onibus-assaltado-na-linha-vermelha.md: veto externo consistente: deepseek: { "ok": true, "reason": "O texto apresenta coerência interna, datas | qwen: Data impossível: o texto afirma que o assalto ocorreu 'no último sábado (09/05)', mas 9 de maio de 2026 caiu em uma sexta-feira — não sábado. Em 2026, o sábado mais próximo an
 
 ## Publicadas nesta rodada
-- smoke-202605170323-serpente-de-2-metros-e-salva-por-agentes-em-niteroi-e-devolvida-a-natureza.md
-- smoke-202605170323-reporter-do-sbt-e-atingida-por-viatura-da-pm-durante-entrada-ao-vivo-no-rio.md
-- smoke-202605170323-aquela-miranda-lanca-livro-sobre-os-millennials-outras-prioridades.md
+- smoke-202605170423-moradores-da-barra-criam-novela-paralela-depois-de-operacao-com-castro.md
+- smoke-202605170423-as-provaveis-escalacoes-de-internacional-e-vasco.md
+- smoke-202605170423-navio-abandonado-no-renave-expoe-atraso.md
