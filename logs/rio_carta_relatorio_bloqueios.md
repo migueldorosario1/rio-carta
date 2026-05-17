@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-17T02:32:11.915Z
-Publicadas/auditadas com sucesso no historico: 876
+Atualizado em: 2026-05-17T03:31:22.348Z
+Publicadas/auditadas com sucesso no historico: 879
 Materias com bloqueio acumulado: 326
 
 ## Solucoes do cerebro aplicadas
@@ -336,6 +336,6 @@ Materias com bloqueio acumulado: 326
 - smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: auditoria reteve smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece informações detalhadas sobre a plataforma Water Watch, suas origens, o contexto de desigualdades em a
 
 ## Publicadas nesta rodada
-- smoke-202605170223-sao-goncalo-comeca-plano-para-reduzir-riscos-urbanos.md
-- smoke-202605170223-foi-aprovada-lei-que-proibe-rebocar-veiculos-em-blitz-nao-e-verdade.md
-- smoke-202605170223-pet-day-amigo-bicho-promete-agitar-o-domingo-no-petro.md
+- smoke-202605170323-serpente-de-2-metros-e-salva-por-agentes-em-niteroi-e-devolvida-a-natureza.md
+- smoke-202605170323-reporter-do-sbt-e-atingida-por-viatura-da-pm-durante-entrada-ao-vivo-no-rio.md
+- smoke-202605170323-aquela-miranda-lanca-livro-sobre-os-millennials-outras-prioridades.md
