@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-16T23:32:53.956Z
-Publicadas/auditadas com sucesso no historico: 867
+Atualizado em: 2026-05-17T00:31:16.273Z
+Publicadas/auditadas com sucesso no historico: 870
 Materias com bloqueio acumulado: 326
 
 ## Solucoes do cerebro aplicadas
@@ -336,6 +336,6 @@ Materias com bloqueio acumulado: 326
 - smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: auditoria reteve smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece informações detalhadas sobre a plataforma Water Watch, suas origens, o contexto de desigualdades em a
 
 ## Publicadas nesta rodada
-- smoke-202605162323-governo-do-rio-debate-agenda-2030-com-governo-sociedade-civil-e-setor-privado.md
-- smoke-202605162323-suspeitos-fogem-para-area-de-mata-e-pm-apreende-carga-de-drogas-em-marica.md
-- smoke-202605162323-praca-maua-recebe-2o-dia-da-semana-s-com-show-de-gloria-groove-lazer-e-turismo.md
+- smoke-202605170023-governo-do-rio-e-prefeitura-ampliam-integracao-entre-onibus-da-baixada-e-brt-em-iraja.md
+- smoke-202605170023-policia-civil-prende-em-niteroi-suspeito-de-serie-de-roubos-em-marica.md
+- smoke-202605170023-american-pet-vira-alvo-de-denuncia-sanitaria.md
