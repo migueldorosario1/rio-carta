@@ -118,11 +118,72 @@ const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 					<div class="nav-item dropdown">
 						<button class="dropbtn">Serviços <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></button>
 						<div class="dropdown-content">
-							<a href="/tags/servicos-emergencia" class="submenu-title" style="text-decoration: none; display: block;">Telefones de Emergência</a>
-							<a href="/tags/servicos-hospitais" class="submenu-title" style="text-decoration: none; display: block;">Hospitais & UPAs</a>
-							<a href="/tags/servicos-emprego" class="submenu-title" style="text-decoration: none; display: block;">Agências de Emprego</a>
-							<a href="/tags/servicos-assistencia" class="submenu-title" style="text-decoration: none; display: block;">Assistência Social & Abrigos</a>
-							<a href="/tags/servicos-delegacias" class="submenu-title" style="text-decoration: none; display: block;">Delegacias</a>
+							<!-- Saúde e Emergência -->
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Saúde & Emergência <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/servicos/emergencia">Telefones Úteis (190, 192, 193)</a>
+									<a href="/servicos/hospitais">Hospitais Estaduais</a>
+									<a href="/servicos/upas">UPAs 24h</a>
+								</div>
+							</div>
+
+							<!-- Segurança / Delegacias -->
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Segurança (Delegacias) <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									<div class="submenu-section">
+										<span class="submenu-section-title">Especializadas</span>
+										<a href="/servicos/delegacias/deam">Delegacias da Mulher (DEAM)</a>
+										<a href="/servicos/delegacias/deat">Apoio ao Turista (DEAT)</a>
+									</div>
+									<div class="submenu-section">
+										<span class="submenu-section-title">Por Região</span>
+										<a href="/servicos/delegacias/capital">1ª a 42ª DP (Capital)</a>
+										<a href="/servicos/delegacias/baixada">DPs da Baixada Fluminense</a>
+										<a href="/servicos/delegacias/interior">DPs do Interior do Estado</a>
+									</div>
+								</div>
+							</div>
+
+							<!-- Detran e Documentos -->
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Detran & Cidadania <span>▶</span></span>
+								<div class="submenu-content submenu-content-wide">
+									<div class="submenu-section">
+										<span class="submenu-section-title">Postos Detran-RJ</span>
+										<a href="/servicos/detran/capital">Postos Capital (Endereço e Tel)</a>
+										<a href="/servicos/detran/baixada">Postos Baixada (Endereço e Tel)</a>
+										<a href="/servicos/detran/interior">Postos Interior (Endereço e Tel)</a>
+									</div>
+									<div class="submenu-section">
+										<span class="submenu-section-title">Outros</span>
+										<a href="/servicos/poupatempo">Fundação Leão XIII / Poupatempo</a>
+										<a href="/servicos/procon">PROCON-RJ</a>
+									</div>
+								</div>
+							</div>
+
+							<!-- Transportes -->
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Transportes & Viagem <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/servicos/aeroportos">Aeroportos (Galeão, SDU, Jacarepaguá)</a>
+									<a href="/servicos/rodoviarias">Rodoviária Novo Rio e Terminais</a>
+									<a href="/servicos/barcas">Barcas (CCR)</a>
+									<a href="/servicos/trens-metro">SuperVia e MetrôRio</a>
+								</div>
+							</div>
+
+							<!-- Educação e Social -->
+							<div class="dropdown-submenu">
+								<span class="submenu-title">Educação & Social <span>▶</span></span>
+								<div class="submenu-content">
+									<a href="/servicos/universidades">Universidades (UFRJ, UERJ, UFF, UNIRIO)</a>
+									<a href="/servicos/emprego">Agências de Emprego (SINE)</a>
+									<a href="/servicos/assistencia">Assistência Social e Abrigos</a>
+								</div>
+							</div>
 						</div>
 					</div>
 
