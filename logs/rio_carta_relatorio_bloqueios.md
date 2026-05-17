@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-17T00:31:16.273Z
-Publicadas/auditadas com sucesso no historico: 870
+Atualizado em: 2026-05-17T01:33:19.912Z
+Publicadas/auditadas com sucesso no historico: 873
 Materias com bloqueio acumulado: 326
 
 ## Solucoes do cerebro aplicadas
@@ -336,6 +336,6 @@ Materias com bloqueio acumulado: 326
 - smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: auditoria reteve smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in.md: falha local critica: texto/categoria precisa revisao; votos=[{"auditor":"deepseek","ok":null,"reason":"resposta sem JSON util"},{"auditor":"kimi","ok":true,"reason":"O texto fornece informações detalhadas sobre a plataforma Water Watch, suas origens, o contexto de desigualdades em a
 
 ## Publicadas nesta rodada
-- smoke-202605170023-governo-do-rio-e-prefeitura-ampliam-integracao-entre-onibus-da-baixada-e-brt-em-iraja.md
-- smoke-202605170023-policia-civil-prende-em-niteroi-suspeito-de-serie-de-roubos-em-marica.md
-- smoke-202605170023-american-pet-vira-alvo-de-denuncia-sanitaria.md
+- smoke-202605170123-praca-ze-do-caroco-e-revitalizada-e-vira-area-de-lazer-no-morro-dos-macacos.md
+- smoke-202605170123-assaltante-que-aterrorizava-mulheres-em-marica-e-preso-em-niteroi-video.md
+- smoke-202605170123-alvaro-tallarico-rj-recebe-festival-infantil-kidzhouse-feira-fitness-rio-sport-show-exposicoes-e.md
