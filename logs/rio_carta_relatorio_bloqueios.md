@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-17T05:31:38.698Z
-Publicadas/auditadas com sucesso no historico: 885
+Atualizado em: 2026-05-17T06:31:26.591Z
+Publicadas/auditadas com sucesso no historico: 888
 Materias com bloqueio acumulado: 327
 
 ## Solucoes do cerebro aplicadas
@@ -337,6 +337,6 @@ Materias com bloqueio acumulado: 327
 - smoke-202605170423-policia-recupera-parte-das-cinzas-da-mae-de-passageiro-de-onibus-assaltado-na-linha-vermelha.md: auditoria reteve smoke-202605170423-policia-recupera-parte-das-cinzas-da-mae-de-passageiro-de-onibus-assaltado-na-linha-vermelha.md: veto externo consistente: deepseek: { "ok": true, "reason": "O texto apresenta coerência interna, datas | qwen: Data impossível: o texto afirma que o assalto ocorreu 'no último sábado (09/05)', mas 9 de maio de 2026 caiu em uma sexta-feira — não sábado. Em 2026, o sábado mais próximo an
 
 ## Publicadas nesta rodada
-- smoke-202605170523-niteroi-tera-concerto-a-preco-popular-em-comemoracao-aos-25-anos-do-aprendiz-musical.md
-- smoke-202605170523-idoso-e-preso-por-contrabando-de-medicamentos-no-aeroporto-do-galeao.md
-- smoke-202605170523-skincare-virou-entretenimento-e-o-rio-entrou-no-centro-dessa-industria.md
+- smoke-202605170623-zeca-pagodinho-vira-filme-quais-outros-musicos-cariocas-tem-cinebiografias.md
+- smoke-202605170623-preso-em-sp-acusado-de-matar-homem-estrangulado-em-sao-goncalo.md
+- smoke-202605170623-tres-bares-no-rio-ganham-drinks-especiais-com-bourbon-em-acao-da-jim-beam.md
