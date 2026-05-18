@@ -7,6 +7,8 @@ import { rioZones, rjRegions } from '../data/rjTaxonomy';
 import vereadoresRj from '../data/vereadores_rj.json';
 import parlamentaresRj from '../data/parlamentares_rj.json';
 import deputadosEstaduaisEleitosRj from '../data/deputados_estaduais_eleitos_rj_2022.json';
+import deputadosFederaisEleitosRj from '../data/deputados_federais_eleitos_rj_2022.json';
+import senadoresEleitosRj from '../data/senadores_eleitos_rj_2022.json';
 
 const pathname = Astro.url.pathname;
 const isHome = pathname === '/' || pathname === '/index.html';
@@ -40,12 +42,15 @@ type DeputadoEstadualEleito = {
 	percentualEstado: number;
 };
 
+type ParlamentarEleito = DeputadoEstadualEleito;
+
 const cidadesComVereadores = (vereadoresRj.cidades ?? []) as CidadeVereadores[];
 const vereadoresPorCidade = new Map(cidadesComVereadores.map((cidade) => [cidade.cidadeSlug, cidade.vereadores]));
 const limiteVereadoresMenu = 18;
 const deputadosEstaduais = (deputadosEstaduaisEleitosRj.deputados ?? []) as DeputadoEstadualEleito[];
-const deputadosFederais = (parlamentaresRj.deputadosFederais ?? []) as Parlamentar[];
-const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
+const deputadosFederais = (deputadosFederaisEleitosRj.deputadosFederais ?? []) as ParlamentarEleito[];
+const senadoresEleitos = (senadoresEleitosRj.senadores ?? []) as ParlamentarEleito[];
+const senadoresEmExercicio = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 ---
 
 <header class={`premium-header ${isHome ? 'header-home' : 'header-article'}`}>
@@ -202,16 +207,28 @@ const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 								<span class="submenu-title">Parlamentares Federais <span>▶</span></span>
 								<div class="submenu-content submenu-content-wide submenu-content-parliament">
 									<div class="submenu-section">
-										<span class="submenu-section-title">Deputados Federais</span>
+										<a href="/tags/deputados-federais-rj" class="submenu-section-title">Deputados Federais por votação</a>
 										{deputadosFederais.map((deputado) => (
-											<a href={`/tags/${deputado.slug}`} title={`${deputado.nome}${deputado.partido ? ` (${deputado.partido})` : ''}`}>
-												{deputado.nome}
+											<a href={`/tags/${deputado.slug}`} class="parliament-link" title={`${deputado.nome} (${deputado.partido}) · ${deputado.votos.toLocaleString('pt-BR')} votos · ${deputado.percentualEstado.toFixed(2)}%`}>
+												<span class="parliament-name">{deputado.nome}</span>
+												<small class="parliament-meta">
+													{deputado.partido} · {deputado.votos.toLocaleString('pt-BR')} votos · {deputado.percentualEstado.toFixed(2)}%
+												</small>
 											</a>
 										))}
 									</div>
 									<div class="submenu-section">
-										<span class="submenu-section-title">Senadores</span>
-										{senadores.map((senador) => (
+										<a href="/tags/senadores-rj" class="submenu-section-title">Senador eleito em 2022</a>
+										{senadoresEleitos.map((senador) => (
+											<a href={`/tags/${senador.slug}`} class="parliament-link" title={`${senador.nome} (${senador.partido}) · ${senador.votos.toLocaleString('pt-BR')} votos · ${senador.percentualEstado.toFixed(2)}%`}>
+												<span class="parliament-name">{senador.nome}</span>
+												<small class="parliament-meta">
+													{senador.partido} · {senador.votos.toLocaleString('pt-BR')} votos · {senador.percentualEstado.toFixed(2)}%
+												</small>
+											</a>
+										))}
+										<span class="submenu-section-title">Senadores em exercício</span>
+										{senadoresEmExercicio.map((senador) => (
 											<a href={`/tags/${senador.slug}`} title={`${senador.nome}${senador.partido ? ` (${senador.partido})` : ''}`}>
 												{senador.nome}
 											</a>

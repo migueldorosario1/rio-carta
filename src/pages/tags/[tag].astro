@@ -12,6 +12,8 @@ import { sortPostsWithSticky } from '../../utils/stickyPosts';
 import vereadoresRj from '../../data/vereadores_rj.json';
 import parlamentaresRj from '../../data/parlamentares_rj.json';
 import deputadosEstaduaisEleitosRj from '../../data/deputados_estaduais_eleitos_rj_2022.json';
+import deputadosFederaisEleitosRj from '../../data/deputados_federais_eleitos_rj_2022.json';
+import senadoresEleitosRj from '../../data/senadores_eleitos_rj_2022.json';
 
 type Vereador = { nome: string; slug: string; partido?: string; numero?: string; votosNominaisValidos?: number; percentualMunicipio?: number };
 type CidadeVer = { cidade: string; cidadeSlug: string; total: number; totalVotosNominaisMunicipio?: number; vereadores: Vereador[] };
@@ -27,15 +29,21 @@ type DeputadoEstadualEleito = {
 	percentualEstado: number;
 	situacao: string;
 };
+type DeputadoFederalEleito = Omit<DeputadoEstadualEleito, 'deputado'> & { deputado_federal: string };
+type SenadorEleito = Omit<DeputadoEstadualEleito, 'deputado'> & { senador: string };
 
 const cidadesComVereadores = (vereadoresRj.cidades ?? []) as CidadeVer[];
 const cidadeVereadoresMap = new Map(cidadesComVereadores.map((c) => [c.cidadeSlug, c]));
 const deputadosEstaduaisEleitos = (deputadosEstaduaisEleitosRj.deputados ?? []) as DeputadoEstadualEleito[];
+const deputadosFederaisEleitos = (deputadosFederaisEleitosRj.deputadosFederais ?? []) as DeputadoFederalEleito[];
+const senadoresEleitos = (senadoresEleitosRj.senadores ?? []) as SenadorEleito[];
 const deputadosFederais = (parlamentaresRj.deputadosFederais ?? []) as Parlamentar[];
 const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 const parlamentaresMap = new Map(
 	[
 		...deputadosEstaduaisEleitos.map((p) => [p.slug, { title: p.partido ? `Deputado estadual · ${p.partido}` : 'Deputado estadual', subtitle: p.nome, icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #d32f2f)' }]),
+		...deputadosFederaisEleitos.map((p) => [p.slug, { title: p.partido ? `Deputado federal · ${p.partido}` : 'Deputado federal', subtitle: p.nome, icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #2c3e50)' }]),
+		...senadoresEleitos.map((p) => [p.slug, { title: p.partido ? `Senador · ${p.partido}` : 'Senador', subtitle: p.nome, icon: '🏛️', color: 'linear-gradient(135deg, #2c3e50, #3498db)' }]),
 		...deputadosFederais.map((p) => [p.slug, { title: p.partido ? `Deputado federal · ${p.partido}` : 'Deputado federal', subtitle: p.nome, icon: '🏛️', color: 'linear-gradient(135deg, #141e30, #2c3e50)' }]),
 		...senadores.map((p) => [p.slug, { title: p.partido ? `Senador · ${p.partido}` : 'Senador', subtitle: p.nome, icon: '🏛️', color: 'linear-gradient(135deg, #2c3e50, #3498db)' }]),
 	] as [string, { title: string; subtitle: string; icon: string; color: string }][]
@@ -61,6 +69,8 @@ export async function getStaticPaths() {
 		'deputados-federais-rj',
 		'senadores-rj',
 		...(deputadosEstaduaisEleitosRj.deputados ?? []).map((p: DeputadoEstadualEleito) => p.slug),
+		...(deputadosFederaisEleitosRj.deputadosFederais ?? []).map((p: DeputadoFederalEleito) => p.slug),
+		...(senadoresEleitosRj.senadores ?? []).map((p: SenadorEleito) => p.slug),
 		...(parlamentaresRj.deputadosFederais ?? []).map((p: Parlamentar) => p.slug),
 		...(parlamentaresRj.senadores ?? []).map((p: Parlamentar) => p.slug),
 	];
@@ -226,6 +236,8 @@ if (tag.startsWith('camara-')) {
 	cidadeCouncil = cidadeVereadoresMap.get(tag.replace(/^camara-/, ''));
 }
 const deputadosEstaduaisRoster = tag === 'deputados-estaduais' ? deputadosEstaduaisEleitos : [];
+const deputadosFederaisRoster = tag === 'deputados-federais-rj' ? deputadosFederaisEleitos : [];
+const senadoresRoster = tag === 'senadores-rj' ? senadoresEleitos : [];
 
 const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace(/^camara-/, ''));
 ---
@@ -432,6 +444,12 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 				{deputadosEstaduaisRoster.length > 0 && (
 					<p class="tag-counter">{deputadosEstaduaisRoster.length} deputados estaduais eleitos em 2022</p>
 				)}
+				{deputadosFederaisRoster.length > 0 && (
+					<p class="tag-counter">{deputadosFederaisRoster.length} deputados federais eleitos em 2022</p>
+				)}
+				{senadoresRoster.length > 0 && (
+					<p class="tag-counter">{senadoresRoster.length} senador eleito em 2022</p>
+				)}
 			</div>
 
 			{cidadeCouncil && (
@@ -466,6 +484,44 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 									</small>
 								</span>
 								<span class="roster-party">{deputado.partido}</span>
+							</li>
+						))}
+					</ul>
+				</section>
+			)}
+
+			{deputadosFederaisRoster.length > 0 && (
+				<section class="council-roster">
+					<h2 class="roster-title">Deputados federais eleitos — Rio de Janeiro</h2>
+					<ul class="roster-list">
+						{deputadosFederaisRoster.map((deputado) => (
+							<li class="roster-item">
+								<span class="roster-name">
+									{deputado.nome}
+									<small class="roster-votes">
+										{deputado.votos.toLocaleString('pt-BR')} votos · {deputado.percentualEstado.toFixed(2)}% dos votos nominais estaduais · nº {deputado.numero}
+									</small>
+								</span>
+								<span class="roster-party">{deputado.partido}</span>
+							</li>
+						))}
+					</ul>
+				</section>
+			)}
+
+			{senadoresRoster.length > 0 && (
+				<section class="council-roster">
+					<h2 class="roster-title">Senador eleito — Rio de Janeiro</h2>
+					<ul class="roster-list">
+						{senadoresRoster.map((senador) => (
+							<li class="roster-item">
+								<span class="roster-name">
+									{senador.nome}
+									<small class="roster-votes">
+										{senador.votos.toLocaleString('pt-BR')} votos · {senador.percentualEstado.toFixed(2)}% dos votos nominais estaduais · nº {senador.numero}
+									</small>
+								</span>
+								<span class="roster-party">{senador.partido}</span>
 							</li>
 						))}
 					</ul>
