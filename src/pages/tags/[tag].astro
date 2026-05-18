@@ -455,14 +455,21 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 	white-space: nowrap;
 	letter-spacing: 0.5px;
 }
-.roster-votes {
-	display: block;
-	font-size: 0.8rem;
-	font-weight: 500;
-	color: #666;
-	margin-top: 0.2rem;
-	line-height: 1.3;
-}
+			.roster-votes {
+				display: block;
+				font-size: 0.8rem;
+				font-weight: 500;
+				color: #666;
+				margin-top: 0.2rem;
+				line-height: 1.3;
+			}
+			.prefeitura-roster .roster-votes {
+				font-size: 1rem;
+				font-weight: 650;
+				color: #24364b;
+				line-height: 1.45;
+				margin-top: 0.35rem;
+			}
 			@media (max-width: 720px) {
 				.council-roster { padding: 1rem; }
 				.roster-list { grid-template-columns: 1fr; }
@@ -517,7 +524,7 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 			)}
 
 			{cidadePrefeitura && (
-				<section class="council-roster">
+				<section class="council-roster prefeitura-roster">
 					<h2 class="roster-title">Prefeitura — {cidadePrefeitura.municipio}</h2>
 					<ul class="roster-list roster-list-single">
 						<li class="roster-item">
