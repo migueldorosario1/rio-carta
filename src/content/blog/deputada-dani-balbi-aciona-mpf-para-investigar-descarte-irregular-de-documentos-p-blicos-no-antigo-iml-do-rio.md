@@ -1,7 +1,7 @@
 ---
 title: "Deputada Dani Balbi aciona MPF para investigar descarte irregular de documentos públicos no antigo IML do Rio"
 description: "Após denúncias de descarte irregular de documentos públicos no antigo prédio do IML, na Lapa, a deputada estadual Dani Balbi acionou o Ministério Público Federal para investigar possíveis violações à preservação da memória institucional e do patrimônio histórico do Rio de Janeiro."
-pubDate: "2026-05-18T16:20:45Z"
+pubDate: "2026-05-18T16:27:59Z"
 category: ["Pol\u00edtica"]
 tags: ["dops", "dani-balbi", "mpf"]
 heroImage: "/hero/deputada-dani-balbi-aciona-mpf-para-investigar-descarte-irregular-de-documentos-p-blicos-no-antigo-iml-do-rio.jpg"
