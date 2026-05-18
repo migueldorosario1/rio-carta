@@ -1,7 +1,7 @@
 {
   "schemaVersion": "v1",
   "source": "TSE votacao_candidato_munzona_2022_RJ.csv",
-  "criterio": "Deputados estaduais eleitos em 2022; percentual sobre total de votos nominais para deputado estadual no RJ.",
+  "criterio": "Deputados estaduais eleitos em 2022; percentual sobre total de votos válidos nominais para deputado estadual no RJ.",
   "total": 70,
   "deputados": [
     {

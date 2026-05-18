@@ -189,8 +189,11 @@ const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 								<div class="submenu-content submenu-content-wide">
 									<a href="/tags/deputados-estaduais" class="submenu-section-title">Lista completa por votação</a>
 									{deputadosEstaduais.map((deputado) => (
-										<a href={`/tags/${deputado.slug}`} title={`${deputado.nome} (${deputado.partido}) · ${deputado.votos.toLocaleString('pt-BR')} votos`}>
-											{deputado.nome}
+										<a href={`/tags/${deputado.slug}`} class="parliament-link" title={`${deputado.nome} (${deputado.partido}) · ${deputado.votos.toLocaleString('pt-BR')} votos · ${deputado.percentualEstado.toFixed(2)}%`}>
+											<span class="parliament-name">{deputado.nome}</span>
+											<small class="parliament-meta">
+												{deputado.partido} · {deputado.votos.toLocaleString('pt-BR')} votos · {deputado.percentualEstado.toFixed(2)}%
+											</small>
 										</a>
 									))}
 								</div>
@@ -312,7 +315,7 @@ const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 	@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Lora:ital,wght@1,500&family=Outfit:wght@500;600&display=swap');
 
 	.premium-header {
-		position: sticky;
+		position: relative;
 		top: 0;
 		z-index: 1000;
 		background: rgba(255, 255, 255, 0.95);
@@ -630,18 +633,30 @@ const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 		padding-left: 1.2rem;
 	}
 
+	.submenu-content a.parliament-link {
+		line-height: 1.25;
+	}
+
+	.parliament-name {
+		display: block;
+		font-weight: 700;
+	}
+
+	.parliament-meta {
+		display: block;
+		margin-top: 0.15rem;
+		color: #667085;
+		font-size: 0.76rem;
+		font-weight: 600;
+	}
+
 	/* Mobile Responsiveness */
 	@media (max-width: 768px) {
 		.premium-header {
 			padding: 0.5rem;
 		}
-		.header-home {
-			position: relative; /* Not sticky on home so it doesn't take up space */
-		}
 		.header-article {
-			position: sticky;
-			top: 0;
-			padding: 0.2rem 0.5rem;
+			position: relative;
 		}
 		.navbar {
 			grid-template-columns: 1fr;
@@ -691,22 +706,6 @@ const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 		}
 		.row-social {
 			display: none;
-		}
-		.header-article .row-slogan {
-			display: none;
-		}
-		.header-article .row-social {
-			display: none;
-		}
-		.header-article .logo-link {
-			min-height: 50px;
-			width: 140px;
-		}
-		.header-article .logo-img {
-			max-width: 140px;
-		}
-		.header-article .dropbtn {
-			font-size: 0.9rem;
 		}
 		.nav-item {
 			position: static;
