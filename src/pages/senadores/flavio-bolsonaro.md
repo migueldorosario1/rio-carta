@@ -3,13 +3,14 @@ title: "Flávio Bolsonaro"
 tag: "Senadores"
 cidade: "Rio de Janeiro"
 partido: "PL"
+eleicao: "2018"
+votos: 4380418
+percentual: 30.8
+situacao: "ELEITO"
 data: "2026-05-18"
 layout: ../../layouts/LayoutPerfil.astro
 ---
 
+Flávio Bolsonaro é senador pelo Rio de Janeiro, eleito em 2018 com **4.380.418 votos** (30,8% dos votos válidos para senador no estado). Atualmente filiado ao PL.
 
-Esta é a página oficial consolidada para **Flávio Bolsonaro**, listado sob a categoria de senadores.
-
-*(Conteúdo autônomo gerado pelo Agente Auditor do Rio Carta)*
-
-Os dados eleitorais e as proposições vinculadas a este perfil são sincronizados automaticamente a partir de nossas bases de dados consolidadas do TSE.
+*(Conteúdo autônomo gerado pelo Agente Auditor do Rio Carta. Dados eleitorais provenientes do TSE.)*
