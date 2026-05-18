@@ -3,7 +3,7 @@ title: "Zeca Pagodinho vira filme: quais outros músicos cariocas têm cinebiogr
 description: "Zeca Pagodinho vira filme: quais outros músicos cariocas têm cinebiografias Artista do rock, do samba e do hip hop também tiveram suas trajetórias celebradas em longas-metragens No"
 pubDate: "2026-05-17T06:23:13Z"
 draft: false
-tags: ["rio-de-janeiro", "musica", "cinebiografias", "cultura-carnaval", "capital", "tijuca", "ilha-do-governador", "mare", "rocha", "transporte-mobilidade", "saude", "politica-rj"]
+tags: ["rio-de-janeiro", "musica", "cinebiografias", "cultura-carnaval", "capital", "tijuca", "ilha-do-governador", "lazer"]
 heroImage: "/hero/smoke-smoke-202605170623-zeca-pagodinho-vira-filme-quais-outros-musicos-cariocas-tem-cinebiografias.webp"
 ---
 Artista do rock, do samba e do hip hop também tiveram suas trajetórias celebradas em longas-metragens

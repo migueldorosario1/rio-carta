@@ -6,7 +6,7 @@ partido: "PL"
 eleicao: "2018"
 votos: null
 percentual: null
-situacao: "Suplente"
+situacao: "Suplente do senador Arolde de Oliveira"
 data: "2026-05-18"
 layout: ../../layouts/LayoutPerfil.astro
 ---
