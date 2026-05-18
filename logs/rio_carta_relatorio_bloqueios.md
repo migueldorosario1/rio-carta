@@ -1,7 +1,7 @@
 # Rio Carta - Relatorio horario de bloqueios
 
-Atualizado em: 2026-05-17T06:31:26.591Z
-Publicadas/auditadas com sucesso no historico: 888
+Atualizado em: 2026-05-18T03:31:34.927Z
+Publicadas/auditadas com sucesso no historico: 891
 Materias com bloqueio acumulado: 327
 
 ## Solucoes do cerebro aplicadas
@@ -337,6 +337,6 @@ Materias com bloqueio acumulado: 327
 - smoke-202605170423-policia-recupera-parte-das-cinzas-da-mae-de-passageiro-de-onibus-assaltado-na-linha-vermelha.md: auditoria reteve smoke-202605170423-policia-recupera-parte-das-cinzas-da-mae-de-passageiro-de-onibus-assaltado-na-linha-vermelha.md: veto externo consistente: deepseek: { "ok": true, "reason": "O texto apresenta coerência interna, datas | qwen: Data impossível: o texto afirma que o assalto ocorreu 'no último sábado (09/05)', mas 9 de maio de 2026 caiu em uma sexta-feira — não sábado. Em 2026, o sábado mais próximo an
 
 ## Publicadas nesta rodada
-- smoke-202605170623-zeca-pagodinho-vira-filme-quais-outros-musicos-cariocas-tem-cinebiografias.md
-- smoke-202605170623-preso-em-sp-acusado-de-matar-homem-estrangulado-em-sao-goncalo.md
-- smoke-202605170623-tres-bares-no-rio-ganham-drinks-especiais-com-bourbon-em-acao-da-jim-beam.md
+- smoke-202605180323-barricada-zero-trafico-recebeu-detalhes-de-operacoes-antes-do-anuncio-feito-pelo-governo.md
+- smoke-202605180323-como-uma-pequena-igreja-do-centro-do-rio-virou-referencia-nacional-na-recuperacao-de-arte-sacra.md
+- smoke-202605180323-quando-brasil-faz-40-anos-da-noite-dos-ovnis-trump-quebra-sigilo.md
