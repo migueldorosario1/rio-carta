@@ -6,7 +6,7 @@ partido: "PL"
 eleicao: "2018"
 votos: null
 percentual: null
-situacao: "SUPLENTE EFETIVADO"
+situacao: "Suplente"
 data: "2026-05-18"
 layout: ../../layouts/LayoutPerfil.astro
 ---
