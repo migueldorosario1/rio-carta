@@ -7,7 +7,6 @@ data: "2026-05-18"
 layout: ../../layouts/LayoutPerfil.astro
 ---
 
-# Prefeitura do Rio de Janeiro
 
 Esta é a página oficial consolidada para **Prefeitura do Rio de Janeiro**, listado sob a categoria de prefeituras.
 

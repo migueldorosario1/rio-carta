@@ -7,7 +7,6 @@ data: "2026-05-18"
 layout: ../../layouts/LayoutPerfil.astro
 ---
 
-# Prefeitura de Niterói
 
 Esta é a página oficial consolidada para **Prefeitura de Niterói**, listado sob a categoria de prefeituras.
 

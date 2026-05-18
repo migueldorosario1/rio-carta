@@ -7,7 +7,6 @@ data: "2026-05-18"
 layout: ../../layouts/LayoutPerfil.astro
 ---
 
-# Flávio Bolsonaro
 
 Esta é a página oficial consolidada para **Flávio Bolsonaro**, listado sob a categoria de senadores.
 

@@ -7,7 +7,6 @@ data: "2026-05-18"
 layout: ../../layouts/LayoutPerfil.astro
 ---
 
-# Carlos Portinho
 
 Esta é a página oficial consolidada para **Carlos Portinho**, listado sob a categoria de senadores.
 

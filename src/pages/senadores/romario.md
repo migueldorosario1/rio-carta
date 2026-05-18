@@ -7,7 +7,6 @@ data: "2026-05-18"
 layout: ../../layouts/LayoutPerfil.astro
 ---
 
-# Romário
 
 Esta é a página oficial consolidada para **Romário**, listado sob a categoria de senadores.
 

@@ -20,10 +20,12 @@ const { title, description = title, pubDate = new Date(), heroImage, noindex = f
 		{noindex && <meta name="robots" content="noindex,nofollow" />}
 		<style>
 			main {
-				width: 960px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 3em 1em;
+				width: 100% !important;
+				max-width: 960px !important;
+				margin: 0 auto !important;
+				padding: 2rem 1.5rem;
+				box-sizing: border-box;
+				text-align: left;
 			}
 			.profile-header {
 				background: #f7f9fc;
@@ -32,6 +34,7 @@ const { title, description = title, pubDate = new Date(), heroImage, noindex = f
 				padding: 3rem 2rem;
 				margin-bottom: 2rem;
 				text-align: center;
+				box-sizing: border-box;
 			}
 			.profile-header h1 {
 				font-size: 2.5rem;
@@ -44,13 +47,17 @@ const { title, description = title, pubDate = new Date(), heroImage, noindex = f
 			.prose {
 				max-width: 720px;
 				margin: 0 auto;
+				padding: 0 1rem;
 				color: #333;
 				line-height: 1.8;
+				text-align: left;
+				box-sizing: border-box;
 			}
 			@media (max-width: 720px) {
-				main { padding: 1em; }
+				main { padding: 1rem; }
 				.profile-header { padding: 2rem 1rem; border-radius: 0; }
 				.profile-header h1 { font-size: 1.8rem; }
+				.prose { padding: 0 0.5rem; }
 			}
 		</style>
 	</head>
