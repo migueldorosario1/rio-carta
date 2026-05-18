@@ -205,7 +205,7 @@ const senadoresEmExercicio = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 							</div>
 							<div class="dropdown-submenu">
 								<span class="submenu-title">Parlamentares Federais <span>▶</span></span>
-								<div class="submenu-content submenu-content-wide submenu-content-parliament">
+								<div class="submenu-content submenu-content-wide submenu-content-parliament submenu-content-left">
 									<div class="submenu-section">
 										<a href="/tags/deputados-federais-rj" class="submenu-section-title">Deputados Federais por votação</a>
 										{deputadosFederais.map((deputado) => (
@@ -592,8 +592,17 @@ const senadoresEmExercicio = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 		}
 
 		.submenu-content-parliament {
-			min-width: min(760px, 72vw);
-			grid-template-columns: minmax(300px, 2fr) minmax(180px, 1fr);
+			width: min(720px, calc(100vw - 3rem));
+			min-width: 0;
+			grid-template-columns: minmax(300px, 1.8fr) minmax(220px, 1fr);
+		}
+
+		.submenu-content-left {
+			left: auto;
+			right: 100%;
+			margin-left: 0;
+			margin-right: 0.5rem;
+			transform: translateX(-10px);
 		}
 
 	.council-city {
