@@ -6,6 +6,7 @@ import { Image } from 'astro:assets';
 import { rioZones, rjRegions } from '../data/rjTaxonomy';
 import vereadoresRj from '../data/vereadores_rj.json';
 import parlamentaresRj from '../data/parlamentares_rj.json';
+import deputadosEstaduaisEleitosRj from '../data/deputados_estaduais_eleitos_rj_2022.json';
 
 const pathname = Astro.url.pathname;
 const isHome = pathname === '/' || pathname === '/index.html';
@@ -30,10 +31,19 @@ type Parlamentar = {
 	urlOficial?: string;
 };
 
+type DeputadoEstadualEleito = {
+	nome: string;
+	slug: string;
+	partido: string;
+	numero: string;
+	votos: number;
+	percentualEstado: number;
+};
+
 const cidadesComVereadores = (vereadoresRj.cidades ?? []) as CidadeVereadores[];
 const vereadoresPorCidade = new Map(cidadesComVereadores.map((cidade) => [cidade.cidadeSlug, cidade.vereadores]));
 const limiteVereadoresMenu = 18;
-const deputadosEstaduais = (parlamentaresRj.deputadosEstaduais ?? []) as Parlamentar[];
+const deputadosEstaduais = (deputadosEstaduaisEleitosRj.deputados ?? []) as DeputadoEstadualEleito[];
 const deputadosFederais = (parlamentaresRj.deputadosFederais ?? []) as Parlamentar[];
 const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 ---
@@ -177,8 +187,9 @@ const senadores = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 							<div class="dropdown-submenu">
 								<span class="submenu-title">Deputados Estaduais <span>▶</span></span>
 								<div class="submenu-content submenu-content-wide">
+									<a href="/tags/deputados-estaduais" class="submenu-section-title">Lista completa por votação</a>
 									{deputadosEstaduais.map((deputado) => (
-										<a href={`/tags/${deputado.slug}`} title={deputado.urlOficial ? `${deputado.nome} — ALERJ` : deputado.nome}>
+										<a href={`/tags/${deputado.slug}`} title={`${deputado.nome} (${deputado.partido}) · ${deputado.votos.toLocaleString('pt-BR')} votos`}>
 											{deputado.nome}
 										</a>
 									))}

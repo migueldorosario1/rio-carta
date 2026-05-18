@@ -329,7 +329,7 @@ export const rjRegions: TaxonomyGroup[] = [
 ];
 
 export const topicTags: TaxonomyLink[] = [
-	{ label: 'Política RJ', slug: 'politica-rj' },
+	{ label: 'Política', slug: 'politica-rj' },
 	{ label: 'Segurança Pública', slug: 'seguranca-publica' },
 	{ label: 'Transporte e Mobilidade', slug: 'transporte-mobilidade' },
 	{ label: 'Saúde', slug: 'saude' },
