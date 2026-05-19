@@ -1,6 +1,9 @@
 # build output
 dist/
 dist.bak_*/
+Backups/
+alerj.html
+tabela_alerj.html
 # generated types
 .astro/
 .astro.bak_*/
