@@ -826,8 +826,6 @@ if (commitAndPush) {
     'package.json',
     'scripts/riocarta_hourly_cron.sh',
     'scripts/riocarta_publish_hourly_batch.mjs',
-    'logs/rio_carta_publication_audit.jsonl',
-    'logs/rio_carta_relatorio_bloqueios.md',
     'src/content.config.ts',
     'src/components/Interlinks.astro',
     'src/pages/blog/[...slug].astro',
