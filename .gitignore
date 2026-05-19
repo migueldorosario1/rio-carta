@@ -1,12 +1,17 @@
 # build output
 dist/
+dist.bak_*/
 # generated types
 .astro/
+.astro.bak_*/
 
 # dependencies
 node_modules/
+__pycache__/
+**/__pycache__/
 
 # logs
+logs/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
