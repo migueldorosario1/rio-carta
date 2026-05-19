@@ -6,8 +6,6 @@ draft: true
 tags: ["rio-de-janeiro", "cosme-velho", "cultura-carnaval", "capital", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605170623-e-vez-de-waltercio-caldas-na-casa-roberto-marinho-o-tempo.jpg"
 ---
-É vez de Waltercio Caldas na Casa Roberto Marinho: “O (tempo)”
-
 São 110 trabalhos de diferentes períodos que investigam as relações entre tempo, espaço e percepção
 
 Por Daniela
