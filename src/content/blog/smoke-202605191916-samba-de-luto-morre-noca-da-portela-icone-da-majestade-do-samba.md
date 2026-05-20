@@ -2,7 +2,7 @@
 title: "Samba de luto: morre Noca da Portela, ícone da Majestade do Samba"
 description: "O samba perdeu neste domingo um de seus maiores nomes. Morreu o cantor, compositor e instrumentista Noca da Portela, referência histórica da música popular brasileira e um dos auto"
 pubDate: "2026-05-19T19:16:57Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "cultura-carnaval", "madureira", "oswaldo-cruz", "educacao"]
 heroImage: "/hero/smoke-smoke-202605191916-samba-de-luto-morre-noca-da-portela-icone-da-majestade-do-samba.jpg"
 ---
