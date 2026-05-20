@@ -2,7 +2,7 @@
 title: "Crise invisível: moradores do Complexo do Alemão sofrem com falta de abastecimento contínuo de água"
 description: "A falta de água no Complexo do Alemão, zona norte do Rio, atravessou o limite do aceitável e virou uma crise de saúde pública. No último feriado de abril, o desabastecimento castig"
 pubDate: "2026-05-19T19:17:02Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "zona-norte", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "complexo", "alemao", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605191916-crise-invisivel-moradores-do-complexo-do-alemao-sofrem-com-falta-de-abastecimento-continuo-de-ag.jpg"
 ---
