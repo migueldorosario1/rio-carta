@@ -8,6 +8,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "hero:compress:dry": "node scripts/comprimir_hero.mjs --dry-run",
+    "hero:compress": "node scripts/comprimir_hero.mjs --apply",
     "riocarta:publish-hourly": "node scripts/riocarta_publish_hourly_batch.mjs --commit",
     "riocarta:audit-current": "node scripts/riocarta_publish_hourly_batch.mjs --audit-current",
     "preview": "astro preview",
