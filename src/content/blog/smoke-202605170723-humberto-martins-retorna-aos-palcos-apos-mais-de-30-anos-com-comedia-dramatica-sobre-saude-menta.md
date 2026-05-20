@@ -2,7 +2,7 @@
 title: "Humberto Martins retorna aos palcos após mais de 30 anos com comédia dramática sobre saúde mental"
 description: "O ator Humberto Martins está de volta aos palcos após mais de três décadas afastado do teatro. Ele protagoniza o espetáculo “Psicóloga Segundo Meu Psiquiatra”, uma comédia dramátic"
 pubDate: "2026-05-17T07:23:10Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "petropolis", "niteroi", "nova-iguacu", "cultura-carnaval", "capital", "regiao-metropolitana", "mare", "deodoro", "baixada", "saude"]
 heroImage: "/hero/smoke-smoke-202605170723-humberto-martins-retorna-aos-palcos-apos-mais-de-30-anos-com-comedia-dramatica-sobre-saude-menta.jpeg"
 ---
