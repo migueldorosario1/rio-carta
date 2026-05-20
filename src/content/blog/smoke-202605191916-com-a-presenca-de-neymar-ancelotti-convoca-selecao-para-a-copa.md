@@ -2,7 +2,7 @@
 title: "Com a presença de Neymar, Ancelotti convoca seleção para a Copa"
 description: "O técnico italiano Carlo Ancelotti anunciou, no final da tarde desta segunda-feira (18) no Museu do Amanhã, no Rio de Janeiro, a relação de 26 convocados para defender a seleção br"
 pubDate: "2026-05-19T19:18:08Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "copa-do-mundo", "neymar", "rio-capital-centro", "sul-fluminense", "regiao-metropolitana", "paqueta", "botafogo", "flamengo", "maracana", "anil"]
 heroImage: "/hero/smoke-smoke-202605191916-com-a-presenca-de-neymar-ancelotti-convoca-selecao-para-a-copa.webp"
 ---
