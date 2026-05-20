@@ -10,8 +10,6 @@ A Liga RJ segue avançando no planejamento oficial do Carnaval 2027 da Série Ou
 
 O encontro reuniu representantes das escolas e dirigentes da entidade para discutir os principais pontos operacionais e estratégicos do próximo ano.
 
-* Seja o primeiro a saber as notícias do carnaval! Clique aqui e siga o CARNAVALESCO no WhatsApp
-
 Conduzida por Moacyr Barreto, diretor de carnaval da Liga RJ, a reunião contou também com as presenças do presidente Deo Pessoa e do vice-presidente Bruno Alvez. Entre os temas debatidos estiveram as obras da Fábrica do Samba, ensaios técnicos, movimentação de alegorias, finais de samba-enredo, cronograma de gravações do CD oficial, além do Esquenta Carnaval e ajustes no regulamento da competição.
 
 Para Deo Pessoa, o momento representa mais um passo importante na construção de um ambiente de trabalho integrado entre as agremiações, fortalecendo o planejamento conjunto e a valorização do espetáculo apresentado na Marquês de Sapucaí.
