@@ -1,14 +1,14 @@
 ---
 title: "Câmara aprova projeto da vereadora Professora Lívia que estrutura a Tarifa Zero em Petrópolis"
 description: "A Câmara Municipal de Petrópolis aprovou projeto da vereadora Professora Lívia que estabelece diretrizes para a implantação gradual da Tarifa Zero, ampliando o debate sobre mobilidade urbana, inclusão social e direito ao transporte público na cidade."
-pubDate: "2026-05-20T18:31:09Z"
+pubDate: "2026-05-20T18:41:29Z"
 category: ["Pol\u00edtica", "Interior RJ", "Petr\u00f3polis"]
 tags: ["petr\u00f3polis", "tarifa-zero", "l\u00edvia-miranda"]
 heroImage: "/hero/c-mara-aprova-projeto-da-vereadora-professora-l-via-que-estrutura-a-tarifa-zero-em-petr-polis.png"
 author: "Redação"
 ---
 
-***A Câmara Municipal de Petrópolis aprovou projeto da vereadora Professora Lívia que estabelece diretrizes para a implantação gradual da Tarifa Zero, ampliando o debate sobre mobilidade urbana, inclusão social e direito ao transporte público na cidade.***
+***A Câmara Municipal de Petrópolis aprovou projeto da vereadora Professora Lívia (PCdoB) que estabelece diretrizes para a implantação gradual da Tarifa Zero, ampliando o debate sobre mobilidade urbana, inclusão social e direito ao transporte público na cidade.***
 
 A Câmara Municipal de Petrópolis aprovou o projeto de lei de autoria da Vereadora Professora Lívia (PCdoB) que institui diretrizes para a implantação gradual da Tarifa Zero no transporte coletivo da cidade. A proposta representa um passo importante no debate sobre mobilidade urbana, inclusão social e garantia do direito ao transporte público no município.
 
@@ -38,4 +38,4 @@ Especialistas apontam que experiências de Tarifa Zero têm potencial para reduz
 
 A aprovação do projeto da Professora Lívia acontece em um momento em que o debate sobre mobilidade urbana ganha força em diversas regiões do país. O aumento constante das tarifas, somado às reclamações sobre qualidade do serviço, atrasos e redução de linhas, tem levado os municípios a buscar alternativas para garantir um sistema de transporte mais eficiente e acessível.
 
-Agora, com a aprovação em plenário, o projeto segue para análise e sanção do prefeito Hingo Hammes. Com a sanção, a proposta passará a integrar as diretrizes do município para a construção de políticas públicas voltadas à ampliação do acesso ao transporte coletivo e ao debate sobre a implementação gradual da Tarifa Zero em Petrópolis. 
+Agora, com a aprovação em plenário, o projeto segue para análise e sanção do prefeito Hingo Hammes. Com a sanção, a proposta passará a integrar as diretrizes do município para a construção de políticas públicas voltadas à ampliação do acesso ao transporte coletivo e ao debate sobre a implementação gradual da Tarifa Zero em Petrópolis.
