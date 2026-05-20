@@ -2,7 +2,7 @@
 title: "MP recomenda suspensão de torcidas organizadas do Flamengo e do Vasco após briga no Maracanã"
 description: "O Ministério Público do Estado do Rio de Janeiro (MPRJ) recomendou a suspensão das torcidas organizadas Jovem do Flamengo e Força Jovem do Vasco pelo período de 10 jogos, em razão"
 pubDate: "2026-05-19T19:16:57Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "zona-norte", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "flamengo", "maracana", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605191916-mp-recomenda-suspensao-de-torcidas-organizadas-do-flamengo-e-do-vasco-apos-briga-no-maracana.webp"
 ---
