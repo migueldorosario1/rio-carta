@@ -2,7 +2,7 @@
 title: "Desorganizado, São Paulo perde para o Fluminense e vê rival se afastar na tabela do Brasileirão"
 description: "Desorganizado, São Paulo perde para o Fluminense e vê rival se afastar na tabela do Brasileirão O São Paulo perdeu mais uma vez. O time paulista visitou o Fluminense no Maracanã ne"
 pubDate: "2026-05-17T03:23:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "fluminense", "sao-paulo", "rio-capital-centro", "serrana", "regiao-serrana", "petropolis", "estacio", "flamengo", "laranjeiras", "maracana", "saude"]
 heroImage: "/hero/smoke-smoke-202605170323-desorganizado-sao-paulo-perde-para-o-fluminense-e-ve-rival-se-afastar-na-tabela-do-brasileirao.jpg"
 ---

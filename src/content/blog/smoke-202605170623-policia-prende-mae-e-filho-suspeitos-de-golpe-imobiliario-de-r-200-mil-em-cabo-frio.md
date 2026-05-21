@@ -2,7 +2,7 @@
 title: "Polícia prende mãe e filho suspeitos de golpe imobiliário de R$ 200 mil em Cabo Frio"
 description: "Uma operação da Polícia Civil resultou na prisão de mãe e filho, na manhã desta sexta-feira, em Cabo Frio, na Região dos Lagos. A dupla é suspeita de chefiar um esquema de fraudes"
 pubDate: "2026-05-17T06:23:32Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "capital", "seguranca-publica", "saude"]
 heroImage: "/hero/smoke-smoke-202605170623-policia-prende-mae-e-filho-suspeitos-de-golpe-imobiliario-de-r-200-mil-em-cabo-frio.jpg"
 ---
