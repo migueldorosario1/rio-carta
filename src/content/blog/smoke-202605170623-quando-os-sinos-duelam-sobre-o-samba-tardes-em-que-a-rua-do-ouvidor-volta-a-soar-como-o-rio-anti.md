@@ -2,7 +2,7 @@
 title: "Quando os sinos duelam sobre o samba: tardes em que a Rua do Ouvidor volta a soar como o Rio Antigo"
 description: "Há algo de mágico acontecendo aos fins de semana na região da Praça XV. E talvez nenhum outro lugar do Rio consiga hoje reunir, ao mesmo tempo, missa solene, coral e orquestra, bot"
 pubDate: "2026-05-17T06:23:07Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "centro", "praca-xv", "rio-capital-centro", "capital", "centro-do-rio", "lapa", "santa-cruz", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605170623-quando-os-sinos-duelam-sobre-o-samba-tardes-em-que-a-rua-do-ouvidor-volta-a-soar-como-o-rio-anti.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "Serrano abre 2×0, mas sofre empate para a Cabofriense na Segundona do Carioca"
 description: "Serrano abre 2×0, mas sofre empate para a Cabofriense na Segundona do Carioca O Serrano deixou escapar dois pontos importantes, na tarde deste sábado (16), em duelo contra a Cabofr"
 pubDate: "2026-05-17T03:24:09Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "serrana", "regiao-metropolitana", "sao-goncalo", "bonsucesso", "olaria", "marica", "cabo-frio", "araruama", "resende"]
 heroImage: "/hero/smoke-smoke-202605170323-serrano-abre-20-mas-sofre-empate-para-a-cabofriense-na-segundona-do-carioca.png"
 ---
