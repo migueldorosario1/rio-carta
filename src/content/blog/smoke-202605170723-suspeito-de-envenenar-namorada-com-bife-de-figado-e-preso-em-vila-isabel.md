@@ -2,7 +2,7 @@
 title: "Suspeito de envenenar namorada com bife de fígado é preso em Vila Isabel"
 description: "A Polícia Civil prendeu, na manhã desta sexta-feira (15/05), um homem suspeito de matar a companheira por envenenamento em Vila Isabel, na Zona Norte do Rio. O acusado, identificad"
 pubDate: "2026-05-17T07:23:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "vila-isabel", "zona-norte", "rio-capital-zona-norte", "capital", "tijuca", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605170723-suspeito-de-envenenar-namorada-com-bife-de-figado-e-preso-em-vila-isabel.png"
 ---
