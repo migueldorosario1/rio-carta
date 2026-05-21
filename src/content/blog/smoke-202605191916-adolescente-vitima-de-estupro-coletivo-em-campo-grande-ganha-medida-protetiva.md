@@ -2,12 +2,10 @@
 title: "Adolescente vítima de estupro coletivo em Campo Grande ganha medida protetiva"
 description: "Adolescente vítima de estupro coletivo em Campo Grande ganha medida protetiva Justiça impõe restrições a adolescente suspeito de atrair a jovem para emboscada no local do crime O p"
 pubDate: "2026-05-19T19:16:57Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "capital", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "/hero/smoke-smoke-202605191916-adolescente-vitima-de-estupro-coletivo-em-campo-grande-ganha-medida-protetiva.webp"
 ---
-Adolescente vítima de estupro coletivo em Campo Grande ganha medida protetiva
-
 Justiça impõe restrições a adolescente suspeito de atrair a jovem para emboscada no local do crime
 
 O pedido de medida protetiva para a jovem de 12 anos, vítima de estupro coletivo em Campo Grande, na Zona Oeste, foi aceito pela Justiça do Rio de Janeiro, que também determinou uma série de restrições contra um dos suspeitos do crime: o namorado da jovem, apontado como responsável por atraí-la para o local onde o crime aconteceu.
