@@ -2,7 +2,7 @@
 title: "Maratona madrugada adentro: Cinema de Pijama transforma Estação NET Rio em festival para cinéfilos"
 description: "Uma madrugada inteira dedicada ao cinema, com direito a clássicos raros, filmes cultuados, terror japonês, animações experimentais, comédias e open pipoca liberada até o amanhecer."
 pubDate: "2026-05-17T04:23:30Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "cultura-carnaval", "capital", "copacabana", "saude"]
 heroImage: "/hero/smoke-smoke-202605170423-maratona-madrugada-adentro-cinema-de-pijama-transforma-estacao-net-rio-em-festival-para-cinefilo.png"
 ---
