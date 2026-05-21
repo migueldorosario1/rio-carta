@@ -2,7 +2,7 @@
 title: "Vinhos de Portugal aposta em safras históricas e experiências imersivas em nova edição no Joquei"
 description: "O maior encontro de vinhos portugueses realizado fora de Portugal retorna ao Brasil em clima de celebração da cultura, da gastronomia e da memória afetiva. A 13ª edição do Vinhos d"
 pubDate: "2026-05-17T06:23:18Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "jockey-club-brasileiro", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "portuguesa", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605170623-vinhos-de-portugal-aposta-em-safras-historicas-e-experiencias-imersivas-em-nova-edicao-no-joquei.jpg"
 ---
