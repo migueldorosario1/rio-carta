@@ -2,7 +2,7 @@
 title: "Rio recebe circuito de música latina em bares e casas noturnas; veja a programação"
 description: "O Rio de Janeiro recebe nesta semana um circuito de programação dedicado à música latina, com eventos espalhados por bares, casas noturnas e espaços culturais da cidade dentro da a"
 pubDate: "2026-05-17T02:24:19Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "botafogo", "copacabana", "zona-portuaria", "cultura-carnaval", "capital", "regiao-metropolitana", "ramos", "joa", "complexo", "saude"]
 heroImage: "/hero/smoke-smoke-202605170223-rio-recebe-circuito-de-musica-latina-em-bares-e-casas-noturnas-veja-a-programacao.jpg"
 ---
