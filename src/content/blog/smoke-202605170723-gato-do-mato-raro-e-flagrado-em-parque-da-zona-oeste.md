@@ -2,7 +2,7 @@
 title: "Gato-do-mato raro é flagrado em parque da Zona Oeste"
 description: "O flagrante mais recente do gato-do-mato-pequeno (Leopardus guttulus), captado por uma das câmeras camufladas, virou símbolo de um levantamento inédito da fauna silvestre no núcleo"
 pubDate: "2026-05-17T07:23:13Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "rio-capital-zona-oeste", "capital", "regiao-metropolitana", "mage", "realengo"]
 heroImage: "/hero/smoke-smoke-202605170723-gato-do-mato-raro-e-flagrado-em-parque-da-zona-oeste.png"
 ---
