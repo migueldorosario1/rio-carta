@@ -2,7 +2,7 @@
 title: "Neste sábado, INTO promove ação de saúde em corrida de rua no Aterro do Flamengo"
 description: "Neste sábado, os participantes do Circuito RJ de Corridas de Rua contarão com um importante apoio para prevenir lesões e manter a saúde. A partir das 6h, profissionais Instituto Na"
 pubDate: "2026-05-17T05:23:42Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "flamengo", "saude", "rio-capital-centro", "capital"]
 heroImage: "/hero/smoke-smoke-202605170523-neste-sabado-into-promove-acao-de-saude-em-corrida-de-rua-no-aterro-do-flamengo.jpg"
 ---
