@@ -2,7 +2,7 @@
 title: "Estação de tratamento em Deodoro recebe alunos da UNISUAM em ação ambiental"
 description: "A Zona Oeste Mais Saneamento recebeu, nesta semana, 22 estudantes e professores do curso de Engenharia Civil da UNISUAM, dos campi Bonsucesso e Campo Grande, para uma visita técnic"
 pubDate: "2026-05-17T05:23:14Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "deodoro", "zona-oeste", "saude", "capital", "regiao-metropolitana", "bonsucesso", "campo-grande", "problemas-estruturais", "educacao"]
 heroImage: "/hero/smoke-smoke-202605170523-estacao-de-tratamento-em-deodoro-recebe-alunos-da-unisuam-em-acao-ambiental.jpeg"
 ---
