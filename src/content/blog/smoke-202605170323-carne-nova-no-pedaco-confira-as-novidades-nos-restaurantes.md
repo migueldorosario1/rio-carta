@@ -2,7 +2,7 @@
 title: "Carne nova no pedaço: confira as novidades nos restaurantes"
 description: "Carne nova no pedaço: confira as novidades nos restaurantes De cortes argentinos a novidades em rodízio, casas engrandecem o menu com pedidas especiais Em parceria com a antiguas e"
 pubDate: "2026-05-17T03:24:15Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-serrana", "cordeiro", "ipanema", "leblon"]
 heroImage: "/hero/smoke-smoke-202605170323-carne-nova-no-pedaco-confira-as-novidades-nos-restaurantes.jpg"
 ---
