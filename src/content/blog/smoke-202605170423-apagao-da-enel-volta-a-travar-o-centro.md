@@ -2,7 +2,7 @@
 title: "Apagão da Enel volta a travar o Centro"
 description: "Mais um apagão voltou a atingir o Centro de Niterói e recolocou a Enel no centro de uma crise de serviço que já se arrasta há semanas. Na terça-feira, 12, moradores e comerciantes"
 pubDate: "2026-05-17T04:23:19Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "niteroi-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605170423-apagao-da-enel-volta-a-travar-o-centro.webp"
 ---
