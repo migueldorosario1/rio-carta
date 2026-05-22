@@ -2,7 +2,7 @@
 title: "Polícia encontra parte de cinzas de mãe levadas em assalto a ônibus na Linha Vermelha"
 description: "Rio Polícia encontra parte de cinzas de mãe levadas em assalto a ônibus na Linha Vermelha Material foi encontrado em meio à vegetação às margens da Linha Vermelha, 5 dias após o as"
 pubDate: "2026-05-16T23:24:05Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "seguranca-publica", "capital-estado", "regiao-metropolitana", "joa", "sao-joao-de-meriti", "mage", "arraial-do-cabo", "campos", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605162323-policia-encontra-parte-de-cinzas-de-mae-levadas-em-assalto-a-onibus-na-linha-vermelha.jpg"
 ---
