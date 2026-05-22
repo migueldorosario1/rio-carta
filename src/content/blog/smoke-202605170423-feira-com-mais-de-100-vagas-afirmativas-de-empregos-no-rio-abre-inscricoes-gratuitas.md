@@ -2,7 +2,7 @@
 title: "Feira com mais de 100 vagas afirmativas de empregos no Rio abre inscrições gratuitas"
 description: "A Estácio realizará, no próximo dia 20 de maio, das 18h às 20h, a Feira de Diversidade e Inclusão, no campus da instituição no Shopping Nova América, em Del Castilho, Zona Norte do"
 pubDate: "2026-05-17T04:23:17Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "zona-norte", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "estacio", "del-castilho", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605170423-feira-com-mais-de-100-vagas-afirmativas-de-empregos-no-rio-abre-inscricoes-gratuitas.jpg"
 ---

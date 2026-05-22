@@ -2,7 +2,7 @@
 title: "Defensoria Pública cobra que Estado cumpra decisão judicial para instalação da Deam em Petrópolis"
 description: "A implementação da Delegacia Especializada de Atendimento à Mulher (Deam) em Petrópolis voltou ao centro da discussão judicial. Nesta semana, a Defensoria Pública do Estado do Rio"
 pubDate: "2026-05-16T23:24:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "petropolis", "seguranca-publica", "norte-noroeste-fluminense", "serrana", "regiao-metropolitana", "leme"]
 heroImage: "/hero/smoke-smoke-202605162323-defensoria-publica-cobra-que-estado-cumpra-decisao-judicial-para-instalacao-da-deam-em-petropoli.jpg"
 ---
