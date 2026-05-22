@@ -2,7 +2,7 @@
 title: "Disparada na conta de luz faz moradores de Maricá abraçarem tecnologia de energia solar"
 description: "O aumento no valor da conta de luz, somado às quedas frequentes no fornecimento de energia, tem mudado a rotina de moradores de Maricá. Diante desse cenário, cada vez mais pessoas"
 pubDate: "2026-05-17T04:23:14Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "rocha", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605170423-disparada-na-conta-de-luz-faz-moradores-de-marica-abracarem-tecnologia-de-energia-solar.webp"
 ---
