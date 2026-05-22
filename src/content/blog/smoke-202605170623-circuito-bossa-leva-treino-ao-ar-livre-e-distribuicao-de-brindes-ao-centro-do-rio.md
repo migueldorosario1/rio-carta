@@ -2,7 +2,7 @@
 title: "Circuito Bossa leva treino ao ar livre e distribuição de brindes ao Centro do Rio"
 description: "O Bossa Nova Mall promove no dia 17 de maio uma manhã de atividades físicas gratuitas ao ar livre no Centro do Rio. A iniciativa integra o Circuito Bossa, que propõe unir bem-estar"
 pubDate: "2026-05-17T06:23:36Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "centro", "rio-capital-centro", "capital", "regiao-metropolitana", "centro-do-rio", "estacio", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605170623-circuito-bossa-leva-treino-ao-ar-livre-e-distribuicao-de-brindes-ao-centro-do-rio.webp"
 ---
