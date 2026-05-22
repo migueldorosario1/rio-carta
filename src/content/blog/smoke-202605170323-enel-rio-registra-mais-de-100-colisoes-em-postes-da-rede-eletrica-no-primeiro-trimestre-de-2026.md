@@ -2,7 +2,7 @@
 title: "Enel rio registra mais de 100 colisões em postes da rede elétrica no primeiro trimestre de 2026"
 description: "Enel rio registra mais de 100 colisões em postes da rede elétrica no primeiro trimestre de 2026 No mês de engajamento da campanha Maio Amarelo, a distribuidora alerta para os risco"
 pubDate: "2026-05-17T03:24:14Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "seguranca-publica", "sao-goncalo-itaborai", "mare", "sao-goncalo", "itaborai", "petropolis", "teresopolis", "campos", "itaperuna", "angra", "problemas-estruturais"]
 heroImage: "/hero/smoke-smoke-202605170323-enel-rio-registra-mais-de-100-colisoes-em-postes-da-rede-eletrica-no-primeiro-trimestre-de-2026.jpg"
 ---

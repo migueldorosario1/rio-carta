@@ -2,7 +2,7 @@
 title: "Projeto 'Geração de Sons' abre novo polo no Jardim Catarina com apoio de empresa internacional"
 description: "Projeto 'Geração de Sons' abre novo polo no Jardim Catarina com apoio de empresa internacional Iniciativa do Instituto Brasileiro de Música e Educação (IBME), oferece empréstimo de"
 pubDate: "2026-05-17T00:23:29Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "educacao", "sao-goncalo-itaborai", "regiao-metropolitana", "colegio", "favela", "itaborai", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605170023-projeto-geracao-de-sons-abre-novo-polo-no-jardim-catarina-com-apoio-de-empresa-internacional.jpg"
 ---
