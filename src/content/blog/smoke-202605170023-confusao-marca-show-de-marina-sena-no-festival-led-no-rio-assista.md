@@ -2,7 +2,7 @@
 title: "Confusão marca show de Marina Sena no Festival LED no Rio; assista"
 description: "Entretenimento Confusão marca show de Marina Sena no Festival LED no Rio; assista Público se revoltou após não conseguir entrar em apresentação gratuita na Zona PortuáriaFãs barrad"
 pubDate: "2026-05-17T00:23:11Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "zona-portuaria", "rio-capital-centro", "capital-estado", "educacao", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605170023-confusao-marca-show-de-marina-sena-no-festival-led-no-rio-assista.jpg"
 ---

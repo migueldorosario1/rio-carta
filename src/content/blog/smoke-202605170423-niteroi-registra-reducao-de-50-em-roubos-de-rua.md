@@ -2,7 +2,7 @@
 title: "Niterói registra redução de 50% em roubos de rua"
 description: "O município de Niterói, na Região Metropolitana do Rio, registrou uma queda significativa nos roubos de rua, que despencaram 50% em relação ao mesmo período no ano de 2025. Os dado"
 pubDate: "2026-05-17T04:23:27Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "seguranca-publica", "niteroi-metropolitana", "zona-norte", "comunidade", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605170423-niteroi-registra-reducao-de-50-em-roubos-de-rua.png"
 ---
