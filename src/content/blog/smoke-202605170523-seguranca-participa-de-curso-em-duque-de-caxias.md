@@ -2,7 +2,7 @@
 title: "Segurança participa de curso em Duque de Caxias"
 description: "Secretaria segue investindo na qualificação permanente dos agentes Agentes da Guarda Civil Municipal (GCM) de Rio das Ostras participaram, nesta semana, de uma importante qualifica"
 pubDate: "2026-05-17T05:23:35Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "complexo", "niteroi", "rio-das-ostras", "transporte-mobilidade", "cultura-carnaval"]
 heroImage: "/hero/smoke-smoke-202605170523-seguranca-participa-de-curso-em-duque-de-caxias.jpeg"
 ---
