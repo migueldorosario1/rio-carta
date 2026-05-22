@@ -2,7 +2,7 @@
 title: "Unidade de saúde em Cabo Frio é furtada e criminosos deixam bilhetes de deboche"
 description: "Rio Unidade de saúde em Cabo Frio é furtada e criminosos deixam bilhetes de deboche Criminosos furtam tablets de ESF em Cabo Frio, deixam recados e suspendem atendimentoTrês tablet"
 pubDate: "2026-05-17T02:24:28Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "saude", "capital-estado", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605170223-unidade-de-saude-em-cabo-frio-e-furtada-e-criminosos-deixam-bilhetes-de-deboche.jpg"
 ---
