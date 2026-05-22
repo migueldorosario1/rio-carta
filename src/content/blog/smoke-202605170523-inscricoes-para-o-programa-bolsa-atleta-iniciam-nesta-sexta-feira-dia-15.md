@@ -2,7 +2,7 @@
 title: "Inscrições para o Programa Bolsa Atleta iniciam nesta sexta-feira, dia 15"
 description: "Iniciativa apoia atletas de rendimento de Rio das Ostras Iniciam nesta sexta-feira, dia 15, as inscrições para o Programa Bolsa Atleta 2026. Para garantir a participação, os atleta"
 pubDate: "2026-05-17T05:23:16Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "educacao", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "mage", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605170523-inscricoes-para-o-programa-bolsa-atleta-iniciam-nesta-sexta-feira-dia-15.jpeg"
 ---
