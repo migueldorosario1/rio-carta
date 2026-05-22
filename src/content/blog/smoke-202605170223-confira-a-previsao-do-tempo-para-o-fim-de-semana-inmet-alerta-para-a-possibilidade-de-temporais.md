@@ -2,7 +2,7 @@
 title: "Confira a previsão do tempo para o fim de semana; Inmet alerta para a possibilidade de temporais"
 description: "Confira a previsão do tempo para o fim de semana; Inmet alerta para a possibilidade de temporais Em Niterói e São Gonçalo, a sexta-feira (15) também será marcada por tempo instável"
 pubDate: "2026-05-17T02:24:26Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "regiao-metropolitana", "sao-goncalo-itaborai", "itaborai", "serrana"]
 heroImage: "/hero/smoke-smoke-202605170223-confira-a-previsao-do-tempo-para-o-fim-de-semana-inmet-alerta-para-a-possibilidade-de-temporais.webp"
 ---
