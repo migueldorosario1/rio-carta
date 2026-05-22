@@ -2,7 +2,7 @@
 title: "Hulk é apresentado pelo Fluminense no Maracanã: ‘Venho com muita fome’"
 description: "Hulk é apresentado pelo Fluminense no Maracanã: ‘Venho com muita fome’ O atacante Hulk foi apresentado oficialmente pelo Fluminense neste sábado, antes da partida contra o São Paul"
 pubDate: "2026-05-17T00:23:06Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "fluminense", "hulk", "rio-capital-centro", "serrana", "regiao-serrana", "petropolis", "maracana"]
 heroImage: "/hero/smoke-smoke-202605170023-hulk-e-apresentado-pelo-fluminense-no-maracana-venho-com-muita-fome.jpg"
 ---

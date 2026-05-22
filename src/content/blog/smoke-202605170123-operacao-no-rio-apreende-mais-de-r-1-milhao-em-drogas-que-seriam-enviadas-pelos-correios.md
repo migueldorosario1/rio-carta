@@ -2,7 +2,7 @@
 title: "Operação no Rio apreende mais de R$ 1 milhão em drogas que seriam enviadas pelos Correios"
 description: "Uma ação de fiscalização realizada pela Receita Federal nesta quinta-feira em um centro de distribuição dos Correios, no Rio de Janeiro, resultou na apreensão de drogas, medicament"
 pubDate: "2026-05-17T01:25:27Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "capital", "regiao-metropolitana", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605170123-operacao-no-rio-apreende-mais-de-r-1-milhao-em-drogas-que-seriam-enviadas-pelos-correios.jpg"
 ---
