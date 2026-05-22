@@ -2,7 +2,7 @@
 title: "Rio terá virada no tempo neste fim de semana, com pancadas e vento"
 description: "O tempo começa a mudar no Rio de Janeiro neste fim de semana. Depois de uma sequência de dias mais secos, a atuação de um sistema de baixa pressão próximo à costa aumenta a circula"
 pubDate: "2026-05-17T05:23:24Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "clima", "rio-capital-centro", "capital", "regiao-metropolitana", "ramos", "serrana", "sul-fluminense", "transporte-mobilidade"]
 heroImage: "/hero/smoke-smoke-202605170523-rio-tera-virada-no-tempo-neste-fim-de-semana-com-pancadas-e-vento.jpg"
 ---
