@@ -2,7 +2,7 @@
 title: "Mãe e filho são presos por golpes com aluguel e venda de imóveis em Cabo Frio"
 description: "Mãe e filho foram presos nesta sexta-feira (15) pela Polícia Civil, em Cabo Frio, na Região dos Lagos, acusados de integrar um esquema de golpes envolvendo aluguéis e vendas fraudu"
 pubDate: "2026-05-17T04:23:24Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "seguranca-publica", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605170423-mae-e-filho-sao-presos-por-golpes-com-aluguel-e-venda-de-imoveis-em-cabo-frio.png"
 ---
