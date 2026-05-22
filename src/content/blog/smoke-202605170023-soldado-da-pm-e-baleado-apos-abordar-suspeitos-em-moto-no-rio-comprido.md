@@ -2,7 +2,7 @@
 title: "Soldado da PM é baleado após abordar suspeitos em moto no Rio Comprido"
 description: "Rio Soldado da PM é baleado após abordar suspeitos em moto no Rio Comprido Soldado foi baleado na virilha durante troca de tiros e levado para o Hospital da PMUm soldado da Polícia"
 pubDate: "2026-05-17T00:23:51Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "rio-comprido", "seguranca-publica", "capital-estado", "regiao-serrana", "petropolis", "estacio", "sao-cristovao", "comunidade", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605170023-soldado-da-pm-e-baleado-apos-abordar-suspeitos-em-moto-no-rio-comprido.jpg"
 ---
