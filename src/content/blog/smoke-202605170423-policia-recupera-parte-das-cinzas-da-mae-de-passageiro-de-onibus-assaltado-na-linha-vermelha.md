@@ -2,7 +2,7 @@
 title: "Polícia recupera parte das cinzas da mãe de passageiro de ônibus assaltado na Linha Vermelha"
 description: "Parte das cinzas da mãe de um passageiro de um ônibus de turismo, roubadas durante um assalto na Linha Vermelha no último sábado (09/05), foi recuperada pela Polícia Civil. O mater"
 pubDate: "2026-05-17T04:23:21Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "seguranca-publica", "capital", "regiao-metropolitana", "joa", "sao-joao-de-meriti", "mage", "arraial-do-cabo", "campos", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605170423-policia-recupera-parte-das-cinzas-da-mae-de-passageiro-de-onibus-assaltado-na-linha-vermelha.jpg"
 ---

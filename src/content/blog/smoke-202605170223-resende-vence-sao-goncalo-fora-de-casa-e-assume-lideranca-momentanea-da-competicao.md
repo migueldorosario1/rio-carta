@@ -2,7 +2,7 @@
 title: "Resende vence São Gonçalo fora de casa e assume liderança momentânea da competição"
 description: "RESENDE O Resende Futebol Clube conquistou mais uma vitória importante na temporada e assumiu, de forma momentânea, a liderança da competição. Na tarde deste sábado, dia 16, o Giga"
 pubDate: "2026-05-17T02:24:24Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "resende", "sao-goncalo", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana"]
 heroImage: "/hero/smoke-smoke-202605170223-resende-vence-sao-goncalo-fora-de-casa-e-assume-lideranca-momentanea-da-competicao.jpeg"
 ---
