@@ -2,7 +2,7 @@
 title: "PM apreende arma, drogas e rádio comunicador no Morro da Conquista"
 description: "VOLTA REDONDA Uma operação da Polícia Militar realizada na noite de sexta-feira, dia 15, resultou na apreensão de arma, além de uma mochila contenho cocaína, maconha, rack e “cheir"
 pubDate: "2026-05-16T21:24:39Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "santo-agostinho", "seguranca-publica", "sul-fluminense", "sul-fluminense-costa-verde", "volta-redonda", "saude"]
 heroImage: "/hero/smoke-smoke-202605162123-pm-apreende-arma-drogas-e-radio-comunicador-no-morro-da-conquista.jpeg"
 ---
