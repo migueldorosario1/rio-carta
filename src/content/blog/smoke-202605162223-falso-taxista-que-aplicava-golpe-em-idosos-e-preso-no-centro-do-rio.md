@@ -2,7 +2,7 @@
 title: "Falso taxista que aplicava golpe em idosos é preso no Centro do Rio"
 description: "A Polícia Civil prendeu nesta quinta-feira (14) o integrante de uma quadrilha de São Paulo especializada em fraudes contra passageiros de táxi na Zona Sul do Rio. A captura ocorreu"
 pubDate: "2026-05-16T22:24:34Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "centro", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "centro-do-rio", "zona-sul", "niteroi", "transporte-mobilidade", "saude"]
 heroImage: "/hero/smoke-smoke-202605162223-falso-taxista-que-aplicava-golpe-em-idosos-e-preso-no-centro-do-rio.webp"
 ---
