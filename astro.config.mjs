@@ -3,12 +3,13 @@
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
-
 import react from '@astrojs/react';
+import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
     site: 'https://www.riocarta.com',
+    adapter: vercel(),
     integrations: [mdx(), sitemap(), react()],
     fonts: [
         {

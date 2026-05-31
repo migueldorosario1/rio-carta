@@ -17,6 +17,7 @@ const blog = defineCollection({
 		wp_id: z.number().optional(),
 		tags: z.array(z.string()).optional(),
 		categoria_macro: z.enum(['geral', 'politica', 'lazer', 'seguranca', 'economia', 'servicos']).optional(),
+		author: z.string().optional(),
 	}),
 });
 
