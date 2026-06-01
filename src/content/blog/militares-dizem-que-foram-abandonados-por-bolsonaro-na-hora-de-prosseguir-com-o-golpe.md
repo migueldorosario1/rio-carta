@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3666_imagem-40.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3666_imagem-40.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Militares dizem que foram abandonados por Bolsonaro na hora de prosseguir com o golpe'
 pubDate: 2024-03-06 16:15:35

@@ -4,7 +4,7 @@ description: "ANGRA DOS REIS Referência em média e alta complexidade na Costa 
 pubDate: "2026-05-13T22:05:39Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "costa-verde", "hospital-municipal-da-japuiba", "hemodinamica", "saude", "sul-fluminense", "sul-fluminense-costa-verde", "catete", "angra", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605131905-hospital-municipal-da-japuiba-avanca-em-modernizacao-e-vai-ganhar-setor-de-hemodinamica.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131905-hospital-municipal-da-japuiba-avanca-em-modernizacao-e-vai-ganhar-setor-de-hemodinamica.jpg"
 categoria_macro: geral
 ---
 ANGRA DOS REIS

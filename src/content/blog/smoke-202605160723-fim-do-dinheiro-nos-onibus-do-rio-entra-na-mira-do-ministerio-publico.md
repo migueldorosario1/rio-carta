@@ -4,7 +4,7 @@ description: "O fim do pagamento em dinheiro nos ônibus municipais do Rio de Ja
 pubDate: "2026-05-16T07:24:43Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte", "mobilidade", "transporte-mobilidade", "politica-rj", "regiao-metropolitana", "tijuca", "ilha-do-governador"]
-heroImage: "/hero/smoke-smoke-202605160723-fim-do-dinheiro-nos-onibus-do-rio-entra-na-mira-do-ministerio-publico-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160723-fim-do-dinheiro-nos-onibus-do-rio-entra-na-mira-do-ministerio-publico-qwen.jpg"
 categoria_macro: politica
 ---
 O fim do pagamento em dinheiro nos ônibus municipais do Rio de Janeiro virou alvo de uma investigação do Ministério Público do Estado do Rio de Janeiro (MPRJ). A Promotoria instaurou um inquérito para apurar possíveis impactos da implantação exclusiva do sistema Jaé e avaliar se a medida pode prejudicar passageiros que não utilizam meios digitais para pagar a passagem.

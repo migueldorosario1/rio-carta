@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4510_IMG-20240523-WA0075.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4510_IMG-20240523-WA0075.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Intelectuais se reúnem para declarar apoio para Rafaela Albergaria neste sábado'
 pubDate: 2024-05-23 17:58:29

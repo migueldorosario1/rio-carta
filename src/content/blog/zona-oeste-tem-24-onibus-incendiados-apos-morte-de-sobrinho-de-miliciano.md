@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1659_pgm-globonews-limpo-ao-vivo-20231023-1559-frame-33194.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1659_pgm-globonews-limpo-ao-vivo-20231023-1559-frame-33194.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Zona oeste tem 24 ônibus incendiados após morte de sobrinho de miliciano'
 pubDate: 2023-10-23 17:14:57

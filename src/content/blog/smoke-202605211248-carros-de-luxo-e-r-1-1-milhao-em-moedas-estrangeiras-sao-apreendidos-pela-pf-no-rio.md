@@ -4,7 +4,7 @@ description: "Na manhã desta sexta-feira (15), a Polícia Federal realizou a ap
 pubDate: "2026-05-21T15:48:02Z"
 draft: true
 tags: ["rio-de-janeiro", "lagoa", "zona-sul", "policia-federal", "operacao-sem-refino", "alvaro-barcha-cardoso", "claudio-castro", "corrupcao", "secretaria-de-fazenda", "rio-capital-zona-sul-grande-tijuca", "capital", "seguranca-publica", "saude", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605211248-carros-de-luxo-e-r-1-1-milhao-em-moedas-estrangeiras-sao-apreendidos-pela-pf-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211248-carros-de-luxo-e-r-1-1-milhao-em-moedas-estrangeiras-sao-apreendidos-pela-pf-no-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

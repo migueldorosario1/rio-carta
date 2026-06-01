@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5288_imagem-66.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5288_imagem-66.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula manifesta apoio a Kamala Harris nas eleições americanas'
 pubDate: 2024-09-16 21:11:23

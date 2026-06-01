@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp173_image-4.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp173_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Possível redução do valor das passagens de ônibus em Niterói'
 pubDate: 2023-06-15 09:27:08

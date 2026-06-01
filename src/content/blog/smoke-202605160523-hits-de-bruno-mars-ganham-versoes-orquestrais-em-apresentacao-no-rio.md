@@ -4,7 +4,7 @@ description: "Entretenimento Hits de Bruno Mars ganham versões orquestrais em a
 pubDate: "2026-05-16T05:24:15Z"
 draft: false
 tags: ["rio-de-janeiro", "theatro-municipal", "musica", "cultura-carnaval", "capital-estado", "regiao-metropolitana", "joa"]
-heroImage: "/hero/smoke-smoke-202605160523-hits-de-bruno-mars-ganham-versoes-orquestrais-em-apresentacao-no-rio.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160523-hits-de-bruno-mars-ganham-versoes-orquestrais-em-apresentacao-no-rio.jpeg"
 categoria_macro: lazer
 ---
 Entretenimento

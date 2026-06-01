@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2253_Carnaval-RIo-de-Janeiro.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2253_Carnaval-RIo-de-Janeiro.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Blocos do Rio enfrentam impasse na autorização para desfiles no carnaval'
 pubDate: 2024-01-03 11:23:00

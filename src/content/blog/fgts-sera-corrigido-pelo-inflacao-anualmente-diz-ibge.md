@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4652_imagem-14.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4652_imagem-14.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'FGTS será corrigido pelo inflação anualmente, diz IBGE'
 pubDate: 2024-06-13 09:07:35

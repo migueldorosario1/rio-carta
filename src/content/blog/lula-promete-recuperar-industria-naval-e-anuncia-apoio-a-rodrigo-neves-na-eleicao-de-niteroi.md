@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4039_20240402_175547.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4039_20240402_175547.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula promete recuperar indústria naval e anuncia apoio a Rodrigo Neves na eleição de Niterói'
 pubDate: 2024-04-02 17:58:30

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6876_image-7-e1748553497669.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6876_image-7-e1748553497669.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Audiência Pública na Alerj sobre saúde de trabalhadores trans é alvo de ataques'
 pubDate: 2025-05-29 18:24:15

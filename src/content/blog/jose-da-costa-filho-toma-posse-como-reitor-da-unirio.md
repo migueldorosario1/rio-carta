@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp763_image-39.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp763_image-39.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'José da Costa Filho toma posse como reitor da UNIRIO'
 pubDate: 2023-07-10 22:10:39

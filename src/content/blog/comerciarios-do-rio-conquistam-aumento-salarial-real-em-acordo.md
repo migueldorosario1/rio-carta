@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1310_image-9.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1310_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Comerciários do Rio conquistam aumento salarial real em acordo'
 pubDate: 2023-09-06 00:20:36

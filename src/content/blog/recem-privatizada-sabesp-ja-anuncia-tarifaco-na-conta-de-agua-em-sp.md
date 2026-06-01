@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4116_imagem-12.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4116_imagem-12.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Recém privatizada, Sabesp já anuncia tarifaço na conta de água em SP'
 pubDate: 2024-04-09 09:40:18

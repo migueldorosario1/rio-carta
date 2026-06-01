@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2850_imagem-4.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2850_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF abre trabalhos de 2024 com presença de Lula e Alckmin'
 pubDate: 2024-02-02 05:28:00

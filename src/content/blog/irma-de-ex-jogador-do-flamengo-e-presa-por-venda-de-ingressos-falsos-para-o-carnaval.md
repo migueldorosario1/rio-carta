@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3187_livia-moura.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3187_livia-moura.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Irmã de ex-jogador do Flamengo é presa por venda de ingressos falsos para o Carnaval'
 pubDate: 2024-02-13 17:37:56

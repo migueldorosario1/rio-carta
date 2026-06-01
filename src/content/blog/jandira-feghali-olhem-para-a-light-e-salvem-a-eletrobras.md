@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp159_image-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp159_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali Olhem para a Light e salvem a Eletrobrás'
 pubDate: 2023-06-15 09:00:44

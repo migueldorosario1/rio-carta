@@ -4,7 +4,7 @@ description: "A Estácio realizará, no próximo dia 20 de maio, das 18h às 20h
 pubDate: "2026-05-17T04:23:17Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "estacio", "del-castilho", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605170423-feira-com-mais-de-100-vagas-afirmativas-de-empregos-no-rio-abre-inscricoes-gratuitas.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170423-feira-com-mais-de-100-vagas-afirmativas-de-empregos-no-rio-abre-inscricoes-gratuitas.jpg"
 ---
 A Estácio realizará, no próximo dia 20 de maio, das 18h às 20h, a Feira de Diversidade e Inclusão, no campus da instituição no Shopping Nova América, em Del Castilho, Zona Norte do Rio. A edição vai oferecer 100 vagas de empregos voltadas exclusivamente para PCDs, pretos, pardos, negros, indígenas, mulheres, LGBTQIAPN+ e ofertará 100 vagas no total.
 

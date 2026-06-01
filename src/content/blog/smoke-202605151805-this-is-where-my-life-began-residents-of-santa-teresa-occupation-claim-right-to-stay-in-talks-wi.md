@@ -4,7 +4,7 @@ description: "Residents of the Cândido Mendes Mansion in Santa Teresa, a neighb
 pubDate: "2026-05-15T21:06:26Z"
 draft: true
 tags: ["rio-de-janeiro", "santa-teresa", "centro", "rio-capital-centro", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "mage", "saude", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605151805-this-is-where-my-life-began-residents-of-santa-teresa-occupation-claim-right-to-stay-in-talks-wi-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151805-this-is-where-my-life-began-residents-of-santa-teresa-occupation-claim-right-to-stay-in-talks-wi-qwen.jpg"
 categoria_macro: politica
 ---
 Residents of the Cândido Mendes Mansion in Santa Teresa, a neighborhood in central Rio de Janeiro, are at imminent risk of repossession proceedings leading to eviction after a construction project contracted out by Brazil’s Secretariat of Federal Patrimony (SPU) caused damage to one of the building’s pillars. Built in 1914 as a luxury hotel, the structure has also served as a convent.

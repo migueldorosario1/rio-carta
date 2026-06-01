@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4769_imagem-3.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4769_imagem-3.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Bolsonaro ataca Moraes, STF e Polícia Federal'
 pubDate: 2024-07-15 10:01:46

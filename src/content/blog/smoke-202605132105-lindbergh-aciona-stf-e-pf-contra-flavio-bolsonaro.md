@@ -4,7 +4,7 @@ description: "A temperatura política em Brasília subiu drasticamente nesta qua
 pubDate: "2026-05-14T00:05:07Z"
 draft: true
 tags: ["rio-de-janeiro", "lindbergh-farias", "flavio-bolsonaro", "politica-rj", "capital", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605132105-lindbergh-aciona-stf-e-pf-contra-flavio-bolsonaro.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132105-lindbergh-aciona-stf-e-pf-contra-flavio-bolsonaro.webp"
 categoria_macro: politica
 ---
 A temperatura política em Brasília subiu drasticamente nesta quarta-feira (13). O deputado federal Lindbergh Farias (PT) formalizou uma ofensiva jurídica de peso contra o senador Flávio Bolsonaro (PL), protocolando uma notícia de fato na Polícia Federal, na PGR e no Supremo Tribunal Federal.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7235_image-14.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7235_image-14.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali apresenta livro sobre cultura e emancipação social, nesta quinta, no Rio'
 pubDate: 2025-10-21 19:52:39

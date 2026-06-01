@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2114_1_00te96anwjqbgj5cm32apqdpj-31380737.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2114_1_00te96anwjqbgj5cm32apqdpj-31380737.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPRJ investiga estruturas de festas de fim de ano em Niterói após desabamento de árvore de natal'
 pubDate: 2023-12-10 11:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5533_imagem-20.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5533_imagem-20.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Milei suaviza postura em relação à China e confirma participação na cúpula da CELAC'
 pubDate: 2024-09-30 14:45:12

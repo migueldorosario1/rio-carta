@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1633_2021-11-09-capa-blog.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1633_2021-11-09-capa-blog.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo do Rio estende contrato do Maracanã com Flamengo e Fluminense e deve lançar editais'
 pubDate: 2023-10-19 12:00:00

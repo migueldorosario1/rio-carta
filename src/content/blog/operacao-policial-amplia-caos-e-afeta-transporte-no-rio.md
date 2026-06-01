@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7465_image-41.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7465_image-41.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação policial amplia caos e afeta transporte no Rio'
 pubDate: 2025-11-27 13:01:57

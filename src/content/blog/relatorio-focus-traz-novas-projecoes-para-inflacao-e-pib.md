@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5714_imagem-5.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5714_imagem-5.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Relatório Focus traz novas projeções para inflação e PIB'
 pubDate: 2024-10-14 17:28:32

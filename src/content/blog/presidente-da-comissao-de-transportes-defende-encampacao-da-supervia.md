@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp775_image-42.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp775_image-42.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente da Comissão de Transportes defende encampação da Supervia'
 pubDate: 2023-07-13 00:08:22

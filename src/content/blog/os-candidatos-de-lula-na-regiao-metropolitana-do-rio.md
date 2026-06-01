@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1051_image-16.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1051_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Os candidatos de Lula na região metropolitana do Rio'
 pubDate: 2023-08-07 11:57:54

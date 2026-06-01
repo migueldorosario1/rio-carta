@@ -4,7 +4,7 @@ description: "Nesta terça-feira (12), a Prefeitura de Niterói oficializou o ed
 pubDate: "2026-05-13T19:05:42Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "morro-da-penha", "ponta-dareia", "urbanizacao", "infraestrutura", "prefeitura-de-niteroi", "rodrigo-neves", "niteroi-sao-goncalo-metropolitana", "capital", "regiao-metropolitana", "estacio", "leme", "penha"]
-heroImage: "/hero/smoke-smoke-202605131605-infraestrutura-em-niteroi-edital-milionario-preve-revitalizacao-completa-do-morro-da-penha.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131605-infraestrutura-em-niteroi-edital-milionario-preve-revitalizacao-completa-do-morro-da-penha.jpg"
 categoria_macro: geral
 ---
 Nesta terça-feira (12), a Prefeitura de Niterói oficializou o edital para as obras de urbanização do Morro da Penha, localizado na Ponta d’Areia. Sendo um dos marcos iniciais do programa Vida Nova no Morro, a localidade contará com um investimento de R$ 54 milhões.

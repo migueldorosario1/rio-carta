@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1541_2012030486713.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1541_2012030486713.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeito Eduardo Paes do Rio de Janeiro é o Mais Popular nas Redes Sociais'
 pubDate: 2023-10-06 20:04:38

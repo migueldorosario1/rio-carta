@@ -4,7 +4,7 @@ description: "Atropelamento em Ipanema: número de homicídios culposos é o mai
 pubDate: "2026-05-21T04:24:22Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "niteroi", "leblon", "iraja", "baixada", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605210423-atropelamento-em-ipanema-numero-de-homicidios-culposos-e-o-maior-desde-2011.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605210423-atropelamento-em-ipanema-numero-de-homicidios-culposos-e-o-maior-desde-2011.jpg"
 ---
 Morte de jovem acontece em meio ao aumento da violência no trânsito no estado, que registrou 787 vítimas entre janeiro e abril, segundo o ISP
 

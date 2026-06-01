@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3163_foto-camarote.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3163_foto-camarote.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sapucaí Polícia prende responsáveis por fazer comida do camarote dentro de banheiro'
 pubDate: 2024-02-12 11:03:59

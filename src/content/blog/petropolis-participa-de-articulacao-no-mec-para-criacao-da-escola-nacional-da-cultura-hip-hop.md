@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7618_IMG-20260131-WA0023.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7618_IMG-20260131-WA0023.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petrópolis participa de articulação no MEC para criação da Escola Nacional da Cultura Hip Hop'
 pubDate: 2026-02-01 16:11:16

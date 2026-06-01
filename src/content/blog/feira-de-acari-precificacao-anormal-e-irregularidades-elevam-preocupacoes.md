@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1899_15867413765e93c080d2ee8_1586741376_3x2_md.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1899_15867413765e93c080d2ee8_1586741376_3x2_md.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Feira de Acari precificação anormal e irregularidades elevam preocupações'
 pubDate: 2023-11-11 11:00:00

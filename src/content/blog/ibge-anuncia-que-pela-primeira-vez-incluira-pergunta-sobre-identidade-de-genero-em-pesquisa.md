@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1572_image-19.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1572_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'IBGE anuncia que, pela primeira vez, incluirá pergunta sobre identidade de gênero em pesquisa'
 pubDate: 2023-10-10 22:33:36

@@ -4,7 +4,7 @@ description: "A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) vai d
 pubDate: "2026-05-22T18:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "aperibe", "bom-jardim", "cambuci", "cardoso-moreira", "sao-fidelis", "alerj", "fundo-especial", "chuvas", "emergencia", "politica-rj", "norte-noroeste-fluminense", "regiao-metropolitana", "joa"]
-heroImage: "/hero/smoke-smoke-202605221823-aperibe-bom-jardim-cambuci-cardoso-moreira-e-sao-fidelis-vao-receber-r-1-75-milhao-cada.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605221823-aperibe-bom-jardim-cambuci-cardoso-moreira-e-sao-fidelis-vao-receber-r-1-75-milhao-cada.jpg"
 ---
 A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) vai destinar mais de R$ 35 milhões do Fundo Especial da Casa para auxiliar 20 municípios atingidos pelas fortes chuvas deste ano. A medida se soma à Lei nº 11.
 

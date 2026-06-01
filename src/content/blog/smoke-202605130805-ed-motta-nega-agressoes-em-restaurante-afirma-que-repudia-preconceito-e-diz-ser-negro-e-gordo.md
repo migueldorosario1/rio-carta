@@ -4,7 +4,7 @@ description: "O cantor Ed Motta negou ter cometido agressões ou injúrias duran
 pubDate: "2026-05-13T11:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "gavea", "zona-sul", "ed-motta", "restaurante", "confusao", "policia", "rio-capital-zona-sul-e-grande-tijuca", "politica-rj", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605130805-ed-motta-nega-agressoes-em-restaurante-afirma-que-repudia-preconceito-e-diz-ser-negro-e-gordo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130805-ed-motta-nega-agressoes-em-restaurante-afirma-que-repudia-preconceito-e-diz-ser-negro-e-gordo.jpg"
 categoria_macro: politica
 ---
 O cantor Ed Motta negou ter cometido agressões ou injúrias durante a confusão registrada no restaurante Grado, no Rio de Janeiro, no último dia 2. Em depoimento prestado nesta terça-feira à 15ª Delegacia de Polícia, na Gávea, o artista afirmou que não ofendeu funcionários do estabelecimento e repudiou as acusações de preconceito.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4820_imagem-1.avif"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4820_imagem-1.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ônibus são incendiados e sequestrados na Baixada'
 pubDate: 2024-08-14 14:21:31

@@ -4,7 +4,7 @@ description: "Rio Ônibus bate em trem em Costa Barros e altera circulação do 
 pubDate: "2026-05-15T10:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "costa-barros", "zona-norte", "belford-roxo", "baixada-fluminense", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "barros-filho", "madureira", "pavuna", "rocha-miranda", "rocha", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605150705-onibus-bate-em-trem-em-costa-barros-e-altera-circulacao-do-ramal-belford-roxo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150705-onibus-bate-em-trem-em-costa-barros-e-altera-circulacao-do-ramal-belford-roxo.jpg"
 categoria_macro: geral
 ---
 Rio

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7688_image-17.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7688_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Enel anuncia pacote bilionário para modernizar rede elétrica no Rio'
 pubDate: 2026-02-25 09:47:59

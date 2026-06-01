@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4761_imagem-7.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4761_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Terreiro de Umbanda em Maricá é brutalmente atacado'
 pubDate: 2024-07-15 09:53:31

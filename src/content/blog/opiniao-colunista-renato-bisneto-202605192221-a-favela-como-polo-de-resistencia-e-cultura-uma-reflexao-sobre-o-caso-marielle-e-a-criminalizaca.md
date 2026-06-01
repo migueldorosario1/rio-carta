@@ -5,7 +5,7 @@ pubDate: "2026-05-20T01:21:35Z"
 draft: false
 tags: ["colunista-renato-bisneto", "colunistas", "opiniao", "rio-de-janeiro", "favela", "resistencia-cultural", "criminalizacao-da-juventude", "marielle-franco"]
 author: "Renato Bisneto"
-heroImage: "/hero/smoke-opiniao-colunista-renato-bisneto-202605192221-a-favela-como-polo-de-resistencia-e-cultura-uma-reflexao-sobre-o-caso-marielle-e-a-criminalizaca.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-opiniao-colunista-renato-bisneto-202605192221-a-favela-como-polo-de-resistencia-e-cultura-uma-reflexao-sobre-o-caso-marielle-e-a-criminalizaca.jpg"
 ---
 
 A favela é um espaço pulsante, repleto de vida, arte e resistência. É aqui que a juventude se expressa, cria e luta, muitas vezes contra todas as adversidades. Recentemente, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou para transformar delegados em réus por associação criminosa no Caso Marielle, uma decisão que ressoa profundamente na nossa comunidade.

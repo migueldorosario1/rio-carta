@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp934_WhatsApp-Image-2023-07-27-at-18.33.00.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp934_WhatsApp-Image-2023-07-27-at-18.33.00.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lançamento do Livro A PRODUÇÃO DO CLUBE no Centro do Rio de Janeiro'
 pubDate: 2023-07-28 06:00:00

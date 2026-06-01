@@ -4,7 +4,7 @@ description: "Moradores e comerciantes da Região Central de Niterói voltaram a
 pubDate: "2026-05-13T06:05:18Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "centro-de-niteroi", "enel", "falta-de-luz", "apagao", "servico-essencial", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "regiao-metropolitana", "mare", "problemas-estruturais", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605130305-enel-volta-a-deixar-empresas-e-moradores-sem-luz-no-centro-de-niteroi.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130305-enel-volta-a-deixar-empresas-e-moradores-sem-luz-no-centro-de-niteroi.webp"
 categoria_macro: geral
 ---
 Moradores e comerciantes da Região Central de Niterói voltaram a sofrer com a interrupção no fornecimento de energia elétrica nesta terça-feira (12). A irregularidade no serviço tornou-se frequente nas últimas semanas, gerando prejuízos e insegurança.

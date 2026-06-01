@@ -4,7 +4,7 @@ description: "Volta Redonda – Um homem de 33 anos foi preso em flagrante por m
 pubDate: "2026-05-13T11:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "maus-tratos-animais", "pitbull", "protecao-animal", "sul-fluminense-costa-verde", "comunidade", "seguranca-publica", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605130805-homem-e-preso-por-maus-tratos-apos-manter-pitbull-desnutrido-e-acorrentado-em-vr.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130805-homem-e-preso-por-maus-tratos-apos-manter-pitbull-desnutrido-e-acorrentado-em-vr.jpg"
 categoria_macro: politica
 ---
 Volta Redonda – Um homem de 33 anos foi preso em flagrante por maus-tratos a um cão da raça pitbull na manhã desta segunda-feira (11), no bairro Roma, em Volta Redonda.

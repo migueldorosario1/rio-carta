@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6459_image-10.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6459_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dengue cresce no Rio e traz de volta ameaça do sorotipo 3'
 pubDate: 2025-01-15 11:00:56

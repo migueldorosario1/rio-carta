@@ -4,7 +4,7 @@ description: "O Vasco desembarcou em Porto Alegre com a ingrata missão de super
 pubDate: "2026-05-17T04:23:24Z"
 draft: false
 tags: ["rio-de-janeiro", "vasco", "internacional", "rio-capital-centro", "capital", "regiao-metropolitana", "mare", "saude"]
-heroImage: "/hero/smoke-smoke-202605170423-as-provaveis-escalacoes-de-internacional-e-vasco.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170423-as-provaveis-escalacoes-de-internacional-e-vasco.webp"
 ---
 O Vasco desembarcou em Porto Alegre com a ingrata missão de superar uma avalanche de problemas médicos e disciplinares. Para o confronto deste sábado contra o Internacional, válido pela 16ª rodada do Campeonato Brasileiro, o técnico Renato Gaúcho precisará reconstruir a espinha dorsal da equipe para tentar pontuar no estádio Beira-Rio.
 

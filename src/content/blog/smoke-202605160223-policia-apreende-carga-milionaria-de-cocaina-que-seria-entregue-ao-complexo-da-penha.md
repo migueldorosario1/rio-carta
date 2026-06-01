@@ -4,7 +4,7 @@ description: "Uma operação conjunta da Polícia Civil e da Polícia Rodoviári
 pubDate: "2026-05-16T02:23:04Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-da-penha", "zona-norte", "seguranca-publica", "politica-rj", "regiao-metropolitana", "penha", "comunidade", "complexo", "baixada", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605160223-policia-apreende-carga-milionaria-de-cocaina-que-seria-entregue-ao-complexo-da-penha.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160223-policia-apreende-carga-milionaria-de-cocaina-que-seria-entregue-ao-complexo-da-penha.jpeg"
 categoria_macro: politica
 ---
 Uma operação conjunta da Polícia Civil e da Polícia Rodoviária Federal (PRF) interceptou, nesta sexta-feira (15), uma carga de 50 quilos de cocaína ligada à facção criminosa Comando Vermelho. A droga, avaliada em mais de R$ 3 milhões, seria levada para o Complexo da Penha, na Zona Norte do Rio.

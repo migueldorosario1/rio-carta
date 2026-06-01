@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7678_image-15.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7678_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá instala botão do pânico nos ônibus municipais'
 pubDate: 2026-02-20 16:05:26

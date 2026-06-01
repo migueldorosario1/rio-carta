@@ -4,7 +4,7 @@ description: "Brasília – O senador Flávio Bolsonaro admitiu ter cobrado o ex
 pubDate: "2026-05-14T01:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "sul-fluminense", "comunidade", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605132205-flavio-bolsonaro-admite-cobranca-a-vorcaro-por-dinheiro-para-filme-sobre-pai.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-flavio-bolsonaro-admite-cobranca-a-vorcaro-por-dinheiro-para-filme-sobre-pai.jpg"
 categoria_macro: politica
 ---
 Brasília – O senador Flávio Bolsonaro admitiu ter cobrado o ex-dono do Banco Master, Daniel Vorcaro, por repasses financeiros destinados ao filme “Dark Horse”, cinebiografia sobre o ex-presidente Jair Bolsonaro. A confirmação aconteceu em um vídeo publicado pelo parlamentar nas redes sociais após a divulgação de áudios e mensagens pelo site Intercept Brasil

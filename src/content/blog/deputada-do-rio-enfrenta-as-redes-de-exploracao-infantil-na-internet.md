@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7061_image-4.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7061_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada do Rio enfrenta as redes de exploração infantil na internet'
 pubDate: 2025-08-18 14:48:54

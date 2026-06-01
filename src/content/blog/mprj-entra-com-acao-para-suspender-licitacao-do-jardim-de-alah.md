@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1177_image-39.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1177_image-39.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPRJ entra com ação para suspender licitação do Jardim de Alah'
 pubDate: 2023-08-22 14:57:10

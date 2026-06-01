@@ -4,7 +4,7 @@ description: "A comunidade Boa Vista, em Niterói, será a primeira favela do Br
 pubDate: "2026-05-20T13:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "boavista", "regiao-metropolitana", "niteroi-metropolitana", "favela", "comunidade", "complexo", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605201323-primeira-usina-solar-em-comunidade-no-brasil-entenda-a-iniciativa-pioneira-de-niteroi.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201323-primeira-usina-solar-em-comunidade-no-brasil-entenda-a-iniciativa-pioneira-de-niteroi.webp"
 ---
 A comunidade Boa Vista, em Niterói, será a primeira favela do Brasil a ser transformada em uma usina de energia solar. Pelo menos esse é o objetivo da prefeitura, que garante o início das operações a partir de junho.
 

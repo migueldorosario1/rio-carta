@@ -4,7 +4,7 @@ description: "Após denúncias de descarte irregular de documentos públicos no 
 pubDate: "2026-05-18T16:27:59Z"
 category: ["Pol\u00edtica"]
 tags: ["dops", "dani-balbi", "mpf"]
-heroImage: "/hero/deputada-dani-balbi-aciona-mpf-para-investigar-descarte-irregular-de-documentos-p-blicos-no-antigo-iml-do-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/deputada-dani-balbi-aciona-mpf-para-investigar-descarte-irregular-de-documentos-p-blicos-no-antigo-iml-do-rio.jpg"
 author: "Redação"
 ---
 

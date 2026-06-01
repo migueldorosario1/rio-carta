@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3287_images-66.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3287_images-66.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jornalista da Jovem Pan usa judeus para atacar Lula e é detonada nas redes'
 pubDate: 2024-02-17 12:15:13

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3351_images-80.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3351_images-80.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro quer fugir pra Israel e abandonar seus apoiadores'
 pubDate: 2024-02-20 23:33:38

@@ -4,7 +4,7 @@ description: "Três bares do Rio de Janeiro foram selecionados para participar d
 pubDate: "2026-05-17T06:23:28Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "lagoa-rodrigo-de-freitas", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "lagoa", "joa"]
-heroImage: "/hero/smoke-smoke-202605170623-tres-bares-no-rio-ganham-drinks-especiais-com-bourbon-em-acao-da-jim-beam.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170623-tres-bares-no-rio-ganham-drinks-especiais-com-bourbon-em-acao-da-jim-beam.png"
 ---
 Três bares do Rio de Janeiro foram selecionados para participar de uma ação da Jim Beam que celebra o whiskey e a coquetelaria na cidade. A iniciativa marca o Dia Mundial do Whiskey, em 16 de maio, e o Dia Nacional do Coquetel, em 18 de maio, com uma programação de drinks especiais à base de bourbon.
 

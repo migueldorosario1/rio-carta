@@ -4,7 +4,7 @@ description: "A deputada estadual Dani Balbi (PCdoB) apresentou na Alerj um proj
 pubDate: "2026-05-15T15:21:58Z"
 category: ["Pol\u00edtica"]
 tags: ["ci\u00eancia", "faperj", "dani-balbi", "alerj"]
-heroImage: "/hero/deputada-prop-e-13-bolsa-para-pesquisadores-da-faperj-e-amplia-agenda-de-direitos-para-p-s-graduandos-no-rio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/deputada-prop-e-13-bolsa-para-pesquisadores-da-faperj-e-amplia-agenda-de-direitos-para-p-s-graduandos-no-rio.webp"
 author: "Redação"
 categoria_macro: politica
 ---

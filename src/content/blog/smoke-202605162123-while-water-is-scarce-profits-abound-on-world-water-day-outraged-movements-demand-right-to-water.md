@@ -4,7 +4,7 @@ description: "On March 23, a day after World Water Day, an action organized by t
 pubDate: "2026-05-16T21:25:58Z"
 draft: true
 tags: ["rio-de-janeiro", "aguas-do-rio", "cedae", "privatizacao", "direitos-humanos", "rio-capital-centro", "favelas-comunidades", "regiao-metropolitana", "joa", "favela", "comunidade", "nova-iguacu", "problemas-estruturais", "educacao"]
-heroImage: "/hero/smoke-smoke-202605162123-while-water-is-scarce-profits-abound-on-world-water-day-outraged-movements-demand-right-to-water-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162123-while-water-is-scarce-profits-abound-on-world-water-day-outraged-movements-demand-right-to-water-qwen.jpg"
 ---
 On March 23, a day after World Water Day, an action organized by the Popular Network for Sanitation and Health Monitoring brought together civil society representatives and grassroots popular movements* to protest in front of private water utility Águas do Rio, in downtown Rio de Janeiro, demanding access to water and sanitation as a fundamental human right.
 

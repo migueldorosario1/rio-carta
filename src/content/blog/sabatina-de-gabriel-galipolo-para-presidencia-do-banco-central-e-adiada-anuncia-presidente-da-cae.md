@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5049_imagem-16.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5049_imagem-16.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sabatina de Gabriel Galípolo para presidência do Banco Central é adiada, anuncia presidente da CAE'
 pubDate: 2024-09-03 17:45:31

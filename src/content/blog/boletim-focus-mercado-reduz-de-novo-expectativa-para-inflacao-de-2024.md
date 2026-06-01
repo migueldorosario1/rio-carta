@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2707_imagem-2.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2707_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Boletim Focus Mercado reduz (de novo) expectativa para inflação de 2024'
 pubDate: 2024-01-30 12:50:49

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4601_imagem-5.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4601_imagem-5.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula discute financiamento de Universidades Federais em reunião com reitores'
 pubDate: 2024-06-10 09:22:11

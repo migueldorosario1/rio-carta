@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5785_imagem-49.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5785_imagem-49.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Seminário discute uso de inteligência artificial e governança de dados na educação pública'
 pubDate: 2024-10-19 15:23:47

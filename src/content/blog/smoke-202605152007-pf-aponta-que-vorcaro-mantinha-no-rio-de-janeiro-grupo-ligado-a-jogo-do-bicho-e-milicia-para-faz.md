@@ -4,7 +4,7 @@ description: "A Polícia Federal indicou que o proprietário do Banco Master, Da
 pubDate: "2026-05-15T20:08:00Z"
 draft: false
 tags: ["rio-de-janeiro", "angra-dos-reis", "jogo-do-bicho", "milicia", "policia-federal", "sul-fluminense-costa-verde", "estado", "regiao-metropolitana", "leme", "penha", "angra", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605152007-pf-aponta-que-vorcaro-mantinha-no-rio-de-janeiro-grupo-ligado-a-jogo-do-bicho-e-milicia-para-faz.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605152007-pf-aponta-que-vorcaro-mantinha-no-rio-de-janeiro-grupo-ligado-a-jogo-do-bicho-e-milicia-para-faz.jpg"
 categoria_macro: seguranca
 ---
 A Polícia Federal indicou que o proprietário do Banco Master, Daniel Vorcaro, sustentava uma célula no Rio de Janeiro para “ameaçar e humilhar” desafetos que contrariavam os interesses da instituição financeira. Segundo as apurações, faziam parte dessa estrutura operadores do jogo do bicho, milicianos e agentes das forças de segurança.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3720_imagem-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3720_imagem-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gilmar Mendes fala em atuação de narcomilícia evangélica no Rio de Janeiro'
 pubDate: 2024-03-12 09:32:34

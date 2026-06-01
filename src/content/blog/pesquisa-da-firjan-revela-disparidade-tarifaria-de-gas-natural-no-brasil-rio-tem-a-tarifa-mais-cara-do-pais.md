@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3192_imagem-28.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3192_imagem-28.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa da Firjan revela disparidade tarifária de Gás Natural no Brasil; Rio tem a tarifa mais cara do país'
 pubDate: 2024-02-14 09:26:19

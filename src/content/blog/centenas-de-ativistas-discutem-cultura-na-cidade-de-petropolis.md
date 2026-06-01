@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1369_image-27.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1369_image-27.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Centenas de ativistas discutem Cultura na cidade de Petrópolis'
 pubDate: 2023-09-18 00:16:05

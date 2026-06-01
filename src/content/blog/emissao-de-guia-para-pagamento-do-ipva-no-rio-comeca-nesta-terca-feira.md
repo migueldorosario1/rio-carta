@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2275_images.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2275_images.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Emissão de guia para pagamento do IPVA no Rio começa nesta terça-feira'
 pubDate: 2024-01-04 09:00:00

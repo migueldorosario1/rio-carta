@@ -4,7 +4,7 @@ description: "Um veículo quase caiu em uma ribanceira ao acessar uma das ruas d
 pubDate: "2026-05-13T08:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "norte-noroeste-fluminense", "calcamento-danificado", "enchente", "seguranca", "penha", "noroeste-fluminense", "problemas-estruturais", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605130505-carro-quase-cai-em-ribanceira-em-rua-com-calcamento-danificado-em-sao-fidelis.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130505-carro-quase-cai-em-ribanceira-em-rua-com-calcamento-danificado-em-sao-fidelis.jpg"
 categoria_macro: politica
 ---
 Um veículo quase caiu em uma ribanceira ao acessar uma das ruas do bairro Recanto da Penha, em São Fidélis. O caso aconteceu na noite deste sábado (09) na Rua Pastor Nedis Almeida.

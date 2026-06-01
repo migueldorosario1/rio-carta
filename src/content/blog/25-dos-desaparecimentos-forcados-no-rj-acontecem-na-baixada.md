@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1238_image-53.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1238_image-53.png"
 description: "Matéria arquivada do Rio Carta"
 title: '25% dos desaparecimentos forçados no RJ acontecem na Baixada'
 pubDate: 2023-08-30 22:29:44

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5631_imagem-9.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5631_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'CCJ da Câmara debate anistia para atos golpistas e limitação de poderes do STF'
 pubDate: 2024-10-08 19:22:53

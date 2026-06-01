@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6485_image-18.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6485_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Em apenas 15 dias do ano, violência armada dispara 36% no Rio'
 pubDate: 2025-01-16 17:35:09

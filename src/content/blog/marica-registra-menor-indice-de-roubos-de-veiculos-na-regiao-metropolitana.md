@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7790_image-7.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7790_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá registra menor índice de roubos de veículos na Região Metropolitana'
 pubDate: 2026-04-09 15:50:26

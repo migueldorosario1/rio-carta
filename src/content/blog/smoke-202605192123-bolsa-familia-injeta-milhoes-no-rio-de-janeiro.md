@@ -4,7 +4,7 @@ description: "O programa Bolsa Família inicia, nesta segunda-feira, 18 de maio,
 pubDate: "2026-05-19T21:23:04Z"
 draft: false
 tags: ["rio-de-janeiro", "bolsa-familia", "economia", "politica-rj", "capital", "regiao-metropolitana", "leme", "joa", "baixada", "sao-joao-de-meriti", "mesquita", "rio-das-ostras", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605192123-bolsa-familia-injeta-milhoes-no-rio-de-janeiro.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605192123-bolsa-familia-injeta-milhoes-no-rio-de-janeiro.webp"
 ---
 O programa Bolsa Família inicia, nesta segunda-feira, 18 de maio, o cronograma de repasses fiscais que vai injetar R$ 944,9 milhões na economia do estado do Rio de Janeiro. Ao todo, 1.
 

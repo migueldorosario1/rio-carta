@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2660_imagem-2.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2660_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mercado aposta que liberação de precatórios deve aquecer economia em 2024'
 pubDate: 2024-01-31 05:24:00

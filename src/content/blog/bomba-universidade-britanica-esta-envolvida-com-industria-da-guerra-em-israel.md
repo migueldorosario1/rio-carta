@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3383_uk-cambridge-porter-walks-across-great-court-trinity-college-14-oct-2020-afp.jpg.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3383_uk-cambridge-porter-walks-across-great-court-trinity-college-14-oct-2020-afp.jpg.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Universidade britânica está envolvida com indústria da guerra em Israel'
 pubDate: 2024-02-21 23:24:19

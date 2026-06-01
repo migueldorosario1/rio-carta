@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5218_imagem-11.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5218_imagem-11.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro vai mergulhar de vez na campanha de Nunes após trocar farpas com Marçal'
 pubDate: 2024-09-13 12:57:39

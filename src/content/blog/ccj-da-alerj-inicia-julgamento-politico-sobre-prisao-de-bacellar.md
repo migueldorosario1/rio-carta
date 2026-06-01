@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7549_image-22.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7549_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CCJ da Alerj inicia julgamento político sobre prisão de Bacellar'
 pubDate: 2025-12-08 12:21:02

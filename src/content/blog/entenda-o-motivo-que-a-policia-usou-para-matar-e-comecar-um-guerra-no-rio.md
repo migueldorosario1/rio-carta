@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7315_image-43.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7315_image-43.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Entenda o motivo que a polícia usou para matar e começar uma guerra no Rio'
 pubDate: 2025-10-31 10:47:51

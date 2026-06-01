@@ -4,7 +4,7 @@ description: "VOLTA REDONDA A Prefeitura de Volta Redonda, por meio da Secretari
 pubDate: "2026-05-13T19:05:33Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "libras", "inclusao", "servidores-municipais", "sul-fluminense-costa-verde", "ramos", "comunidade", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605131605-prefeitura-de-volta-redonda-inicia-curso-de-libras-para-servidores-municipais.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131605-prefeitura-de-volta-redonda-inicia-curso-de-libras-para-servidores-municipais.jpg"
 categoria_macro: politica
 ---
 VOLTA REDONDA

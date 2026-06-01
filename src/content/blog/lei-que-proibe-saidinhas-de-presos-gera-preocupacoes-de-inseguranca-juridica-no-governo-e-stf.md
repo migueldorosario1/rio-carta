@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4545_imagem-21.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4545_imagem-21.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lei que proíbe saidinhas de presos gera preocupações de insegurança jurídica no governo e STF'
 pubDate: 2024-05-29 09:29:39

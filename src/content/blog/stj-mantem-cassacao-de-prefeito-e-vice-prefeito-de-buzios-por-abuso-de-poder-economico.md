@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2899_images-2024-02-02T083302.341.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2899_images-2024-02-02T083302.341.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'STJ mantém cassação de prefeito e vice-prefeito de Búzios por abuso de poder econômico'
 pubDate: 2024-02-02 08:35:59

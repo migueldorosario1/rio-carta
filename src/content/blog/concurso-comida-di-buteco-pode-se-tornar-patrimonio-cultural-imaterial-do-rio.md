@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4309_bardotino_defumacaosempreconceitotragoopeito_riodejaneiro_2024_fernandosalles-1-1-768x512-1.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4309_bardotino_defumacaosempreconceitotragoopeito_riodejaneiro_2024_fernandosalles-1-1-768x512-1.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Concurso “Comida di Buteco” pode se tornar Patrimônio Cultural Imaterial do Rio '
 pubDate: 2024-04-25 15:58:01

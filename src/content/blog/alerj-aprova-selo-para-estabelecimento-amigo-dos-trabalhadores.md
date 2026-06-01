@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4658_image-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4658_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj aprova selo para estabelecimento amigo dos trabalhadores'
 pubDate: 2024-06-13 13:31:30

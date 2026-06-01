@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2396_WhatsApp-Image-2024-01-12-at-13.03.39.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2396_WhatsApp-Image-2024-01-12-at-13.03.39.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação policial na Cidade de Deus após morte de traficante em confronto'
 pubDate: 2024-01-12 13:40:00

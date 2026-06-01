@@ -4,7 +4,7 @@ description: "O Governo do Estado do Rio de Janeiro anunciou a antecipação da 
 pubDate: "2026-05-16T21:24:40Z"
 draft: true
 tags: ["rio-de-janeiro", "13-salario", "servidores-estaduais", "politica-rj", "regiao-metropolitana", "leme", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605162123-governo-do-rio-antecipa-primeira-parcela-do-13o-salario-para-maio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162123-governo-do-rio-antecipa-primeira-parcela-do-13o-salario-para-maio.jpg"
 ---
 O Governo do Estado do Rio de Janeiro anunciou a antecipação da primeira parcela do 13º salário dos servidores estaduais. O pagamento, inicialmente previsto para junho, será realizado no próximo dia 29 de maio, contemplando aproximadamente 450 mil servidores ativos, aposentados e pensionistas.
 

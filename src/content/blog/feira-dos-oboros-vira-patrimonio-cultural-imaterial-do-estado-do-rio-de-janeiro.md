@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1305_image-8-e1693969824184.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1305_image-8-e1693969824184.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Feira dos Oborós vira Patrimônio Cultural Imaterial do Estado do Rio de Janeiro'
 pubDate: 2023-09-06 00:09:45

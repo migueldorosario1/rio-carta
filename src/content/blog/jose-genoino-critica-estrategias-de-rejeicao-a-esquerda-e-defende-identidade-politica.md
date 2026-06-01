@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5779_imagem-47.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5779_imagem-47.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'José Genoino critica estratégias de rejeição à esquerda e defende identidade política'
 pubDate: 2024-10-19 15:06:50

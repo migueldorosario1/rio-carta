@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2158_Castro-sanciona-lei-que-destina-R-80-milhoes-para-0010296900202312181340.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2158_Castro-sanciona-lei-que-destina-R-80-milhoes-para-0010296900202312181340.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro revitaliza segurança com nova secretaria e orçamento de R$ 80 milhões'
 pubDate: 2023-12-18 15:39:59

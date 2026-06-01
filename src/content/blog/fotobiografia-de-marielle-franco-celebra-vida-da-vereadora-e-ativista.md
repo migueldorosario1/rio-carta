@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp901_image-78.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp901_image-78.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fotobiografia de Marielle Franco celebra vida da vereadora e ativista'
 pubDate: 2023-07-27 12:17:38

@@ -4,7 +4,7 @@ description: "A denúncia publicada pelo Intercept Brasil envolvendo o senador F
 pubDate: "2026-05-15T09:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "politica-rj", "pt", "lindbergh-farias", "brasilia", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605150605-caso-vorcaro-vira-municao-politica-contra-flavio-bolsonaro-e-pressiona-pre-candidatura-ao-planal.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150605-caso-vorcaro-vira-municao-politica-contra-flavio-bolsonaro-e-pressiona-pre-candidatura-ao-planal.jpg"
 categoria_macro: politica
 ---
 A denúncia publicada pelo Intercept Brasil envolvendo o senador Flávio Bolsonaro (PL-RJ) e o banqueiro Daniel Vorcaro provocou forte repercussão política em Brasília e abriu uma nova frente de desgaste para a pré-candidatura presidencial do filho do ex-presidente Jair Bolsonaro (PL). Integrantes do PT e aliados do presidente Luiz Inácio Lula da Silva passaram a explorar o episódio nas redes sociais e nos bastidores do Congresso, enquanto aliados do senador já discutem os possíveis impactos para a disputa de 2026.

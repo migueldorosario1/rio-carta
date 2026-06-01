@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4692_imagem-5.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4692_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Delegado suspeito no Caso Marielle vai ao STF pedir que alto salário seja mantido'
 pubDate: 2024-06-26 06:42:04

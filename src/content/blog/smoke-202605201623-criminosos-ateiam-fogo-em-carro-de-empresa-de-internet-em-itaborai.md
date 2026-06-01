@@ -4,7 +4,7 @@ description: "Criminosos incendiaram o carro de uma empresa de internet, nesta t
 pubDate: "2026-05-20T16:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "itaborai", "regiao-metropolitana", "politica-rj", "niteroi", "joa", "japeri", "mage", "sao-goncalo", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605201623-criminosos-ateiam-fogo-em-carro-de-empresa-de-internet-em-itaborai.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201623-criminosos-ateiam-fogo-em-carro-de-empresa-de-internet-em-itaborai.jpg"
 ---
 Criminosos incendiaram o carro de uma empresa de internet, nesta terça-feira (19), no bairro Joaquim de Oliveira, em Itaboraí, na Região Metropolitana do Rio.
 

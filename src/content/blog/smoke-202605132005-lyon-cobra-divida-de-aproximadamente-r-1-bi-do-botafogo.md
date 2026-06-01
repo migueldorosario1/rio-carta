@@ -4,7 +4,7 @@ description: "O Lyon apresentou nesta terça feira um relatório financeiro que 
 pubDate: "2026-05-13T23:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "futebol", "financas", "justica", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605132005-lyon-cobra-divida-de-aproximadamente-r-1-bi-do-botafogo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132005-lyon-cobra-divida-de-aproximadamente-r-1-bi-do-botafogo.jpg"
 categoria_macro: politica
 ---
 O Lyon apresentou nesta terça feira um relatório financeiro que registra créditos de 727 milhões de reais a receber do Botafogo. O documento revela que John Textor teria emitido garantias sem consentimento prévio para cobrir obrigações do clube brasileiro e do Molenbeek.

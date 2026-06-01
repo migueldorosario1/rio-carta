@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5737_imagem-33.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5737_imagem-33.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula propõe medidas para controlar gastos públicos pós-eleições municipais'
 pubDate: 2024-10-17 20:32:05

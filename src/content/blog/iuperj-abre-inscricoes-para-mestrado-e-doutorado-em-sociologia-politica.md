@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6994_image-14-e1752868881489.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6994_image-14-e1752868881489.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Iuperj abre inscrições para mestrado e doutorado em Sociologia Política'
 pubDate: 2025-07-18 17:04:26

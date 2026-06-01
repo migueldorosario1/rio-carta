@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7482_image-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7482_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'BRICS discutem rumos do bloco em ambiente popular'
 pubDate: 2025-12-01 13:23:26

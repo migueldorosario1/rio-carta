@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5298_imagem-69.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5298_imagem-69.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quaest Paes lidera disputa pela Prefeitura do Rio'
 pubDate: 2024-09-18 10:25:13

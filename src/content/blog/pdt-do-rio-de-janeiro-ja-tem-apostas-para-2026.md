@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7166_image-7.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7166_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PDT do Rio de Janeiro já tem apostas para 2026'
 pubDate: 2025-09-30 15:48:00

@@ -4,7 +4,7 @@ description: "A Firjan SENAI anunciou a abertura de inscrições para cursos té
 pubDate: "2026-05-16T00:24:34Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "campos", "educacao", "macae-norte-fluminense", "regiao-metropolitana", "portuguesa", "norte-fluminense"]
-heroImage: "/hero/smoke-smoke-202605160023-macae-e-campos-recebem-vagas-em-cursos-tecnicos-gratuitos-da-firjan-senai.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160023-macae-e-campos-recebem-vagas-em-cursos-tecnicos-gratuitos-da-firjan-senai.jpg"
 categoria_macro: geral
 ---
 A Firjan SENAI anunciou a abertura de inscrições para cursos técnicos gratuitos gratuitos de nível médio para todo o estado do Rio de Janeiro. E Macaé e Campos estão entre as cidade contempladas.

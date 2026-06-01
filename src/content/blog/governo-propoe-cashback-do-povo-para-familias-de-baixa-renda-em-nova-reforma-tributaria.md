@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4304_imagem-31.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4304_imagem-31.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo propõe Cashback do Povo para famílias de baixa renda em nova reforma tributária'
 pubDate: 2024-04-25 10:09:01

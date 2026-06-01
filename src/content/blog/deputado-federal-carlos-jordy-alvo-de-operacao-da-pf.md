@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2474_Carlos-Jordy-848x477-1.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2474_Carlos-Jordy-848x477-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputado Federal Carlos Jordy alvo de operação da PF'
 pubDate: 2024-01-18 12:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7479_image.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7479_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Eduardo Paes defende Lula, acusa Castro de empurrar culpas e cobra transparência'
 pubDate: 2025-12-01 11:54:05

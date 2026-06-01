@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3946_image-6.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3946_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Chiquinho Brazão era secretário de Eduardo Paes na prefeitura do Rio até o mês passado'
 pubDate: 2024-03-24 13:41:02

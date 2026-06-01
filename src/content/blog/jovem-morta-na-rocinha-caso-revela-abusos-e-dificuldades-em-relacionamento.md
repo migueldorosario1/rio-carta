@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1245_image-55.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1245_image-55.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jovem Morta na Rocinha Caso Revela Abusos e Dificuldades em Relacionamento'
 pubDate: 2023-08-31 02:33:26

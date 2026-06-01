@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4518_imagem.jpg-2.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4518_imagem.jpg-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ataque em campo de refugiados deixa dezenas de mortos em Gaza'
 pubDate: 2024-05-27 09:02:45

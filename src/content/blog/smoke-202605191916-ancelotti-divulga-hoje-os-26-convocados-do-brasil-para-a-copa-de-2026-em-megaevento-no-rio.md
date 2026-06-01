@@ -4,10 +4,8 @@ description: "Janeiro será o c"
 pubDate: "2026-05-19T19:16:59Z"
 draft: true
 tags: ["rio-de-janeiro", "copa-do-mundo", "futebol", "rio-capital-centro", "sao-goncalo-itaborai", "regiao-metropolitana", "flamengo", "joa", "sao-goncalo", "itaborai", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605191916-ancelotti-divulga-hoje-os-26-convocados-do-brasil-para-a-copa-de-2026-em-megaevento-no-rio.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-ancelotti-divulga-hoje-os-26-convocados-do-brasil-para-a-copa-de-2026-em-megaevento-no-rio.png"
 ---
-Ancelotti divulga hoje os 26 convocados do Brasil para a Copa de 2026 em megaevento no Rio
-
 O evento marca um dos momentos mais aguardados do ciclo da Copa
 
 O Rio de Janeiro será o centro das atenções do futebol mundial nesta segunda-feira (18). O técnico Carlo Ancelotti anunciará às 17h40, no Museu do Amanhã, a lista oficial dos 26 jogadores convocados para defender a Seleção Brasileira na Copa do Mundo de 2026.

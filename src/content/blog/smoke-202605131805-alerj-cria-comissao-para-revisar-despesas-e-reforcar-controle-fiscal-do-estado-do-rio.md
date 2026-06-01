@@ -4,7 +4,7 @@ description: "ESTADO A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj
 pubDate: "2026-05-13T21:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "controle-fiscal", "sul-fluminense", "regiao-metropolitana"]
-heroImage: "/hero/smoke-smoke-202605131805-alerj-cria-comissao-para-revisar-despesas-e-reforcar-controle-fiscal-do-estado-do-rio.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131805-alerj-cria-comissao-para-revisar-despesas-e-reforcar-controle-fiscal-do-estado-do-rio.jpeg"
 categoria_macro: politica
 ---
 ESTADO

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4054_imagem-8.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4054_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Suplicy defende que MST cultive maconha para uso medicinal'
 pubDate: 2024-04-03 10:39:54

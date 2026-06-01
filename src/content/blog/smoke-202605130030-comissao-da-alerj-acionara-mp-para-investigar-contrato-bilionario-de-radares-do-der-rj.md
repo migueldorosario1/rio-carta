@@ -4,7 +4,7 @@ description: "O contrato firmado pelo Departamento de Estradas de Rodagem do Rio
 pubDate: "2026-05-13T03:30:59Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "der-rj", "radares", "contrato-bilionario", "investigacao", "ministerio-publico", "regiao-metropolitana", "regiao-dos-lagos", "regiao-serrana", "norte-fluminense", "costa-verde", "politica-rj", "serrana"]
-heroImage: "/hero/smoke-smoke-202605130030-comissao-da-alerj-acionara-mp-para-investigar-contrato-bilionario-de-radares-do-der-rj.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130030-comissao-da-alerj-acionara-mp-para-investigar-contrato-bilionario-de-radares-do-der-rj.png"
 categoria_macro: politica
 ---
 O contrato firmado pelo Departamento de Estradas de Rodagem do Rio de Janeiro (DER-RJ) prevendo a instalação de 390 radares eletrônicos nas rodovias estaduais poderá passar a ser investigado também pelo Ministério Público Estadual.

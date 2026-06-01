@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3722_imagem.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3722_imagem.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF adia decisão sobre posse de maconha; Saiba quando será retomado'
 pubDate: 2024-03-12 09:32:37

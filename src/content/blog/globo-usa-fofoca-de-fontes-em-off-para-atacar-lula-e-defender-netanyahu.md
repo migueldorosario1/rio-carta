@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3323_imagem-31.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3323_imagem-31.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Globo usa fofoca de fontes em off para atacar Lula e defender Netanyahu'
 pubDate: 2024-02-19 21:16:04

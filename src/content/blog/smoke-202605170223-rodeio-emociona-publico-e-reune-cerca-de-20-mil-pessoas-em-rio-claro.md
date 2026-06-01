@@ -4,7 +4,7 @@ description: "RIO CLARO A retomada do rodeio em Rio Claro emocionou o público n
 pubDate: "2026-05-17T02:23:20Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-claro", "cultura", "eventos", "sul-fluminense-costa-verde", "sul-fluminense", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605170223-rodeio-emociona-publico-e-reune-cerca-de-20-mil-pessoas-em-rio-claro.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170223-rodeio-emociona-publico-e-reune-cerca-de-20-mil-pessoas-em-rio-claro.jpeg"
 ---
 RIO CLARO
 

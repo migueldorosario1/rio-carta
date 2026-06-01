@@ -4,7 +4,7 @@ description: "Um dia após a Prefeitura do Rio anunciar o fechamento do antigo p
 pubDate: "2026-05-13T17:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-comprido", "arquivo-nacional", "inmetro", "patrimonio-historico", "seguranca-publica", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605131405-predio-abandonado-do-inmetro-no-rio-comprido-sera-cedido-ao-arquivo-nacional.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131405-predio-abandonado-do-inmetro-no-rio-comprido-sera-cedido-ao-arquivo-nacional.png"
 categoria_macro: politica
 ---
 Um dia após a Prefeitura do Rio anunciar o fechamento do antigo prédio do Inmetro, no Rio Comprido, a União já trabalha para dar um novo destino ao edifício abandonado há pelo menos cinco anos. A intenção do governo federal é ceder o imóvel ao Arquivo Nacional, que deverá instalar repartições no local nos próximos meses.

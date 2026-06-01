@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1449_image-42.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1449_image-42.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'COTA DE TELA ESTADUAL CINEMAS DO RIO DEVERÃO EXIBIR PERCENTUAL MÍNIMO DE OBRAS NACIONAIS'
 pubDate: 2023-09-27 22:14:33

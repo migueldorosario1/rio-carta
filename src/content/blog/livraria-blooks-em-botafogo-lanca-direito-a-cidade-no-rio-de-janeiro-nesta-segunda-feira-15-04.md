@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4176_image-6-e1713125668338.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4176_image-6-e1713125668338.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Livraria Blooks em Botafogo lança “Direito à cidade no Rio de Janeiro” nesta segunda-feira (15/04)'
 pubDate: 2024-04-14 17:14:44

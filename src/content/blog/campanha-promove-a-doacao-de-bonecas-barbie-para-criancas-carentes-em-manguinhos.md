@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1036_BARBIE20260523.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1036_BARBIE20260523.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Campanha promove a doação de bonecas Barbie para crianças carentes em Manguinhos'
 pubDate: 2023-08-06 19:32:53

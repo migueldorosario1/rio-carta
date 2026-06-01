@@ -4,7 +4,7 @@ description: "Por indicação do vereador Ricardinho Netuno (PL), a Câmara de M
 pubDate: "2026-05-27T12:00:28Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "alerj", "politica-rj", "camara-de-vereadors", "douglas-ruas", "regiao-metropolitana", "macae-norte-fluminense", "sao-goncalo", "norte-fluminense"]
-heroImage: "/hero/smoke-smoke-202605271200-camara-de-marica-aprova-homenagem-para-o-presidente-da-alerj-douglas-ruas.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605271200-camara-de-marica-aprova-homenagem-para-o-presidente-da-alerj-douglas-ruas.jpg"
 ---
 Por indicação do vereador Ricardinho Netuno (PL), a Câmara de Maricá aprovou a concessão do Título de Cidadão Maricaense ao presidente da Assembleia Legislativa do Estado do Rio (Alerj), deputado estadual Douglas Ruas (PL).
 

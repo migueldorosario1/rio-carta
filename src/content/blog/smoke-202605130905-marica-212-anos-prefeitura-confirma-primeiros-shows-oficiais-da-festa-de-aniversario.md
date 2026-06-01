@@ -4,7 +4,7 @@ description: "Maricá 212 anos: Prefeitura confirma primeiros shows oficiais da 
 pubDate: "2026-05-13T12:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "prefeitura-de-marica", "aniversario", "shows", "cultura", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "mare", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605130905-marica-212-anos-prefeitura-confirma-primeiros-shows-oficiais-da-festa-de-aniversario.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130905-marica-212-anos-prefeitura-confirma-primeiros-shows-oficiais-da-festa-de-aniversario.jpg"
 categoria_macro: politica
 ---
 Maricá 212 anos: Prefeitura confirma primeiros shows oficiais da festa de aniversário

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp799_image-47.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp799_image-47.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Após 10 anos, família de Amarildo está perto de receber indenização'
 pubDate: 2023-07-14 18:25:16

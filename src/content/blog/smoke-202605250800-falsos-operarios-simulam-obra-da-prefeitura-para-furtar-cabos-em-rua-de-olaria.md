@@ -4,7 +4,7 @@ description: "Um grupo de criminosos chamou atenção pela ousadia ao fingir rea
 pubDate: "2026-05-25T08:00:11Z"
 draft: false
 tags: ["rio-de-janeiro", "olaria", "zona-norte", "falsos-operarios", "furto-cabos", "vereador-vitor-hugo", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605250800-falsos-operarios-simulam-obra-da-prefeitura-para-furtar-cabos-em-rua-de-olaria.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605250800-falsos-operarios-simulam-obra-da-prefeitura-para-furtar-cabos-em-rua-de-olaria.jpg"
 ---
 Um grupo de criminosos chamou atenção pela ousadia ao fingir realizar uma obra pública para furtar cabos na Rua Paranapanema, em Olaria, na Zona Norte do Rio de Janeiro. Segundo Ancelmo Gois, de O Globo, os suspeitos chegaram a montar uma estrutura semelhante à de intervenções oficiais para despistar moradores e facilitar a ação criminosa.
 

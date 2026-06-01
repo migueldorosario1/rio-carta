@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2468_Design-sem-nome-13.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2468_Design-sem-nome-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Galerista de Nova York morto no Rio suspeito flagrado em câmeras'
 pubDate: 2024-01-17 20:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7223_image-10.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7223_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Qualificação gratuita prepara moradores de Maricá para 13 mil empregos'
 pubDate: 2025-10-15 10:05:12

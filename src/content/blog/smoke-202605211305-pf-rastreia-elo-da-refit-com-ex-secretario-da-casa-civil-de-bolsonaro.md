@@ -4,7 +4,7 @@ description: "A nova frente da investigação sobre o grupo Refit alcançou o n�
 pubDate: "2026-05-21T16:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "grupo-refit", "claudio-castro", "capital", "regiao-metropolitana", "leme", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605211305-pf-rastreia-elo-da-refit-com-ex-secretario-da-casa-civil-de-bolsonaro.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211305-pf-rastreia-elo-da-refit-com-ex-secretario-da-casa-civil-de-bolsonaro.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

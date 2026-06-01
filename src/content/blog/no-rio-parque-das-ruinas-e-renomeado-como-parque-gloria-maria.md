@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp850_image-62.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp850_image-62.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'No Rio, Parque das Ruínas é renomeado como Parque Glória Maria'
 pubDate: 2023-07-20 23:01:49

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1940_marcioaraujo.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1940_marcioaraujo.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sargento ligado à segurança de Rogério de Andrade é reintegrado à PM após reviravolta judicial'
 pubDate: 2023-11-14 12:40:00

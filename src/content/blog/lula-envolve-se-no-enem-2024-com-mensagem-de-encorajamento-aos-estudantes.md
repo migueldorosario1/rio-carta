@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5956_imagem-4.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5956_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula envolve-se no Enem 2024 com mensagem de encorajamento aos estudantes'
 pubDate: 2024-11-03 12:17:00

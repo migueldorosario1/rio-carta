@@ -4,7 +4,7 @@ description: "A Assembleia Legislativa do Rio de Janeiro aprovou e colocou em pr
 pubDate: "2026-05-22T16:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "norte-fluminense", "noroeste-fluminense", "chuvas", "auxilio-financeiro", "norte-noroeste-fluminense", "estado", "regiao-metropolitana", "baixada", "serrana", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605221623-douglas-ruas-comanda-liberacao-de-r-65-milhoes-para-norte-e-noroeste-fluminense-na-alerj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605221623-douglas-ruas-comanda-liberacao-de-r-65-milhoes-para-norte-e-noroeste-fluminense-na-alerj.jpg"
 ---
 A Assembleia Legislativa do Rio de Janeiro aprovou e colocou em prática medidas de auxílio financeiro a cidades castigadas por intensas chuvas, totalizando 65 milhões de reais direcionados a ações urgentes, amparo social e reconstrução da infraestrutura urbana e rural no estado.
 

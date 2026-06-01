@@ -4,7 +4,7 @@ description: "O bairro do Flamengo, na Zona Sul do Rio, vai receber um novo empr
 pubDate: "2026-05-15T23:25:44Z"
 draft: false
 tags: ["rio-de-janeiro", "flamengo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-porto", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605152323-predio-so-para-airbnb-sem-moradia-flamengo-tera-predio-exclusivo-para-aluguel-de-temporada-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605152323-predio-so-para-airbnb-sem-moradia-flamengo-tera-predio-exclusivo-para-aluguel-de-temporada-qwen.jpg"
 categoria_macro: lazer
 ---
 O bairro do Flamengo, na Zona Sul do Rio, vai receber um novo empreendimento totalmente voltado ao aluguel de temporada. O projeto, chamado Soul Rio Barão de Icaraí, terá 83 unidades e Valor Geral de Vendas estimado em R$ 80 milhões.

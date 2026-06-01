@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5697_imagem-2.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5697_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jordy gastou bem mais que Neves na disputa em Niterói e não garantiu o 1º lugar'
 pubDate: 2024-10-14 17:02:07

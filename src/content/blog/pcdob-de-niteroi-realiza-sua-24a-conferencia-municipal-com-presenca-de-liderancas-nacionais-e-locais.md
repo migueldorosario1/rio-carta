@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7115_Screenshot_20250830-114547_Instagram.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7115_Screenshot_20250830-114547_Instagram.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PCdoB de Niterói realiza sua 24ª Conferência Municipal com presença de lideranças nacionais e locais'
 pubDate: 2025-08-30 12:20:12

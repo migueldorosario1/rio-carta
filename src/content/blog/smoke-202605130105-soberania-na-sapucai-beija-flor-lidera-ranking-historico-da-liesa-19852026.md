@@ -4,7 +4,7 @@ description: "Desde que o Sambódromo foi inaugurado e a Liesa assumiu a organiz
 pubDate: "2026-05-13T04:05:11Z"
 draft: true
 tags: ["rio-de-janeiro", "nilopolis", "baixada-fluminense", "carnaval", "liesa", "sapucai", "beija-flor", "cultura-e-carnaval-rj", "cultura-carnaval", "regiao-metropolitana", "mangueira", "joa", "baixada", "saude"]
-heroImage: "/hero/smoke-smoke-202605130105-soberania-na-sapucai-beija-flor-lidera-ranking-historico-da-liesa-19852026.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130105-soberania-na-sapucai-beija-flor-lidera-ranking-historico-da-liesa-19852026.jpg"
 categoria_macro: lazer
 ---
 Desde que o Sambódromo foi inaugurado e a Liesa assumiu a organização do Grupo Especial em 1984, o Carnaval do Rio de Janeiro transformou-se em uma competição de regularidade técnica e investimentos milionários. O ranking geral 1985–2026, que consolida o desempenho das agremiações ao longo de quatro décadas, revela quem são as verdadeiras potências da “Era Sambódromo”.

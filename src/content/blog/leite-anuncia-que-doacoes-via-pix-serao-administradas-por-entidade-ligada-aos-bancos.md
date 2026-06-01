@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4425_imagem.jpg.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4425_imagem.jpg.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Leite anuncia que doações via Pix serão administradas por entidade ligada aos bancos'
 pubDate: 2024-05-08 08:02:07

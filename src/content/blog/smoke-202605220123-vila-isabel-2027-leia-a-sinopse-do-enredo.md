@@ -4,7 +4,7 @@ description: "“(…) é que a gente pode ficar sempre alegre, alegre, mesmo co
 pubDate: "2026-05-22T01:23:30Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-isabel", "carnaval-2027", "enredo", "cultura", "cultura-carnaval", "lagoa", "joa", "problemas-estruturais", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605220123-vila-isabel-2027-leia-a-sinopse-do-enredo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605220123-vila-isabel-2027-leia-a-sinopse-do-enredo.jpg"
 ---
 “(…) é que a gente pode ficar sempre alegre, alegre, mesmo com toda coisa ruim que acontece acontecendo.” João Guimarães Rosa — Campo Geral “Mas crianças com bocas de fome, ávidas, ressuscitaram a vida brincando anzóis nas correntezas profundas.
 

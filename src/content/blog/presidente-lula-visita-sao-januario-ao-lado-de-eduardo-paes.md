@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5215_IMG-20240912-WA0300.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5215_IMG-20240912-WA0300.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente Lula visita São Januário ao lado de Eduardo Paes'
 pubDate: 2024-09-13 12:06:43

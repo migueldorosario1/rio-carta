@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1223_image-48.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1223_image-48.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Americanas demite mais de 9 mil em sete meses de recuperação judicial'
 pubDate: 2023-08-28 11:48:16

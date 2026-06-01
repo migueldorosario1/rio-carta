@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6341_imagem-5.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6341_imagem-5.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mais da metade das famílias brasileiras alcança classe média em 2024, aponta estudo'
 pubDate: 2025-01-06 06:45:35

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp742_image-35.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp742_image-35.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Programa Centelha II vai destinar R$ 3,5 milhões para empreendedorismo no Rio de Janeiro'
 pubDate: 2023-07-10 14:29:53

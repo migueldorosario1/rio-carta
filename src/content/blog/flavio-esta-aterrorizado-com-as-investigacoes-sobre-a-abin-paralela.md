@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2764_imagem-16.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2764_imagem-16.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Flávio está aterrorizado com as investigações sobre a Abin paralela'
 pubDate: 2024-01-31 08:12:35

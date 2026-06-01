@@ -4,7 +4,7 @@ description: "O Superior Tribunal de Justiça (STJ) rejeitou nesta terça-feira 
 pubDate: "2026-05-29T20:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "henry-borel", "jairinho", "stj", "justica", "rio-capital-barra-recreio-jacarepagua", "politica-rj", "regiao-metropolitana", "mage", "tijuca", "zona-oeste", "joa", "seguranca-publica"]
-heroImage: "/hero/smoke-smoke-202605292000-stj-rejeita-recurso-de-jairinho-e-mantem-julgamento-do-caso-henry-borel-para-segunda-25.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605292000-stj-rejeita-recurso-de-jairinho-e-mantem-julgamento-do-caso-henry-borel-para-segunda-25.jpg"
 ---
 O Superior Tribunal de Justiça (STJ) rejeitou nesta terça-feira (20) um recurso apresentado pela defesa do ex-vereador e ex-médico Jairo Souza Santos Júnior, o Dr. Jairinho, que buscava anular provas do processo que investiga a morte do menino Henry Borel.
 

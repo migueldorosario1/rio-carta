@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6884_image-9.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6884_image-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lei do Primeiro Emprego na Enfermagem é sancionada e promete revolucionar o setor no Rio de Janeiro'
 pubDate: 2025-05-30 12:56:22

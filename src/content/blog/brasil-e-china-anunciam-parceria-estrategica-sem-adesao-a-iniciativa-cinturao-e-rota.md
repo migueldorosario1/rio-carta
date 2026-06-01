@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6016_imagem-14.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6016_imagem-14.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil e China anunciam parceria estratégica sem adesão à iniciativa Cinturão e Rota'
 pubDate: 2024-11-20 10:12:11

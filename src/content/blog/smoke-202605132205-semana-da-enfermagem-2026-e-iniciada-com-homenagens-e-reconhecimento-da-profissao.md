@@ -4,7 +4,7 @@ description: "Sob o lema “Técnica, Ética e Política: Pilares Inegociáveis 
 pubDate: "2026-05-14T01:05:57Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "regiao-norte-noroeste", "enfermagem", "saude", "politica-local", "norte-noroeste-fluminense", "estado", "regiao-metropolitana", "mage", "cidade-universitaria", "pilares", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605132205-semana-da-enfermagem-2026-e-iniciada-com-homenagens-e-reconhecimento-da-profissao.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-semana-da-enfermagem-2026-e-iniciada-com-homenagens-e-reconhecimento-da-profissao.jpg"
 categoria_macro: lazer
 ---
 Sob o lema “Técnica, Ética e Política: Pilares Inegociáveis do Cuidado de Enfermagem”, a Coordenação Geral de Enfermagem da Secretaria de Saúde de Macaé deu início nesta terça-feira (12) à programação da Semana da Enfermagem 2026. O evento segue até sexta (15), das 8h às 17h, no auditório da UFRJ, bloco B da Cidade Universitária.

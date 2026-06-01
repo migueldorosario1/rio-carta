@@ -4,7 +4,7 @@ description: "A poucos dias do fim do pagamento em dinheiro direto ao motorista 
 pubDate: "2026-05-23T02:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "onibus", "pix", "jae", "transporte-mobilidade", "favelas-comunidades", "regiao-metropolitana", "niteroi", "bancarios", "favela", "comunidade", "baixada", "sao-goncalo", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605230223-onibus-do-rio-passarao-a-aceitar-pix-e-cartoes-de-acordo-com-a-prefeitura.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605230223-onibus-do-rio-passarao-a-aceitar-pix-e-cartoes-de-acordo-com-a-prefeitura.png"
 ---
 A poucos dias do fim do pagamento em dinheiro direto ao motorista dos ônibus municipais, marcado para o dia 30 de maio, a Prefeitura do Rio anunciou mudanças importantes para evitar que os passageiros fiquem a pé. Após uma forte onda de reclamações e cobranças por parte dos usuários do transporte público, o prefeito Eduardo Cavaliere confirmou que os validadores do sistema Jaé passarão a aceitar pagamento por PIX, crédito e débito.
 

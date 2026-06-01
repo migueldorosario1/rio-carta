@@ -4,7 +4,7 @@ description: "Infecções Sexualmente Transmissíveis (IST) em adolescentes e o 
 pubDate: "2026-05-13T23:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "adolescentes", "pessoas-com-deficiencia", "camara-municipal", "politicas-publicas", "saude", "educacao", "norte-noroeste-fluminense", "estado", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605132005-vereadores-aprovam-propostas-voltadas-aos-adolescentes-e-pcd.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132005-vereadores-aprovam-propostas-voltadas-aos-adolescentes-e-pcd.jpg"
 categoria_macro: politica
 ---
 Infecções Sexualmente Transmissíveis (IST) em adolescentes e o atendimento das famílias de Pessoas com DeficiĂȘncia (PcD) foram os principais assuntos debatidos na sessão desta quarta-feira (13), na Câmara Municipal de Macaé. Os requerimentos aprovados são de autoria dos vereadores Liomar Queiroz (Agir) e Cesinha (Cidadania), respectivamente.

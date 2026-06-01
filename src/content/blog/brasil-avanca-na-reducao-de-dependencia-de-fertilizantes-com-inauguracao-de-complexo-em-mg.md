@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3773_imagem-16.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3773_imagem-16.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil avança na redução de dependência de fertilizantes com inauguração de Complexo em MG'
 pubDate: 2024-03-14 09:50:05

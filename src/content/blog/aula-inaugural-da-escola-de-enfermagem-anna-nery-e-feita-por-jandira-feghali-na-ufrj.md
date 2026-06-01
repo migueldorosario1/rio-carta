@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3851_Screenshot_20240318-212906_Instagram.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3851_Screenshot_20240318-212906_Instagram.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aula Inaugural da Escola de Enfermagem Anna Nery é feita por Jandira Feghali na UFRJ'
 pubDate: 2024-03-18 21:32:59

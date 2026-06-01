@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7291_image-32.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7291_image-32.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Entenda a metamorfose no discurso de Cláudio Castro'
 pubDate: 2025-10-29 13:50:41

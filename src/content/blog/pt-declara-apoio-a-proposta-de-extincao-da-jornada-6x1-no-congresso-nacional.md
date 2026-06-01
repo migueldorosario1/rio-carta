@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5995_imagem-10.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5995_imagem-10.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PT declara apoio à proposta de extinção da jornada 6x1 no Congresso Nacional'
 pubDate: 2024-11-12 19:35:01

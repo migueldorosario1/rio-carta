@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1501_whatsapp-image-2023-10-05-at-08.21.16.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1501_whatsapp-image-2023-10-05-at-08.21.16.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tragédia na Barra Irmão de deputada federal é assassinado'
 pubDate: 2023-10-05 13:42:14

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6881_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6881_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj cria Centro de Referência em Dor Crônica no RJ'
 pubDate: 2025-05-30 12:05:12

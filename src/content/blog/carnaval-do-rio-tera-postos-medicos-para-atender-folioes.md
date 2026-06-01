@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2477_img_3727-1.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2477_img_3727-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval do Rio terá postos médicos para atender foliões'
 pubDate: 2024-01-18 13:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3657_images-2024-03-05T154907.455.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3657_images-2024-03-05T154907.455.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula propõe compartilhar regulamentação do trabalho por aplicativo com os EUA'
 pubDate: 2024-03-05 15:51:57

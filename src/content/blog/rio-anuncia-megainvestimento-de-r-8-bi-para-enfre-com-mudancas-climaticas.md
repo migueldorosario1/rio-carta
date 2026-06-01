@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6482_image-17.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6482_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio anuncia megainvestimento de R$ 8 bi para enfrentar mudanças climáticas'
 pubDate: 2025-01-16 17:22:46

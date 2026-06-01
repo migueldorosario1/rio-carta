@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6038_imagem-17.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6038_imagem-17.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vídeo Ônibus pega fogo e causa pânico em SP'
 pubDate: 2024-11-26 11:03:24

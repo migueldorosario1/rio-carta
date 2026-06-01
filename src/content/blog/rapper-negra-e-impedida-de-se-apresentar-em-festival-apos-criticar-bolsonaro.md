@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4342_imagem-40.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4342_imagem-40.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rapper negra é impedida de se apresentar em festival após criticar Bolsonaro'
 pubDate: 2024-04-29 09:40:55

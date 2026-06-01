@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2645_imagem.jpg.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2645_imagem.jpg.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Biden confirma que militares dos EUA foram mortos em ataque na Jordânia'
 pubDate: 2024-01-30 05:14:00

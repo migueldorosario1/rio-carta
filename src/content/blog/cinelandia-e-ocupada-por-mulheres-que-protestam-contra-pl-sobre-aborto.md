@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4662_imagem-15.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4662_imagem-15.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cinelândia é ocupada por mulheres que protestam contra PL sobre aborto'
 pubDate: 2024-06-14 08:51:04

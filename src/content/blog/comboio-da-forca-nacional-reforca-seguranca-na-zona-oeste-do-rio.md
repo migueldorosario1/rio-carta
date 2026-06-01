@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1664_whatsapp-image-2023-10-23-at-17.18.17.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1664_whatsapp-image-2023-10-23-at-17.18.17.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Comboio da Força Nacional reforça segurança na Zona Oeste do Rio'
 pubDate: 2023-10-23 17:51:59

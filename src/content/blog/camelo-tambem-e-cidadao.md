@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp548_e373dcde-image-768x432-1-compressed.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp548_e373dcde-image-768x432-1-compressed.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Edson Santos Camelô também é cidadão!'
 pubDate: 2023-06-29 12:14:48

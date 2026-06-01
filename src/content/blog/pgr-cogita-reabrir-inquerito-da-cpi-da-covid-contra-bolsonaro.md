@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3866_imagem-21.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3866_imagem-21.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PGR cogita reabrir inquérito da CPI da Covid contra Bolsonaro'
 pubDate: 2024-03-19 09:15:16

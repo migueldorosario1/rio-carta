@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4903_imagem-4.avif"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4903_imagem-4.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vice de Ramagem é ré por espancar a vizinha'
 pubDate: 2024-08-20 09:03:11

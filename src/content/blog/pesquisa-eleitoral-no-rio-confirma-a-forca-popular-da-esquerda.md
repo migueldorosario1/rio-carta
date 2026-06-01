@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7283_image-30.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7283_image-30.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa eleitoral no Rio confirma a força popular da esquerda'
 pubDate: 2025-10-29 12:28:02

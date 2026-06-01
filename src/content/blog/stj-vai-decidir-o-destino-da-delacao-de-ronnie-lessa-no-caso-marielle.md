@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2954_imagem-16.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2954_imagem-16.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STJ vai decidir o destino da delação de Ronnie Lessa no caso Marielle'
 pubDate: 2024-02-05 08:41:24

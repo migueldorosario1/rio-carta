@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7758_IMG-20260331-WA0028.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7758_IMG-20260331-WA0028.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Memória e verdade nas salas de aula projeto quer discutir ditadura nas escolas do Rio'
 pubDate: 2026-04-01 07:54:06

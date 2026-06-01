@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5881_imagem-76.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5881_imagem-76.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Segundo turno das eleições em Niterói e Petrópolis acontece neste domingo'
 pubDate: 2024-10-27 10:10:59

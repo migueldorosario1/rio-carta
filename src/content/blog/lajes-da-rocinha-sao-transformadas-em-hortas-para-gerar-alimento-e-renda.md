@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp728_image-31.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp728_image-31.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lajes da Rocinha são transformadas em hortas para gerar alimento e renda'
 pubDate: 2023-07-09 10:30:38

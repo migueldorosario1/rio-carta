@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6091_imagem-3.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6091_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Trump ameaça impor tarifas a países do BRICS em tentativa de sustentar hegemonia do dólar'
 pubDate: 2024-12-01 11:55:01

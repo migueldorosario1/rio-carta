@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5434_imagem-104.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5434_imagem-104.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro das comunicações anuncia investigação sobre retorno temporário da rede social X no Brasil'
 pubDate: 2024-09-24 19:13:16

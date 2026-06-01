@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4795_imagem.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4795_imagem.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ramagem promete acabar com o BRT no Rio'
 pubDate: 2024-08-06 16:43:01

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7474_image-44.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7474_image-44.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Trilhos ganham força no redesenho do transporte carioca'
 pubDate: 2025-11-27 13:14:44

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3780_imagem-17.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3780_imagem-17.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Influenciador digital é preso por tentativa de feminicídio contra ex-namorada em SP'
 pubDate: 2024-03-14 09:50:08

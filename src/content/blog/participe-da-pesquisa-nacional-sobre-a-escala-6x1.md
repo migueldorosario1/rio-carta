@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6638_image-31.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6638_image-31.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Participe da pesquisa nacional sobre a escala 6x1'
 pubDate: 2025-02-27 09:49:47

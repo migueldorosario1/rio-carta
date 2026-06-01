@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5967_image-4.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5967_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente da Faetec deverá ser indicado por lista tríplice de professores'
 pubDate: 2024-11-06 12:17:47

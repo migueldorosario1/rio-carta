@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4236_imagem-27.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4236_imagem-27.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Glauber Braga expulsa extremista do MBL a socos e chutes da Câmara'
 pubDate: 2024-04-18 09:23:22

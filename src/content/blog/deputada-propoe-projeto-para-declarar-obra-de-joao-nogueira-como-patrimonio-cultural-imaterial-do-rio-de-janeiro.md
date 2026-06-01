@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7169_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7169_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada propõe projeto para declarar obra de João Nogueira como patrimônio cultural imaterial do Rio de Janeiro'
 pubDate: 2025-09-30 16:02:03

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3592_imagem-39.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3592_imagem-39.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Senador bolsonarista destina verbas do gabinete para site de conteúdo extremista'
 pubDate: 2024-02-29 12:16:06

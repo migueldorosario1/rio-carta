@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1892_rio-de-janeiro-praia-1500-22122018183750265.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1892_rio-de-janeiro-praia-1500-22122018183750265.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pico de Calor no Rio Termômetros Podem Atingir 40 Graus no Domingo'
 pubDate: 2023-11-11 10:10:42

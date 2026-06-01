@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp971_image-86.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp971_image-86.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Petista defende Freixo para prefeitura do Rio em 2024'
 pubDate: 2023-07-31 15:28:50

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7765_image-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7765_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inteligência artificial pode revolucionar o orçamento do SUS, aponta estudo'
 pubDate: 2026-04-01 20:28:39

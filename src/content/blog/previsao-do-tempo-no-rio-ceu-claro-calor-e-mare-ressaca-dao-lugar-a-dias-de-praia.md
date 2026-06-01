@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1831_things-to-do-in-rio-de-janeiro-ipanema-1.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1831_things-to-do-in-rio-de-janeiro-ipanema-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Previsão do Tempo no Rio Céu Claro, Calor e Maré Ressaca Dão Lugar a Dias de Praia'
 pubDate: 2023-11-07 12:09:24

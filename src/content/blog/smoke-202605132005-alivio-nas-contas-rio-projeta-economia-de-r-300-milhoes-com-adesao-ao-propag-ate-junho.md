@@ -4,7 +4,7 @@ description: "O Governo do Rio de Janeiro planeja oficializar, até o encerramen
 pubDate: "2026-05-13T23:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "governo-rj", "alerj", "economia", "propag", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605132005-alivio-nas-contas-rio-projeta-economia-de-r-300-milhoes-com-adesao-ao-propag-ate-junho.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132005-alivio-nas-contas-rio-projeta-economia-de-r-300-milhoes-com-adesao-ao-propag-ate-junho.jpg"
 categoria_macro: politica
 ---
 O Governo do Rio de Janeiro planeja oficializar, até o encerramento de junho, sua entrada no Programa de Pleno Pagamento de Dívidas dos Estados (Propag). A medida visa desafogar o tesouro estadual ao reduzir drasticamente o volume de recursos enviados mensalmente à União.

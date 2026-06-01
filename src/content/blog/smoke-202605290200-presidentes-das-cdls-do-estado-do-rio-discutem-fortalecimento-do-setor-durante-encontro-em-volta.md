@@ -4,7 +4,7 @@ description: "VOLTA REDONDA A Câmara de Dirigentes Lojistas (CDL), de Volta Red
 pubDate: "2026-05-29T02:00:26Z"
 draft: false
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "cdl", "comercio-local", "sul-fluminense-costa-verde", "regiao-metropolitana", "leme", "vidigal", "niteroi", "barra-mansa", "resende", "pirai", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605290200-presidentes-das-cdls-do-estado-do-rio-discutem-fortalecimento-do-setor-durante-encontro-em-volta.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605290200-presidentes-das-cdls-do-estado-do-rio-discutem-fortalecimento-do-setor-durante-encontro-em-volta.jpeg"
 ---
 VOLTA REDONDA
 

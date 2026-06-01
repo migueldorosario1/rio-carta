@@ -4,7 +4,7 @@ description: "O técnico italiano Carlo Ancelotti anunciou, no final da tarde de
 pubDate: "2026-05-19T19:18:08Z"
 draft: false
 tags: ["rio-de-janeiro", "copa-do-mundo", "neymar", "rio-capital-centro", "sul-fluminense", "regiao-metropolitana", "paqueta", "botafogo", "flamengo", "maracana", "anil"]
-heroImage: "/hero/smoke-smoke-202605191916-com-a-presenca-de-neymar-ancelotti-convoca-selecao-para-a-copa.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-com-a-presenca-de-neymar-ancelotti-convoca-selecao-para-a-copa.webp"
 ---
 O técnico italiano Carlo Ancelotti anunciou, no final da tarde desta segunda-feira (18) no Museu do Amanhã, no Rio de Janeiro, a relação de 26 convocados para defender a seleção brasileira na Copa do Mundo. E a grande novidade foi a presença do nome do atacante Neymar.
 

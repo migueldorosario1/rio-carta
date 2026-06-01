@@ -4,7 +4,7 @@ description: "Luciano Mattos, Advogado, Promotor de Justiça aposentado, Procura
 pubDate: "2026-05-22T00:23:27Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "upp", "capital", "regiao-metropolitana", "leme", "comunidade", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605220023-a-nova-upp-unidade-de-politica-pacificadora.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605220023-a-nova-upp-unidade-de-politica-pacificadora.jpg"
 ---
 Luciano Mattos, Advogado, Promotor de Justiça aposentado, Procurador-Geral de Justiça do Rio de Janeiro (2021–2024)
 

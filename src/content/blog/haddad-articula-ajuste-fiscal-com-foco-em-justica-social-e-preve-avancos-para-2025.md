@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/blog-placeholder-3.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/blog-placeholder-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad articula ajuste fiscal com foco em justiça social e prevê avanços para 2025'
 pubDate: 2024-12-05 05:31:20

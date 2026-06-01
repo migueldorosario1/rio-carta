@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5180_imagem-42.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5180_imagem-42.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'BNDES e Ministério do Planejamento assinam acordo para desenvolver estratégia Brasil 2050'
 pubDate: 2024-09-11 19:06:17

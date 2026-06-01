@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2795_imagem-22.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2795_imagem-22.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça condena Hang a pagar indenização milionária por intimidar funcionários a votar em Bolsonaro'
 pubDate: 2024-01-31 12:53:09

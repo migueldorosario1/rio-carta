@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1474_image-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1474_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Racismo religioso contra terreiros de matriz africana cresce no Rio'
 pubDate: 2023-10-02 11:09:09

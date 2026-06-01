@@ -4,7 +4,7 @@ description: "Cabo Frio, na Região dos Lagos do Rio, abriu 24 oportunidades de 
 pubDate: "2026-05-13T16:05:54Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "emprego", "aeroporto", "programa-emprego-ja", "estado", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605131305-programa-emprego-ja-disponibiliza-24-vagas-no-setor-aeroportuario-em-cabo-frio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131305-programa-emprego-ja-disponibiliza-24-vagas-no-setor-aeroportuario-em-cabo-frio.jpg"
 categoria_macro: politica
 ---
 Cabo Frio, na Região dos Lagos do Rio, abriu 24 oportunidades de trabalho no segmento aeroportuário do município através do Programa Emprego Já, em parceria com a concessionária Esaero Airports, responsável pela gestão do Aeroporto Internacional de Cabo Frio.

@@ -4,7 +4,7 @@ description: "A Polícia Federal deflagrou, na manhã desta terça-feira (12), a
 pubDate: "2026-05-13T02:33:01Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "secretaria-de-agricultura", "operacao-castratio", "policia-federal", "fraude", "licitacao", "politica-rj", "regiao-dos-lagos", "regiao-metropolitana", "niteroi", "seguranca-publica", "saude", "cultura-carnaval"]
-heroImage: "/hero/pf-faz-operacao-contra-fraudes-milionarias-na-secretaria-de-agricultura-do-rj-macae-e-alvo-de-bu.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/pf-faz-operacao-contra-fraudes-milionarias-na-secretaria-de-agricultura-do-rj-macae-e-alvo-de-bu.webp"
 categoria_macro: politica
 ---
 A Polícia Federal deflagrou, na manhã desta terça-feira (12), a Operação Castratio, que investiga um suposto esquema de fraudes em contratos ligados à Secretaria de Estado de Agricultura, Pecuária e Abastecimento do Rio de Janeiro (SEAPA). Entre os alvos da ação está o deputado federal Marcelo Queiroz (PSDB), apontado como um dos investigados no inquérito conduzido pela PF.

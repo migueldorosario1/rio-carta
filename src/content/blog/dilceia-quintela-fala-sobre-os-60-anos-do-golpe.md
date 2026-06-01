@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4128_image-5.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4128_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Torturada pela ditadura, Dilceia Quintela fala sobre os 60 anos do golpe'
 pubDate: 2024-04-09 18:15:59

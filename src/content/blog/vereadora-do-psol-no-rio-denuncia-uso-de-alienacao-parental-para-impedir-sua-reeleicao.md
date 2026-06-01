@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5595_imagem.avif"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5595_imagem.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vereadora do PSOL no Rio denuncia uso de alienação parental para impedir sua reeleição'
 pubDate: 2024-10-04 14:45:25

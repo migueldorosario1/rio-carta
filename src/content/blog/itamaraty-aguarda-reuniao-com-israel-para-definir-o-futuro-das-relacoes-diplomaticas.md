@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3315_imagem-26.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3315_imagem-26.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Itamaraty aguarda reunião com Israel para definir o futuro das relações diplomáticas'
 pubDate: 2024-02-19 09:39:13

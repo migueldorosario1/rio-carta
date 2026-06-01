@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6616_image-25.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6616_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Onda de calor já levou 5 mil cariocas ao SUS em 2025'
 pubDate: 2025-02-25 15:50:46

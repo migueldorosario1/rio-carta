@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6990_image-12.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6990_image-12.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fragilidade do sistema hospitalar, devido ao verão 2025, impulsiona ação na Alerj'
 pubDate: 2025-07-18 16:07:15

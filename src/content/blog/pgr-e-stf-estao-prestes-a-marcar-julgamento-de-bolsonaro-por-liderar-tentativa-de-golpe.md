@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3439_imagem-40.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3439_imagem-40.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PGR e STF estão prestes a marcar julgamento de Bolsonaro por liderar tentativa de golpe'
 pubDate: 2024-02-24 11:38:51

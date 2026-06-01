@@ -3,7 +3,7 @@ title: "Flávio Bolsonaro admite que procurou Vorcaro para pedir recursos de fil
 description: " O senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidência, admitiu nesta quarta-feira (13), ter procurado o dono do Master, Daniel Vorcaro, para pedir financiamento para o filme sobre o pai, o ex-presidente Jair Bolsonaro (PL-RJ). Flávio nega, porém, ter recebido ou oferecido vantagens ao banqueiro."
 pubDate: "2026-05-14T03:38:57Z"
 tags: ["nacional"]
-heroImage: "/hero/fl-vio-bolsonaro-admite-que-procurou-vorcaro-para-pedir-recursos-de-filme.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/fl-vio-bolsonaro-admite-que-procurou-vorcaro-para-pedir-recursos-de-filme.jpeg"
 author: "Miguel do Rosário"
 categoria_macro: geral
 ---

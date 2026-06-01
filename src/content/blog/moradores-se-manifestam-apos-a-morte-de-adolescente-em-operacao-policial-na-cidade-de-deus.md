@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1061_Design-sem-nome-9.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1061_Design-sem-nome-9.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moradores se manifestam após a morte de adolescente em operação policial na Cidade de Deus'
 pubDate: 2023-08-07 20:33:00

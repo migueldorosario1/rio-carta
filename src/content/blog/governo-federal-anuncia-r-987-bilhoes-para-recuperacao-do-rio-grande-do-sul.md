@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5195_imagem-46.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5195_imagem-46.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Federal anuncia R$ 98,7 Bilhões para recuperação do Rio Grande do Sul'
 pubDate: 2024-09-11 20:02:02

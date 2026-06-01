@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5646_imagem-13.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5646_imagem-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Kassab aponta Tarcísio de Freitas como potencial candidato a Presidência em 2030'
 pubDate: 2024-10-09 10:15:52

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6323_imagem-2.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6323_imagem-2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jovem baleada na cabeça em abordagem da PRF mostra sinais de recuperação'
 pubDate: 2025-01-03 10:40:38

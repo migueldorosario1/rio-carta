@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3563_imagem-38.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3563_imagem-38.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cúpula militar se articula para garantir impunidade a general golpista'
 pubDate: 2024-02-28 15:55:26

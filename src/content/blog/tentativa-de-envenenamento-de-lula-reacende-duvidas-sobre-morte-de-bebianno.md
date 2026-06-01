@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6028_imagem-16.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6028_imagem-16.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tentativa de envenenamento de Lula reacende dúvidas sobre morte de Bebianno'
 pubDate: 2024-11-20 11:13:01

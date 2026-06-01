@@ -4,7 +4,7 @@ description: "O Governo do Estado do Rio de Janeiro e a Prefeitura do Rio inicia
 pubDate: "2026-05-17T00:23:11Z"
 draft: true
 tags: ["rio-de-janeiro", "iraja", "zona-norte", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "joa", "baixada", "nova-iguacu", "sao-joao-de-meriti", "mesquita", "transporte-mobilidade", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605170023-nova-fase-da-integracao-no-terminal-margaridas-inclui-mais-seis-linhas-de-nova-iguacu.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170023-nova-fase-da-integracao-no-terminal-margaridas-inclui-mais-seis-linhas-de-nova-iguacu.jpeg"
 ---
 O Governo do Estado do Rio de Janeiro e a Prefeitura do Rio iniciaram, neste sábado (16/05), a segunda fase de ampliação da integração tarifária no Terminal BRT Margaridas, em Irajá, na Zona Norte. O modelo conecta ônibus intermunicipais da Baixada Fluminense ao BRT, ao VLT e a linhas municipais cariocas, com uso do cartão Jaé.
 

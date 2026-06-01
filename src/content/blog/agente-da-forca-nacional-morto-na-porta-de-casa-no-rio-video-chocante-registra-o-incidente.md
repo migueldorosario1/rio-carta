@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/blog-placeholder-1.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/blog-placeholder-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Agente da Força Nacional morto na porta de casa no Rio; vídeo chocante registra o incidente'
 pubDate: 2023-11-29 16:30:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3183_06084b4c-402d-49ff-a12f-13396f17e28e-1-860x645-1.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3183_06084b4c-402d-49ff-a12f-13396f17e28e-1-860x645-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada Marina do MST também marca presença na Sapucaí'
 pubDate: 2024-02-13 17:30:33

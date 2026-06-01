@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1824_image-7.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1824_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputada exige revisão do reconhecimento fotográfico'
 pubDate: 2023-11-06 21:52:09

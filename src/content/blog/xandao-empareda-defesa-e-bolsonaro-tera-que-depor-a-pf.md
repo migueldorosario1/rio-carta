@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3331_20221026221052_51aee2de-b506-4da6-a73f-edefb9eb4afb.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3331_20221026221052_51aee2de-b506-4da6-a73f-edefb9eb4afb.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Xandão empareda defesa e Bolsonaro terá que depor a PF'
 pubDate: 2024-02-19 23:19:13

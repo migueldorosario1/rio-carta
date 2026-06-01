@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5148_imagem.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5148_imagem.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica possibilidade de alta da Selic após divulgação de deflação no IPCA'
 pubDate: 2024-09-10 17:20:40

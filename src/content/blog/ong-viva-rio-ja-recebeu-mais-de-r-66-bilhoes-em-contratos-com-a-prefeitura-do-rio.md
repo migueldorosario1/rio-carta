@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp878_image-70.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp878_image-70.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ONG Viva Rio já recebeu mais de R$ 6,6 bilhões em contratos com a Prefeitura do Rio'
 pubDate: 2023-07-22 21:42:41

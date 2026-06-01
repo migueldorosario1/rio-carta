@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6490_image-19.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6490_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Flamengo pronto para encarar o Madureira no Carioca'
 pubDate: 2025-01-16 17:50:38

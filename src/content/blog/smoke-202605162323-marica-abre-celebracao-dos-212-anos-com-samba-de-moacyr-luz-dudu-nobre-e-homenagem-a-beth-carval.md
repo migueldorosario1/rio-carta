@@ -4,7 +4,7 @@ description: "Maricá abre celebração dos 212 anos com samba de Moacyr Luz, Du
 pubDate: "2026-05-16T23:25:14Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "cultura", "sul-fluminense-costa-verde", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "mare", "itaborai", "saude", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605162323-marica-abre-celebracao-dos-212-anos-com-samba-de-moacyr-luz-dudu-nobre-e-homenagem-a-beth-carval.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162323-marica-abre-celebracao-dos-212-anos-com-samba-de-moacyr-luz-dudu-nobre-e-homenagem-a-beth-carval.jpg"
 ---
 Primeiro dia de programação teve também apresentação da União de Maricá na Praça Orlando de Barros Pimentel, no Centro
 

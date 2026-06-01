@@ -4,7 +4,7 @@ description: "A Polícia Civil de Rio das Ostras realizou, na manhã dessa terç
 pubDate: "2026-05-13T11:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "policia-civil", "cemiterio-clandestino", "crime-organizado", "bairro-claudio-ribeiro", "macae-norte-fluminense", "regiao-metropolitana", "mage", "ramos", "itaperuna", "norte-fluminense", "seguranca-publica"]
-heroImage: "/hero/smoke-smoke-202605130805-acoes-de-busca-da-policia-civil-encontram-supostos-cemiterios-clandestinos-em-rio-das-ostras.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130805-acoes-de-busca-da-policia-civil-encontram-supostos-cemiterios-clandestinos-em-rio-das-ostras.jpg"
 categoria_macro: seguranca
 ---
 A Polícia Civil de Rio das Ostras realizou, na manhã dessa terça-feira, 12, uma série de ações de busca em terrenos da cidade depois de receber informações sobre a presença dos chamados cemitérios clandestinos do crime organizado.

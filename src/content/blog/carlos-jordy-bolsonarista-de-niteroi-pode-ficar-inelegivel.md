@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6913_image-6.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6913_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carlos Jordy, bolsonarista de Niterói, pode ficar inelegível'
 pubDate: 2025-06-07 14:12:59

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5170_imagem-41.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5170_imagem-41.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministra da Ciência e Tecnologia apoia Rodrigo Neves na corrida à Prefeitura de Niterói'
 pubDate: 2024-09-11 10:47:05

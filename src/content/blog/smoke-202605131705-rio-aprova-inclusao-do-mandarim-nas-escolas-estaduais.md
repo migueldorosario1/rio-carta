@@ -4,7 +4,7 @@ description: "O ensino de mandarim poderá passar a fazer parte da grade curricu
 pubDate: "2026-05-13T20:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "educacao", "mandarim", "politica-rj", "regiao-metropolitana", "leme", "comunidade", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605131705-rio-aprova-inclusao-do-mandarim-nas-escolas-estaduais.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131705-rio-aprova-inclusao-do-mandarim-nas-escolas-estaduais.png"
 categoria_macro: politica
 ---
 O ensino de mandarim poderá passar a fazer parte da grade curricular das escolas da rede pública estadual do Rio de Janeiro. A Assembleia Legislativa (Alerj) aprovou em segunda discussão, nesta quarta-feira (13), um projeto de lei 6.

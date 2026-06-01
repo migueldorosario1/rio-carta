@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2429_image-10.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2429_image-10.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi Mortes com a chuva tem nome, racismo ambiental'
 pubDate: 2024-01-14 14:26:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5475_imagem-117.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5475_imagem-117.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo planeja regulamentar apostas esportivas com regras semelhantes às do cigarro'
 pubDate: 2024-09-26 04:57:54

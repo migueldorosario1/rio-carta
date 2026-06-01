@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6195_imagem-13.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6195_imagem-13.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação da PF envolvendo ex-ministro Braga Netto se estende a outros indivíduos'
 pubDate: 2024-12-14 11:42:20

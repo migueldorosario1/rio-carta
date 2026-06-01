@@ -4,7 +4,7 @@ description: "O frio extremo transformou a paisagem da Serra da Mantiqueira flum
 pubDate: "2026-05-15T17:05:43Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "sul-fluminense", "pico-das-agulhas-negras", "frio", "temperatura", "sul-fluminense-costa-verde", "capital-porto", "regiao-metropolitana", "marica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605151405-estado-do-rio-registra-a-menor-temperatura-do-brasil-6-8oc-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151405-estado-do-rio-registra-a-menor-temperatura-do-brasil-6-8oc-qwen.jpg"
 categoria_macro: geral
 ---
 O frio extremo transformou a paisagem da Serra da Mantiqueira fluminense em um verdadeiro cenário congelante. Na madrugada desta terça-feira (12), o Pico das Agulhas Negras, no Parque Nacional do Itatiaia, no Sul do Estado do Rio de Janeiro, registrou a marca de -6,8ºC, assumindo o posto de menor temperatura de todo o Brasil.

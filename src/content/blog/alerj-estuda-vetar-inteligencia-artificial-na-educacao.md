@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4265_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4265_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj estuda vetar Inteligência Artificial na educação'
 pubDate: 2024-04-19 11:58:30

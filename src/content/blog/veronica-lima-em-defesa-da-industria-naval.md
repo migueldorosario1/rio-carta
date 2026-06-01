@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3787_IMG-20240315-WA0017.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3787_IMG-20240315-WA0017.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Verônica Lima Em defesa da Indústria Naval!'
 pubDate: 2024-03-15 14:20:18

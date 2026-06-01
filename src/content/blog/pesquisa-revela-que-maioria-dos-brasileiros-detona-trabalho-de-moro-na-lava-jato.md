@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3625_images-2024-03-03T092502.321.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3625_images-2024-03-03T092502.321.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa revela que maioria dos brasileiros detona trabalho de Moro na Lava Jato'
 pubDate: 2024-03-03 09:27:32

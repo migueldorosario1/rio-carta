@@ -4,7 +4,7 @@ description: "The Palmeiras community, in Complexo do Salgueiro, a cluster of fa
 pubDate: "2026-05-15T15:18:50Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "complexo-do-salgueiro", "palmeiras", "regiao-metropolitana", "seguranca-publica", "favelas-comunidades", "favela", "comunidade", "complexo", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "/hero/interior-entra-no-centro-da-disputa-pelo-governo-do-rio.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/interior-entra-no-centro-da-disputa-pelo-governo-do-rio.png"
 categoria_macro: seguranca
 ---
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

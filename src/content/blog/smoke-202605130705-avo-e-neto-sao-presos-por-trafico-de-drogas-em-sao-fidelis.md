@@ -4,7 +4,7 @@ description: "Duas pessoas foram presas após policiais militares terem apreendi
 pubDate: "2026-05-13T10:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "norte-noroeste-fluminense", "trafico-de-drogas", "policia-militar", "campos", "noroeste-fluminense", "seguranca-publica"]
-heroImage: "/hero/smoke-smoke-202605130705-avo-e-neto-sao-presos-por-trafico-de-drogas-em-sao-fidelis.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130705-avo-e-neto-sao-presos-por-trafico-de-drogas-em-sao-fidelis.jpg"
 categoria_macro: seguranca
 ---
 Duas pessoas foram presas após policiais militares terem apreendido pinos de cocaína e pedras de crack durante uma ação de combate ao tráfico em São Fidélis. O caso aconteceu na Rua Fidelis Junqueira, no bairro São Vicente.

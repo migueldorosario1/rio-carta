@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5556_imagem-1.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5556_imagem-1.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Datafolha aponta Paes na liderança para Prefeitura do Rio as vésperas da eleição'
 pubDate: 2024-10-03 18:21:24

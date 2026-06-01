@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3377_imagem-31.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3377_imagem-31.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pesquisa da CNN aponta Eduardo Paes na liderança isolada para Prefeitura do Rio'
 pubDate: 2024-02-21 20:03:24

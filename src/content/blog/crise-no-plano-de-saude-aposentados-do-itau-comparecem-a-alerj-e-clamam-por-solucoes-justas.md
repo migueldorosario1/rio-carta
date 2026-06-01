@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6755_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6755_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Crise no plano de saúde aposentados do Itaú comparecem à Alerj e clamam por soluções justas'
 pubDate: 2025-04-05 16:19:33

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5273_imagem-61.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5273_imagem-61.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula suspeita de ação criminosa por trás do aumento de queimadas no Brasil'
 pubDate: 2024-09-16 20:18:12

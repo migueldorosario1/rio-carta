@@ -4,7 +4,7 @@ description: "Rio Traficantes do CV adotam drones gigantes para mover armas e dr
 pubDate: "2026-05-21T21:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "cidade-de-deus", "jacarezinho", "complexo-do-lins", "gardenia-azul", "muzema", "rio-das-pedras", "complexo-da-penha", "zona-oeste", "zona-norte", "seguranca-publica", "capital-estado", "regiao-metropolitana"]
-heroImage: "/hero/smoke-smoke-202605212123-traficantes-do-cv-adotam-drones-gigantes-para-mover-armas-e-drogas-no-rj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605212123-traficantes-do-cv-adotam-drones-gigantes-para-mover-armas-e-drogas-no-rj.jpg"
 ---
 Rio
 

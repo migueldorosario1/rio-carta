@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6069_imagem-23.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6069_imagem-23.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Congresso avalia ajustes na proposta de isenção, diz Haddad'
 pubDate: 2024-11-29 17:18:15

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3695_imagem-8.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3695_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Centro-direita de Portugal sinaliza que vai isolar os extremistas do Chega no seu possível governo'
 pubDate: 2024-03-11 08:54:13

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5172_imagem.jpeg.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5172_imagem.jpeg.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Estado do Rio registra aumento recorde de queimadas em 2024'
 pubDate: 2024-09-11 10:47:10

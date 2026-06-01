@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1170_image-37.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1170_image-37.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes vai contra especialistas em Covid-19'
 pubDate: 2023-08-22 13:05:20

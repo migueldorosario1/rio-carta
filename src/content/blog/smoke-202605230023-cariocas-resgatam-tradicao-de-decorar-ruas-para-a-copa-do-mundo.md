@@ -4,7 +4,7 @@ description: "Rio Cariocas resgatam tradição de decorar ruas para a Copa do Mu
 pubDate: "2026-05-23T00:23:09Z"
 draft: false
 tags: ["rio-de-janeiro", "santo-cristo", "centro", "copa-do-mundo", "tradicao", "decoracao-de-ruas", "rio-capital-centro", "capital-estado", "regiao-metropolitana", "rocinha", "vila-isabel", "joa", "comunidade", "problemas-estruturais"]
-heroImage: "/hero/smoke-smoke-202605230023-cariocas-resgatam-tradicao-de-decorar-ruas-para-a-copa-do-mundo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605230023-cariocas-resgatam-tradicao-de-decorar-ruas-para-a-copa-do-mundo.jpg"
 ---
 Rio
 

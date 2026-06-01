@@ -4,7 +4,7 @@ description: "O ex-governador Cláudio Castro tentou nesta sexta-feira (15) repo
 pubDate: "2026-05-16T23:24:13Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "capital", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605162323-claudio-castro-reage-e-tenta-conter-cerco-da-pf.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162323-claudio-castro-reage-e-tenta-conter-cerco-da-pf.webp"
 ---
 O ex-governador Cláudio Castro tentou nesta sexta-feira (15) reposicionar sua defesa poucas horas após ser alvo da Operação Sem Refino, da Polícia Federal. Em nota, afirmou que todas as decisões de sua gestão relacionadas ao grupo Refit seguiram critérios “técnicos e legais”.
 

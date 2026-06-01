@@ -4,7 +4,7 @@ description: "A manhã desta quarta-feira (20/05) começou com “cara de noite�
 pubDate: "2026-05-20T18:24:32Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "zona-sul", "zona-oeste", "tijuca", "copacabana", "laranjeiras", "santa-teresa", "vidigal", "urca", "grajau", "sao-cristovao", "rocinha", "grande-meier"]
-heroImage: "/hero/smoke-smoke-202605201823-chuva-forte-atinge-varios-bairros-do-rio-veja-a-previsao-do-tempo-para-esta-quarta-feira.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201823-chuva-forte-atinge-varios-bairros-do-rio-veja-a-previsao-do-tempo-para-esta-quarta-feira.jpg"
 ---
 A manhã desta quarta-feira (20/05) começou com “cara de noite” devido aos registros de chuva em diferentes regiões do Rio de Janeiro. De acordo com o Sistema Alerta Rio, bairros das zonas Norte, Sul e Oeste tiveram índices de precipitação entre moderada e forte entre 7h45 e 8h.
 

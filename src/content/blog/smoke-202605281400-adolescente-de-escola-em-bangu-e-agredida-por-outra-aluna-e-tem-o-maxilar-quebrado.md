@@ -4,7 +4,7 @@ description: "Magalh"
 pubDate: "2026-05-28T14:01:25Z"
 draft: false
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "rio-capital-zona-oeste", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "colegio", "realengo", "mage", "itaborai", "marica", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605281400-adolescente-de-escola-em-bangu-e-agredida-por-outra-aluna-e-tem-o-maxilar-quebrado-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605281400-adolescente-de-escola-em-bangu-e-agredida-por-outra-aluna-e-tem-o-maxilar-quebrado-qwen.jpg"
 ---
 A 34ª DP (Bangu) apura o caso
 

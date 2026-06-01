@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4470_imagem-14.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4470_imagem-14.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Oficial israelense nega envolvimento do país na morte do presidente do Irã'
 pubDate: 2024-05-20 09:08:47

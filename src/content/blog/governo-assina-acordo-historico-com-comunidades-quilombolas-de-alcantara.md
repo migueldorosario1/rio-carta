@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5346_imagem-81.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5346_imagem-81.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo assina acordo histórico com comunidades quilombolas de Alcântara'
 pubDate: 2024-09-19 19:47:03

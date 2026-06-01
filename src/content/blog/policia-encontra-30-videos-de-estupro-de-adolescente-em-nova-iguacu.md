@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1840_1_58_dp-26062980.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1840_1_58_dp-26062980.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia encontra 30 vídeos de estupro de adolescente em Nova Iguaçu'
 pubDate: 2023-11-07 18:15:00

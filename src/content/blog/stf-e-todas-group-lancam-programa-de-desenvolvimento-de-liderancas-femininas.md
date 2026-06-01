@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5267_imagem-59.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5267_imagem-59.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF e Todas Group lançam programa de Desenvolvimento de Lideranças Femininas'
 pubDate: 2024-09-16 19:52:18

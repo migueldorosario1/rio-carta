@@ -4,7 +4,7 @@ description: "Deputado Renato Machado critica multiplicação de radares na RJ-1
 pubDate: "2026-05-13T18:05:03Z"
 draft: true
 tags: ["rio-de-janeiro", "rj-106", "radares", "der-rj", "tce-rj", "renato-machado", "fiscalizacao-eletronica", "contratos-milionarios", "transporte-e-mobilidade-rj", "marica", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605131505-deputado-renato-machado-critica-multiplicacao-de-radares-na-rj-106-e-tce-rj-abre-investigacao-so.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131505-deputado-renato-machado-critica-multiplicacao-de-radares-na-rj-106-e-tce-rj-abre-investigacao-so.jpg"
 categoria_macro: geral
 ---
 Deputado Renato Machado critica multiplicação de radares na RJ-106 e TCE-RJ abre investigação sobre contratos milionários

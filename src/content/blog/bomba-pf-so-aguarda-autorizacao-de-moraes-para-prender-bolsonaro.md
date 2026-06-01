@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3737_images-2024-03-12T214807.787.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3737_images-2024-03-12T214807.787.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! PF só aguarda autorização de Moraes para prender Bolsonaro'
 pubDate: 2024-03-12 21:50:27

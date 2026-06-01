@@ -4,7 +4,7 @@ description: "A Unidos de Vila Isabel apresentou, na noite da última quarta-fei
 pubDate: "2026-05-22T18:23:28Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-isabel", "carnaval", "unidos-de-vila-isabel", "rio-capital-zona-sul-grande-tijuca", "cultura-carnaval", "encantado", "ramos", "educacao"]
-heroImage: "/hero/smoke-smoke-202605221823-nenhuma-escola-contaria-esse-enredo-como-a-vila-isabel-diz-presidente-sobre-torto-arado.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605221823-nenhuma-escola-contaria-esse-enredo-como-a-vila-isabel-diz-presidente-sobre-torto-arado.jpg"
 ---
 A Unidos de Vila Isabel apresentou, na noite da última quarta-feira, a sinopse do enredo “Torto Arado: sobre a terra há de viver sempre o mais forte”, assinado pelos carnavalescos Gabriel Haddad e Leonardo Bora e pelo pesquisador Vinícius Natal. Adaptação do aclamado livro do escritor baiano Itamar Vieira Júnior, o projeto levará para a Marquês de Sapucaí a resistência quilombola e a tradição religiosa do Jarê.
 

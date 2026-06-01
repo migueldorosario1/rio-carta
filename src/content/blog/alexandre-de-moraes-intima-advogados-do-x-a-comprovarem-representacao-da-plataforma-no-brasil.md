@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5352_imagem-83.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5352_imagem-83.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alexandre de Moraes intima advogados do X a comprovarem representação da plataforma no Brasil'
 pubDate: 2024-09-19 19:58:06

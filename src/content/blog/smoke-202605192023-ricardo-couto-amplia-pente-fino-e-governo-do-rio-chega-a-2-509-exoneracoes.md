@@ -4,7 +4,7 @@ description: "O governo do Estado do Rio de Janeiro voltou a promover uma nova r
 pubDate: "2026-05-19T20:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "regiao-metropolitana", "seguranca-publica", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605192023-ricardo-couto-amplia-pente-fino-e-governo-do-rio-chega-a-2-509-exoneracoes.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605192023-ricardo-couto-amplia-pente-fino-e-governo-do-rio-chega-a-2-509-exoneracoes.jpg"
 ---
 O governo do Estado do Rio de Janeiro voltou a promover uma nova rodada de exonerações e atingiu a marca de 2. 509 cortes desde a posse do governador em exercício, Ricardo Couto.
 

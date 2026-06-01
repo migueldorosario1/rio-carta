@@ -4,7 +4,7 @@ description: "Menos de um mês após inaugurar o primeiro Museu de Arqueologia e
 pubDate: "2026-05-17T06:23:23Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "cultura", "museus", "norte-noroeste-fluminense", "capital", "regiao-metropolitana", "baixada", "petropolis", "transporte-mobilidade", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605170623-nova-iguacu-cria-superintendencia-de-museus-e-planeja-novos-espacos-culturais.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170623-nova-iguacu-cria-superintendencia-de-museus-e-planeja-novos-espacos-culturais.jpeg"
 ---
 Menos de um mês após inaugurar o primeiro Museu de Arqueologia e Etnologia do estado do Rio, a Prefeitura de Nova Iguaçu criou a Superintendência de Museus, vinculada à Secretaria Municipal de Cultura. A nova estrutura foi anunciada nesta sexta-feira (15/05) e terá como foco a criação de políticas públicas para o setor.
 

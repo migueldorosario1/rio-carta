@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5005_imagem-8.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5005_imagem-8.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Investimentos no Brasil atingem nível mais alto desde 2020, segundo Bradesco'
 pubDate: 2024-09-02 18:55:59

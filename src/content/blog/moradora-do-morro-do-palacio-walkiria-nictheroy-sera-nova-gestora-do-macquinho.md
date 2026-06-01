@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1104_image-26.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1104_image-26.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moradora do Morro do Palácio, Walkiria Nictheroy será nova gestora do MACquinho'
 pubDate: 2023-08-16 15:51:41

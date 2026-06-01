@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3555_imagem.jpg-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3555_imagem.jpg-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro quase confessa sua articulação na trama golpista'
 pubDate: 2024-02-28 15:38:46

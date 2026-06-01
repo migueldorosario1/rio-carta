@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1667_2012070481559.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1667_2012070481559.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Linha de ônibus entre Niterói e Barra da Tijuca é confirmada'
 pubDate: 2023-10-24 01:52:39

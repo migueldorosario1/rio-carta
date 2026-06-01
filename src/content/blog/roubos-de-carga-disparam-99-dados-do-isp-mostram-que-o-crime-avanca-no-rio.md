@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6709_image-13.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6709_image-13.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Roubos de carga disparam 99%! Dados do ISP mostram que o crime avança no Rio'
 pubDate: 2025-03-31 10:01:23

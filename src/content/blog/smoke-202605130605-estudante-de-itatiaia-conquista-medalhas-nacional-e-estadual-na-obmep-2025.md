@@ -4,7 +4,7 @@ description: "ITATIAIA O município de Itatiaia conquistou destaque na Olimpíad
 pubDate: "2026-05-13T09:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "sul-fluminense", "educacao", "obmep", "medalha", "sul-fluminense-costa-verde", "colegio"]
-heroImage: "/hero/smoke-smoke-202605130605-estudante-de-itatiaia-conquista-medalhas-nacional-e-estadual-na-obmep-2025.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130605-estudante-de-itatiaia-conquista-medalhas-nacional-e-estadual-na-obmep-2025.jpg"
 categoria_macro: geral
 ---
 ITATIAIA

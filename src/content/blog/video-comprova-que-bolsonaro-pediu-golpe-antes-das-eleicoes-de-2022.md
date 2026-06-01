@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3107_imagem-20.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3107_imagem-20.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vídeo comprova que Bolsonaro pediu golpe antes das eleições de 2022'
 pubDate: 2024-02-09 11:29:54

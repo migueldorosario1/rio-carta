@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4932_imagem-10.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4932_imagem-10.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'TCU arquiva processo contra José Sergio Gabrielli'
 pubDate: 2024-08-22 10:57:43

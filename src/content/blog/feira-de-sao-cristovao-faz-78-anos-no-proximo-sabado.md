@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1234_image-52.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1234_image-52.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Feira de São Cristóvão faz 78 anos no próximo sábado'
 pubDate: 2023-08-29 15:15:14

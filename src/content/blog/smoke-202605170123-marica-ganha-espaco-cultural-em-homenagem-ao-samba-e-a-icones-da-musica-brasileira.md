@@ -4,7 +4,7 @@ description: "A cidade de Maricá passou a contar, a partir desta sexta-feira (1
 pubDate: "2026-05-17T01:25:20Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "cultura", "samba", "sul-fluminense-costa-verde", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "mare", "transporte-mobilidade", "saude", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605170123-marica-ganha-espaco-cultural-em-homenagem-ao-samba-e-a-icones-da-musica-brasileira.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170123-marica-ganha-espaco-cultural-em-homenagem-ao-samba-e-a-icones-da-musica-brasileira.png"
 ---
 A cidade de Maricá passou a contar, a partir desta sexta-feira (15), com um novo espaço dedicado à memória do samba. A Prefeitura inaugurou a “Esquina do Malandro”, instalação cultural na região central que integra a programação de aniversário de 212 anos do município e reúne homenagens a nomes ligados à música popular brasileira.
 

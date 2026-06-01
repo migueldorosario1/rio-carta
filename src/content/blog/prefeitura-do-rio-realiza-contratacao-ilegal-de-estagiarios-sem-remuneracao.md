@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2555_image-17.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2555_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio realiza contratação ilegal de estagiários sem remuneração'
 pubDate: 2024-01-25 21:20:21

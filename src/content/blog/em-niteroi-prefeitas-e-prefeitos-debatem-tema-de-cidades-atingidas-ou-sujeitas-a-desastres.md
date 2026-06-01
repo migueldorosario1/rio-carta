@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp745_image-36.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp745_image-36.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Em Niterói, prefeitas e prefeitos debatem impactos das mudanças climáticas nas cidades'
 pubDate: 2023-07-10 14:38:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4953_imagem-25.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4953_imagem-25.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Líderes do Congresso comprometem-se a aprovar Projetos cruciais para economia, afirma Haddad'
 pubDate: 2024-08-26 20:16:08

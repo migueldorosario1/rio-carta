@@ -4,7 +4,7 @@ description: "O tapete azul montado no EXC Jockey CLUB, no Rio de Janeiro, para 
 pubDate: "2026-05-17T05:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-sul", "cultura-carnaval", "capital", "regiao-metropolitana", "saude", "educacao"]
-heroImage: "/hero/smoke-smoke-202605170523-skincare-virou-entretenimento-e-o-rio-entrou-no-centro-dessa-industria.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170523-skincare-virou-entretenimento-e-o-rio-entrou-no-centro-dessa-industria.jpg"
 ---
 O tapete azul montado no EXC Jockey CLUB, no Rio de Janeiro, para a segunda edição do CeraVe Awards 2026 traduziu mais do que uma celebração do universo do skincare nas redes sociais. A escolha da cidade para sediar novamente a premiação também reforça o papel estratégico que o Brasil ocupa hoje para a marca no cenário global, especialmente em um momento em que a creator economy se mistura cada vez mais à educação dermatológica e ao entretenimento digital.
 

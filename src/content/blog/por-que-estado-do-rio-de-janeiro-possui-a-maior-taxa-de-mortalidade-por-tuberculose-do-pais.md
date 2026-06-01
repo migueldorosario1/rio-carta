@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1230_image-51.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1230_image-51.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Por que estado do Rio possui a maior taxa de mortalidade por tuberculose do país?'
 pubDate: 2023-08-29 14:57:05

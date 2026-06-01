@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2104_defesa-civil-angra.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2104_defesa-civil-angra.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Angra dos Reis em situação de emergência após chuvas intensas com mortes e desabrigados'
 pubDate: 2023-12-10 08:04:00

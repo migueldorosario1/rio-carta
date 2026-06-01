@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5507_arte-10-compressed.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5507_arte-10-compressed.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Crescimento da candidatura bolsonarista surpreende em Niterói, mas Neves ainda lidera com folga'
 pubDate: 2024-09-26 16:11:48

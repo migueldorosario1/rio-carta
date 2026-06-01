@@ -4,7 +4,7 @@ description: "O ex-presidente da Assembleia Legislativa do Estado do Rio de Jane
 pubDate: "2026-05-13T12:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "paulo-melo", "regiao-dos-lagos", "alerj", "politica-rj", "regiao-metropolitana", "mage", "seguranca-publica", "saude", "educacao"]
-heroImage: "/hero/smoke-smoke-202605130905-rcfm-paulo-melo-relembra-prisao-critica-antigos-aliados-e-sinaliza-retorno-a-politica-na-regiao.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130905-rcfm-paulo-melo-relembra-prisao-critica-antigos-aliados-e-sinaliza-retorno-a-politica-na-regiao.webp"
 categoria_macro: politica
 ---
 O ex-presidente da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), Paulo Melo, participou nesta terça-feira (12) do programa Renata Cristiane On-line, exibido em formato multiplataforma pela Rádio RCFM, onde falou sobre sua trajetória política, o período em que esteve preso durante desdobramentos da Operação Lava Jato e os planos para retornar à vida pública.

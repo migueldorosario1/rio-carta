@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3668_images-2024-03-06T161940.703.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3668_images-2024-03-06T161940.703.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bivar se afunda, perde controle do União Brasil e se torna alvo do próprio partido'
 pubDate: 2024-03-06 16:25:57

@@ -4,7 +4,7 @@ description: "A Infraero, estatal responsável pela administração do Aeroporto
 pubDate: "2026-05-15T21:07:15Z"
 draft: false
 tags: ["rio-de-janeiro", "santos-dumont", "aterro-do-flamengo", "centro", "rio-capital-centro", "capital-porto", "regiao-metropolitana", "estacio", "zona-sul", "flamengo", "galeao", "complexo", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605151805-a-infraero-quer-construir-edificio-garagem-no-aeroporto-santos-dumont-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151805-a-infraero-quer-construir-edificio-garagem-no-aeroporto-santos-dumont-qwen.jpg"
 categoria_macro: lazer
 ---
 A Infraero, estatal responsável pela administração do Aeroporto Santos Dumont, no coração do Rio de Janeiro, estuda uma intervenção que promete gerar fortes debates na cidade. A empresa planeja construir um edifício-garagem na atual área plana de estacionamento do terminal, localizada dentro do complexo paisagístico do Aterro do Flamengo.

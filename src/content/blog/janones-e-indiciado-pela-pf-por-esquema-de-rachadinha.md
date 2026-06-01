@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5211_imagem-10.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5211_imagem-10.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Janones é indiciado pela PF por esquema de rachadinha'
 pubDate: 2024-09-12 18:23:30

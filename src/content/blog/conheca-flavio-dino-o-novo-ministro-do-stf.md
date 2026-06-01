@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3405_20240222_201516.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3405_20240222_201516.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Conheça Flávio Dino, o novo ministro do STF'
 pubDate: 2024-02-22 20:18:36

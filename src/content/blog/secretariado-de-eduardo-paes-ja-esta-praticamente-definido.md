@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6179_image-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6179_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Secretariado de Eduardo Paes já está praticamente definido'
 pubDate: 2024-12-13 23:18:34

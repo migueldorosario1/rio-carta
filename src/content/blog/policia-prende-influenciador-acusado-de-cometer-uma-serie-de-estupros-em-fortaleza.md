@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3520_imagem.jpg-7.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3520_imagem.jpg-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia prende influenciador acusado de cometer uma série de estupros em Fortaleza'
 pubDate: 2024-02-27 09:38:37

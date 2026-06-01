@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4155_imagem-18.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4155_imagem-18.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'CGU começa a processar servidores que participaram da Abin Paralela na era Ramagem'
 pubDate: 2024-04-11 09:44:02

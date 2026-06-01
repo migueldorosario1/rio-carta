@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7424_image-30.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7424_image-30.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fundos do Rioprevidência avançam sob intervenção federal'
 pubDate: 2025-11-21 13:16:16

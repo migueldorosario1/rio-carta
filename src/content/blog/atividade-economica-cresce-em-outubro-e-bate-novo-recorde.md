@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6141_imagem.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6141_imagem.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Atividade econômica cresce em outubro e bate novo recorde'
 pubDate: 2024-12-13 12:31:53

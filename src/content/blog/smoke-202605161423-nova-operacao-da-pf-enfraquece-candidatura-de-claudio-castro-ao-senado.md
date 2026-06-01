@@ -4,7 +4,7 @@ description: "Nova operação da PF enfraquece candidatura de Cláudio Castro ao
 pubDate: "2026-05-16T14:24:06Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "eleicoes", "serrana", "regiao-serrana", "petropolis", "manguinhos", "teresopolis", "seguranca-publica"]
-heroImage: "/hero/smoke-smoke-202605161423-nova-operacao-da-pf-enfraquece-candidatura-de-claudio-castro-ao-senado.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161423-nova-operacao-da-pf-enfraquece-candidatura-de-claudio-castro-ao-senado.png"
 categoria_macro: politica
 ---
 Cláudio Castro (PL) foi um dos alvos da ‘Operação Sem Refino’ da Polícia Federal, nesta sexta-feira (15), que investiga possíveis fraudes fiscais pelo Grupo Refit, a antiga Refinaria de Manguinhos. Segundo a PF, Castro teria favorecido os interesses do Grupo.

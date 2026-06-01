@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1692_09tempo1.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1692_09tempo1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Passagem de frente fria deixa céu nublado e temperaturas em queda'
 pubDate: 2023-10-25 16:25:17

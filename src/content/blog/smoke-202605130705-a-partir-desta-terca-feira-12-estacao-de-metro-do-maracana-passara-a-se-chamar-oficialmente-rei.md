@@ -4,7 +4,7 @@ description: "A partir desta terça-feira (12), estação de metrô do Maracanã
 pubDate: "2026-05-13T10:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "maracana", "metro", "rei-pele", "homenagem", "rio-capital-zona-norte", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "sao-goncalo", "itaborai", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605130705-a-partir-desta-terca-feira-12-estacao-de-metro-do-maracana-passara-a-se-chamar-oficialmente-rei.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130705-a-partir-desta-terca-feira-12-estacao-de-metro-do-maracana-passara-a-se-chamar-oficialmente-rei.jpg"
 categoria_macro: politica
 ---
 A partir desta terça-feira (12), estação de metrô do Maracanã passará a se chamar oficialmente 'Rei Pelé'

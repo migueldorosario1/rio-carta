@@ -4,7 +4,7 @@ description: "12/maio 15:51 Um homem acusado de injúria racial foi levado pela 
 pubDate: "2026-05-13T05:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "injuria-racial", "flanelinha", "centro", "guarda-civil-municipal", "serrana", "estacio", "seguranca-publica"]
-heroImage: "/hero/smoke-smoke-202605130205-flanelinha-e-acusado-de-injuria-racial-contra-casal-e-e-encaminhado-a-delegacia.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130205-flanelinha-e-acusado-de-injuria-racial-contra-casal-e-e-encaminhado-a-delegacia.jpeg"
 categoria_macro: seguranca
 ---
 12/maio 15:51

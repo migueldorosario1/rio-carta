@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4786_imagem-11.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4786_imagem-11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pedro Paulo retira candidatura a vice de Paes após rumores de vídeo íntimo'
 pubDate: 2024-07-23 08:57:35

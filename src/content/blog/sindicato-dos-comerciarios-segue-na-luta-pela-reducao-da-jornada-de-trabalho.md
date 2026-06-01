@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2891_WhatsApp-Image-2024-02-01-at-11.18.50.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2891_WhatsApp-Image-2024-02-01-at-11.18.50.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sindicato dos Comerciários segue na luta pela redução da jornada de trabalho'
 pubDate: 2024-02-01 12:07:06

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7418_image-28.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7418_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Investimento no Master pressiona gestão da Cedae'
 pubDate: 2025-11-20 12:57:10

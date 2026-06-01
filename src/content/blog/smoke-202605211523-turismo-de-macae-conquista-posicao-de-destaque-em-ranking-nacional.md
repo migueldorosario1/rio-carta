@@ -4,7 +4,7 @@ description: "Macaé vem se consolidando como um dos polos turísticos mais rele
 pubDate: "2026-05-21T15:23:24Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "turismo", "norte-fluminense", "norte-noroeste-fluminense", "estado", "regiao-dos-lagos", "buzios", "petropolis", "cabo-frio", "angra", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605211523-turismo-de-macae-conquista-posicao-de-destaque-em-ranking-nacional.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211523-turismo-de-macae-conquista-posicao-de-destaque-em-ranking-nacional.jpg"
 ---
 Macaé vem se consolidando como um dos polos turísticos mais relevantes do estado do Rio. Pela segunda vez, o município recebeu a classificação A, a mais alta do ranking de desempenho do Mapa do Turismo Brasileiro.
 

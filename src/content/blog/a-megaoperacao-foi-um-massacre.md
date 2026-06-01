@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7299_image-34.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7299_image-34.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'A megaoperação foi um massacre'
 pubDate: 2025-10-30 09:04:26

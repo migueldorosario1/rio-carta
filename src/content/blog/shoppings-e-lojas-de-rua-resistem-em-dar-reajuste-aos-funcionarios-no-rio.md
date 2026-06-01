@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1006_image-5.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1006_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Shoppings e lojas de rua resistem em dar reajuste aos funcionários no Rio'
 pubDate: 2023-08-02 12:29:59

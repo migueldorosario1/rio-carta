@@ -4,7 +4,7 @@ description: "A proposta que prevê o fim da escala 6x1 e a redução da jornada
 pubDate: "2026-05-14T10:18:41Z"
 category: ["Pol\u00edtica"]
 tags: ["escala-6-x-1"]
-heroImage: "/hero/fim-da-escala-6x1-avan-a-no-congresso-e-prev-jornada-de-40-horas.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/fim-da-escala-6x1-avan-a-no-congresso-e-prev-jornada-de-40-horas.webp"
 author: "Redação"
 categoria_macro: geral
 ---

@@ -4,7 +4,7 @@ description: "Um homem identificado como W.C. de A. foi preso nesta quarta-feira
 pubDate: "2026-05-13T20:05:35Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "violencia-domestica", "seguranca-publica", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "/hero/smoke-smoke-202605131705-homem-com-historico-de-violencia-domestica-e-preso-em-cabo-frio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131705-homem-com-historico-de-violencia-domestica-e-preso-em-cabo-frio.webp"
 categoria_macro: seguranca
 ---
 Um homem identificado como W. C.

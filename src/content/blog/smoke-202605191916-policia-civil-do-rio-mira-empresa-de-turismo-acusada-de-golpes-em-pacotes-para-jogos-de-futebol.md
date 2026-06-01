@@ -4,7 +4,7 @@ description: "A Polícia Civil do Rio de Janeiro, por meio da Delegacia do Consu
 pubDate: "2026-05-19T19:17:02Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-da-tijuca", "leblon", "ilha-do-governador", "centro", "seguranca-publica", "regiao-dos-lagos", "regiao-metropolitana", "centro-do-rio", "leme", "tijuca", "sampaio", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605191916-policia-civil-do-rio-mira-empresa-de-turismo-acusada-de-golpes-em-pacotes-para-jogos-de-futebol.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-policia-civil-do-rio-mira-empresa-de-turismo-acusada-de-golpes-em-pacotes-para-jogos-de-futebol.webp"
 ---
 A Polícia Civil do Rio de Janeiro, por meio da Delegacia do Consumidor, deflagrou nesta segunda-feira (18) a “Operação Cartão Vermelho”, com o objetivo de investigar um suposto esquema de fraudes envolvendo a venda de pacotes de viagens internacionais. Ao todo, foram cumpridos nove mandados de busca e apreensão nos bairros da Barra da Tijuca, Leblon, Ilha do Governador e Centro do Rio.
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3354_imagem-28.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3354_imagem-28.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Globo volta a espumar ódio contra a Petrobras e a soberania energética'
 pubDate: 2024-02-21 08:06:48

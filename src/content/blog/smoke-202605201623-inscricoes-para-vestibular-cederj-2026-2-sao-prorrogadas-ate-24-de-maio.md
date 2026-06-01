@@ -4,7 +4,7 @@ description: "A Fundação Cecierj, vinculada à Secretaria de Estado de Ciênci
 pubDate: "2026-05-20T16:23:20Z"
 draft: false
 tags: ["rio-de-janeiro", "educacao", "regiao-dos-lagos", "regiao-metropolitana", "norte-fluminense"]
-heroImage: "/hero/smoke-smoke-202605201623-inscricoes-para-vestibular-cederj-2026-2-sao-prorrogadas-ate-24-de-maio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201623-inscricoes-para-vestibular-cederj-2026-2-sao-prorrogadas-ate-24-de-maio.webp"
 ---
 A Fundação Cecierj, vinculada à Secretaria de Estado de Ciência, Tecnologia e Inovação, prorrogou até o dia 24 de maio as inscrições para o Vestibular Cederj 2026. 2.
 

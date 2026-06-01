@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5952_imagem-3.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5952_imagem-3.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cenário eleitoral revela desafios para Lula e ascensão de Tarcísio na direita, diz Singer'
 pubDate: 2024-11-03 11:41:53

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2222_1520243949417.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2222_1520243949417.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes flerta com direita e adia escolha de vice em estratégia eleitoral controversa'
 pubDate: 2023-12-27 18:07:03

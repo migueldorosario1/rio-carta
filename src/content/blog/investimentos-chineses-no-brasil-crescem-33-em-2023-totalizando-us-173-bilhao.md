@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5070_imagem-23.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5070_imagem-23.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Investimentos chineses no Brasil crescem 33% em 2023, totalizando US$ 1,73 bilhão'
 pubDate: 2024-09-03 19:15:09

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4420_imagem-8.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4420_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio Grande do Sul enfrenta nova ameaça com chegada de frente fria após chuvas devastadoras'
 pubDate: 2024-05-06 08:42:55

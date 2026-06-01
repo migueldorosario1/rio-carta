@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2602_whatsapp-image-2023-05-19-at-16.19.56-1-.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2602_whatsapp-image-2023-05-19-at-16.19.56-1-.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Niterói lança campanhas para arrecadação de material escolar'
 pubDate: 2024-01-29 11:00:00

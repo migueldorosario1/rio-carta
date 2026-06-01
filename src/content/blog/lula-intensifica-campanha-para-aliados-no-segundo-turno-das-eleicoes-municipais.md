@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5672_imagem-18.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5672_imagem-18.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula intensifica campanha para aliados no segundo turno das eleições municipais'
 pubDate: 2024-10-10 21:19:41

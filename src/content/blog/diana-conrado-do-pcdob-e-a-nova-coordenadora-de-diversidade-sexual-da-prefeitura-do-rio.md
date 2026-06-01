@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6429_IMG-20250113-WA0085.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6429_IMG-20250113-WA0085.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Diana Conrado, do PCdoB, é a nova Coordenadora de Diversidade Sexual da prefeitura do Rio'
 pubDate: 2025-01-14 08:30:07

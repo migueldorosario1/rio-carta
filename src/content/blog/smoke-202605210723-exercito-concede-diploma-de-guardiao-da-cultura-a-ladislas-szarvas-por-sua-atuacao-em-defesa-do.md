@@ -4,7 +4,7 @@ description: "Em solenidade de outorga, o diretor do Museu Histórico do Exérci
 pubDate: "2026-05-21T07:24:44Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "ilha-do-fundao", "centro", "zona-norte", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "joa", "baixada", "bom-jesus", "problemas-estruturais", "saude", "educacao"]
-heroImage: "/hero/smoke-smoke-202605210723-exercito-concede-diploma-de-guardiao-da-cultura-a-ladislas-szarvas-por-sua-atuacao-em-defesa-do.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605210723-exercito-concede-diploma-de-guardiao-da-cultura-a-ladislas-szarvas-por-sua-atuacao-em-defesa-do.jpg"
 ---
 Em solenidade de outorga, o diretor do Museu Histórico do Exército e comandante do Forte de Copacabana, coronel João Felippe Alves Ribeiro Galvão, confere o Diploma de Guardião da Cultura a Ladislas Szarvas Junior, conservador, restaurador e professor. A honraria é concedida em meio às comemorações da Semana Nacional dos Museus, a mais importante celebração da cultura e da preservação do patrimônio histórico nacional.
 

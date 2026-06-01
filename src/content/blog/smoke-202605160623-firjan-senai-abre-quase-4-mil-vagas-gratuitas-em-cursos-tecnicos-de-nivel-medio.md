@@ -4,7 +4,7 @@ description: "A Firjan SENAI está inscrições abertas para 3.800 vagas gratuit
 pubDate: "2026-05-16T06:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "regiao-metropolitana", "regiao-dos-lagos", "educacao", "capital", "niteroi", "benfica", "maracana", "tijuca", "vila-isabel", "agua-santa", "jacare", "santa-cruz", "jacarepagua"]
-heroImage: "/hero/smoke-smoke-202605160623-firjan-senai-abre-quase-4-mil-vagas-gratuitas-em-cursos-tecnicos-de-nivel-medio.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160623-firjan-senai-abre-quase-4-mil-vagas-gratuitas-em-cursos-tecnicos-de-nivel-medio.png"
 categoria_macro: lazer
 ---
 A Firjan SENAI está inscrições abertas para 3. 800 vagas gratuitas em cursos técnicos de nível médio em todo o estado do Rio.

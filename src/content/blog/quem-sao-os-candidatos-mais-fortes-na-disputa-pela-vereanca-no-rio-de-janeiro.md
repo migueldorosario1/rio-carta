@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5523_image-7.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5523_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quem são os candidatos mais fortes na disputa pela vereança no Rio de Janeiro?'
 pubDate: 2024-09-29 15:55:58

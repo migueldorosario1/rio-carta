@@ -4,7 +4,7 @@ description: "A Faetec abriu, nesta sexta-feira (22), as inscrições para um no
 pubDate: "2026-05-28T18:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "educacao", "faetec", "regiao-dos-lagos", "regiao-metropolitana", "mage", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605281800-faetec-abre-mais-de-3-7-mil-vagas-gratuitas-para-cursos-tecnicos-graduacao-e-especializacoes.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605281800-faetec-abre-mais-de-3-7-mil-vagas-gratuitas-para-cursos-tecnicos-graduacao-e-especializacoes.webp"
 ---
 A Faetec abriu, nesta sexta-feira (22), as inscrições para um novo processo seletivo com 3. 749 vagas gratuitas para cursos técnicos, graduação tecnológica, especializações e Educação de Jovens e Adultos (EJA).
 

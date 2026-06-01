@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3934_images-12.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3934_images-12.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Quem são os principais suspeitos pelo assassinato de Marielle?'
 pubDate: 2024-03-24 10:02:02

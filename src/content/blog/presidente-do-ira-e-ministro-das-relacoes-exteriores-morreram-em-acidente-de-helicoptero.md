@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4468_imagem-13.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4468_imagem-13.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente do Irã e ministro das Relações Exteriores morreram em Acidente de Helicóptero'
 pubDate: 2024-05-20 09:08:44

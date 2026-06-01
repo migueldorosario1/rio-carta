@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5893_imagem-79-scaled.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5893_imagem-79-scaled.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF restitui direitos políticos do ex-governador Pezão'
 pubDate: 2024-10-29 12:18:33

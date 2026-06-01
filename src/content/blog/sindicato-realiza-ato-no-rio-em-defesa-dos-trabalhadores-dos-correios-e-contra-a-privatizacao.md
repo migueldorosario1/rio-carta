@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7202_IMG-20251007-WA0089-e1759884224958.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7202_IMG-20251007-WA0089-e1759884224958.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sindicato realiza ato no Rio em defesa dos trabalhadores dos Correios e contra a privatização'
 pubDate: 2025-10-07 21:44:50

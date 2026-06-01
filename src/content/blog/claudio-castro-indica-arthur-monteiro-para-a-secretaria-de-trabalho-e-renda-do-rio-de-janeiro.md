@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1758_aRTUR-MONTEIRO.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1758_aRTUR-MONTEIRO.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Claudio Castro Indica Arthur Monteiro para a Secretaria de Trabalho e Renda do Rio de Janeiro'
 pubDate: 2023-11-01 14:23:00

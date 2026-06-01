@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4813_imagem-2.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4813_imagem-2.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Datena reconhece mau desempenho em debate e critica gestão de Ricardo Nunes'
 pubDate: 2024-08-13 15:03:58

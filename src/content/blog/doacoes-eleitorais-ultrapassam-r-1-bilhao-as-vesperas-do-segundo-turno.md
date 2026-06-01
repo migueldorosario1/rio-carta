@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5814_imagem-59.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5814_imagem-59.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Doações eleitorais ultrapassam R$ 1 bilhão às vésperas do segundo turno'
 pubDate: 2024-10-20 09:05:25

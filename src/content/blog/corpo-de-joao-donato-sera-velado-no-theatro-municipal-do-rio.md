@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp833_image-57.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp833_image-57.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Corpo de João Donato será velado no Theatro Municipal do Rio'
 pubDate: 2023-07-18 00:43:39

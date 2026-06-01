@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2206_WhatsApp-Image-2023-12-26-at-10.52.24.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2206_WhatsApp-Image-2023-12-26-at-10.52.24.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Acidente de ônibus no Rio deixa nove feridos, dois em estado grave'
 pubDate: 2023-12-26 11:20:00

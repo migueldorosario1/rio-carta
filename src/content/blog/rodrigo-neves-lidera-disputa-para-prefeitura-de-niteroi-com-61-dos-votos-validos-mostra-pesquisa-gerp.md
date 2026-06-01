@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5841_imagem-7.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5841_imagem-7.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rodrigo Neves lidera disputa para Prefeitura de Niterói com 61% dos votos válidos, mostra pesquisa Gerp'
 pubDate: 2024-10-24 19:29:20

@@ -4,7 +4,7 @@ description: "Morreu neste domingo (17) o piloto do helicóptero da Polícia Civ
 pubDate: "2026-05-19T21:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "zona-sul", "copacabana", "leblon", "comunidade", "niteroi", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605192123-morre-piloto-de-helicoptero-da-policia-civil-baleado-em-operacao-no-rio.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605192123-morre-piloto-de-helicoptero-da-policia-civil-baleado-em-operacao-no-rio.png"
 ---
 Morreu neste domingo (17) o piloto do helicóptero da Polícia Civil do Rio de Janeiro Felipe Monteiro Marques, de 46 anos, atingido por um tiro na cabeça durante uma operação na Vila Aliança, em Bangu, na Zona Oeste da capital, em março de 2025.
 

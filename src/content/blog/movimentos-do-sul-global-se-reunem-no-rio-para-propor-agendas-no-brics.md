@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7525_image-15.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7525_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Movimentos do Sul Global se reúnem no Rio para propor agendas no Brics'
 pubDate: 2025-12-03 14:51:28

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5992_imagem-9.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5992_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Haddad é destacado pela revista Time como uma das lideranças climáticas mais influentes de 2024'
 pubDate: 2024-11-12 19:18:50

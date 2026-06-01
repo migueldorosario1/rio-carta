@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5316_imagem-74.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5316_imagem-74.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ibovespa recua após corte de juros pelo Federal Reserve'
 pubDate: 2024-09-18 19:36:03

@@ -4,7 +4,7 @@ description: "Ação desta quinta-feira integra a campanha Maio Amarelo Na tarde
 pubDate: "2026-05-15T07:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "parada-40", "maio-amarelo", "transito", "educacao", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "mare", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605150405-sao-goncalo-realiza-blitz-educativa-com-motociclistas-na-parada-40.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150405-sao-goncalo-realiza-blitz-educativa-com-motociclistas-na-parada-40.jpeg"
 categoria_macro: politica
 ---
 Ação desta quinta-feira integra a campanha Maio Amarelo

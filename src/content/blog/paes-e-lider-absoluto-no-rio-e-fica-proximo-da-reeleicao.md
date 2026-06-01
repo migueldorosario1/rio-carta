@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2933_images-2024-02-02T202423.830.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2933_images-2024-02-02T202423.830.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes é líder absoluto no Rio e fica próximo da reeleição'
 pubDate: 2024-02-02 20:26:43

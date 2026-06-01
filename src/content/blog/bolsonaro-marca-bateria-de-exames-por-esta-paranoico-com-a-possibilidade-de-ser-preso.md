@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3451_images-89.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3451_images-89.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bolsonaro marca bateria de exames por está paranóico com a possibilidade de ser preso'
 pubDate: 2024-02-25 09:25:36

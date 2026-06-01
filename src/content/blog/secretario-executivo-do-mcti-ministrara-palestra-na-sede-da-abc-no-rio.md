@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1076_image-20.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1076_image-20.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Secretário-executivo do MCTI ministrará palestra na sede da ABC no Rio'
 pubDate: 2023-08-10 08:25:20

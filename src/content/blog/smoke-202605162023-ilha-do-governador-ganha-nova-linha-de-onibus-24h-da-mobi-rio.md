@@ -4,7 +4,7 @@ description: "Rio Ilha do Governador ganha nova linha de ônibus 24h da Mobi-Rio
 pubDate: "2026-05-16T20:25:16Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "rio-capital-zona-norte", "capital-estado", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605162023-ilha-do-governador-ganha-nova-linha-de-onibus-24h-da-mobi-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162023-ilha-do-governador-ganha-nova-linha-de-onibus-24h-da-mobi-rio.jpg"
 ---
 Rio
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5685_imagem-22.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5685_imagem-22.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula expressa confiança na vitória de Evandro Leitão no segundo turno em Fortaleza'
 pubDate: 2024-10-12 07:47:22

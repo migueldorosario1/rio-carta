@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp735_image-33.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp735_image-33.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Município do Rio divulga 885 vagas de trabalho nesta segunda-feira (10)'
 pubDate: 2023-07-10 13:21:38

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4281_imagem-32.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4281_imagem-32.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PSD supera MDB e se torna o partido com mais prefeitos no Brasil'
 pubDate: 2024-04-23 09:32:11

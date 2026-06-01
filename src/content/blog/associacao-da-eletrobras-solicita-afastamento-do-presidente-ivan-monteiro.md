@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5438_imagem-105.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5438_imagem-105.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Associação da Eletrobras solicita afastamento do Presidente Ivan Monteiro'
 pubDate: 2024-09-24 19:25:13

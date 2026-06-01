@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1980_tgfhjk.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1980_tgfhjk.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPRJ e Polícia Civil Investigam Morte em Show de Taylor Swift; Fãs Demandam Lei Ana Benevides'
 pubDate: 2023-11-18 15:00:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1696_93802486-bx-rio-de-janeiro-rj-08-07-2021-centro-cultural-emely-e-rebeca-no-bairro-pantanal-em-caxia.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1696_93802486-bx-rio-de-janeiro-rj-08-07-2021-centro-cultural-emely-e-rebeca-no-bairro-pantanal-em-caxia.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Acordo para qualificação de laudos periciais será assinado em evento na Uff'
 pubDate: 2023-10-25 16:27:42

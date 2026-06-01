@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3058_images-2024-01-30T163715.370.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3058_images-2024-01-30T163715.370.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio anuncia esquema operacional para o Carnaval na Marquês de Sapucaí'
 pubDate: 2024-02-07 07:52:51

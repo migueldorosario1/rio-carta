@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1937_85130532_rj-rio-de-janeiro-rj-11-10-2019-entrevista-com-shanna-harrouche-gar.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1937_85130532_rj-rio-de-janeiro-rj-11-10-2019-entrevista-com-shanna-harrouche-gar.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Herdeira do ex-bicheiro Maninho enfrenta cobrança de R$ 109 mil por irregularidades no Imposto de Renda'
 pubDate: 2023-11-14 12:13:03

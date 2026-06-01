@@ -4,7 +4,7 @@ description: "BARRA MANSA As obras de construção da 3ª Companhia Independente
 pubDate: "2026-05-15T22:25:06Z"
 draft: false
 tags: ["rio-de-janeiro", "barragens", "seguranca-publica", "sul-fluminense-costa-verde", "sul-fluminense", "barra-mansa", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605152223-aciap-bm-reforca-apoio-a-seguranca-publica-com-doacao-para-obras-da-3a-cia-independente-da-pm-em.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605152223-aciap-bm-reforca-apoio-a-seguranca-publica-com-doacao-para-obras-da-3a-cia-independente-da-pm-em.jpeg"
 categoria_macro: seguranca
 ---
 BARRA MANSA

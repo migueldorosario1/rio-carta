@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5278_imagem-62.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5278_imagem-62.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Elmar Nascimento mantém candidatura apesar de apoio de Lira a Hugo Motta'
 pubDate: 2024-09-16 20:34:48

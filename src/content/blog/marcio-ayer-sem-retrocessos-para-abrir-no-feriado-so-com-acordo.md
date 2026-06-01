@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3340_IMG_8716-scaled.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3340_IMG_8716-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Márcio Ayer Sem retrocessos! Para abrir no feriado, só com acordo'
 pubDate: 2024-02-20 15:43:54

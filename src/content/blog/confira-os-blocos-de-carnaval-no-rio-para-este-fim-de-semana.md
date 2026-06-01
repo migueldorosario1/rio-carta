@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2390_WhatsApp-Image-2024-01-12-at-12.55.30.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2390_WhatsApp-Image-2024-01-12-at-12.55.30.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confira os blocos de carnaval no rio para este fim de semana'
 pubDate: 2024-01-12 13:00:00

@@ -4,7 +4,7 @@ description: "A Secretaria de Estado de Defesa do Consumidor (SEDCON) e o PROCON
 pubDate: "2026-05-13T18:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "madureira", "supervia", "acessibilidade", "transporte-publico", "procon-rj", "rio-capital-zona-norte", "capital", "ramos", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605131505-supervia-e-autuada-por-problemas-de-acessibilidade-e-conservacao-na-estacao-de-madureira.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131505-supervia-e-autuada-por-problemas-de-acessibilidade-e-conservacao-na-estacao-de-madureira.jpg"
 categoria_macro: seguranca
 ---
 A Secretaria de Estado de Defesa do Consumidor (SEDCON) e o PROCON-RJ, com apoio da Polícia Militar, realizaram, nesta quarta-feira (13/05), uma operação conjunta na estação ferroviária de Madureira e autuaram a SuperVia após identificarem uma série de irregularidades relacionadas à acessibilidade, conservação e atendimento ao consumidor.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1376_image-30.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1376_image-30.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ações policiais em favelas causam prejuízo de R$ 14 milhões por ano'
 pubDate: 2023-09-19 10:52:04

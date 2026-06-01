@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7052_IMG_8066.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7052_IMG_8066.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Educação popular vira patrimônio do Rio'
 pubDate: 2025-08-07 10:36:02

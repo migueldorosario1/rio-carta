@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4616_imagem-9.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4616_imagem-9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lindbergh destaca nova agenda de Lula no exterior'
 pubDate: 2024-06-11 09:40:48

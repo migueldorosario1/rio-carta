@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp708_image-25.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp708_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sindicato dos comerciários do Rio garante aumento real a categorias; saiba quais são'
 pubDate: 2023-07-08 09:38:35

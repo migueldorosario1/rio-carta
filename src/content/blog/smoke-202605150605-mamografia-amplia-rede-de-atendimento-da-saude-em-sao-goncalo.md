@@ -4,7 +4,7 @@ description: "São Gonçalo ampliou a oferta de mamografia na rede municipal com
 pubDate: "2026-05-15T09:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "saude", "mamografia", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "mage", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605150605-mamografia-amplia-rede-de-atendimento-da-saude-em-sao-goncalo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150605-mamografia-amplia-rede-de-atendimento-da-saude-em-sao-goncalo.jpg"
 categoria_macro: politica
 ---
 São Gonçalo ampliou a oferta de mamografia na rede municipal com a entrada em

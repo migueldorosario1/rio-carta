@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5425_imagem-101.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5425_imagem-101.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'José Dirceu prevê reeleição de Lula em 2026 e discute desafios políticos'
 pubDate: 2024-09-24 18:29:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2864_imagem-6.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2864_imagem-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Projeto assegura imunoterapia a pacientes com câncer pelo SUS'
 pubDate: 2024-02-03 05:39:00

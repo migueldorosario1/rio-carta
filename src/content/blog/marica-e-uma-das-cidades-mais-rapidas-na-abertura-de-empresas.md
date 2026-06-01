@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7592_image-2.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7592_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá é uma das cidades mais rápidas na abertura de empresas'
 pubDate: 2026-01-16 15:05:19

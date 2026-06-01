@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7302_image-37.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7302_image-37.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula sanciona lei que mira os chefões do crime no Rio'
 pubDate: 2025-10-30 09:18:11

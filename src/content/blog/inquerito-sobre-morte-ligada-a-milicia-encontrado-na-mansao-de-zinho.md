@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2215_zinho-miliciano.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2215_zinho-miliciano.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Inquérito sobre morte ligada à milícia encontrado na mansão de Zinho'
 pubDate: 2023-12-27 09:45:00

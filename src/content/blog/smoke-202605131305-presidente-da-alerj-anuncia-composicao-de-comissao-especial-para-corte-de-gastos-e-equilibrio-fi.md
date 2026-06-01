@@ -4,7 +4,7 @@ description: "Presidente da Alerj anuncia composição de comissão especial par
 pubDate: "2026-05-13T16:05:55Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "equilibrio-fiscal", "corte-de-gastos", "sao-goncalo-itaborai", "regiao-metropolitana", "paqueta", "flamengo", "sao-goncalo", "itaborai"]
-heroImage: "/hero/smoke-smoke-202605131305-presidente-da-alerj-anuncia-composicao-de-comissao-especial-para-corte-de-gastos-e-equilibrio-fi.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131305-presidente-da-alerj-anuncia-composicao-de-comissao-especial-para-corte-de-gastos-e-equilibrio-fi.jpg"
 categoria_macro: politica
 ---
 Presidente da Alerj anuncia composição de comissão especial para corte de gastos e equilíbrio fiscal do Estado

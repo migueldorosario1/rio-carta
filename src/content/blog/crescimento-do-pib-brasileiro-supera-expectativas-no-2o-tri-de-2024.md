@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5029_imagem-2.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5029_imagem-2.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Crescimento do PIB brasileiro supera expectativas no 2º tri de 2024'
 pubDate: 2024-09-03 13:23:31

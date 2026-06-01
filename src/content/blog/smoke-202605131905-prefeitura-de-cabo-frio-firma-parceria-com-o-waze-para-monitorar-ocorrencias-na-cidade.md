@@ -4,7 +4,7 @@ description: "A Secretaria de Mobilidade Urbana de Cabo Frio firmou uma parceria
 pubDate: "2026-05-13T22:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "mobilidade-urbana", "waze", "prefeitura", "leme", "campos", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605131905-prefeitura-de-cabo-frio-firma-parceria-com-o-waze-para-monitorar-ocorrencias-na-cidade.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131905-prefeitura-de-cabo-frio-firma-parceria-com-o-waze-para-monitorar-ocorrencias-na-cidade.webp"
 categoria_macro: politica
 ---
 A Secretaria de Mobilidade Urbana de Cabo Frio firmou uma parceria com o Waze for Cities, programa da plataforma de navegação que conecta órgãos públicos para troca de informações sobre o trânsito em tempo real. A iniciativa busca tornar a mobilidade urbana mais eficiente, segura e dinâmica para moradores e turistas.

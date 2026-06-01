@@ -4,7 +4,7 @@ description: "Rio Dupla é presa após roubar R$ 100 mil em joias no Norte Flumi
 pubDate: "2026-05-16T22:24:21Z"
 draft: false
 tags: ["rio-de-janeiro", "norte-noroeste-fluminense", "capital-estado", "campos-dos-goytacazes", "joa", "campos", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605162223-dupla-e-presa-apos-roubar-r-100-mil-em-joias-no-norte-fluminense.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162223-dupla-e-presa-apos-roubar-r-100-mil-em-joias-no-norte-fluminense.jpg"
 ---
 Rio
 

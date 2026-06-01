@@ -4,7 +4,7 @@ description: "Homem condenado a 30 anos por crime contra vulnerável é preso em
 pubDate: "2026-05-13T09:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "seguranca-publica-rj", "prisao", "crime-sexual", "niteroi-sao-goncalo-metropolitana", "seguranca-publica"]
-heroImage: "/hero/smoke-smoke-202605130605-homem-condenado-a-30-anos-por-crime-contra-vulneravel-e-preso-em-marica.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130605-homem-condenado-a-30-anos-por-crime-contra-vulneravel-e-preso-em-marica.jpeg"
 categoria_macro: seguranca
 ---
 Homem condenado a 30 anos por crime contra vulnerável é preso em Maricá

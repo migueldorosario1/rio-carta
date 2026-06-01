@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1484_elcio-queiroz.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1484_elcio-queiroz.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Delação Premiada de Élcio de Queiroz Muda Rumo da Investigação no Caso Marielle'
 pubDate: 2023-10-02 11:32:04

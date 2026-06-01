@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1582_104663440.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1582_104663440.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tempo no feriadão previsão é de chuva e céu nublado no Rio, inclusive durante o eclipse'
 pubDate: 2023-10-13 10:49:52

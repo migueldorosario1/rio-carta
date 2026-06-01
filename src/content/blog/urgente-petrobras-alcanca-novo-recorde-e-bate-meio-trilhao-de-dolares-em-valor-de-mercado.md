@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3284_images-65.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3284_images-65.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Urgente! Petrobras alcança novo recorde e bate meio trilhão de dólares em valor de mercado'
 pubDate: 2024-02-17 11:55:24

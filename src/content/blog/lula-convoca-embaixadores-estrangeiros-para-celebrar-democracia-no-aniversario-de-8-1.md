@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6352_imagem-7.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6352_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula convoca embaixadores estrangeiros para celebrar democracia no aniversário de 8/1'
 pubDate: 2025-01-07 16:41:17

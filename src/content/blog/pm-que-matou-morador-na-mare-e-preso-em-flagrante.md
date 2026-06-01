@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3114_imagem-21.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3114_imagem-21.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PM que matou morador na Maré é preso em flagrante'
 pubDate: 2024-02-10 05:36:00

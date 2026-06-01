@@ -4,7 +4,7 @@ description: "O Instituto de Estudos da Religião (ISER) e o Centro pela Justiç
 pubDate: "2026-05-13T02:09:23Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "nova-brasilia", "chacina", "direitos-humanos", "corte-idh", "rio-favelas-e-comunidades", "favelas-comunidades", "norte-noroeste-fluminense", "natividade", "favela", "comunidade", "complexo", "alemao"]
-heroImage: "/hero/chacinas-da-nova-brasilia-manifesto-denuncia-que-brasil-ignora-sentenca-internacional-por-violac.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/chacinas-da-nova-brasilia-manifesto-denuncia-que-brasil-ignora-sentenca-internacional-por-violac.jpg"
 categoria_macro: seguranca
 ---
 O Instituto de Estudos da Religião (ISER) e o Centro pela Justiça e o Direito Internacional (CEJIL) lançaram, na última sexta-feira (8), o “Sumário Executivo Caso Favela Nova Brasília”. O documento é muito mais do que uma análise de uma decisão judicial: é um manifesto público que denuncia o descumprimento, pelo Estado brasileiro, de uma sentença internacional que condenou o país por violações de direitos humanos.

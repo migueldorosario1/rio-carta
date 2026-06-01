@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4847_imagem-7.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4847_imagem-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maior concurso público do Brasil ocorre neste domingo com mais de 2,1 milhões de inscritos'
 pubDate: 2024-08-17 14:38:35

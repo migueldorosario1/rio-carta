@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3964_imagem-8.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3964_imagem-8.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Reportagem do New York Times revela fuga de Bolsonaro para Embaixada da Hungria'
 pubDate: 2024-03-26 11:00:26

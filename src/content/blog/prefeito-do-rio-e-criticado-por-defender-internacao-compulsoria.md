@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1999_image-22.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1999_image-22.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeito do Rio é criticado por defender internação compulsória'
 pubDate: 2023-11-22 10:42:32

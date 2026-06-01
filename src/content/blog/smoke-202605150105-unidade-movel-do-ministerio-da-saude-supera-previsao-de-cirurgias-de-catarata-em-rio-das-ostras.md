@@ -4,7 +4,7 @@ description: "Fruto de uma parceria entre a Prefeitura de Rio das Ostras e o Gov
 pubDate: "2026-05-15T04:06:02Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "saude", "cirurgia-catarata", "prefeitura-rio-das-ostras", "ministerio-da-saude", "macae-norte-fluminense", "regiao-metropolitana", "mage", "norte-fluminense", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605150105-unidade-movel-do-ministerio-da-saude-supera-previsao-de-cirurgias-de-catarata-em-rio-das-ostras.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150105-unidade-movel-do-ministerio-da-saude-supera-previsao-de-cirurgias-de-catarata-em-rio-das-ostras.jpg"
 categoria_macro: politica
 ---
 Fruto de uma parceria entre a Prefeitura de Rio das Ostras e o Governo Federal, a Carreta Oftalmológica, unidade móvel do programa Agora Tem Especialistas, no Ministério da Saúde, superou a marca prevista de cirurgias de catarata no município.

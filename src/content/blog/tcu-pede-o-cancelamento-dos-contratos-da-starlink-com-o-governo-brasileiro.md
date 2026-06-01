@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4163_imagem-17.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4163_imagem-17.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'TCU pede o cancelamento dos contratos da Starlink com o governo brasileiro'
 pubDate: 2024-04-11 09:56:35

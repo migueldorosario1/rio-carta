@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7584_IMG-20260110-WA0048-e1768056905817.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7584_IMG-20260110-WA0048-e1768056905817.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moradores fazem protesto contra crime ambiental no bairro do Flamengo na manhã deste sábado'
 pubDate: 2026-01-10 11:55:16

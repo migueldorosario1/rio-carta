@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp451_image-21.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp451_image-21.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente da EMBRATUR, Marcelo Freixo defende turismo sustentável'
 pubDate: 2023-06-19 23:43:27

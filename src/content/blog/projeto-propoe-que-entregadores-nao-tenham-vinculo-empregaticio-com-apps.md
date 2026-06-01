@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2988_imagem_materia-3.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2988_imagem_materia-3.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Projeto propõe que entregadores não tenham vinculo empregatício com apps'
 pubDate: 2024-02-05 05:25:00

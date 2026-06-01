@@ -4,7 +4,7 @@ description: "O Bossa Nova Mall promove no dia 17 de maio uma manhã de atividad
 pubDate: "2026-05-17T06:23:36Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "rio-capital-centro", "capital", "regiao-metropolitana", "centro-do-rio", "estacio", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605170623-circuito-bossa-leva-treino-ao-ar-livre-e-distribuicao-de-brindes-ao-centro-do-rio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170623-circuito-bossa-leva-treino-ao-ar-livre-e-distribuicao-de-brindes-ao-centro-do-rio.webp"
 ---
 O Bossa Nova Mall promove no dia 17 de maio uma manhã de atividades físicas gratuitas ao ar livre no Centro do Rio. A iniciativa integra o Circuito Bossa, que propõe unir bem-estar, lazer e qualidade de vida em um cenário com vista para a Baía de Guanabara.
 

@@ -4,7 +4,7 @@ description: "Produção industrial cresce em 11 dos 15 locais pesquisados em ma
 pubDate: "2026-05-13T15:05:18Z"
 draft: true
 tags: ["rio-de-janeiro", "producao-industrial", "ibge", "economia-local", "politica-rj", "serrana", "regiao-metropolitana", "petropolis"]
-heroImage: "/hero/smoke-smoke-202605131205-producao-industrial-cresce-em-11-dos-15-locais-pesquisados-em-marco-ante-fevereiro-diz-ibge.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131205-producao-industrial-cresce-em-11-dos-15-locais-pesquisados-em-marco-ante-fevereiro-diz-ibge.jpg"
 categoria_macro: politica
 ---
 Produção industrial cresce em 11 dos 15 locais pesquisados em março ante fevereiro, diz IBGE

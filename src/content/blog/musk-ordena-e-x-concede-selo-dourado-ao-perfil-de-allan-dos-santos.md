@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4134_imagem-4.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4134_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Musk ordena e X concede selo dourado ao perfil de Allan dos Santos'
 pubDate: 2024-04-10 09:54:15

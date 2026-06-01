@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5963_image-2.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5963_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Comissão de Trabalho da Alerj recebe presidente do Sindicato da Amazon, Christian Smalls'
 pubDate: 2024-11-06 11:37:42

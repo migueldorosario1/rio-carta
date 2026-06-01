@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4891_imagem-17.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4891_imagem-17.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gleisi Hoffmann critica proposta de desvinculação das Aposentadorias'
 pubDate: 2024-08-19 21:14:05

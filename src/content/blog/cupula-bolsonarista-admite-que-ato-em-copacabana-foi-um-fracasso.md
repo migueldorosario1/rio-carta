@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4298_imagem-9.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4298_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Cúpula bolsonarista admite que ato em Copacabana foi um fracasso'
 pubDate: 2024-04-25 09:59:09

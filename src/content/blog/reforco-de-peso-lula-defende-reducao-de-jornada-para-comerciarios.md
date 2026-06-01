@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3663_lula-app-scaled.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3663_lula-app-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Reforço de peso Lula defende redução de jornada para comerciários'
 pubDate: 2024-03-05 21:26:01

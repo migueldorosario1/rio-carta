@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6273_imagem-20.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6273_imagem-20.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula planeja reformulação no governo e promete adotar medidas de ajuste fiscal'
 pubDate: 2024-12-21 09:47:05

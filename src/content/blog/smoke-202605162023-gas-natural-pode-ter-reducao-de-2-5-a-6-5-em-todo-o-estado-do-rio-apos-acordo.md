@@ -4,7 +4,7 @@ description: "do Rio de Ja"
 pubDate: "2026-05-16T20:24:26Z"
 draft: false
 tags: ["rio-de-janeiro", "energia", "economia", "economia-local", "serrana", "regiao-metropolitana", "petropolis", "problemas-estruturais", "saude"]
-heroImage: "/hero/smoke-smoke-202605162023-gas-natural-pode-ter-reducao-de-2-5-a-6-5-em-todo-o-estado-do-rio-apos-acordo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162023-gas-natural-pode-ter-reducao-de-2-5-a-6-5-em-todo-o-estado-do-rio-apos-acordo.jpg"
 ---
 O preço do Gás Natural Veicular (GNV) terá redução nos postos de combustíveis do Estado do Rio de Janeiro. A redução, segundo o governo estadual, irá beneficiar cerca de 1,5 milhão de motoristas que utilizam carros a gás.
 

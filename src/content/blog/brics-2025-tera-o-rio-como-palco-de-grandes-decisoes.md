@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6587_image-15.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6587_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'BRICS 2025 terá o Rio como palco de grandes decisões'
 pubDate: 2025-02-17 18:42:26

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2393_WhatsApp-Image-2024-01-12-at-13.01.29.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2393_WhatsApp-Image-2024-01-12-at-13.01.29.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Confira as atrações culturais e de lazer no Rio de Janeiro para o fim de semana'
 pubDate: 2024-01-12 15:00:00

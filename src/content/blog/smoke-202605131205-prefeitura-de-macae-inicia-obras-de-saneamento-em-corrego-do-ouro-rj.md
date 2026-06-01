@@ -4,7 +4,7 @@ description: "O distrito de Córrego do Ouro, em Macaé, vive um momento signifi
 pubDate: "2026-05-13T15:05:07Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "corrego-do-ouro", "saneamento", "obras", "infraestrutura", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "leme", "comunidade", "problemas-estruturais", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605131205-prefeitura-de-macae-inicia-obras-de-saneamento-em-corrego-do-ouro-rj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131205-prefeitura-de-macae-inicia-obras-de-saneamento-em-corrego-do-ouro-rj.jpg"
 categoria_macro: geral
 ---
 O distrito de Córrego do Ouro, em Macaé, vive um momento significativo para sua estruturação urbana e o fortalecimento da saúde pública local. A prefeitura municipal oficializa nesta terça-feira, 12 de maio de 2026, a entrega da ordem de serviço para o início imediato de um amplo pacote de obras de infraestrutura.

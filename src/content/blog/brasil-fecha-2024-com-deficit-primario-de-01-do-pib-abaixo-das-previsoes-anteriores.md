@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6358_imagem-8.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6358_imagem-8.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil fecha 2024 com déficit primário de 0,1% do PIB, abaixo das previsões anteriores'
 pubDate: 2025-01-07 16:50:36

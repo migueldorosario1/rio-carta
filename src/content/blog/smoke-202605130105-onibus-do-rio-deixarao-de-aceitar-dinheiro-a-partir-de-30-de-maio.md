@@ -4,7 +4,7 @@ description: "O pagamento em dinheiro nos ônibus municipais do Rio será encerr
 pubDate: "2026-05-13T04:05:08Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte-publico", "onibus", "smtr", "jae", "riocard", "bilhete-unico", "transporte-e-mobilidade-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "baixada", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605130105-onibus-do-rio-deixarao-de-aceitar-dinheiro-a-partir-de-30-de-maio.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130105-onibus-do-rio-deixarao-de-aceitar-dinheiro-a-partir-de-30-de-maio.png"
 categoria_macro: politica
 ---
 O pagamento em dinheiro nos ônibus municipais do Rio será encerrado a partir de 30 de maio. A mudança foi anunciada nesta terça-feira (12) pela Secretaria Municipal de Transportes (SMTR), que informou que o acesso aos modais municipais passará a ser feito exclusivamente pelos sistemas Jaé e Riocard, este último apenas para usuários do Bilhete Único Intermunicipal (BUI).

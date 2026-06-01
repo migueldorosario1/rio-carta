@@ -4,7 +4,7 @@ description: "Sob sirenes ligadas e acompanhado por helicópteros da Polícia Ci
 pubDate: "2026-05-19T23:24:02Z"
 draft: false
 tags: ["rio-de-janeiro", "lagoa", "ipanema", "leblon", "flamengo", "copacabana", "paciencia", "zona-sul", "zona-norte", "rio-capital-zona-sul-grande-tijuca", "niteroi-metropolitana", "regiao-metropolitana", "caju", "zona-oeste"]
-heroImage: "/hero/smoke-smoke-202605192323-emocao-marca-despedida-de-piloto-da-core-morto-mais-de-um-ano-apos-ser-baleado.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605192323-emocao-marca-despedida-de-piloto-da-core-morto-mais-de-um-ano-apos-ser-baleado.png"
 ---
 Sob sirenes ligadas e acompanhado por helicópteros da Polícia Civil, o cortejo que levou o corpo do piloto Felipe Monteiro Marques atravessou ruas e avenidas do Rio na tarde desta terça-feira (19), em uma despedida marcada por homenagens de colegas de farda, familiares e amigos. O agente da Coordenadoria de Recursos Especiais (Core) morreu no último domingo (17), mais de um ano após ser baleado durante uma operação policial na Vila Aliança, na Zona Oeste da capital.
 

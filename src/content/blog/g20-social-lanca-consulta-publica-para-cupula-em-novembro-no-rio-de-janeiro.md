@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5465_imagem-114.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5465_imagem-114.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'G20 Social lança consulta pública para cúpula em novembro no Rio de Janeiro'
 pubDate: 2024-09-25 05:16:14

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4972_imagem.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4972_imagem.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Sabatina de Galípolo para o BC será realizada na próxima semana'
 pubDate: 2024-09-02 16:25:27

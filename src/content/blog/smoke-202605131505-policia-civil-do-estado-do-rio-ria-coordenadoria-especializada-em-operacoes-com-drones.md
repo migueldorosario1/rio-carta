@@ -4,7 +4,7 @@ description: "ESTADO A Polícia Civil do Estado do Rio de Janeiro criou a Coorde
 pubDate: "2026-05-13T18:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "policia-civil", "drones", "seguranca-publica", "seguranca-publica-rj", "sul-fluminense", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605131505-policia-civil-do-estado-do-rio-ria-coordenadoria-especializada-em-operacoes-com-drones.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131505-policia-civil-do-estado-do-rio-ria-coordenadoria-especializada-em-operacoes-com-drones.jpg"
 categoria_macro: seguranca
 ---
 ESTADO

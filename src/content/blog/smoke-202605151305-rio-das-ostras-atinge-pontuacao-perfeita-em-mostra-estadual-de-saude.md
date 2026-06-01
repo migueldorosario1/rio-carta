@@ -4,7 +4,7 @@ description: "A Saúde Pública de Rio das Ostras voltou a se destacar no cenár
 pubDate: "2026-05-15T16:06:17Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "saude", "educacao", "estado", "regiao-metropolitana", "oswaldo-cruz", "rocha", "comunidade", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605151305-rio-das-ostras-atinge-pontuacao-perfeita-em-mostra-estadual-de-saude-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151305-rio-das-ostras-atinge-pontuacao-perfeita-em-mostra-estadual-de-saude-qwen.jpg"
 categoria_macro: lazer
 ---
 A Saúde Pública de Rio das Ostras voltou a se destacar no cenário estadual. A ação “Transformando Ideia em Ação: Feira de Saúde na Escola”, executada pelo Município no âmbito do Programa Saúde na Escola, foi escolhida para a 6ª Mostra Estadual de Práticas de Saúde, promovida pelo Conselho de Secretarias Municipais de Saúde – Cosems RJ em parceria com o IdeiaSUS, da Fundação Oswaldo Cruz – Fiocruz.

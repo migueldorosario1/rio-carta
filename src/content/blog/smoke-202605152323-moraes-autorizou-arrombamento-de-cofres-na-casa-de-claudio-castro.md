@@ -4,7 +4,7 @@ description: "O ministro Alexandre de Moraes, do Supremo Tribunal Federal, chanc
 pubDate: "2026-05-15T23:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "seguranca-publica", "capital", "regiao-metropolitana", "pilares", "angra", "saude"]
-heroImage: "/hero/smoke-smoke-202605152323-moraes-autorizou-arrombamento-de-cofres-na-casa-de-claudio-castro.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605152323-moraes-autorizou-arrombamento-de-cofres-na-casa-de-claudio-castro.webp"
 categoria_macro: politica
 ---
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal, chancelou uma das ordens mais drásticas do rito processual penal contra a cúpula política fluminense nesta sexta-feira.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp659_image-16.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp659_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ONG Rio de Paz lança documentário sobre desaparecidos'
 pubDate: 2023-07-07 10:20:54

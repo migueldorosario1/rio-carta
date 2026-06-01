@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3543_imagem-46.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3543_imagem-46.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Condenado pelo assassinato de Chico Mendes assume presidência do PL em cidade do Pará'
 pubDate: 2024-02-28 09:50:16

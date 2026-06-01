@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6537_image-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6537_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bacellar é reeleito por unanimidade na Alerj e prega prioridade à segurança pública'
 pubDate: 2025-02-04 23:20:01

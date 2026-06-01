@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5334_imagem-77.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5334_imagem-77.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pentágono descarta mudanças na postura militar dos EUA no Oriente Médio após ataque no Líbano'
 pubDate: 2024-09-19 19:05:39

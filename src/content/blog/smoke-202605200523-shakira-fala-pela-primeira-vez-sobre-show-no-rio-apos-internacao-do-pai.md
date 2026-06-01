@@ -4,7 +4,7 @@ description: "Shakira fala pela primeira vez sobre show no Rio após internaçã
 pubDate: "2026-05-20T05:23:26Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "serrana", "regiao-metropolitana", "petropolis", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605200523-shakira-fala-pela-primeira-vez-sobre-show-no-rio-apos-internacao-do-pai.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200523-shakira-fala-pela-primeira-vez-sobre-show-no-rio-apos-internacao-do-pai.jpg"
 ---
 A cantora Shakira afirmou que enfrentou dificuldades para subir ao palco no Rio de Janeiro após receber a notícia de que o pai havia sido internado horas antes da apresentação. Em entrevista ao canal colombiano Noticias Caracol, a artista relembrou o show realizado em Copacabana e disse que o apoio do público foi fundamental para conseguir se apresentar.
 

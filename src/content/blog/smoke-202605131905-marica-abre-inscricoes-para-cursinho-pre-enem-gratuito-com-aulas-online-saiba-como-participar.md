@@ -4,7 +4,7 @@ description: "Maricá abre inscrições para cursinho pré-Enem gratuito com aul
 pubDate: "2026-05-13T22:05:39Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "pre-vestibular", "educacao", "enem", "prefeitura-de-marica", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "campos", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605131905-marica-abre-inscricoes-para-cursinho-pre-enem-gratuito-com-aulas-online-saiba-como-participar.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131905-marica-abre-inscricoes-para-cursinho-pre-enem-gratuito-com-aulas-online-saiba-como-participar.jpeg"
 categoria_macro: politica
 ---
 Maricá abre inscrições para cursinho pré-Enem gratuito com aulas online; saiba como participar

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7735_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7735_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Elias Jabbour lança novo livro nesta sexta no Rio'
 pubDate: 2026-03-11 10:03:50

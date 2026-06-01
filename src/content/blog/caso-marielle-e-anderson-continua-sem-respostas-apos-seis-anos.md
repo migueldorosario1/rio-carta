@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3765_imagem-14.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3765_imagem-14.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caso Marielle e Anderson continua sem respostas após seis anos'
 pubDate: 2024-03-14 09:34:54

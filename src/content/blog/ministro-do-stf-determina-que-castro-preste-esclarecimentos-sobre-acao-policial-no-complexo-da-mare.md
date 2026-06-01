@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4648_imagem-13.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4648_imagem-13.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministro do STF determina que Castro preste esclarecimentos sobre ação policial no Complexo da Maré'
 pubDate: 2024-06-13 08:59:32

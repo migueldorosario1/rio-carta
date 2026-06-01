@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1128_image-28.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1128_image-28.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CPI DA ALERJ ESPECIALISTA EM PSICOLOGIA COGNITIVA QUESTIONA RECONHECIMENTO FOTOGRÁFICO SHOW-UP'
 pubDate: 2023-08-18 13:44:45

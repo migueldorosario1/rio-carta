@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp759_image-38.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp759_image-38.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio abraça a moda circular em retorno da maior feira de brechós'
 pubDate: 2023-07-10 21:45:57

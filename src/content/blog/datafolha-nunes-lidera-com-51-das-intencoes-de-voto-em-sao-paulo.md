@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5722_imagem-28.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5722_imagem-28.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Datafolha Nunes lidera com 51% das intenções de voto em São Paulo'
 pubDate: 2024-10-17 19:17:34

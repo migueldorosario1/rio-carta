@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4089_4936450284503281144_121.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4089_4936450284503281144_121.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi reúne chapa de vereadores do PCdoB em ato público hoje no Rio'
 pubDate: 2024-04-08 12:50:05

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6644_image-33.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6644_image-33.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'IBGE Belford Roxo tem pior índice de ensino superior do país'
 pubDate: 2025-02-27 10:20:05

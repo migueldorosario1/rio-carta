@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5919_imagem-86.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5919_imagem-86.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil registra crescimento na geração de empregos formais com 247 mil recorde histórico'
 pubDate: 2024-10-30 20:16:01

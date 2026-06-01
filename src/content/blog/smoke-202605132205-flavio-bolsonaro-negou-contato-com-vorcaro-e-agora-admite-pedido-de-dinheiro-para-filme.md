@@ -4,7 +4,7 @@ description: "O senador Flávio Bolsonaro passou a enfrentar questionamentos sob
 pubDate: "2026-05-14T01:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "daniel-vorcaro", "dark-horse", "politica-rj", "senador", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605132205-flavio-bolsonaro-negou-contato-com-vorcaro-e-agora-admite-pedido-de-dinheiro-para-filme.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-flavio-bolsonaro-negou-contato-com-vorcaro-e-agora-admite-pedido-de-dinheiro-para-filme.jpg"
 categoria_macro: politica
 ---
 O senador Flávio Bolsonaro passou a enfrentar questionamentos sobre um conflito de versões envolvendo sua relação com o ex-banqueiro Daniel Vorcaro, ex-controlador do Banco Master.

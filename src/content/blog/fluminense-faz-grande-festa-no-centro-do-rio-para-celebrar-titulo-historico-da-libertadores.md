@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1913_113188100-whatsapp-image-2023-11-04-at-152300easy-resizecom-e1699122457557.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1913_113188100-whatsapp-image-2023-11-04-at-152300easy-resizecom-e1699122457557.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fluminense faz grande festa no Centro do Rio para celebrar título histórico da Libertadores'
 pubDate: 2023-11-13 13:00:00

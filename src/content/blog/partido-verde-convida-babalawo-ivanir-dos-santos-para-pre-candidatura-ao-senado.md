@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7651_image-5-e1770395234149.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7651_image-5-e1770395234149.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Partido Verde convida babalawô Ivanir dos Santos para pré-candidatura ao Senado'
 pubDate: 2026-02-06 13:28:15

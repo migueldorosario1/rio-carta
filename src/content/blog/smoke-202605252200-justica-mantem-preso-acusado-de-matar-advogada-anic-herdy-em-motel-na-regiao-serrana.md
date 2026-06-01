@@ -4,7 +4,7 @@ description: "O técnico de informática Lourival Correa Netto Fatica, acusado d
 pubDate: "2026-05-25T22:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "itaipava", "regiao-serrana", "politica-rj", "zona-oeste", "gericino", "complexo", "teresopolis", "serrana", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605252200-justica-mantem-preso-acusado-de-matar-advogada-anic-herdy-em-motel-na-regiao-serrana.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605252200-justica-mantem-preso-acusado-de-matar-advogada-anic-herdy-em-motel-na-regiao-serrana.jpg"
 ---
 O técnico de informática Lourival Correa Netto Fatica, acusado de assassinar a advogada e estudante de Psicologia Anic de Almeida Peixoto Herdy, de 55 anos, continuará preso. A decisão foi tomada pelo juiz Marcelo Brito da Costa Honorato Santos, da 1ª Vara Criminal de Petrópolis, que rejeitou o pedido de revogação da prisão preventiva apresentado pela defesa do réu.
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7078_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7078_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj debate condições de trabalho nos Correios'
 pubDate: 2025-08-26 19:36:29

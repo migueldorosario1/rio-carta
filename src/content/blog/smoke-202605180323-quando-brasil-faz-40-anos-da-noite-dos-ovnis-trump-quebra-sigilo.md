@@ -4,7 +4,7 @@ description: "No dia 19 de maio, o Brasil chega aos 40 anos da Noite Oficial dos
 pubDate: "2026-05-18T03:24:25Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "rio-capital-zona-oeste", "capital-porto", "santa-cruz", "problemas-estruturais"]
-heroImage: "/hero/smoke-smoke-202605180323-quando-brasil-faz-40-anos-da-noite-dos-ovnis-trump-quebra-sigilo-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605180323-quando-brasil-faz-40-anos-da-noite-dos-ovnis-trump-quebra-sigilo-qwen.jpg"
 ---
 No dia 19 de maio, o Brasil chega aos 40 anos da Noite Oficial dos OVNIs, um dos mais documentados episódios de OVNIs (Objetos Voadores Não Identificados) do mundo. Em 1986, pelo menos 21 objetos luminosos paralisaram o espaço aéreo da Região Sudeste do país, mobilizando cinco caças da Força Aérea Brasileira (FAB) em perseguições que desafiaram a física, com a primeira decolagem tendo ocorrido a partir da Base Aérea de Santa Cruz, na Zona Oeste da cidade do Rio.
 

@@ -4,7 +4,7 @@ description: "Moradores da Barra criam “novela paralela” depois de operaçã
 pubDate: "2026-05-17T04:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "barra", "zona-oeste", "rio-capital-barra-recreio-jacarepagua", "capital", "seguranca-publica", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605170423-moradores-da-barra-criam-novela-paralela-depois-de-operacao-com-castro.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170423-moradores-da-barra-criam-novela-paralela-depois-de-operacao-com-castro.jpg"
 ---
 Assim como o roteirista Aguinaldo Silva deu tom de continuidade no seu fim na ficção, a política carioca continua com capítulos abertos
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3091_imagem-19.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3091_imagem-19.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeitura do Rio revela quanto vai investir para sediar reunião do G20'
 pubDate: 2024-02-09 10:54:36

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1837_zumbi.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1837_zumbi.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Novembro Negro Rio celebra a Consciência Negra com uma série de eventos e atividades'
 pubDate: 2023-11-07 17:45:00

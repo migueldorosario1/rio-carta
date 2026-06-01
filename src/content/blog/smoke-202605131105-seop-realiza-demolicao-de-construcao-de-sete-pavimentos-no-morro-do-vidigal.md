@@ -4,7 +4,7 @@ description: "Rio SEOP realiza demolição de construção de sete pavimentos no
 pubDate: "2026-05-13T14:05:10Z"
 draft: true
 tags: ["rio-de-janeiro", "vidigal", "zona-sul", "demolicao", "construcao-irregular", "seop", "ordem-publica", "rio-capital-zona-sul-e-grande-tijuca", "capital-estado", "problemas-estruturais", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605131105-seop-realiza-demolicao-de-construcao-de-sete-pavimentos-no-morro-do-vidigal.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131105-seop-realiza-demolicao-de-construcao-de-sete-pavimentos-no-morro-do-vidigal.jpg"
 categoria_macro: politica
 ---
 Rio

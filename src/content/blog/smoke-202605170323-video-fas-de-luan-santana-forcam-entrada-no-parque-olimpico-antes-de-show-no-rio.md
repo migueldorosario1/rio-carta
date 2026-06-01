@@ -4,7 +4,7 @@ description: "Fãs do cantor Luan Santana forçaram os portões de acesso ao Par
 pubDate: "2026-05-17T03:23:07Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-oeste", "rio-capital-zona-oeste", "politica-rj", "regiao-metropolitana", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605170323-video-fas-de-luan-santana-forcam-entrada-no-parque-olimpico-antes-de-show-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170323-video-fas-de-luan-santana-forcam-entrada-no-parque-olimpico-antes-de-show-no-rio.jpg"
 ---
 Fãs do cantor Luan Santana forçaram os portões de acesso ao Parque Olímpico, na Zona Oeste do Rio de Janeiro, neste sábado (16), antes do início do show da turnê “Registro Histórico”. Segundo relatos de pessoas que estavam no local, a movimentação acabou antecipando a entrada do público em aproximadamente duas horas.
 

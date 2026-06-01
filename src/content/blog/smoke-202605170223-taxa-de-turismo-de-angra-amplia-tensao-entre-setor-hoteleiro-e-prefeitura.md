@@ -4,7 +4,7 @@ description: "A poucos mais de 15 dias do início da cobrança da nova taxa de t
 pubDate: "2026-05-17T02:24:13Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "ilha-grande", "alerj", "sul-fluminense-costa-verde", "politica-rj", "regiao-metropolitana", "leme", "angra", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605170223-taxa-de-turismo-de-angra-amplia-tensao-entre-setor-hoteleiro-e-prefeitura.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170223-taxa-de-turismo-de-angra-amplia-tensao-entre-setor-hoteleiro-e-prefeitura.png"
 ---
 A poucos mais de 15 dias do início da cobrança da nova taxa de turismo em Angra dos Reis, o debate sobre os impactos da medida voltou a mobilizar empresários, moradores e representantes políticos da região.
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4034_imagem-5.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4034_imagem-5.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'MP do Rio formaliza denuncia contra o grupo que atacou a deputada Marina no MST'
 pubDate: 2024-04-02 09:00:57

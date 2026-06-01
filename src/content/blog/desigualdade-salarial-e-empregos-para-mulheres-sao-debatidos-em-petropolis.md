@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6740_lilian-petropolis.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6740_lilian-petropolis.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Desigualdade salarial e empregos para mulheres são debatidos em Petrópolis'
 pubDate: 2025-04-02 15:27:59

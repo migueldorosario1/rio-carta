@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7638_image-3.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7638_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Justiça condena empresas por não fazerem acordo de feriados'
 pubDate: 2026-02-05 22:09:46

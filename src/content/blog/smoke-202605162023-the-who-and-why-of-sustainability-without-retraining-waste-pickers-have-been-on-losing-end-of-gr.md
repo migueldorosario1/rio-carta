@@ -4,7 +4,7 @@ description: "This article is part of a series created in partnership with the B
 pubDate: "2026-05-16T20:26:16Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "norte-noroeste-fluminense", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "baixada", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605162023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162023-the-who-and-why-of-sustainability-without-retraining-waste-pickers-have-been-on-losing-end-of-gr-qwen.jpg"
 ---
 This article is part of a series created in partnership with the Behner Stiefel Center for Brazilian Studies at San Diego State University, to produce articles for the Digital Brazil Project on environmental justice in the favelas through RioOnWatch.
 

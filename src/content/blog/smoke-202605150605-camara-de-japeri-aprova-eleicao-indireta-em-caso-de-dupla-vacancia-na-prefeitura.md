@@ -4,7 +4,7 @@ description: "A Câmara Municipal de Japeri aprovou uma emenda à Lei Orgânica 
 pubDate: "2026-05-15T09:05:15Z"
 draft: true
 tags: ["rio-de-janeiro", "japeri", "baixada-fluminense", "politica-rj", "regiao-metropolitana", "capital"]
-heroImage: "/hero/smoke-smoke-202605150605-camara-de-japeri-aprova-eleicao-indireta-em-caso-de-dupla-vacancia-na-prefeitura.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150605-camara-de-japeri-aprova-eleicao-indireta-em-caso-de-dupla-vacancia-na-prefeitura.jpg"
 categoria_macro: politica
 ---
 A Câmara Municipal de Japeri aprovou uma emenda à Lei Orgânica do Município que institui eleição indireta em caso de dupla vacância dos cargos de prefeito e vice-prefeito. A medida busca atualizar a legislação municipal e criar uma regra mais clara para situações de crise no comando do Poder Executivo.

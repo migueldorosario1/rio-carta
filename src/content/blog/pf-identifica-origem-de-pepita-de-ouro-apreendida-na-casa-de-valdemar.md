@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3743_imagem.jpg-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3743_imagem.jpg-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF identifica origem de pepita de ouro apreendida na casa de Valdemar'
 pubDate: 2024-03-13 08:58:02

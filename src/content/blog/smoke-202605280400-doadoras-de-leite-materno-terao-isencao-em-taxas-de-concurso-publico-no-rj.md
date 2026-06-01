@@ -4,7 +4,7 @@ description: "Doadoras de leite materno terão isenção em taxas de concurso p�
 pubDate: "2026-05-28T04:00:19Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai"]
-heroImage: "/hero/smoke-smoke-202605280400-doadoras-de-leite-materno-terao-isencao-em-taxas-de-concurso-publico-no-rj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605280400-doadoras-de-leite-materno-terao-isencao-em-taxas-de-concurso-publico-no-rj.jpg"
 ---
 De acordo com a proposta, terão direito ao benefício mulheres que tenham doado leite materno em, pelo menos, três ocasiões nos primeiros seis meses após o parto
 

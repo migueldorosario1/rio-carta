@@ -4,7 +4,7 @@ description: "O volume de serviços prestados no Estado do Rio de Janeiro cresce
 pubDate: "2026-05-16T03:24:09Z"
 draft: false
 tags: ["rio-de-janeiro", "economia", "servicos", "economia-local", "capital", "regiao-metropolitana", "seguranca-publica"]
-heroImage: "/hero/smoke-smoke-202605160323-servicos-crescem-5-2-no-rio-em-marco-e-superam-media-nacional.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160323-servicos-crescem-5-2-no-rio-em-marco-e-superam-media-nacional.jpg"
 categoria_macro: seguranca
 ---
 O volume de serviços prestados no Estado do Rio de Janeiro cresceu 5,2% em março, na comparação com o mesmo mês do ano passado. O resultado ficou acima da média nacional, que teve alta de 3% no período.

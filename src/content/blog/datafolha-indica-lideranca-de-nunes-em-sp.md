@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5209_imagem-9.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5209_imagem-9.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Datafolha indica liderança de Nunes em SP'
 pubDate: 2024-09-12 18:23:28

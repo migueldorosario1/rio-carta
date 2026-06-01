@@ -4,7 +4,7 @@ description: "A Liga RJ segue avançando no planejamento oficial do Carnaval 202
 pubDate: "2026-05-20T21:25:32Z"
 draft: false
 tags: ["rio-de-janeiro", "carnaval", "serie-ouro", "centro", "cultura-carnaval", "educacao"]
-heroImage: "/hero/smoke-smoke-202605202123-liga-rj-avanca-no-planejamento-do-carnaval-2027-com-reuniao-de-alinhamento-junto-as-agremiacoes.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605202123-liga-rj-avanca-no-planejamento-do-carnaval-2027-com-reuniao-de-alinhamento-junto-as-agremiacoes.jpg"
 ---
 A Liga RJ segue avançando no planejamento oficial do Carnaval 2027 da Série Ouro. Na noite da última terça-feira, a entidade realizou uma reunião de alinhamento com os diretores de carnaval das 17 agremiações filiadas, no Auditório da Companhia Carioca de Parcerias e Investimentos (CCPar), no Centro.
 

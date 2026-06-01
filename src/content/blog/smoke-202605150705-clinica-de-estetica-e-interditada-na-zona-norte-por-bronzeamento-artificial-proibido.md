@@ -4,7 +4,7 @@ description: "Uma operação conjunta da Secretaria de Estado de Defesa do Consu
 pubDate: "2026-05-15T10:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "vicente-de-carvalho", "vila-da-penha", "zona-norte", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "penha", "problemas-estruturais", "seguranca-publica", "saude", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605150705-clinica-de-estetica-e-interditada-na-zona-norte-por-bronzeamento-artificial-proibido.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150705-clinica-de-estetica-e-interditada-na-zona-norte-por-bronzeamento-artificial-proibido.jpeg"
 categoria_macro: politica
 ---
 Uma operação conjunta da Secretaria de Estado de Defesa do Consumidor, do Procon-RJ e da Polícia Civil fiscalizou clínicas de estética em Vicente de Carvalho e Vila da Penha, na Zona Norte do Rio de Janeiro, nesta quarta-feira (13/05). A ação resultou na interdição cautelar de um estabelecimento por risco à saúde e à segurança dos consumidores.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4760_imagem-6.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4760_imagem-6.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação ocupa dez comunidades na Zona Oeste do Rio'
 pubDate: 2024-07-15 09:53:29

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4582_imagem-1.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4582_imagem-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Homem morto no Rio por brigadeirão envenenado foi alertado pelos amigos sobre perigo da namorada'
 pubDate: 2024-06-03 08:47:48

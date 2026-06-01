@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4694_imagem-2.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4694_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Aprovação ao Governo Lula se mantém estável em SP, revela pesquisa'
 pubDate: 2024-06-26 06:42:07

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5331_imagem-76.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5331_imagem-76.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'iFood registra aumento de 9,2% nos ganhos por hora de entregadores entre 2022 e 2023'
 pubDate: 2024-09-19 18:57:30

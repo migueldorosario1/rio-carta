@@ -4,7 +4,7 @@ description: "Secretaria segue investindo na qualificação permanente dos agent
 pubDate: "2026-05-17T05:23:35Z"
 draft: false
 tags: ["rio-de-janeiro", "duque-de-caxias", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "complexo", "niteroi", "rio-das-ostras", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605170523-seguranca-participa-de-curso-em-duque-de-caxias.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170523-seguranca-participa-de-curso-em-duque-de-caxias.jpeg"
 ---
 Secretaria segue investindo na qualificação permanente dos agentes
 

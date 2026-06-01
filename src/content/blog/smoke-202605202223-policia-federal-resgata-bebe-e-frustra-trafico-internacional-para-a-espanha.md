@@ -4,7 +4,7 @@ description: "Rio Polícia Federal resgata bebê e frustra tráfico internaciona
 pubDate: "2026-05-20T22:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "macae", "cabo-frio", "policia-federal", "trafico-internacional", "regiao-dos-lagos", "capital-estado", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605202223-policia-federal-resgata-bebe-e-frustra-trafico-internacional-para-a-espanha.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605202223-policia-federal-resgata-bebe-e-frustra-trafico-internacional-para-a-espanha.jpg"
 ---
 Rio
 

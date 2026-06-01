@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5082_imagem-27.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5082_imagem-27.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula autoriza candidatura de Hugo Motta à presidência da Câmara, afirma Marcos Pereira'
 pubDate: 2024-09-04 19:13:30

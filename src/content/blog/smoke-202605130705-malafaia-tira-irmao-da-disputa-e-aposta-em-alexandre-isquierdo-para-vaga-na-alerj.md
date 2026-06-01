@@ -4,7 +4,7 @@ description: "O deputado estadual Samuel Malafaia não disputará a reeleição 
 pubDate: "2026-05-13T10:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "samuel-malafaia", "alexandre-isquierdo", "silas-malafaia", "assembleia-de-deus-vitoria-em-cristo", "pl", "eleicoes-2026", "regiao-metropolitana", "saude"]
-heroImage: "/hero/smoke-smoke-202605130705-malafaia-tira-irmao-da-disputa-e-aposta-em-alexandre-isquierdo-para-vaga-na-alerj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130705-malafaia-tira-irmao-da-disputa-e-aposta-em-alexandre-isquierdo-para-vaga-na-alerj.jpg"
 categoria_macro: politica
 ---
 O deputado estadual Samuel Malafaia não disputará a reeleição para a Assembleia Legislativa do Rio de Janeiro em 2026, encerrando uma trajetória de cinco mandatos consecutivos na Alerj. A informação foi publicada pela coluna de Mônica Bergamo, da Folha de S.

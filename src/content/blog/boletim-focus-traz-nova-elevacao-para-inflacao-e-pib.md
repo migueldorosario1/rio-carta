@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4866_imagem-12.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4866_imagem-12.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Boletim Focus traz nova elevação para inflação e PIB'
 pubDate: 2024-08-19 09:15:04

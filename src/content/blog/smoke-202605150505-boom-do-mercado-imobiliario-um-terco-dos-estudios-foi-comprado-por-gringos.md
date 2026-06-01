@@ -4,7 +4,7 @@ description: "Boom do mercado imobiliário: um terço dos estúdios foi comprado
 pubDate: "2026-05-15T08:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "ipanema", "leblon", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605150505-boom-do-mercado-imobiliario-um-terco-dos-estudios-foi-comprado-por-gringos.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150505-boom-do-mercado-imobiliario-um-terco-dos-estudios-foi-comprado-por-gringos.webp"
 categoria_macro: lazer
 ---
 Boom do mercado imobiliário: um terço dos estúdios foi comprado por gringos

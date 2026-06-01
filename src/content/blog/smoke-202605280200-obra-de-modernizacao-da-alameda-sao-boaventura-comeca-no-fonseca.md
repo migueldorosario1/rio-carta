@@ -4,7 +4,7 @@ description: "Obra de modernização da Alameda São Boaventura começa no Fonse
 pubDate: "2026-05-28T02:00:20Z"
 draft: false
 tags: ["rio-de-janeiro", "fonseca", "rio-capital-zona-sul-grande-tijuca", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "sao-goncalo", "itaborai", "problemas-estruturais", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605280200-obra-de-modernizacao-da-alameda-sao-boaventura-comeca-no-fonseca.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605280200-obra-de-modernizacao-da-alameda-sao-boaventura-comeca-no-fonseca.jpg"
 ---
 Prefeito visitou obra como parte do Prefeitura Móvel, que começou nesta segunda, no Horto do Fonseca
 

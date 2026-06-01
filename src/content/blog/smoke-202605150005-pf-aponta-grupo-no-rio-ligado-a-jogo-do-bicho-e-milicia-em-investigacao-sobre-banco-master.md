@@ -4,7 +4,7 @@ description: "A Polícia Federal apontou que Daniel Vorcaro, dono do Banco Maste
 pubDate: "2026-05-15T03:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "jogo-do-bicho", "milicia", "policia-federal", "banco-master", "sul-fluminense-costa-verde", "capital", "regiao-metropolitana", "leme", "penha", "angra", "costa-verde", "seguranca-publica"]
-heroImage: "/hero/smoke-smoke-202605150005-pf-aponta-grupo-no-rio-ligado-a-jogo-do-bicho-e-milicia-em-investigacao-sobre-banco-master.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150005-pf-aponta-grupo-no-rio-ligado-a-jogo-do-bicho-e-milicia-em-investigacao-sobre-banco-master.jpg"
 categoria_macro: seguranca
 ---
 A Polícia Federal apontou que Daniel Vorcaro, dono do Banco Master, teria mantido um grupo no Rio de Janeiro para ameaçar e constranger pessoas que contrariavam interesses ligados ao banco. A informação consta em decisão do ministro André Mendonça, do Supremo Tribunal Federal (STF), relator do caso na Corte.

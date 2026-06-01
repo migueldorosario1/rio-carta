@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3071_imagem-15.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3071_imagem-15.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF bate na porta de Bolsonaro e ordena entrega de passaporte'
 pubDate: 2024-02-08 09:35:53

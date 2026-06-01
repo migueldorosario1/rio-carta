@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5322_imagem-16.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5322_imagem-16.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rejeição a Marçal dispara em SP, diz Datafolha'
 pubDate: 2024-09-19 18:40:55

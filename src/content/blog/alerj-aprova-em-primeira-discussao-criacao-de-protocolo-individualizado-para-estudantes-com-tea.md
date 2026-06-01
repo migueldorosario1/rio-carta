@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7066_image-5.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7066_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj aprova em primeira discussão criação de protocolo individualizado para estudantes com TEA'
 pubDate: 2025-08-20 10:22:46

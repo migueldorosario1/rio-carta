@@ -4,7 +4,7 @@ description: "A Polícia Civil do Rio investiga o falecimento de Mariana Tanaka 
 pubDate: "2026-05-20T00:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "estado", "leblon", "iraja", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605200023-filha-de-diplomatas-morre-atropelada-em-ipanema-horas-apos-chegar-ao-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200023-filha-de-diplomatas-morre-atropelada-em-ipanema-horas-apos-chegar-ao-rio.jpg"
 ---
 A Polícia Civil do Rio investiga o falecimento de Mariana Tanaka Abdul Hak, de 20 anos, filha de representantes diplomáticos, ocorrido no domingo (17), um dia após ser atingida por uma van em Ipanema, na zona sul carioca. O corpo será transladado para São Paulo depois da liberação pelo Instituto Médico Legal, prevista para segunda-feira (18).
 

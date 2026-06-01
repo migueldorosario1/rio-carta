@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1266_IMG-20230901-WA0023.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1266_IMG-20230901-WA0023.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mural que homenageia Marielle Franco em Petrópolis é pichado'
 pubDate: 2023-09-01 14:45:42

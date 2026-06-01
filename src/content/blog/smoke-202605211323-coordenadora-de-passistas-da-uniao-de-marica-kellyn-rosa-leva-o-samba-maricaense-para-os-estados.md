@@ -4,7 +4,7 @@ description: "O samba de Maricá segue atravessando fronteiras. Diretora artíst
 pubDate: "2026-05-21T13:23:19Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "cultura", "samba", "uniao-de-marica", "regiao-metropolitana", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605211323-coordenadora-de-passistas-da-uniao-de-marica-kellyn-rosa-leva-o-samba-maricaense-para-os-estados.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211323-coordenadora-de-passistas-da-uniao-de-marica-kellyn-rosa-leva-o-samba-maricaense-para-os-estados.jpg"
 ---
 O samba de Maricá segue atravessando fronteiras. Diretora artística e coordenadora da ala de passistas da União de Maricá, Kellyn Rosa vem vivendo mais uma experiência internacional de destaque, pelo terceiro ano consecutivo, como diretora convidada da ala de passistas do Ginga Brasil, tradicional bloco carnavalesco de São Francisco, na Califórnia, nos Estados Unidos.
 

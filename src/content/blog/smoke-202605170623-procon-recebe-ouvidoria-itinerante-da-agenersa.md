@@ -4,7 +4,7 @@ description: "Agência é responsável por fiscalizar os serviços da Rio + Sane
 pubDate: "2026-05-17T06:23:38Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "agenersa", "procon", "saneamento", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605170623-procon-recebe-ouvidoria-itinerante-da-agenersa.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170623-procon-recebe-ouvidoria-itinerante-da-agenersa.jpeg"
 ---
 Agência é responsável por fiscalizar os serviços da Rio + Saneamento na Cidade. Nesta sexta,15, serviço estará disponível das 10h às 16h, no Centro de Cidadania
 

@@ -4,7 +4,7 @@ description: "O deputado estadual Douglas Ruas, pré-candidato ao Governo do Est
 pubDate: "2026-05-16T20:25:15Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "politica-rj", "estado", "regiao-metropolitana", "zona-norte", "del-castilho", "zona-oeste", "bangu", "baixada"]
-heroImage: "/hero/smoke-smoke-202605162023-douglas-ruas-cumpriu-agendas-na-capital-e-na-baixada-fluminense-no-sabado.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162023-douglas-ruas-cumpriu-agendas-na-capital-e-na-baixada-fluminense-no-sabado.jpg"
 ---
 O deputado estadual Douglas Ruas, pré-candidato ao Governo do Estado do Rio de Janeiro, realizou neste sábado (9) uma série de compromissos na capital e na Baixada Fluminense. A agenda incluiu encontros com lideranças políticas, representantes da sociedade civil, moradores e líderes religiosos.
 

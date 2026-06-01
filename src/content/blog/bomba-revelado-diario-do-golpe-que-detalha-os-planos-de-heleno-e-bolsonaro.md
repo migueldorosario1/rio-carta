@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3618_images-2024-03-03T084507.242.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3618_images-2024-03-03T084507.242.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bomba! Revelado Diário do Golpe que detalha os planos de Heleno e Bolsonaro'
 pubDate: 2024-03-03 08:47:30

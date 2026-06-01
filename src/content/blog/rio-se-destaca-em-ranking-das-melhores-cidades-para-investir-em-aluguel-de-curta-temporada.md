@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6367_imagem-6.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6367_imagem-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio se destaca em ranking das melhores cidades para investir em aluguel de curta temporada'
 pubDate: 2025-01-07 17:01:28

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5008_imagem-9.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5008_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Expectativa de crescimento do PIB brasileiro surpreende analistas apesar de enchentes'
 pubDate: 2024-09-02 19:04:29

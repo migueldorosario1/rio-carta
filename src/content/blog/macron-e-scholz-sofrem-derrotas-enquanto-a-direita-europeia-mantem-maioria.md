@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4600_imagem-4.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4600_imagem-4.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Macron e Scholz sofrem derrotas enquanto a direita europeia mantém maioria'
 pubDate: 2024-06-10 09:22:08

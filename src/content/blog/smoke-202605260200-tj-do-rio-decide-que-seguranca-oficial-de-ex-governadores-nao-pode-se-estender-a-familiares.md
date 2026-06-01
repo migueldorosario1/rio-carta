@@ -4,7 +4,7 @@ description: "O Órgão Especial do Tribunal de Justiça do Rio de Janeiro decid
 pubDate: "2026-05-26T02:00:13Z"
 draft: false
 tags: ["rio-de-janeiro", "tribunal-de-justica", "claudio-castro", "seguranca-institucional", "gastos-publicos", "politica-rj", "regiao-metropolitana", "joa", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605260200-tj-do-rio-decide-que-seguranca-oficial-de-ex-governadores-nao-pode-se-estender-a-familiares.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605260200-tj-do-rio-decide-que-seguranca-oficial-de-ex-governadores-nao-pode-se-estender-a-familiares.webp"
 ---
 O Órgão Especial do Tribunal de Justiça do Rio de Janeiro decidiu, por unanimidade, suspender dois artigos do decreto editado pelo ex-governador Cláudio Castro que ampliavam o alcance da segurança institucional paga pelo estado.
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1670_brt-fogo-990x660-1.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1670_brt-fogo-990x660-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Milícias controlam metade da grande Rio com crescimento de 378% em 16 Anos'
 pubDate: 2023-10-25 05:00:00

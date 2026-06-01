@@ -4,7 +4,7 @@ description: "Rio Unidade de saúde em Cabo Frio é furtada e criminosos deixam 
 pubDate: "2026-05-17T02:24:28Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "saude", "capital-estado", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605170223-unidade-de-saude-em-cabo-frio-e-furtada-e-criminosos-deixam-bilhetes-de-deboche.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170223-unidade-de-saude-em-cabo-frio-e-furtada-e-criminosos-deixam-bilhetes-de-deboche.jpg"
 ---
 Rio
 

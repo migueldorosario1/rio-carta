@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5073_imagem-24.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5073_imagem-24.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Polícia Federal nomeia 41 suspeitos em fraude bilionária da Americanas'
 pubDate: 2024-09-03 19:21:59

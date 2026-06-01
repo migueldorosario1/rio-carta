@@ -4,7 +4,7 @@ description: "Motoboy preso por engano é solto pela Justiça na manhã desta qu
 pubDate: "2026-05-13T18:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "tijuca", "zona-norte", "justica", "erro-judicial", "seguranca-publica", "seguranca-publica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "rio-comprido", "zona-sul", "gavea", "rocha", "bangu"]
-heroImage: "/hero/smoke-smoke-202605131505-motoboy-preso-por-engano-e-solto-pela-justica-na-manha-desta-quarta-feira-13.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131505-motoboy-preso-por-engano-e-solto-pela-justica-na-manha-desta-quarta-feira-13.jpg"
 categoria_macro: seguranca
 ---
 Motoboy preso por engano é solto pela Justiça na manhã desta quarta-feira (13)

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6728_image-2.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6728_image-2.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Guarda armada avança no Rio com ampla aprovação na Câmara'
 pubDate: 2025-04-02 14:19:05

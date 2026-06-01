@@ -4,7 +4,7 @@ description: "O ex-deputado federal Marcelo Freixo lança, nesta sexta-feira (15
 pubDate: "2026-05-15T04:05:04Z"
 draft: true
 tags: ["rio-de-janeiro", "laranjeiras", "santa-teresa", "marcelo-freixo", "crime-organizado", "milicias", "alerj", "seguranca-publica", "politica-rj", "regiao-metropolitana", "gloria", "educacao"]
-heroImage: "/hero/smoke-smoke-202605150105-marcelo-freixo-lanca-autobiografia-sobre-politica-e-crime-organizado-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150105-marcelo-freixo-lanca-autobiografia-sobre-politica-e-crime-organizado-no-rio.jpg"
 categoria_macro: politica
 ---
 O ex-deputado federal Marcelo Freixo lança, nesta sexta-feira (15), na Janela Livraria, em Laranjeiras, e no sábado (16), durante a Festa Literária de Santa Teresa (Flist), o livro Viver é Perigoso – Minha Travessia no Rio.

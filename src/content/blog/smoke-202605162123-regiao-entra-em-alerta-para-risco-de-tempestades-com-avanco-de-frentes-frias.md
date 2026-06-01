@@ -4,7 +4,7 @@ description: "A partir desta sexta-feira (15), a passagem de frentes frias, áre
 pubDate: "2026-05-16T21:24:33Z"
 draft: true
 tags: ["rio-de-janeiro", "tempo", "clima", "norte-noroeste-fluminense", "regiao-metropolitana", "noroeste-fluminense", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605162123-regiao-entra-em-alerta-para-risco-de-tempestades-com-avanco-de-frentes-frias.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162123-regiao-entra-em-alerta-para-risco-de-tempestades-com-avanco-de-frentes-frias.jpg"
 ---
 A partir desta sexta-feira (15), a passagem de frentes frias, áreas de baixa pressão e a circulação de ventos em médios níveis da atmosfera vão provocar uma grande mudança no tempo no centro-sul do Brasil.
 

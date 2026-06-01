@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5492_imagem-119.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5492_imagem-119.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasileira de 16 anos morre em bombardeio no Líbano; Itamaraty ainda não confirma o caso'
 pubDate: 2024-09-26 15:47:16

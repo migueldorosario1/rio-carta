@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1814_104929041-esp-rio-de-janeiro-rj-04-11-2023-copa-libertadores-2023-jogo-da-final-entre-boca-j.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1814_104929041-esp-rio-de-janeiro-rj-04-11-2023-copa-libertadores-2023-jogo-da-final-entre-boca-j.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fluminense vence o Boca Juniors no Maracanã e é campeão da Libertadores'
 pubDate: 2023-11-05 18:30:04

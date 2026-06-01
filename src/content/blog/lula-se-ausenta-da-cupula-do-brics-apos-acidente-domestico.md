@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5838_imagem-66.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5838_imagem-66.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula se ausenta da Cúpula do BRICS após acidente doméstico'
 pubDate: 2024-10-21 15:33:24

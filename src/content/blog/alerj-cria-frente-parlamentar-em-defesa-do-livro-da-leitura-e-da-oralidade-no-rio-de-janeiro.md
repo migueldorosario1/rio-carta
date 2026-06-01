@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7780_image-3.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7780_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Alerj cria Frente Parlamentar em Defesa do Livro, da Leitura e da Oralidade no Rio de Janeiro'
 pubDate: 2026-04-08 15:57:47

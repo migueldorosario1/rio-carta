@@ -4,7 +4,7 @@ description: "A região comercial de Bangu será a próxima a receber o patrulha
 pubDate: "2026-05-13T13:26:53Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "forca-municipal", "guarda-municipal", "seguranca-publica", "rio-capital-zona-oeste", "capital", "botafogo", "flamengo", "leme", "tijuca", "zona-norte", "sao-francisco-xavier"]
-heroImage: "/hero/smoke-smoke-202605131026-saiba-qual-trecho-de-bangu-sera-patrulhado-pela-forca-municipal.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131026-saiba-qual-trecho-de-bangu-sera-patrulhado-pela-forca-municipal.jpg"
 categoria_macro: seguranca
 ---
 A região comercial de Bangu será a próxima a receber o patrulhamento da Força Municipal, divisão de elite da Guarda Municipal do Rio voltada ao policiamento preventivo e ostensivo. A atuação começa no dia 24 de maio e ficará concentrada em áreas estratégicas do bairro, incluindo o Calçadão de Bangu e o entorno do Bangu Shopping.

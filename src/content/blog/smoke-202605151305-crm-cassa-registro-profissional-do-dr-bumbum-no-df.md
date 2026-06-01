@@ -4,7 +4,7 @@ description: "Denis Furtado, conhecido como Dr. Bumbum, teve registro profission
 pubDate: "2026-05-15T16:07:01Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "rio-capital-barra-recreio-jacarepagua", "capital-estado", "regiao-metropolitana", "tijuca", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605151305-crm-cassa-registro-profissional-do-dr-bumbum-no-df-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151305-crm-cassa-registro-profissional-do-dr-bumbum-no-df-qwen.jpg"
 categoria_macro: seguranca
 ---
 Denis Furtado, conhecido como Dr. Bumbum, teve registro profissional cassado em Brasília — Foto: Instagram/Reprodução

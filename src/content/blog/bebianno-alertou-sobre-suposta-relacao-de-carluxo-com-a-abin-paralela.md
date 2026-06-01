@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2626_imagem.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2626_imagem.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bebianno alertou sobre suposta relação de Carluxo com a Abin Paralela'
 pubDate: 2024-01-29 11:06:47

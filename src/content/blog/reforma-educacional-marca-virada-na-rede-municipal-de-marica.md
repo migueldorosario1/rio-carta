@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7528_image-16.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7528_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Reforma educacional marca virada na rede municipal de Maricá'
 pubDate: 2025-12-04 13:48:18

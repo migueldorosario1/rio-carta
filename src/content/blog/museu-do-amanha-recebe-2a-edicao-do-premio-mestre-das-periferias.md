@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2545_DSCF0624-scaled.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2545_DSCF0624-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Museu do Amanhã recebe 2ª Edição do Prêmio Mestre das Periferias'
 pubDate: 2024-01-25 12:07:57

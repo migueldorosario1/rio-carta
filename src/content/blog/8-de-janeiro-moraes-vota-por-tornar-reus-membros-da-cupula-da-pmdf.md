@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3133_imagem-26.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3133_imagem-26.webp"
 description: "Matéria arquivada do Rio Carta"
 title: '8 de janeiro Moraes vota por tornar réus membros da cúpula da PMDF'
 pubDate: 2024-02-11 05:53:00

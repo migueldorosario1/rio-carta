@@ -4,7 +4,7 @@ description: "Há algo de mágico acontecendo aos fins de semana na região da P
 pubDate: "2026-05-17T06:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "praca-xv", "rio-capital-centro", "capital", "centro-do-rio", "lapa", "santa-cruz", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605170623-quando-os-sinos-duelam-sobre-o-samba-tardes-em-que-a-rua-do-ouvidor-volta-a-soar-como-o-rio-anti.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170623-quando-os-sinos-duelam-sobre-o-samba-tardes-em-que-a-rua-do-ouvidor-volta-a-soar-como-o-rio-anti.jpg"
 ---
 Há algo de mágico acontecendo aos fins de semana na região da Praça XV. E talvez nenhum outro lugar do Rio consiga hoje reunir, ao mesmo tempo, missa solene, coral e orquestra, botequim lotado, galerias de arte fervilhando, samba na rua e sinos do século XVIII duelando sobre a multidão.
 

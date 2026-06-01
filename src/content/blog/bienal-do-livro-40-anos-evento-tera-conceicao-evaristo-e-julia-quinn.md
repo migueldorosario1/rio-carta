@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1015_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1015_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bienal do Livro, 40 anos evento terá Conceição Evaristo e Julia Quinn'
 pubDate: 2023-08-03 10:45:46

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6473_image-16.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6473_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Instituto Pereira Passos articula parceria com o IBGE no Rio'
 pubDate: 2025-01-15 18:30:19

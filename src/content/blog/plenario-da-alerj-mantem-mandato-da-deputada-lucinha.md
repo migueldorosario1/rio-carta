@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3090_imagem-18.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3090_imagem-18.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Plenário da Alerj mantém mandato da deputada Lucinha'
 pubDate: 2024-02-09 10:49:50

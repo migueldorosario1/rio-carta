@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/blog-placeholder-3.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/blog-placeholder-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'ONU envia painel de especialistas eleitorais para observar eleições na Venezuela'
 pubDate: 2024-06-26 06:50:11

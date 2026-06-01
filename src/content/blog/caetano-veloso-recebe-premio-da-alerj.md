@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7098_image-11.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7098_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caetano Veloso recebe prêmio da Alerj'
 pubDate: 2025-08-29 08:22:14

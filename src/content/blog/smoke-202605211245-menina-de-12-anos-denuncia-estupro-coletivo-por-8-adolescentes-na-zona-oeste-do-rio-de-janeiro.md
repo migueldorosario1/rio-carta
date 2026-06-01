@@ -4,7 +4,7 @@ description: "Menina de 12 anos denuncia estupro coletivo por 8 adolescentes na 
 pubDate: "2026-05-21T15:47:27Z"
 draft: true
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "serrana", "regiao-metropolitana", "zona-sul", "copacabana", "petropolis"]
-heroImage: "/hero/smoke-smoke-202605211245-menina-de-12-anos-denuncia-estupro-coletivo-por-8-adolescentes-na-zona-oeste-do-rio-de-janeiro-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211245-menina-de-12-anos-denuncia-estupro-coletivo-por-8-adolescentes-na-zona-oeste-do-rio-de-janeiro-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

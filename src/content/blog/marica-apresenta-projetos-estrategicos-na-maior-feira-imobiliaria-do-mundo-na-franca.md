@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7731_image-7.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7731_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Maricá apresenta projetos estratégicos na maior feira imobiliária do mundo, na França'
 pubDate: 2026-03-10 14:02:17

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7608_IMG-20260123-WA0065.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7608_IMG-20260123-WA0065.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Comissão de Educação denuncia falta de preparo da Prefeitura para o início do ano letivo em Petrópolis'
 pubDate: 2026-01-23 15:24:55

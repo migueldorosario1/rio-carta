@@ -4,7 +4,7 @@ description: "A Justiça do Rio de Janeiro determinou a retirada de cancelas e p
 pubDate: "2026-05-22T02:23:31Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "tamoios", "justica", "portoes", "acesso-publico", "ministerio-publico-rj", "regiao-dos-lagos", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605220223-justica-manda-remover-portoes-colocados-em-ruas-de-tamoios-em-cabo-frio.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605220223-justica-manda-remover-portoes-colocados-em-ruas-de-tamoios-em-cabo-frio.jpeg"
 ---
 A Justiça do Rio de Janeiro determinou a retirada de cancelas e portões instalados em vias do distrito de Tamoios, em Cabo Frio, após denúncias envolvendo restrições de circulação em áreas públicas. A decisão foi assinada pela juíza Juliana Gonçalves Figueira Pontes, responsável pela 1ª Vara Cível do município, e prevê multa diária de R$ 10 mil em caso de descumprimento da ordem judicial.
 

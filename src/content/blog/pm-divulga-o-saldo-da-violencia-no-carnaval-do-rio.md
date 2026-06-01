@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3210_images-47.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3210_images-47.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PM divulga o saldo da violência no Carnaval do Rio'
 pubDate: 2024-02-14 22:10:40

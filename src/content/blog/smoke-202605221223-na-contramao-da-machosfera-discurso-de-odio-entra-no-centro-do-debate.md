@@ -4,7 +4,7 @@ description: "Na contramão da machosfera, discurso de ódio entra no centro do 
 pubDate: "2026-05-22T12:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "violencia-contra-mulher", "misoginia", "rio2c", "rio-capital-zona-oeste", "capital", "regiao-metropolitana", "mage", "comunidade", "cultura-carnaval"]
-heroImage: "/hero/smoke-smoke-202605221223-na-contramao-da-machosfera-discurso-de-odio-entra-no-centro-do-debate.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605221223-na-contramao-da-machosfera-discurso-de-odio-entra-no-centro-do-debate.jpg"
 ---
 A denúncia só seria registrada semanas depois, no último dia 13, porque a garota teve vergonha de falar à família sobre a crueldade da qual foi alvo. Mais do que um crime brutal, o caso joga luz sobre um ambiente digital em que a exposição da vítima, o desprezo pelas mulheres e a glorificação da violência vem se naturalizando, sobretudo entre adolescentes.
 

@@ -4,7 +4,7 @@ description: "Scooters e bikes elétricas sem fiscalização ameaçam a seguran�
 pubDate: "2026-05-17T00:23:54Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "seguranca-no-transito", "scooters", "bikes-eletricas", "sul-fluminense-costa-verde", "regiao-metropolitana", "estacio", "mage", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605170023-scooters-e-bikes-eletricas-sem-fiscalizacao-ameacam-a-seguranca-no-transito-de-marica.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170023-scooters-e-bikes-eletricas-sem-fiscalizacao-ameacam-a-seguranca-no-transito-de-marica.jpg"
 ---
 Veículos elétricos de duas rodas se multiplicam nas vias do município sem emplacamento, sem habilitação e sem nenhum controle do poder público. Quase acidente registrado por câmera de bordo na última terça-feira acende o alerta — e os dados do Rio de Janeiro mostram onde esse caminho pode chegar.
 

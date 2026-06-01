@@ -4,7 +4,7 @@ description: "Rio Ônibus do Rio deixam de aceitar dinheiro em 30 de maio; veja 
 pubDate: "2026-05-26T08:00:18Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte", "mobilidade", "transporte-mobilidade", "capital-estado", "regiao-metropolitana", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605260800-onibus-do-rio-deixam-de-aceitar-dinheiro-em-30-de-maio-veja-o-que-muda-e-como-pagar-a-passagem.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605260800-onibus-do-rio-deixam-de-aceitar-dinheiro-em-30-de-maio-veja-o-que-muda-e-como-pagar-a-passagem.jpg"
 ---
 Rio
 

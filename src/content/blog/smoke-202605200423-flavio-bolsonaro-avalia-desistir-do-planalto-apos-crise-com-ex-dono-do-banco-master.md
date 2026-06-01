@@ -4,7 +4,7 @@ description: "O senador Flávio Bolsonaro (PL-RJ) abriu conversas com o ex-presi
 pubDate: "2026-05-20T04:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "jair-bolsonaro", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605200423-flavio-bolsonaro-avalia-desistir-do-planalto-apos-crise-com-ex-dono-do-banco-master.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200423-flavio-bolsonaro-avalia-desistir-do-planalto-apos-crise-com-ex-dono-do-banco-master.png"
 ---
 O senador Flávio Bolsonaro (PL-RJ) abriu conversas com o ex-presidente Jair Bolsonaro sobre a possibilidade de renunciar à sua pré-candidatura à Presidência da República. A articulação de recuo ocorre sob o impacto das revelações de suas ligações financeiras com o empresário Daniel Vorcaro, ex-controlador do Banco Master.
 

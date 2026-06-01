@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3596_CHICO-BUARQUE.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3596_CHICO-BUARQUE.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Chico Buarque também condena genocídio de Israel em Gaza'
 pubDate: 2024-03-01 14:54:40

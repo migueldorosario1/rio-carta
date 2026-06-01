@@ -4,7 +4,7 @@ description: "Dados divulgados pela Junta Comercial do Estado do Rio de Janeiro 
 pubDate: "2026-05-13T10:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "interior-rj", "abertura-de-empresas", "economia-local", "jucerja", "norte-noroeste-fluminense", "macae-norte-fluminense", "regiao-metropolitana", "campos", "norte-fluminense", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605130705-campos-lidera-abertura-de-empresas-no-interior-do-rio-de-janeiro.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130705-campos-lidera-abertura-de-empresas-no-interior-do-rio-de-janeiro.jpg"
 categoria_macro: politica
 ---
 Dados divulgados pela Junta Comercial do Estado do Rio de Janeiro (Jucerja) colocam Campos na liderança no interior do estado do Rio de Janeiro quando o assunto é abertura de novas empresas. Até o último dia 5 de maio, o município tinha constituído 792 novos empreendimentos.

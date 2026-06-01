@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2349_e2210eb9-e04e-4b83-b295-aa8ccc9d23d5.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2349_e2210eb9-e04e-4b83-b295-aa8ccc9d23d5.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Fatalidade na Turquia britânica de 26 anos falece após buscar Bumbum Brasileiro em cirurgia'
 pubDate: 2024-01-10 20:00:00

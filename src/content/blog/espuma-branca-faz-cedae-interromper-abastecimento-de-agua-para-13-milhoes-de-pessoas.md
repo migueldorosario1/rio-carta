@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1219_image-47.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1219_image-47.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Espuma branca faz Cedae interromper abastecimento de água para 13 milhões de pessoas'
 pubDate: 2023-08-28 11:36:46

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7409_image-25.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7409_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Execução em bar lotado reacende alerta em Nova Iguaçu'
 pubDate: 2025-11-20 12:37:51

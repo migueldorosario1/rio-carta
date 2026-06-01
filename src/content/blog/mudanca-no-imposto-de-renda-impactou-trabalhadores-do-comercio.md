@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7725_image-5.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7725_image-5.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mudança no Imposto de Renda beneficia mais de 90% dos trabalhadores do comércio'
 pubDate: 2026-02-23 13:18:00

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3154_IMAGEM_NOTICIA_2.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3154_IMAGEM_NOTICIA_2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Anitta impede roubo no Carnaval de Salvador'
 pubDate: 2024-02-10 15:51:10

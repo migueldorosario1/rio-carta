@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5513_imagem-121.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5513_imagem-121.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Operação conjunta da Polícia Civil e Light prende oito por desvio de energia no Rio'
 pubDate: 2024-09-27 12:47:52

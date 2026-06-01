@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3973_imagem-28.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3973_imagem-28.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Manifesto defende revisão dos contratos de licitação de plataformas da Petrobras'
 pubDate: 2024-03-26 11:18:39

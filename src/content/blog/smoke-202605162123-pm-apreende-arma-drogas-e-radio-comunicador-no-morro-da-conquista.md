@@ -4,7 +4,7 @@ description: "VOLTA REDONDA Uma operação da Polícia Militar realizada na noit
 pubDate: "2026-05-16T21:24:39Z"
 draft: false
 tags: ["rio-de-janeiro", "santo-agostinho", "seguranca-publica", "sul-fluminense", "sul-fluminense-costa-verde", "volta-redonda", "saude"]
-heroImage: "/hero/smoke-smoke-202605162123-pm-apreende-arma-drogas-e-radio-comunicador-no-morro-da-conquista.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162123-pm-apreende-arma-drogas-e-radio-comunicador-no-morro-da-conquista.jpeg"
 ---
 VOLTA REDONDA
 

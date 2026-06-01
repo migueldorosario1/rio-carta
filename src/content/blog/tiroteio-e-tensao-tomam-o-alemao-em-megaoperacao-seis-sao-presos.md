@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6462_image-11.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6462_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tiroteio e tensão tomam o Alemão em megaoperação; seis são presos'
 pubDate: 2025-01-15 13:14:07

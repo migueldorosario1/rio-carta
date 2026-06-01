@@ -4,7 +4,7 @@ description: "Moradores do Jardim Botânico, na Zona Sul, voltaram a denunciar i
 pubDate: "2026-05-17T07:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "jardim-botanico", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "estacio", "cosme-velho", "humaita", "lagoa", "urca", "joa", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605170723-voos-turisticos-de-helicoptero-no-cristo-violam-regras-e-moradores-do-jardim-botanico-denunciam.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170723-voos-turisticos-de-helicoptero-no-cristo-violam-regras-e-moradores-do-jardim-botanico-denunciam.jpg"
 ---
 Moradores do Jardim Botânico, na Zona Sul, voltaram a denunciar irregularidades nos voos turísticos de helicóptero que sobrevoam o Cristo Redentor e o entorno do Corcovado. Segundo relatos divulgados pela coluna Ancelmo Gois, as operações estariam descumprindo regras estabelecidas em um Termo de Ajustamento de Conduta (TAC) firmado em 2024 com o Ministério Público Federal (MPF), que prevê medidas para reduzir o impacto sonoro na região.
 

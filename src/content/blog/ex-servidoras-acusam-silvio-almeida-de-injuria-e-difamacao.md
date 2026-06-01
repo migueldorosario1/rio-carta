@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5502_imagem-18.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5502_imagem-18.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-servidoras acusam Silvio Almeida de injúria e difamação'
 pubDate: 2024-09-26 15:57:05

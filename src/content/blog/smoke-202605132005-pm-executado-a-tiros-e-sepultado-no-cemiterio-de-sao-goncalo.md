@@ -4,7 +4,7 @@ description: "PM executado a tiros é sepultado no Cemitério de São Gonçalo P
 pubDate: "2026-05-13T23:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "pm-executado", "seguranca-publica-rj", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "itaborai", "seguranca-publica", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605132005-pm-executado-a-tiros-e-sepultado-no-cemiterio-de-sao-goncalo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132005-pm-executado-a-tiros-e-sepultado-no-cemiterio-de-sao-goncalo.jpg"
 categoria_macro: politica
 ---
 PM executado a tiros é sepultado no Cemitério de São Gonçalo

@@ -4,7 +4,7 @@ description: "O corpo do desembargador federal Alcides Martins Ribeiro Filho, de
 pubDate: "2026-05-20T02:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-sul", "tioca", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "leme", "tijuca", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605200223-corpo-de-desembargador-desaparecido-e-encontrado-em-area-de-mata-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200223-corpo-de-desembargador-desaparecido-e-encontrado-em-area-de-mata-no-rio.jpg"
 ---
 O corpo do desembargador federal Alcides Martins Ribeiro Filho, de 64 anos, foi encontrado na tarde desta terça-feira (19) em uma área de mata nos arredores da Vista Chinesa, na Zona Sul do Rio de Janeiro.
 

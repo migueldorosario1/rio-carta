@@ -4,7 +4,7 @@ description: "Um dos locais de maior peso histórico da ditadura militar em solo
 pubDate: "2026-05-13T02:09:24Z"
 draft: false
 tags: ["rio-de-janeiro", "tijuca", "patrimonio-historico", "ditadura-militar", "iphan", "doi-codi", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "mesquita", "maracana", "complexo", "seguranca-publica", "saude"]
-heroImage: "/hero/iphan-tomba-provisoriamente-antigo-doi-codi-do-rio-como-patrimonio-historico.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/iphan-tomba-provisoriamente-antigo-doi-codi-do-rio-como-patrimonio-historico.png"
 categoria_macro: seguranca
 ---
 Um dos locais de maior peso histórico da ditadura militar em solo fluminense recebeu salvaguarda oficial. O Diário Oficial da União publicou, na última segunda-feira, o tombamento provisório pelo Iphan do edifício que serviu de sede ao DOI-Codi, reconhecido como o maior polo de repressão do regime no Rio.

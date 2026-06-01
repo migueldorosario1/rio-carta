@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5894_imagem-78.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5894_imagem-78.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Bicheiro é preso em operação do Gaeco por suspeita de envolvimento em assassinato de rival'
 pubDate: 2024-10-29 12:18:31

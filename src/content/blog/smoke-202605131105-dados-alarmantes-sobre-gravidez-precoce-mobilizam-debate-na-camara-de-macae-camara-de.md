@@ -4,7 +4,7 @@ description: "A Câmara de Macaé voltou a discutir temas pertinentes à socieda
 pubDate: "2026-05-13T14:05:33Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "regiao-norte-noroeste", "camara-municipal", "saude", "gravidez-precoce", "educacao", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605131105-dados-alarmantes-sobre-gravidez-precoce-mobilizam-debate-na-camara-de-macae-camara-de.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131105-dados-alarmantes-sobre-gravidez-precoce-mobilizam-debate-na-camara-de-macae-camara-de.jpg"
 categoria_macro: politica
 ---
 A Câmara de Macaé voltou a discutir temas pertinentes à sociedade em geral durante a sessão da última terça-feira (12). Em um dos tópicos debatidos foi o Projeto de Lei (PL) de Liomar Queiroz (Agir), propondo um conjunto de ações e também de conscientização sobre a gravidez infantil.

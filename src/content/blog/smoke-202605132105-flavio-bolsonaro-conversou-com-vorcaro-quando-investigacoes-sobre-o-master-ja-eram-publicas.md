@@ -4,7 +4,7 @@ description: "Flávio Bolsonaro conversou com Vorcaro quando investigações sob
 pubDate: "2026-05-14T00:05:06Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "banco-master", "politica-rj", "senador-rj", "investigacao", "serrana", "regiao-serrana", "petropolis", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605132105-flavio-bolsonaro-conversou-com-vorcaro-quando-investigacoes-sobre-o-master-ja-eram-publicas.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132105-flavio-bolsonaro-conversou-com-vorcaro-quando-investigacoes-sobre-o-master-ja-eram-publicas.jpg"
 categoria_macro: politica
 ---
 Flávio Bolsonaro conversou com Vorcaro quando investigações sobre o Master já eram públicas

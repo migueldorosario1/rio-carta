@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6039_imagem-18.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6039_imagem-18.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Marçal é intimado a depor sobre acusações de agressão em reality show'
 pubDate: 2024-11-26 11:03:26

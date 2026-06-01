@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5198_imagem-47.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5198_imagem-47.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Arthur Lira busca Unificar Candidatura para Comando da Câmara em 2025, mas encontra resistência'
 pubDate: 2024-09-11 20:07:18

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7135_image-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7135_image-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Atlas Intel indica Rio como palco central da disputa de 2026'
 pubDate: 2025-09-03 13:00:59

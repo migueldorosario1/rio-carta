@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6165_imagem.avif"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6165_imagem.avif"
 description: "Matéria arquivada do Rio Carta"
 title: 'STF forma maioria para condenar Roberto Jefferson'
 pubDate: 2024-12-13 13:03:39

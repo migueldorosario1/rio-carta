@@ -4,7 +4,7 @@ description: "BARRA MANSA Luiz Furlani, prefeito de Barra Mansa, comunicou, na Ã
 pubDate: "2026-05-13T10:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "colonia-santo-antonio", "saude", "ubs", "prefeitura", "sul-fluminense", "sul-fluminense-costa-verde", "leme", "ramos", "comunidade"]
-heroImage: "/hero/smoke-smoke-202605130705-barra-mansa-colonia-santo-antonio-tera-nova-unidade-de-saude.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130705-barra-mansa-colonia-santo-antonio-tera-nova-unidade-de-saude.jpeg"
 categoria_macro: politica
 ---
 BARRA MANSA

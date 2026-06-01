@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6300_imagem-27.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6300_imagem-27.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula sanciona lei para dinamizar setor naval e petrolífero com novos incentivos fiscais'
 pubDate: 2024-12-27 11:45:08

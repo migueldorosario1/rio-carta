@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1249_image-57.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1249_image-57.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'ALERJ aprova Lei do Emprego Verde no estado do Rio de Janeiro'
 pubDate: 2023-08-31 16:41:08

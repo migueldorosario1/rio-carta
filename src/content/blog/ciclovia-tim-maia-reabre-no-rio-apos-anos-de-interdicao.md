@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6647_image-34.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6647_image-34.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ciclovia Tim Maia reabre no Rio após anos de interdição'
 pubDate: 2025-02-27 10:29:11

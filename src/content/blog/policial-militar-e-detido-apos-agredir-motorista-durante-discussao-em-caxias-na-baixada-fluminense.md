@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1727_whatsapp-image-2023-10-30-at-21.04.09.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1727_whatsapp-image-2023-10-30-at-21.04.09.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Policial Militar é Detido Após Agredir Motorista Durante Discussão em Caxias, na Baixada Fluminense'
 pubDate: 2023-10-30 23:26:17

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5295_imagem-68.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5295_imagem-68.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Estratégia eleitoral de Nunes intensifica ataques a Boulos'
 pubDate: 2024-09-16 21:28:43

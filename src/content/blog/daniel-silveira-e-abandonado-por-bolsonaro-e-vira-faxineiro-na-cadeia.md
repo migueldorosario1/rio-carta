@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3433_images-86.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3433_images-86.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Daniel Silveira é abandonado por Bolsonaro e vira faxineiro na cadeia'
 pubDate: 2024-02-24 00:25:59

@@ -4,7 +4,7 @@ description: "A Prefeitura de Maricá anunciou, nessa semana, a programação do
 pubDate: "2026-05-13T21:05:42Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "cultura", "shows", "aniversario", "niteroi-sao-goncalo-metropolitana", "macae-norte-fluminense", "norte-fluminense", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605131805-marica-prepara-festa-de-comemoracao-pelos-seus-212-anos-com-2-finais-semana-de-shows.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131805-marica-prepara-festa-de-comemoracao-pelos-seus-212-anos-com-2-finais-semana-de-shows.jpg"
 categoria_macro: politica
 ---
 A Prefeitura de Maricá anunciou, nessa semana, a programação do seu festival musical que comemora os 212 anos da cidade, com grandes atrações, e promessa de muita emoção e música ao vivo gratuita para a população.

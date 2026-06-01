@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1854_cici.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1854_cici.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vereador Aldecyr Maldonado, de São Gonçalo, é assassinado a tiros'
 pubDate: 2023-11-08 15:16:14

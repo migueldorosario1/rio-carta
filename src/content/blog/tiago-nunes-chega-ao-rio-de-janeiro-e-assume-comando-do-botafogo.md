@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1950_whatsapp-image-2023-11-13-at-20.12.11.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1950_whatsapp-image-2023-11-13-at-20.12.11.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tiago Nunes chega ao Rio de Janeiro e assume comando do Botafogo'
 pubDate: 2023-11-14 13:11:03

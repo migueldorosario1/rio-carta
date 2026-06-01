@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4142_imagem-16.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4142_imagem-16.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Advogados de Bolsonaro querem usar ataques de Musk para embasar defesa contra inelegibilidade'
 pubDate: 2024-04-10 10:08:23

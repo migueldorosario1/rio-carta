@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4791_imagem-5.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4791_imagem-5.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes mantém liderança confortável na corrida pela Prefeitura do Rio, diz pesquisa'
 pubDate: 2024-07-24 08:52:34

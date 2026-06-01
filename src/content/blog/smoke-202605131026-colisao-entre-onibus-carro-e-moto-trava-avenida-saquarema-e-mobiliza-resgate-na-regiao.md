@@ -4,7 +4,7 @@ description: "Uma colisão envolvendo veículos foi registrada na tarde desta te
 pubDate: "2026-05-13T13:27:17Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "acidente", "transito", "onibus", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605131026-colisao-entre-onibus-carro-e-moto-trava-avenida-saquarema-e-mobiliza-resgate-na-regiao.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131026-colisao-entre-onibus-carro-e-moto-trava-avenida-saquarema-e-mobiliza-resgate-na-regiao.webp"
 categoria_macro: seguranca
 ---
 Uma colisão envolvendo veículos foi registrada na tarde desta terça-feira (12) na Avenida Saquarema, na altura do Morro da Cruz. O acidente envolveu um carro de passeio, uma motocicleta e um ônibus da empresa Rio Lagos, que trafegava pela via no momento da ocorrência.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6713_image-14.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6713_image-14.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Theatro Municipal do Rio abre as cortinas com espetáculos a partir de R$ 7,50'
 pubDate: 2025-03-31 10:07:38

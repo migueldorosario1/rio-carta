@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2328_ap24002765384871.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2328_ap24002765384871.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Gigante dos mares Icon of the Seas chega a miami para viagem inaugural'
 pubDate: 2024-01-10 17:00:22

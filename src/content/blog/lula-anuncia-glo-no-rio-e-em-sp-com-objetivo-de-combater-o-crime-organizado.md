@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1834_lula2.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1834_lula2.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula anuncia GLO no Rio e em SP com objetivo de combater o crime organizado'
 pubDate: 2023-11-07 17:20:53

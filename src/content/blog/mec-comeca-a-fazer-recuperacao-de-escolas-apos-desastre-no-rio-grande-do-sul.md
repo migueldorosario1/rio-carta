@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4413_imagem-6.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4413_imagem-6.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'MEC começa a fazer recuperação de escolas após desastre no Rio Grande do Sul'
 pubDate: 2024-05-06 08:38:06

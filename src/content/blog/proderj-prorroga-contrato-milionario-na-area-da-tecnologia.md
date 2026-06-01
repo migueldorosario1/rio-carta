@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3063_imagem-14.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3063_imagem-14.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Proderj prorroga contrato milionário na área da Tecnologia'
 pubDate: 2024-02-07 14:00:18

@@ -4,7 +4,7 @@ description: "Rio Subtenente dos Bombeiros é condenado a 8 anos por morte após
 pubDate: "2026-05-15T08:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "mesquita", "baixada-fluminense", "bombeiros", "condenacao", "briga-de-transito", "regiao-metropolitana", "capital-estado", "nova-iguacu", "baixada", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605150505-subtenente-dos-bombeiros-e-condenado-a-8-anos-por-morte-apos-briga-de-transito.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150505-subtenente-dos-bombeiros-e-condenado-a-8-anos-por-morte-apos-briga-de-transito.jpg"
 categoria_macro: seguranca
 ---
 Rio

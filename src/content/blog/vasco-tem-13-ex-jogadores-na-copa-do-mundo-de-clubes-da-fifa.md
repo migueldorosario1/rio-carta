@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6955_image-17.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6955_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vasco tem 13 ex-jogadores na Copa do Mundo de clubes da Fifa'
 pubDate: 2025-06-25 14:51:20

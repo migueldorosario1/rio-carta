@@ -4,7 +4,7 @@ description: "RIO/VOLTA REDONDA O deputado estadual Munir Neto (SD) utilizou a t
 pubDate: "2026-05-15T05:05:35Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "alerj", "saude", "politica-rj", "sul-fluminense", "regiao-metropolitana"]
-heroImage: "/hero/smoke-smoke-202605150205-deputado-munir-neto-cobra-regulamentacao-de-leis-estaduais.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150205-deputado-munir-neto-cobra-regulamentacao-de-leis-estaduais.jpg"
 categoria_macro: politica
 ---
 RIO/VOLTA REDONDA

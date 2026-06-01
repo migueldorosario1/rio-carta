@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5040_imagem-4.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5040_imagem-4.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo também anuncia investimento milionário para o Santos Dumont'
 pubDate: 2024-09-03 13:34:32

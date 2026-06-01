@@ -4,7 +4,7 @@ description: "A Polícia Federal apontou que Jonathas Assunção Salvador Nery C
 pubDate: "2026-05-21T15:48:36Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "operacao-sem-refino", "politica-rj", "regiao-metropolitana", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605211248-pf-aponta-repasse-de-r-1-3-mi-da-refit-a-no2-de-ciro-nogueira.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211248-pf-aponta-repasse-de-r-1-3-mi-da-refit-a-no2-de-ciro-nogueira.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5801_imagem-55.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5801_imagem-55.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ministério da Fazenda autoriza operação de mais duas empresas de apostas no Brasil'
 pubDate: 2024-10-19 16:03:22

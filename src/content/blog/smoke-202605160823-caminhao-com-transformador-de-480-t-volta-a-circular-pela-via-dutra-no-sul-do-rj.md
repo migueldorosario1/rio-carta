@@ -4,7 +4,7 @@ description: "Caminhão com transformador de 480 ton volta a circular pela Via D
 pubDate: "2026-05-16T08:24:43Z"
 draft: false
 tags: ["rio-de-janeiro", "sul-fluminense", "via-dutra", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "paciencia", "resende", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605160823-caminhao-com-transformador-de-480-t-volta-a-circular-pela-via-dutra-no-sul-do-rj-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160823-caminhao-com-transformador-de-480-t-volta-a-circular-pela-via-dutra-no-sul-do-rj-qwen.jpg"
 categoria_macro: seguranca
 ---
 Caminhão com transformador de 480 ton volta a circular pela Via Dutra, no Sul do Rio — Foto: PRF/Divulgação

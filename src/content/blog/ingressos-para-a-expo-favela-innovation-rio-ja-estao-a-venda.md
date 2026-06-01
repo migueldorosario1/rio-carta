@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp823_image-54.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp823_image-54.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ingressos para a Expo Favela Innovation Rio já estão a venda'
 pubDate: 2023-07-17 10:33:47

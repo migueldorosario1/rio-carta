@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5079_imagem-26.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5079_imagem-26.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tesouro nacional revisa metas de financiamento e aumenta participação de títulos atrelados à Selic'
 pubDate: 2024-09-04 19:07:05

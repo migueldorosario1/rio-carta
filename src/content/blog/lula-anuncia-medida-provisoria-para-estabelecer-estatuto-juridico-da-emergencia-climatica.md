@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5183_imagem-43.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5183_imagem-43.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lula anuncia Medida Provisória para estabelecer Estatuto Jurídico da emergência climática'
 pubDate: 2024-09-11 19:25:51

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6128_imagem-9.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6128_imagem-9.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Pedido de impeachment contra secretário de segurança de São Paulo é protocolado na Alesp'
 pubDate: 2024-12-08 09:35:44

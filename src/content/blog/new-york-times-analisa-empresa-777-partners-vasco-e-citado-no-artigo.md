@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1569_image-18.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1569_image-18.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'New York Times analisa empresa 777 Partners; Vasco é citado no artigo'
 pubDate: 2023-10-10 22:24:45

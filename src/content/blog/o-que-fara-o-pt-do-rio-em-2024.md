@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp771_image-41.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp771_image-41.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'O que fará o PT do Rio em 2024?'
 pubDate: 2023-07-11 15:07:14

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1003_image-4.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1003_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Jandira Feghali diz que Bolsonaro ganhou pedras preciosas secretas dias antes do 2º turno'
 pubDate: 2023-08-02 11:52:28

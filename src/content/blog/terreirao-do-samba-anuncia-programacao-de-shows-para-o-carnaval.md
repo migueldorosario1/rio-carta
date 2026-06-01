@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3145_RioturCarn2024Terr350x250_10.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3145_RioturCarn2024Terr350x250_10.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Terreirão do Samba anuncia programação de shows para o Carnaval'
 pubDate: 2024-02-10 13:08:22

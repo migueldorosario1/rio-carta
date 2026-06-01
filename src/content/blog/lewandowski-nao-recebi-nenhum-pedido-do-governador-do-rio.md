@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7262_image-23.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7262_image-23.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lewandowski Não recebi nenhum pedido do governador do Rio'
 pubDate: 2025-10-28 19:34:50

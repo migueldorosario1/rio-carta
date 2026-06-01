@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5064_imagem-21.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5064_imagem-21.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'ANP prevê investimentos de R$ 10 bilhões na exploração de petróleo e gás em 2024'
 pubDate: 2024-09-03 18:49:56

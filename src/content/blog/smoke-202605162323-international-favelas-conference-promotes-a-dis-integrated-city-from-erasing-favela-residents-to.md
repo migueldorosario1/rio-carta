@@ -4,7 +4,7 @@ description: "Preface: Public Policies Without Active Listening Don’t Bring Ch
 pubDate: "2026-05-16T23:25:13Z"
 draft: true
 tags: ["rio-de-janeiro", "favela", "politica-rj", "favelas-comunidades", "regiao-metropolitana", "ipanema", "leme", "jacare", "jacarezinho", "comunidade", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605162323-international-favelas-conference-promotes-a-dis-integrated-city-from-erasing-favela-residents-to-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162323-international-favelas-conference-promotes-a-dis-integrated-city-from-erasing-favela-residents-to-qwen.jpg"
 ---
 Preface: Public Policies Without Active Listening Don’t Bring Change
 

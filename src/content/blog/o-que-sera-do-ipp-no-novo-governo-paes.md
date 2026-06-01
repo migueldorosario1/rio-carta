@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6171_image.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6171_image.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'O que será do IPP no novo governo Paes?'
 pubDate: 2024-12-13 23:02:15

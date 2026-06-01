@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6338_imagem-4.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6338_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil retorna à classe média em 2024, revela estudo da Tendências Consultoria'
 pubDate: 2025-01-06 06:34:10

@@ -4,7 +4,7 @@ description: "Rio Falso motorista de app é preso após assediar alunas na saíd
 pubDate: "2026-05-20T18:23:22Z"
 draft: false
 tags: ["rio-de-janeiro", "sao-joao-de-meriti", "baixada-fluminense", "seguranca-publica", "capital-estado", "regiao-metropolitana", "joa", "baixada", "mage", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "/hero/smoke-smoke-202605201823-falso-motorista-de-app-e-preso-apos-assediar-alunas-na-saida-de-escola-invadir-casa-e-abusar-de.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201823-falso-motorista-de-app-e-preso-apos-assediar-alunas-na-saida-de-escola-invadir-casa-e-abusar-de.jpg"
 ---
 Rio
 

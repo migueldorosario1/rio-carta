@@ -4,7 +4,7 @@ description: "Uma jiboia de mais de dois metros mobilizou agentes da Guarda Muni
 pubDate: "2026-05-17T04:23:32Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605170423-jiboia-de-mais-de-dois-metros-e-encontrada-dentro-de-casa-em-niteroi.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170423-jiboia-de-mais-de-dois-metros-e-encontrada-dentro-de-casa-em-niteroi.png"
 ---
 Uma jiboia de mais de dois metros mobilizou agentes da Guarda Municipal de Niterói na manhã desta sexta-feira (15), após aparecer em uma residência no Engenho do Mato, na Região Oceânica da cidade. O animal foi encontrado pelos moradores, que acionaram o Centro Integrado de Segurança Pública (Cisp) para pedir ajuda no resgate.
 

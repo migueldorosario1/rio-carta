@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4247_imagem-28.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4247_imagem-28.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Toffoli pode restabelecer afastamento de juízes da Lava Jato'
 pubDate: 2024-04-19 09:16:12

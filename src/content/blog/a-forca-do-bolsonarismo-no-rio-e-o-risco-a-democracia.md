@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4312_foto-reproducao.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4312_foto-reproducao.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'A força do bolsonarismo no Rio e o risco à democracia'
 pubDate: 2024-04-26 08:32:17

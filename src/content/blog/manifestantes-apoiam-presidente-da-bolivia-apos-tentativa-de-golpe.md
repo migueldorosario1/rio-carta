@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4711_imagem-1.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4711_imagem-1.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Manifestantes apoiam presidente da Bolívia após tentativa de golpe'
 pubDate: 2024-06-27 06:33:07

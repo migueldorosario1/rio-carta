@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp907_image-80.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp907_image-80.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mulher trans é morta a facadas na Baixada Fluminense'
 pubDate: 2023-07-27 12:50:18

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5165_imagem-8.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5165_imagem-8.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF deflagra Operação Estelião II contra fraudes em benefícios previdenciários no Rio'
 pubDate: 2024-09-11 10:29:29

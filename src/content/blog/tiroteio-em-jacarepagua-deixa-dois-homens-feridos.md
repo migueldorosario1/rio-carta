@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1790_whatsapp-image-2023-11-03-at-17.17.37.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1790_whatsapp-image-2023-11-03-at-17.17.37.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tiroteio em Jacarepaguá deixa dois homens feridos'
 pubDate: 2023-11-03 20:00:00

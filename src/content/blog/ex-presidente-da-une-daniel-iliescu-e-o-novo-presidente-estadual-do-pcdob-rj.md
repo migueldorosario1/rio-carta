@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2074_image-3.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2074_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Ex-presidente da UNE, Daniel Iliescu é o novo presidente estadual do PCdoB-RJ'
 pubDate: 2023-12-04 10:46:03

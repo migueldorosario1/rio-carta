@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5156_imagem-40.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5156_imagem-40.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Audiência no Senado debate concessão de hidrovia no Rio Madeira'
 pubDate: 2024-09-10 18:21:30

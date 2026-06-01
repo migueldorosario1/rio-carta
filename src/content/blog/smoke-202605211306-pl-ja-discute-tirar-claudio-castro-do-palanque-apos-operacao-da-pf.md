@@ -4,7 +4,7 @@ description: "A operação da Polícia Federal realizada nesta sexta-feira (15/0
 pubDate: "2026-05-21T16:06:22Z"
 draft: true
 tags: ["rio-de-janeiro", "claudio-castro", "pl", "politica-rj", "capital", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605211306-pl-ja-discute-tirar-claudio-castro-do-palanque-apos-operacao-da-pf.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211306-pl-ja-discute-tirar-claudio-castro-do-palanque-apos-operacao-da-pf.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

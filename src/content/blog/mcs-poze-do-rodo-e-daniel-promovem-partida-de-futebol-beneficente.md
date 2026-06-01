@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2041_img-2726.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2041_img-2726.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'MCs Poze do Rodo e Daniel Promovem Partida de Futebol Beneficente'
 pubDate: 2023-11-29 15:16:27

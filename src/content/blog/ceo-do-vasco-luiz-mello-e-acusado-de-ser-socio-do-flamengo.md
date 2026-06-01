@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp356_image-7.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp356_image-7.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CEO do Vasco, Luiz Mello é acusado de ser sócio do Flamengo'
 pubDate: 2023-06-19 15:30:13

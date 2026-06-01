@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4522_imagem-4.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4522_imagem-4.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo palestino acusa Israel de planejar massacre em campo de refugiados'
 pubDate: 2024-05-27 09:02:48

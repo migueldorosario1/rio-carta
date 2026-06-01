@@ -4,7 +4,7 @@ description: "Uma adolescente de 15 anos teve o maxilar e os dentes quebrados ap
 pubDate: "2026-05-21T14:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "seguranca", "educacao", "rio-capital-zona-oeste", "politica-rj", "colegio", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605211423-aluna-e-agredida-dentro-de-escola-e-fica-gravemente-ferida-em-bangu.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211423-aluna-e-agredida-dentro-de-escola-e-fica-gravemente-ferida-em-bangu.jpg"
 ---
 Uma adolescente de 15 anos teve o maxilar e os dentes quebrados após ser agredida em frente à Escola Municipal Rafael Almeida Magalhães, em Jardim Bangu, na Zona Oeste do Rio. Segundo a família, a estudante sofria bullying há pelo menos seis meses.
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7439_IMG-20251123-WA0046-e1763928110454.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7439_IMG-20251123-WA0046-e1763928110454.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Parada LGBTI do Rio celebra 30 anos da primeira marcha do orgulho no Brasil com festa, memória e luta em Copacabana'
 pubDate: 2025-11-23 17:02:34

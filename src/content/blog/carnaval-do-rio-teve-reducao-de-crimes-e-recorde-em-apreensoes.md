@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3238_foto-coletiva-seguranca.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3238_foto-coletiva-seguranca.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Carnaval do Rio teve redução de crimes e recorde em apreensões'
 pubDate: 2024-02-15 14:54:16

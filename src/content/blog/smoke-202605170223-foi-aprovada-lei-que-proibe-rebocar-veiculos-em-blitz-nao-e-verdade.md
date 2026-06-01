@@ -4,7 +4,7 @@ description: "Circula em grupos de WhatsApp uma mensagem que diz que uma nova le
 pubDate: "2026-05-17T02:24:12Z"
 draft: false
 tags: ["rio-de-janeiro", "transporte", "seguranca-publica", "transporte-mobilidade", "capital-estado", "regiao-metropolitana", "estacio"]
-heroImage: "/hero/smoke-smoke-202605170223-foi-aprovada-lei-que-proibe-rebocar-veiculos-em-blitz-nao-e-verdade-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170223-foi-aprovada-lei-que-proibe-rebocar-veiculos-em-blitz-nao-e-verdade-qwen.jpg"
 ---
 Circula em grupos de WhatsApp uma mensagem que diz que uma nova legislação proíbe rebocar veículos a partir de agora. Não é verdade.
 

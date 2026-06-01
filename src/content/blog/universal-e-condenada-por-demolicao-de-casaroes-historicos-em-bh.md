@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3220_images-2024-02-03T101258.369.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3220_images-2024-02-03T101258.369.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Universal é condenada por demolição de casarões históricos em BH'
 pubDate: 2024-02-15 08:19:20

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1734_165774303962cf26bf0dd33_1657743039_3x2_rt.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1734_165774303962cf26bf0dd33_1657743039_3x2_rt.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Violência Contra a Mulher no Rio de Janeiro Dossiê Revela 14 Vítimas a Cada Hora'
 pubDate: 2023-10-31 10:32:00

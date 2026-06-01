@@ -4,7 +4,7 @@ description: "Copacabana foi palco neste fim de semana de uma grande mobilizaç�
 pubDate: "2026-05-31T08:02:10Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "seguranca-publica", "politica-rj", "regiao-metropolitana", "flamengo", "maracana", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605310800-abuso-infantil-entra-em-alerta-no-rio-com-acao-em-copacabana-e-cristo-iluminado.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605310800-abuso-infantil-entra-em-alerta-no-rio-com-acao-em-copacabana-e-cristo-iluminado.jpg"
 ---
 Copacabana foi palco neste fim de semana de uma grande mobilização de conscientização contra o abuso e a exploração sexual de crianças e adolescentes. A ação, realizada na Avenida Princesa Isabel, na Zona Sul do Rio, reuniu no dia 18 de maio, integrantes do Instituto Anjos, policiais militares e agentes da Delegacia de Atendimento à Criança e ao Adolescente Vítima (DCAV).
 

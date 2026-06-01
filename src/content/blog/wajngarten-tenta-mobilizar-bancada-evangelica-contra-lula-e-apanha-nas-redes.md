@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3295_images-73.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3295_images-73.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Wajngarten tenta mobilizar bancada evangélica contra Lula e apanha nas redes'
 pubDate: 2024-02-18 17:07:46

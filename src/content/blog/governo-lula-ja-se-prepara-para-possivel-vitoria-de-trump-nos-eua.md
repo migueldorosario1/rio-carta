@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3696_imagem-9.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3696_imagem-9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo Lula já se prepara para possível vitória de Trump nos EUA'
 pubDate: 2024-03-11 08:54:16

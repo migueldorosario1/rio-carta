@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6902_IMG-20250606-WA0112-scaled.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6902_IMG-20250606-WA0112-scaled.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'MIS lança edital de fotografia para estudantes de escolas públicas'
 pubDate: 2025-06-06 19:27:42

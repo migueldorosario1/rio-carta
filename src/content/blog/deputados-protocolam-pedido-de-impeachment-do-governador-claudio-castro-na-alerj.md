@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7357_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7357_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Deputados protocolam pedido de impeachment do governador Claudio Castro na Alerj'
 pubDate: 2025-11-08 08:36:09

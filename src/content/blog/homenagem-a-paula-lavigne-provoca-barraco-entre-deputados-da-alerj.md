@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1188_image-41.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1188_image-41.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Homenagem à Paula Lavigne provoca barraco entre deputados da Alerj'
 pubDate: 2023-08-24 14:53:34

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7746_image-16.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7746_image-16.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'MPRJ pode investigar falta de água potável em Jardim Gramacho'
 pubDate: 2026-03-17 18:51:29

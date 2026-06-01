@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp809_image-50.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp809_image-50.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Com baixa cobertura vacinal, estado do Rio busca reverter situação'
 pubDate: 2023-07-15 12:43:27

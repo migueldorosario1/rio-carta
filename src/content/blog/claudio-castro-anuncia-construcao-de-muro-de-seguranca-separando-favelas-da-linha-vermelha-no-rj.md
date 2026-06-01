@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1090_image-25.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1090_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Claudio Castro anuncia construção de muro de segurança separando favelas da Linha Vermelha no RJ'
 pubDate: 2023-08-11 09:51:44

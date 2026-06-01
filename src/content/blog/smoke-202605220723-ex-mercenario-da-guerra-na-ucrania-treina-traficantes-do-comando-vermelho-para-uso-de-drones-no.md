@@ -4,7 +4,7 @@ description: "A Inteligência da Secretaria de Segurança Pública do Rio de Jan
 pubDate: "2026-05-22T07:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "complexo-do-alemao", "penha", "zona-norte", "comando-vermelho", "seguranca-publica", "rio-capital-zona-norte", "politica-rj", "regiao-metropolitana", "jacare", "jacarepagua", "comunidade", "complexo", "alemao"]
-heroImage: "/hero/smoke-smoke-202605220723-ex-mercenario-da-guerra-na-ucrania-treina-traficantes-do-comando-vermelho-para-uso-de-drones-no.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605220723-ex-mercenario-da-guerra-na-ucrania-treina-traficantes-do-comando-vermelho-para-uso-de-drones-no.jpg"
 ---
 A Inteligência da Secretaria de Segurança Pública do Rio de Janeiro identificou que integrantes do Comando Vermelho (CV) estão recebendo treinamento especializado para operar drones de grande porte utilizados no transporte de armas, drogas e cargas entre comunidades dominadas pela facção criminosa.
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3711_imagem-11.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3711_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Mourão banca o humilde, reconhece derrota em 2022 e afaga Lula'
 pubDate: 2024-03-12 09:19:59

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3976_imagem-29.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3976_imagem-29.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Lideranças políticas e sindicatos lançam manifesto em defesa da Indústria Naval no RJ'
 pubDate: 2024-03-27 12:03:41

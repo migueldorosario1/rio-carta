@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3309_imagem-31.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3309_imagem-31.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rabinos ortodoxos apoiam Lula contra os ataques de Netanyahu'
 pubDate: 2024-02-19 09:24:31

@@ -4,7 +4,7 @@ description: "Rio Vídeo de estupro coletivo de menina de 12 anos no Rio foi ven
 pubDate: "2026-05-16T18:23:04Z"
 draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "capital-estado", "regiao-metropolitana", "mage", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605161823-video-de-estupro-coletivo-de-menina-de-12-anos-no-rio-foi-vendido-por-r-5.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161823-video-de-estupro-coletivo-de-menina-de-12-anos-no-rio-foi-vendido-por-r-5.jpg"
 ---
 Rio
 

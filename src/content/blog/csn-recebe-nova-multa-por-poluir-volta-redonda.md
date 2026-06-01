@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp820_image-53.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp820_image-53.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'CSN recebe nova multa por poluir Volta Redonda'
 pubDate: 2023-07-15 16:00:00

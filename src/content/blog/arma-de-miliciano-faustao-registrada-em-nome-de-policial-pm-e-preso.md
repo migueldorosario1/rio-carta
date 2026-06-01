@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/blog-placeholder-1.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/blog-placeholder-1.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Arma de miliciano Faustão registrada em nome de Policial; PM é preso'
 pubDate: 2023-10-25 08:00:00

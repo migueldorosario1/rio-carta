@@ -4,7 +4,7 @@ description: "Vacina atualizada contra a covid: saiba quem já pode se imunizar 
 pubDate: "2026-05-14T02:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "vacina", "covid-19", "saude-publica", "saude-e-educacao-rj", "capital", "regiao-metropolitana", "botafogo", "zona-norte", "mare", "campo-grande", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605132305-vacina-atualizada-contra-a-covid-saiba-quem-ja-pode-se-imunizar-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132305-vacina-atualizada-contra-a-covid-saiba-quem-ja-pode-se-imunizar-no-rio.jpg"
 categoria_macro: politica
 ---
 Vacina atualizada contra a covid: saiba quem já pode se imunizar no Rio

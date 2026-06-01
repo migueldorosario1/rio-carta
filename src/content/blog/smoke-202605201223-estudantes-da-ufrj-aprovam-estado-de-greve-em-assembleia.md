@@ -4,7 +4,7 @@ description: "A Avenida Venceslau Brás, na Urca, foi interditada por alguns min
 pubDate: "2026-05-20T12:23:48Z"
 draft: false
 tags: ["rio-de-janeiro", "urca", "praia-vermelha", "ufrj", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "seguranca-publica", "saude", "educacao"]
-heroImage: "/hero/smoke-smoke-202605201223-estudantes-da-ufrj-aprovam-estado-de-greve-em-assembleia.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201223-estudantes-da-ufrj-aprovam-estado-de-greve-em-assembleia.jpg"
 ---
 A Avenida Venceslau Brás, na Urca, foi interditada por alguns minutos na noite desta terça-feira (19) durante uma manifestação de estudantes da Universidade Federal do Rio de Janeiro (UFRJ). O ato ocorreu após assembleia geral que aprovou a adesão ao estado de greve.
 

@@ -4,7 +4,7 @@ description: "RESENDE O prefeito Tande Vieira acompanhou, nesta semana, os traba
 pubDate: "2026-05-14T00:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "serra-de-maua", "visconde-de-maua", "rj-163", "prefeitura-de-resende", "manutencao", "seguranca", "turismo", "regiao-serrana", "sul-fluminense", "regiao-metropolitana", "serrana", "problemas-estruturais"]
-heroImage: "/hero/smoke-smoke-202605132105-prefeitura-de-resende-realiza-manutencao-na-serra-de-maua-para-melhorar-seguranca.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132105-prefeitura-de-resende-realiza-manutencao-na-serra-de-maua-para-melhorar-seguranca.jpeg"
 categoria_macro: seguranca
 ---
 RESENDE

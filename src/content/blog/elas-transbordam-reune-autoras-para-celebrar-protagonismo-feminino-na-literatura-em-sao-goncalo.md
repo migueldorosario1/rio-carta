@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7371_image-12.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7371_image-12.png"
 description: "Matéria arquivada do Rio Carta"
 title: '“Elas Transbordam” reúne autoras para celebrar protagonismo feminino na literatura em São Gonçalo'
 pubDate: 2025-11-18 11:47:02

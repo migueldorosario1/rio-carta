@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5628_imagem-8.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5628_imagem-8.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Terceiro voo da FAB Parte para o Líbano para repatriação de brasileiros'
 pubDate: 2024-10-08 19:14:14

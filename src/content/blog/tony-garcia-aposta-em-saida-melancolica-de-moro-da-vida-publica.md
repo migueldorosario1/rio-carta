@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2821_imagem.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2821_imagem.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Tony Garcia aposta em saída melancólica de Moro da vida pública'
 pubDate: 2024-02-01 09:11:34

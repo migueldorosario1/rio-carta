@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6759_image-4.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6759_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Paes larga na frente'
 pubDate: 2025-04-07 09:03:53

@@ -4,7 +4,7 @@ description: "A Polícia Federal apreendeu um celular e um tablet do ex-governad
 pubDate: "2026-05-21T15:48:44Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "claudio-castro", "politica-rj", "seguranca-publica", "capital", "regiao-metropolitana", "tijuca", "manguinhos", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605211248-claudio-castro-tem-celular-e-tablet-apreendidos-pela-pf-em-investigacao-da-refit-ele-diz-ter-sid.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211248-claudio-castro-tem-celular-e-tablet-apreendidos-pela-pf-em-investigacao-da-refit-ele-diz-ter-sid.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

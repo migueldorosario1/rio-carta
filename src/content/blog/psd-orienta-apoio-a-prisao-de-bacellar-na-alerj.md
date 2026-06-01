@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7546_image-21.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7546_image-21.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'PSD orienta apoio à prisão de Bacellar na Alerj'
 pubDate: 2025-12-06 19:54:02

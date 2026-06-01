@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1687_image-37.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1687_image-37.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Disputa pela prefeitura no Rio já tem 7 pré-candidatos'
 pubDate: 2023-10-25 10:55:22

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7430_image-32.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7430_image-32.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Redes sociais viram palco do crime no Rio'
 pubDate: 2025-11-21 13:36:50

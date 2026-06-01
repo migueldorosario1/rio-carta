@@ -4,7 +4,7 @@ description: "Adolescente vítima de estupro coletivo em Campo Grande ganha medi
 pubDate: "2026-05-19T19:16:57Z"
 draft: false
 tags: ["rio-de-janeiro", "campo-grande", "zona-oeste", "seguranca-publica", "capital", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "/hero/smoke-smoke-202605191916-adolescente-vitima-de-estupro-coletivo-em-campo-grande-ganha-medida-protetiva.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-adolescente-vitima-de-estupro-coletivo-em-campo-grande-ganha-medida-protetiva.webp"
 ---
 Justiça impõe restrições a adolescente suspeito de atrair a jovem para emboscada no local do crime
 

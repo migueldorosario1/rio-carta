@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4026_imagem-3.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4026_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'CNJ vai abrir processo criminal contra Moro'
 pubDate: 2024-04-02 08:51:04

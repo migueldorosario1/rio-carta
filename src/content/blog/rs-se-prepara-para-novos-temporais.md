@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4453_imagem-11.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4453_imagem-11.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'RS se prepara para novos temporais'
 pubDate: 2024-05-10 08:55:51

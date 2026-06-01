@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2642_imagem-9.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2642_imagem-9.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Resistência Islâmica no Iraque reivindica ataques com drones contra bases dos EUA na Síria'
 pubDate: 2024-01-30 05:12:00

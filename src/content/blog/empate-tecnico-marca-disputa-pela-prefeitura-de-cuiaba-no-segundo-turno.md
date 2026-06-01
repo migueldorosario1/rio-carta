@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5740_imagem-34.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5740_imagem-34.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Empate técnico marca disputa pela prefeitura de Cuiabá no segundo turno'
 pubDate: 2024-10-19 12:31:49

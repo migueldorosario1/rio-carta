@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1961_taylor.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1961_taylor.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Taylor Swift Recebe Homenagem Especial no Cristo Redentor Welcome to Brasil'
 pubDate: 2023-11-17 13:00:00

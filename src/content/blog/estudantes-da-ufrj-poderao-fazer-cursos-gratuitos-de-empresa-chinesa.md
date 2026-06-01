@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2412_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2412_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Estudantes da UFRJ poderão fazer cursos gratuitos de empresa chinesa'
 pubDate: 2024-01-12 15:39:09

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp360_image-8.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp360_image-8.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Profissionais da enfermagem fazem ato em frente ao Hospital da Lagoa'
 pubDate: 2023-06-19 15:39:51

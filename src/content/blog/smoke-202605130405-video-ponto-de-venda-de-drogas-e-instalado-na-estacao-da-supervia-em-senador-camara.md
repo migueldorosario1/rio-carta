@@ -4,7 +4,7 @@ description: "Uma boca de fumo foi instalada dentro da estação de trem da Supe
 pubDate: "2026-05-13T07:05:05Z"
 draft: false
 tags: ["rio-de-janeiro", "senador-camara", "zona-oeste", "supervia", "trafico-de-drogas", "seguranca-publica", "rio-capital-zona-oeste", "politica-rj", "regiao-metropolitana", "bangu", "comunidade", "complexo", "mage", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605130405-video-ponto-de-venda-de-drogas-e-instalado-na-estacao-da-supervia-em-senador-camara.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130405-video-ponto-de-venda-de-drogas-e-instalado-na-estacao-da-supervia-em-senador-camara.jpg"
 categoria_macro: politica
 ---
 Uma boca de fumo foi instalada dentro da estação de trem da Supervia em Senador Camará, na Zona Oeste do Rio. De acordo com relatos de testemunhas, suspeitos estariam comercializando drogas como cocaína, crack, maconha e outros entorpecentes, em uma barraca montada em plena luz do dia.

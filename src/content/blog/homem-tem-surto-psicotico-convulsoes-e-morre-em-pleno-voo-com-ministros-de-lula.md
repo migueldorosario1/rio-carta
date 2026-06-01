@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp3274_Sem-Titulo-1-3.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp3274_Sem-Titulo-1-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Homem tem surto psicótico, convulsões e morre em pleno voo com ministros de Lula'
 pubDate: 2024-02-16 18:41:46

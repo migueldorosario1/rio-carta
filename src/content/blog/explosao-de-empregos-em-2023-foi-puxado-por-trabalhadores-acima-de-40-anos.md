@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5251_imagem-54.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5251_imagem-54.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Explosão de empregos em 2023 foi puxado por trabalhadores acima de 40 anos'
 pubDate: 2024-09-16 10:55:47

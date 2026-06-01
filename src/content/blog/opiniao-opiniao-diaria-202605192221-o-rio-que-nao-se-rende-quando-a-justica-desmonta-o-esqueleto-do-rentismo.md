@@ -5,7 +5,7 @@ pubDate: "2026-05-20T01:21:08Z"
 draft: false
 tags: ["opiniao-diaria", "opiniao", "rio-de-janeiro", "rentismo", "estado-fluminense", "justica-social", "soberania-popular"]
 author: "Miguel do Rosário"
-heroImage: "/hero/smoke-opiniao-opiniao-diaria-202605192221-o-rio-que-nao-se-rende-quando-a-justica-desmonta-o-esqueleto-do-rentismo.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-opiniao-opiniao-diaria-202605192221-o-rio-que-nao-se-rende-quando-a-justica-desmonta-o-esqueleto-do-rentismo.webp"
 ---
 
 Há uma cena, quase surreal, que atravessa os relatórios policiais desta sexta-feira: R$ 500 mil em dinheiro vivo, empilhados dentro de caixas de sapato na residência de um policial civil. Não é ficção. É o sintoma mais visível de um mal mais profundo — aquele que Florestan Fernandes chamou, com rigor sociológico, de "a patologia da autoridade sem legitimidade". A Operação Sem Refino não aponta apenas para a conduta individual de Cláudio Castro ou Ricardo Magro. Ela revela, com a frieza de um laudo forense, como o Estado do Rio de Janeiro foi capturado por uma lógica rentista que não se contenta em explorar o território — quer administrá-lo como se fosse um ativo financeiro privado.

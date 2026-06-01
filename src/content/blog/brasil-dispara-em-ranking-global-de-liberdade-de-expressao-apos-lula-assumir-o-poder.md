@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4486_imagem-31.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4486_imagem-31.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Brasil dispara em ranking global de liberdade de expressão após Lula assumir o poder'
 pubDate: 2024-05-21 09:07:55

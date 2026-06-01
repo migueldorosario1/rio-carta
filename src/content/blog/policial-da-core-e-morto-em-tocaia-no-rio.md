@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6706_image-11.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6706_image-11.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Policial da Core é morto em tocaia no Rio'
 pubDate: 2025-03-31 09:49:19

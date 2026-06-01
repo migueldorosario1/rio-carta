@@ -4,7 +4,7 @@ description: "Moradores da Rua Farme de Amoedo, em Ipanema, relatam que o movime
 pubDate: "2026-05-22T21:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "perturbacao-do-sossego", "lei-do-silencio", "farme-de-amoedo", "rio-capital-zona-sul-grande-tijuca", "capital", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605222123-moradores-da-farme-de-amoedo-enfrentam-noites-de-barulho-e-fazem-denuncias-em-ipanema.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605222123-moradores-da-farme-de-amoedo-enfrentam-noites-de-barulho-e-fazem-denuncias-em-ipanema.jpg"
 ---
 Moradores da Rua Farme de Amoedo, em Ipanema, relatam que o movimento e o som vindos do Booze Bar Ipanema têm causado perturbação do sossego e dificultado o descanso de quem vive nas proximidades. Segundo relatos, o barulho seria intenso a ponto de afetar até moradores de um prédio recém-lançado na região, que dizem enfrentar dificuldades para dormir.
 

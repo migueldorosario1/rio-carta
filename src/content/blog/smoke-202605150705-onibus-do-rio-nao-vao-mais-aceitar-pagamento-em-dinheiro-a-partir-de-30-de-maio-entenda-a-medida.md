@@ -4,7 +4,7 @@ description: "A partir do dia 30 de maio, os passageiros dos ônibus municipais 
 pubDate: "2026-05-15T10:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "transporte-mobilidade", "jae", "bilhete-unico-carioca", "complexo-da-penha", "favelas-comunidades", "regiao-metropolitana", "penha", "favela", "comunidade", "complexo", "baixada", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605150705-onibus-do-rio-nao-vao-mais-aceitar-pagamento-em-dinheiro-a-partir-de-30-de-maio-entenda-a-medida.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150705-onibus-do-rio-nao-vao-mais-aceitar-pagamento-em-dinheiro-a-partir-de-30-de-maio-entenda-a-medida.jpeg"
 categoria_macro: politica
 ---
 A partir do dia 30 de maio, os passageiros dos ônibus municipais do Rio de Janeiro não poderão mais pagar a passagem em dinheiro dentro dos veículos. A tarifa, atualmente fixada em R$ 5, passará a ser aceita apenas por meio do sistema Jaé, adotado pela Prefeitura do Rio.

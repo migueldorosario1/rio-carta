@@ -4,7 +4,7 @@ description: "O PT enxerga a eleição para o governo do Rio de Janeiro em 2026 
 pubDate: "2026-05-17T00:23:51Z"
 draft: true
 tags: ["rio-de-janeiro", "politica", "eleicao", "politica-rj", "capital", "regiao-metropolitana", "leme", "mage", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605170023-no-berco-politico-de-bolsonaro-pt-mira-desgaste-da-direita-no-rio-em-2026.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170023-no-berco-politico-de-bolsonaro-pt-mira-desgaste-da-direita-no-rio-em-2026.jpeg"
 ---
 O PT enxerga a eleição para o governo do Rio de Janeiro em 2026 como uma oportunidade para tentar desgastar o bolsonarismo no próprio berço político do movimento. A leitura interna é que a campanha pode servir para associar a direita bolsonarista a um projeto que, na avaliação dos petistas, fracassou no estado.
 

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1281_download.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1281_download.jpeg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Emprego cresce no Rio'
 pubDate: 2023-09-04 09:04:49

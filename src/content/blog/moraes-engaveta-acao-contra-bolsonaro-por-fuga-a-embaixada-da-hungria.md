@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp4300_imagem-36.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp4300_imagem-36.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Moraes engaveta ação contra Bolsonaro por fuga a Embaixada da Húngria'
 pubDate: 2024-04-25 09:59:12

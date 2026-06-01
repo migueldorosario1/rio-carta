@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7144_image-3.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7144_image-3.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Debate em Laranjeiras discute a questão da Palestina na próxima quarta-feira'
 pubDate: 2025-09-12 09:46:54

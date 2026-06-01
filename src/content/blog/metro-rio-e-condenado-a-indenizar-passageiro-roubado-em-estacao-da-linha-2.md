@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6157_imagem-2.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6157_imagem-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Metrô Rio é condenado a indenizar passageiro roubado em estação da Linha 2'
 pubDate: 2024-12-13 12:52:45

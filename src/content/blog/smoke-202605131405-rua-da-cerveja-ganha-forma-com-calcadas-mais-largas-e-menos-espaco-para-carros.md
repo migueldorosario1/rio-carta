@@ -4,7 +4,7 @@ description: "A Rua da Carioca, no Centro do Rio, começa a ganhar contornos do 
 pubDate: "2026-05-13T17:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "rua-da-carioca", "rua-da-cerveja", "urbanismo", "mobilidade", "prefeitura-do-rio", "eduardo-cavaliere", "rio-capital-centro", "capital", "centro-do-rio", "portuguesa", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-smoke-202605131405-rua-da-cerveja-ganha-forma-com-calcadas-mais-largas-e-menos-espaco-para-carros.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131405-rua-da-cerveja-ganha-forma-com-calcadas-mais-largas-e-menos-espaco-para-carros.jpg"
 categoria_macro: geral
 ---
 A Rua da Carioca, no Centro do Rio, começa a ganhar contornos do projeto que prevê sua transformação na futura Rua da Cerveja. As intervenções em andamento ampliam as calçadas, reduzem o espaço destinado aos veículos e alteram o desenho urbano de uma das vias mais tradicionais da região central.

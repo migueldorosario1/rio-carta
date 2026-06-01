@@ -4,7 +4,7 @@ description: "Francis Kéré: “A função da arquitetura é dar forma aos sonh
 pubDate: "2026-05-25T10:00:11Z"
 draft: false
 tags: ["rio-de-janeiro", "pequena-africa", "sambodromo", "biblioteca-dos-saberes", "praca-onze-maravilha", "rio-capital-centro", "capital", "comunidade", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605251000-francis-kere-a-funcao-da-arquitetura-e-dar-forma-aos-sonhos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605251000-francis-kere-a-funcao-da-arquitetura-e-dar-forma-aos-sonhos.jpg"
 ---
 Detentor do prêmio Pritzker, o arquiteto africano esteve no Rio para uma série de visitas técnicas a fim de detalhar o projeto da Biblioteca dos Saberes
 

@@ -4,7 +4,7 @@ description: "BARRA MANSA Uma ação conjunta da Polícia Civil e da Polícia Mi
 pubDate: "2026-05-20T08:23:10Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "sul-fluminense-costa-verde", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605200823-drogas-e-arma-sao-apreendidas-com-suspeito-no-getulio-vargas.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200823-drogas-e-arma-sao-apreendidas-com-suspeito-no-getulio-vargas.jpeg"
 ---
 BARRA MANSA
 

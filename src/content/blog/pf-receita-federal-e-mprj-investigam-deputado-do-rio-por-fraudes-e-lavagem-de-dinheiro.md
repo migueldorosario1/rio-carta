@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5706_imagem-4.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5706_imagem-4.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'PF, Receita Federal e MPRJ investigam deputado do Rio por fraudes e lavagem de dinheiro'
 pubDate: 2024-10-14 17:13:16

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1653_image-29.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1653_image-29.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Dani Balbi é a única mulher pré-candidata à prefeitura do Rio em 2024'
 pubDate: 2023-10-21 19:03:14

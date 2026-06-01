@@ -4,7 +4,7 @@ description: "Angela Azevedo conquista ouro e bronze no Pan American Open e conf
 pubDate: "2026-05-13T19:05:43Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "taekwondo", "esporte", "pan-american-open", "serrana", "regiao-metropolitana", "colegio"]
-heroImage: "/hero/smoke-smoke-202605131605-angela-azevedo-conquista-ouro-e-bronze-no-pan-american-open-e-confirma-ascensao-no-taekwondo-int.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131605-angela-azevedo-conquista-ouro-e-bronze-no-pan-american-open-e-confirma-ascensao-no-taekwondo-int.jpeg"
 categoria_macro: lazer
 ---
 Angela Azevedo conquista ouro e bronze no Pan American Open e confirma ascensão no taekwondo internacional

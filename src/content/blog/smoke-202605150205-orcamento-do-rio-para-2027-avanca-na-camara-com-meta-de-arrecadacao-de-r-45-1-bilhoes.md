@@ -4,7 +4,7 @@ description: "A Câmara Municipal do Rio de Janeiro aprovou, nesta quinta-feira 
 pubDate: "2026-05-15T05:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "orcamento", "ldo-2027", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605150205-orcamento-do-rio-para-2027-avanca-na-camara-com-meta-de-arrecadacao-de-r-45-1-bilhoes.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150205-orcamento-do-rio-para-2027-avanca-na-camara-com-meta-de-arrecadacao-de-r-45-1-bilhoes.jpg"
 categoria_macro: politica
 ---
 A Câmara Municipal do Rio de Janeiro aprovou, nesta quinta-feira (14/05), em 1ª discussão e 2ª sessão, o projeto da Lei de Diretrizes Orçamentárias de 2027. A proposta, enviada pela Prefeitura do Rio, define metas fiscais, prioridades da administração municipal e prevê uma arrecadação de R$ 45,184 bilhões para o próximo ano.

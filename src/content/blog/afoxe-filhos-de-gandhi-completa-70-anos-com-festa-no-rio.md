@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp904_image-79.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp904_image-79.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Afoxé Filhos de Gandhi completa 70 anos com festa no Rio'
 pubDate: 2023-07-27 12:21:53

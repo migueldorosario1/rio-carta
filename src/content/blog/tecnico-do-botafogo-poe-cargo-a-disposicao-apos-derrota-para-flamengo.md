@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1298_image-6.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1298_image-6.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Técnico do Botafogo põe cargo à disposição após derrota para Flamengo'
 pubDate: 2023-09-04 15:41:16

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5091_imagem-30.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5091_imagem-30.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Presidente Lula critica Zema e reafirma compromisso com governadores'
 pubDate: 2024-09-05 20:31:18

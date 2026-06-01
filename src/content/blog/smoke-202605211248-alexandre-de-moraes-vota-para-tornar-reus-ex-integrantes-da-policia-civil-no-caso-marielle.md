@@ -4,7 +4,7 @@ description: "O ministro Alexandre de Moraes, relator do processo sobre o assass
 pubDate: "2026-05-21T15:48:25Z"
 draft: true
 tags: ["rio-de-janeiro", "policia-civil", "marielle-franco", "stf", "politica-rj", "capital", "leme", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-smoke-202605211248-alexandre-de-moraes-vota-para-tornar-reus-ex-integrantes-da-policia-civil-no-caso-marielle.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211248-alexandre-de-moraes-vota-para-tornar-reus-ex-integrantes-da-policia-civil-no-caso-marielle.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6795_image-15.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6795_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Vegetti faz 44 gols pelo Vasco e se torna o maior artilheiro estrangeiro do clube no século XXI'
 pubDate: 2025-04-09 19:12:04

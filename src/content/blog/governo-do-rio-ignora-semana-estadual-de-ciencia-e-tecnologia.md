@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7245_image-17.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7245_image-17.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Governo do Rio ignora Semana Estadual de Ciência e Tecnologia'
 pubDate: 2025-10-22 09:46:06

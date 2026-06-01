@@ -4,7 +4,7 @@ description: "A moda das conservas: 7 bares que despertam o paladar Técnica mil
 pubDate: "2026-05-17T03:24:18Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "botafogo", "gloria", "copacabana", "cultura-carnaval", "capital", "norte-noroeste-fluminense", "campos", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605170323-a-moda-das-conservas-7-bares-que-despertam-o-paladar.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170323-a-moda-das-conservas-7-bares-que-despertam-o-paladar.jpg"
 ---
 Técnica milenar de preservação dos alimentos, em vinagre ou salmoura, ganha protagonismo e adiciona personalidade aos pratos
 

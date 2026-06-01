@@ -4,7 +4,7 @@ description: "O prefeito do Rio, Eduardo Cavaliere (PSD), anunciou na tarde dest
 pubDate: "2026-05-25T12:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "onibus", "jae", "pix", "zona-oeste", "grande-bangu", "transporte", "prefeitura", "transporte-mobilidade", "capital", "bangu", "politica-rj"]
-heroImage: "/hero/smoke-smoke-202605251200-onibus-do-rio-vao-aceitar-pix-e-cartao-direto-no-validador-do-jae.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605251200-onibus-do-rio-vao-aceitar-pix-e-cartao-direto-no-validador-do-jae.jpg"
 ---
 O prefeito do Rio, Eduardo Cavaliere (PSD), anunciou na tarde desta sexta-feira (22) que os ônibus municipais passarão a aceitar pagamento por PIX e cartões de débito e crédito diretamente nos validadores do sistema Jaé.
 

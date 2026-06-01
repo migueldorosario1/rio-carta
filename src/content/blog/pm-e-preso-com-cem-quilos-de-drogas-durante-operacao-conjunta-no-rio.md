@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1550_whatsapp-image-2023-10-09-at-14.12.08.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1550_whatsapp-image-2023-10-09-at-14.12.08.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PM é preso com cem quilos de drogas durante operação conjunta no Rio'
 pubDate: 2023-10-09 17:25:35

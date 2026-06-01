@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2497_ronnie-lessa-1024x614-7.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2497_ronnie-lessa-1024x614-7.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Revelação bombástica Ronnie Lessa aceita acordo da Polícia Federal e vai fazer delação'
 pubDate: 2024-01-21 17:32:38

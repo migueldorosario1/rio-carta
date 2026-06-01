@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp2141_rodrigo-neves.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp2141_rodrigo-neves.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'STJ Confirma Rejeição de Denúncia Contra Ex-Prefeito Rodrigo Neves por Organização Criminosa'
 pubDate: 2023-12-14 06:09:00

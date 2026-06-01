@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1514_7bc7b00b-9da5-4f07-90c1-0f8dcde52358-1.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1514_7bc7b00b-9da5-4f07-90c1-0f8dcde52358-1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'Áudio Interceptado pela Polícia Hipótese de Traficantes Confundirem Médico com Miliciano'
 pubDate: 2023-10-05 17:46:09

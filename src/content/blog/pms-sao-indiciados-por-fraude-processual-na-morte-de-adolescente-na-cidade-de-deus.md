@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1205_cdd1.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1205_cdd1.webp"
 description: "Matéria arquivada do Rio Carta"
 title: 'PMs são indiciados por fraude processual na morte de adolescente na Cidade de Deus'
 pubDate: 2023-08-25 02:04:20

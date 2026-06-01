@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6520_image-25.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6520_image-25.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Prefeita de Japeri recebe a deputada Lilian Behring e equipe para discutir políticas públicas'
 pubDate: 2025-01-28 10:04:37

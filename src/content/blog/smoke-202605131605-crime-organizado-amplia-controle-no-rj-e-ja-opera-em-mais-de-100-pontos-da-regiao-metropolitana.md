@@ -4,7 +4,7 @@ description: "O avanço da exploração ilegal de serviços de internet se torno
 pubDate: "2026-05-13T19:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-metropolitana", "crime-organizado", "internet-clandestina", "seguranca-publica", "seguranca-publica-rj", "capital", "zona-norte", "comunidade", "baixada", "belford-roxo", "sao-goncalo", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202605131605-crime-organizado-amplia-controle-no-rj-e-ja-opera-em-mais-de-100-pontos-da-regiao-metropolitana.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131605-crime-organizado-amplia-controle-no-rj-e-ja-opera-em-mais-de-100-pontos-da-regiao-metropolitana.jpg"
 categoria_macro: seguranca
 ---
 O avanço da exploração ilegal de serviços de internet se tornou um dos principais focos das investigações sobre o financiamento do crime organizado no Rio de Janeiro. Informações da Subsecretaria de Inteligência da Secretaria de Segurança Pública indicam que mais de cem áreas da Região Metropolitana já estão sob influência de grupos criminosos que controlam a oferta clandestina de internet e TV por assinatura.

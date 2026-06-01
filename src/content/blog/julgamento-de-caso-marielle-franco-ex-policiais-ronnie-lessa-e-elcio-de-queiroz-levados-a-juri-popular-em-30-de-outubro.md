@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp5844_imagem-8.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp5844_imagem-8.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Julgamento de caso Marielle Franco ex-policiais Ronnie Lessa e Élcio de Queiroz levados a Júri popular em 30 de outubro'
 pubDate: 2024-10-24 19:49:49

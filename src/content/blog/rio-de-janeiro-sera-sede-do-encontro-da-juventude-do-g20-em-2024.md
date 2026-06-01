@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1164_image-35.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1164_image-35.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Rio de Janeiro será sede do Encontro da Juventude do G20 em 2024'
 pubDate: 2023-08-22 12:47:58

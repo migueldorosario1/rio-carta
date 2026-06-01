@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp1987_image-19.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp1987_image-19.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Caso Taylor Swift Projeto de Lei Ana Benevides é protocolado na ALERJ'
 pubDate: 2023-11-21 16:48:23

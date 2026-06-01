@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6294_imagem-3.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6294_imagem-3.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Luís Eduardo Guerra nomeado novo presidente da CET-Rio para 2025'
 pubDate: 2024-12-27 10:19:02

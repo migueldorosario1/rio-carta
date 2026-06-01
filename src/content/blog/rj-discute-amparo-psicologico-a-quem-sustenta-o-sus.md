@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp6948_image-15.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp6948_image-15.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'RJ discute amparo psicológico a quem sustenta o SUS'
 pubDate: 2025-06-25 14:04:33

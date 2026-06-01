@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/blog-placeholder-2.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/blog-placeholder-2.jpg"
 description: "Matéria arquivada do Rio Carta"
 title: 'Casos de extorsão explodem na Zona Oeste do Rio em 2023'
 pubDate: 2024-02-05 08:58:37

@@ -1,5 +1,5 @@
 ---
-heroImage: "/hero/wp7641_image-4.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/wp7641_image-4.png"
 description: "Matéria arquivada do Rio Carta"
 title: 'Zé de Abreu entra na política e será candidato pelo PT'
 pubDate: 2026-02-05 22:25:14
