@@ -1,6 +1,6 @@
 ---
 title: "Circuito Centenário resgata história do antigo Distrito Federal no Rio"
-description: "O lançamento do Circuito Centenário do Antigo Distrito Federal abriu, na quinta-feira (14), uma programação gratuita que resgata a memória política, cultural e arquitetônica do Cen"
+description: "O Circuito Centenário do Antigo Distrito Federal traz programação gratuita que resgata a memória política, cultural e arquitetônica do Centro do Rio de Janeiro."
 pubDate: "2026-05-31T18:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-centro", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "centro-do-rio", "alemao", "saude", "educacao", "cultura-carnaval"]
@@ -70,8 +70,6 @@ Setembro
 
 Palestra sobre o Antigo Terminal Marítimo – Touring Club
 
-A programação completa pode ser consultada no site oficial do Museu da Justiça: www. tjrj.
-
-jus. br/web/museu/circuitocentenario
+A programação completa pode ser consultada no site oficial do Museu da Justiça: [tjrj.jus.br/web/museu/circuitocentenario](https://www.tjrj.jus.br/web/museu/circuitocentenario).
 
 *Fonte: [Agenda do Poder](https://agendadopoder.com.br/circuito-centenario-resgata-historia-do-antigo-distrito-federal-no-rio/).*
