@@ -32,3 +32,6 @@ pnpm-debug.log*
 .idea/
 .vercel
 .env*.local
+
+# R2 migration: ignore local hero images
+public/hero/*
