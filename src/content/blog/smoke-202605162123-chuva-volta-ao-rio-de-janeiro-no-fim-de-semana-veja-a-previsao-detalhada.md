@@ -2,7 +2,7 @@
 title: "Chuva volta ao Rio de Janeiro no fim de semana; veja a previsão detalhada"
 description: "Rio Chuva volta ao Rio de Janeiro no fim de semana; veja a previsão detalhada Capital e interior do Rio terão mudança no tempo; saiba quando e onde vai choverO Rio de Janeiro entra"
 pubDate: "2026-05-16T21:24:33Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "clima", "previsao-do-tempo", "rio-capital-centro", "capital-estado", "regiao-metropolitana", "serrana", "sul-fluminense"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162123-chuva-volta-ao-rio-de-janeiro-no-fim-de-semana-veja-a-previsao-detalhada.jpg"
 ---

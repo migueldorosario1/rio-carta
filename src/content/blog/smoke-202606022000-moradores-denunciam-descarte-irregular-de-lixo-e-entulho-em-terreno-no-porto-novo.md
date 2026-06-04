@@ -2,12 +2,10 @@
 title: "Moradores denunciam descarte irregular de lixo e entulho em terreno no Porto Novo"
 description: "Moradores denunciam descarte irregular de lixo e entulho em terreno no Porto Novo Além do mal cheiro, os moradores dizem que o lixo atrai insetos e roedores que entram nas casas pr"
 pubDate: "2026-06-02T20:03:00Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "porto-novo", "lixo", "descarte-irregular", "regiao-metropolitana", "sao-goncalo-itaborai", "acari", "colegio", "rocha-miranda", "rocha", "comunidade", "queimados", "itaborai"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606022000-moradores-denunciam-descarte-irregular-de-lixo-e-entulho-em-terreno-no-porto-novo.jpg"
 ---
-Moradores denunciam descarte irregular de lixo e entulho em terreno no Porto Novo
-
 Além do mal cheiro, os moradores dizem que o lixo atrai insetos e roedores que entram nas casas próximas
 
 Moradores do bairro Porto Novo denunciam o acúmulo de lixo e entulho em um terreno particular próximo à divisa da Rua Ari Silveira com a Zacarias de Almeida. Segundo relatos, o local vem sendo utilizado como ponto de descarte irregular, acumulando resíduos.
