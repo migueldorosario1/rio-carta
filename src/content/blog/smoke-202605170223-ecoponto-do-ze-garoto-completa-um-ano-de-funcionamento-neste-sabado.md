@@ -2,7 +2,7 @@
 title: "Ecoponto do Zé Garoto completa um ano de funcionamento neste sábado"
 description: "Equipamento na área central da cidade já recebeu mais de 35 toneladas de materiais recicláveis O ecoponto do bairro Zé Garoto está completando um ano de funcionamento neste sábado"
 pubDate: "2026-05-17T02:24:34Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "sao-goncalo", "reciclagem", "meio-ambiente", "sul-fluminense-costa-verde", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "problemas-estruturais", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170223-ecoponto-do-ze-garoto-completa-um-ano-de-funcionamento-neste-sabado.jpg"
 ---

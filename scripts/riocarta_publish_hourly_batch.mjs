@@ -547,7 +547,7 @@ async function askModelAuditor(auditor, article) {
 function localVotes(article, warnings) {
   const textOk = article.body.length > 900 && !article.body.includes('Rascunho técnico') && !article.body.includes('Fonte para revisão');
   const categoryOk = warnings.length === 0 || warnings.every((warning) => warning === 'titulo longo');
-  const imageOk = !article.imageSize.startsWith('0x') && Number(article.imageSize.split('x')[0]) >= 600;
+  const imageOk = article.imageSize === 'remote' || (!article.imageSize.startsWith('0x') && Number(article.imageSize.split('x')[0]) >= 600);
   return [
     { auditor: 'codex-texto-categoria', ok: textOk && categoryOk, reason: textOk && categoryOk ? 'texto e categorias aceitaveis' : 'texto/categoria precisa revisao' },
     { auditor: 'codex-imagem-fonte', ok: imageOk, reason: imageOk ? 'imagem destacada aceitavel' : 'imagem destacada insuficiente' },
@@ -625,13 +625,18 @@ async function auditAndFix(file, publish) {
   if (!tags.includes('rio-de-janeiro') && !tags.includes('niteroi') && !tags.includes('baixada-fluminense')) {
     warnings.push('categoria territorial fraca');
   }
-  if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
+  let imageSize = 'remote';
+  const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
 
-  const meta = await sharp(heroPath).metadata();
-  if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
-    const warning = `imagem destacada pequena: ${heroImage} ${meta.width}x${meta.height}`;
-    if (publish) throw new Error(warning);
-    warnings.push(warning);
+  if (!isRemoteHero) {
+    if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
+    const meta = await sharp(heroPath).metadata();
+    imageSize = `${meta.width}x${meta.height}`;
+    if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
+      const warning = `imagem destacada pequena: ${heroImage} ${imageSize}`;
+      if (publish) throw new Error(warning);
+      warnings.push(warning);
+    }
   }
 
   let nextBody = cleanBody(body, title);
@@ -645,7 +650,7 @@ async function auditAndFix(file, publish) {
         heroImage,
         tags,
         body: nextBody,
-        imageSize: `${meta.width}x${meta.height}`,
+        imageSize,
         sourceName: source.name,
         sourceUrl: source.url,
   };
@@ -667,7 +672,7 @@ async function auditAndFix(file, publish) {
     published: publish,
     title,
     heroImage,
-    imageSize: `${meta.width}x${meta.height}`,
+    imageSize,
     warnings,
     expandedAudit: consensus.votes,
     approvals: consensus.approvals,
@@ -817,7 +822,11 @@ if (commitAndPush) {
     .map((file) => {
       const text = fs.readFileSync(path.join(blogDir, file), 'utf8');
       const { frontmatter } = splitFrontmatter(text);
-      return `public/${getField(frontmatter, 'heroImage').replace(/^\//, '')}`;
+      const img = getField(frontmatter, 'heroImage');
+      if (img && !img.startsWith('http://') && !img.startsWith('https://')) {
+        return `public/${img.replace(/^\//, '')}`;
+      }
+      return null;
     })
     .filter(Boolean);
   const changedFiles = [
@@ -836,9 +845,7 @@ if (commitAndPush) {
     'src/pages/index.astro',
     'src/pages/rss.xml.js',
     'src/pages/tags/[tag].astro',
-    'public/hero',
     ...changedArticleSet.map((file) => `src/content/blog/${file}`),
-    ...heroImages,
   ];
   git(['add', ...changedFiles]);
   const staged = git(['diff', '--cached', '--name-only']);

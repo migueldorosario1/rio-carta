@@ -2,7 +2,7 @@
 title: "Equipes da Defesa Civil, UERJ e Governo do Estado realizam vistoria na região do Ingá, na Posse"
 description: "Técnicos da Secretaria de Proteção e Defesa Civil, da Universidade Estadual do Rio de Janeiro (UERJ) e da Secretaria de Habitação e Interesse Social do Estado vistoriaram esta sema"
 pubDate: "2026-05-17T01:24:29Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "possessao", "defesa-civil", "ueerj", "governo-do-estado", "norte-noroeste-fluminense", "serrana", "regiao-metropolitana", "rocha", "petropolis", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170123-equipes-da-defesa-civil-uerj-e-governo-do-estado-realizam-vistoria-na-regiao-do-inga-na-posse.jpeg"
 ---
