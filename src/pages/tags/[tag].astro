@@ -14,6 +14,7 @@ import deputadosFederaisEleitosRj from '../../data/deputados_federais_eleitos_rj
 import senadoresEleitosRj from '../../data/senadores_eleitos_rj_2022.json';
 import prefeitosEleitosRj from '../../data/prefeitos_eleitos_rj_2024.json';
 import governoEstadoRjAtual from '../../data/governo_estado_rj_atual.json';
+import eleitoresRj2024 from '../../data/eleitores_rj_2024.json';
 
 type Vereador = { nome: string; slug: string; partido?: string; numero?: string; votosNominaisValidos?: number; percentualMunicipio?: number };
 type CidadeVer = { cidade: string; cidadeSlug: string; total: number; totalVotosNominaisMunicipio?: number; vereadores: Vereador[] };
@@ -131,6 +132,26 @@ const regionMap = {
 // Cidades por slug (pra resolver camara-{slug} / prefeitura-{slug})
 const citySlugToLabel = new Map(rjRegions.flatMap((region) => region.items.map((city) => [city.slug, city.label])));
 
+const vereadoresMap = new Map<string, Vereador & { cidade: string; cidadeSlug: string }>();
+for (const cidade of cidadesComVereadores) {
+	for (const v of cidade.vereadores) {
+		vereadoresMap.set(v.slug, { ...v, cidade: cidade.cidade, cidadeSlug: cidade.cidadeSlug });
+	}
+}
+
+function getCamaraVereadorUrl(cidadeSlug: string, vereadorSlug: string) {
+	if (cidadeSlug === 'rio-de-janeiro') {
+		return `https://www.camara.rio/vereadores/${vereadorSlug}`;
+	}
+	if (cidadeSlug === 'niteroi') return 'https://www.camaraniteroi.rj.gov.br/';
+	if (cidadeSlug === 'sao-goncalo') return 'https://www.cmsg.rj.gov.br/';
+	if (cidadeSlug === 'marica') return 'https://www.camaramarica.rj.gov.br/';
+	if (cidadeSlug === 'petropolis') return 'https://www.cmp.rj.gov.br/';
+	if (cidadeSlug === 'duque-de-caxias') return 'https://www.cmdc.rj.gov.br/';
+	if (cidadeSlug === 'nova-iguacu') return 'https://www.cmni.rj.gov.br/';
+	return `https://www.camara.${cidadeSlug}.rj.gov.br/`;
+}
+
 // Regiões por slug pra resolver turismo-{regiao}
 const regionSlugToLabel = new Map(rjRegions.map((region) => [region.slug, region.label]));
 
@@ -198,7 +219,28 @@ function buildCouncilMeta(tag: string) {
 	return null;
 }
 
-const meta = taxonomyMeta.get(tag) || regionMap[tag] || buildCouncilMeta(tag) || parlamentaresMap.get(tag) || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
+const currentVereador = vereadoresMap.get(tag);
+
+let totalEleitores = 0;
+let percentSobreEleitorado = 0;
+if (currentVereador) {
+	const eleitoradoDados = (eleitoresRj2024.eleitorado ?? {}) as Record<string, { eleitores: number; comparecimento: number }>;
+	const cityEleitorado = eleitoradoDados[currentVereador.cidadeSlug];
+	totalEleitores = cityEleitorado?.eleitores ?? 0;
+	percentSobreEleitorado = (totalEleitores > 0 && currentVereador.votosNominaisValidos) ? (currentVereador.votosNominaisValidos / totalEleitores) * 100 : 0;
+}
+
+let meta;
+if (currentVereador) {
+	meta = {
+		title: `Vereador(a) · ${currentVereador.partido || ''} · ${currentVereador.cidade}`,
+		subtitle: currentVereador.nome,
+		icon: '🏛️',
+		color: 'linear-gradient(135deg, #1f4037, #2c5364)'
+	};
+} else {
+	meta = taxonomyMeta.get(tag) || regionMap[tag] || buildCouncilMeta(tag) || parlamentaresMap.get(tag) || { title: 'Região do Estado', subtitle: tag.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), icon: '📍', color: 'linear-gradient(135deg, #2c3e50, #3498db)' };
+}
 
 // Listar vereadores quando a tag for camara-{cidadeSlug}
 let cidadeCouncil: CidadeVer | undefined;
@@ -464,6 +506,35 @@ function getPrefeituraUrl(slug: string) {
 						</a>
 					</div>
 				)}
+				{currentVereador && (
+					<div class="tag-meta-info" style="margin-top: 1rem; display: flex; flex-direction: column; gap: 0.6rem; align-items: center; max-width: 800px; margin-left: auto; margin-right: auto; padding: 1.2rem; background: rgba(255, 255, 255, 0.08); border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px);">
+						<div style="font-size: 1.15rem; line-height: 1.55; color: white; text-align: center; font-weight: 500;">
+							🗳️ Nas eleições municipais de 2024, obteve <strong>{currentVereador.votosNominaisValidos?.toLocaleString('pt-BR')}</strong> votos.
+							{totalEleitores > 0 && (
+								<>
+									<br />
+									Esta votação representa <strong>{percentSobreEleitorado.toFixed(2)}%</strong> do eleitorado apto total de {currentVereador.cidade} (que conta com {totalEleitores.toLocaleString('pt-BR')} eleitores cadastrados).
+								</>
+							)}
+							{currentVereador.percentualMunicipio != null && (
+								<>
+									<br />
+									Considerando apenas os votos nominais válidos destinados aos candidatos a vereador, conquistou <strong>{currentVereador.percentualMunicipio.toFixed(2)}%</strong> do total.
+								</>
+							)}
+						</div>
+						<div style="font-size: 1.05rem; opacity: 0.9; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin-top: 0.4rem; border-top: 1px solid rgba(255, 255, 255, 0.15); padding-top: 0.6rem; width: 100%;">
+							<span>🏢 Partido: <strong>{currentVereador.partido}</strong></span>
+							<span>🔢 Número: <strong>{currentVereador.numero}</strong></span>
+							<span>📍 Status: <strong>{currentVereador.situacao}</strong></span>
+						</div>
+						<div style="margin-top: 0.6rem;">
+							<a href={getCamaraVereadorUrl(currentVereador.cidadeSlug, currentVereador.slug)} target="_blank" rel="noopener noreferrer" style="color: white; background: rgba(255, 255, 255, 0.2); padding: 0.6rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 0.5rem; transition: background 0.2s;" onmouseover="this.style.background='rgba(255, 255, 255, 0.3)'" onmouseout="this.style.background='rgba(255, 255, 255, 0.2)'">
+								🏛️ Página Oficial na Câmara ↗
+							</a>
+						</div>
+					</div>
+				)}
 				{tag.startsWith('prefeitura-') && (
 					<div class="tag-meta-info" style="margin-top: 1rem;">
 						<a href={getPrefeituraUrl(tag.replace(/^prefeitura-/, ''))} target="_blank" rel="noopener noreferrer" style="color: white; background: rgba(255, 255, 255, 0.2); padding: 0.6rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 0.5rem; transition: background 0.2s;" onmouseover="this.style.background='rgba(255, 255, 255, 0.3)'" onmouseout="this.style.background='rgba(255, 255, 255, 0.2)'">
@@ -499,6 +570,7 @@ function getPrefeituraUrl(slug: string) {
 							<li class="roster-item">
 								<span class="roster-name">
 									<a href={`/tags/${v.slug}`}>{v.nome}</a>
+									<a href={getCamaraVereadorUrl(cidadeCouncil.cidadeSlug, v.slug)} target="_blank" rel="noopener noreferrer" style="margin-left: 0.4rem; font-size: 0.9rem; text-decoration: none;" title="Página Oficial na Câmara">🔗</a>
 									{v.votosNominaisValidos != null && (
 										<small class="roster-votes">{v.votosNominaisValidos.toLocaleString('pt-BR')} votos{v.percentualMunicipio != null ? ` · ${v.percentualMunicipio.toFixed(2)}%` : ''}</small>
 									)}
