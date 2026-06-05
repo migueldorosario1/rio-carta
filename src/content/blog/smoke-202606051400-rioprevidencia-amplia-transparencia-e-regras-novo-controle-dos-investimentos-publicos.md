@@ -4,7 +4,7 @@ description: "Os recursos do Fundo Previdenciário do Estado do Rio de Janeiro, 
 pubDate: "2026-06-05T14:02:05Z"
 draft: false
 tags: ["rio-de-janeiro", "rioprevidencia", "transparencia", "governo-rj", "previdencia", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606051400-rioprevidencia-amplia-transparencia-e-regras-novo-controle-dos-investimentos-publicos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051400-rioprevidencia-amplia-transparencia-e-regras-novo-controle-dos-investimentos-publicos.jpg"
 ---
 Os recursos do Fundo Previdenciário do Estado do Rio de Janeiro, o Rioprevidência, passam a seguir novas regras de transparência e controle estabelecidas pela Lei 11. 193/26, sancionada e publicada no Diário Oficial desta quinta-feira, 21 de maio.
 
