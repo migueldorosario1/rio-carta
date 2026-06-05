@@ -4,7 +4,7 @@ description: "Mesmo após o fim da greve dos rodoviários da Turp Transporte, a 
 pubDate: "2026-06-05T16:22:06Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "transporte-mobilidade", "politica-rj", "serrana"]
-heroImage: "/hero/smoke-202606051614-fim-da-greve-de-onibus-nao-encerra-crise-e-yuri-moura-aciona-detran-apos-denuncias-em-petropolis.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-fim-da-greve-de-onibus-nao-encerra-crise-e-yuri-moura-aciona-detran-apos-denuncias-em-petropolis.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

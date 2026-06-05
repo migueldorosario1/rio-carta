@@ -4,7 +4,7 @@ description: "De acordo com o Projeto Costa do Sol de Defesa Civil, a quinta-fei
 pubDate: "2026-06-05T16:18:07Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "cabo-frio", "armacao-dos-buzios", "arraial-do-cabo", "previsao-do-tempo", "araruama", "lagoa", "buzios", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606051614-regiao-dos-lagos-segue-com-frio-chuva-e-alerta-de-ressaca-nesta-quinta-feira-21.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-regiao-dos-lagos-segue-com-frio-chuva-e-alerta-de-ressaca-nesta-quinta-feira-21.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Mais de 393 mil famílias deixaram o Bolsa Família no Rio de Jane
 pubDate: "2026-06-05T16:14:15Z"
 draft: true
 tags: ["rio-de-janeiro", "bolsa-familia", "assistencia-social", "politica-rj", "capital", "regiao-metropolitana", "joa", "duque-de-caxias", "nova-iguacu", "belford-roxo", "sao-joao-de-meriti", "mage", "sao-goncalo", "itaborai"]
-heroImage: "/hero/smoke-202606051614-mais-de-393-mil-familias-deixam-o-bolsa-familia-no-rio-apos-aumento-da-renda.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051614-mais-de-393-mil-familias-deixam-o-bolsa-familia-no-rio-apos-aumento-da-renda.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.
