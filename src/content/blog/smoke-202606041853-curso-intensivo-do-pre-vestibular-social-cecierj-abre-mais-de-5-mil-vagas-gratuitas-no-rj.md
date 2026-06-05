@@ -4,7 +4,7 @@ description: "O Curso Intensivo do Pré-Vestibular Social Cecierj está com insc
 pubDate: "2026-06-04T18:56:27Z"
 draft: false
 tags: ["rio-de-janeiro", "educacao", "pre-vestibular", "cecierj", "regiao-dos-lagos", "regiao-metropolitana", "saude"]
-heroImage: "/hero/smoke-202606041853-curso-intensivo-do-pre-vestibular-social-cecierj-abre-mais-de-5-mil-vagas-gratuitas-no-rj.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606041853-curso-intensivo-do-pre-vestibular-social-cecierj-abre-mais-de-5-mil-vagas-gratuitas-no-rj.webp"
 ---
 O Curso Intensivo do Pré-Vestibular Social Cecierj está com inscrições abertas para o novo processo seletivo, oferecendo 5. 305 vagas gratuitas em 65 polos distribuídos pelo estado do Rio de Janeiro.
 

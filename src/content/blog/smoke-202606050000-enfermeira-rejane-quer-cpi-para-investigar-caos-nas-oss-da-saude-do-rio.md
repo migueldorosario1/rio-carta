@@ -4,7 +4,7 @@ description: "A deputada federal Enfermeira Rejane (PCdoB-RJ) anunciou que prete
 pubDate: "2026-06-05T00:04:05Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "saude", "politica-rj", "regiao-metropolitana", "mage"]
-heroImage: "/hero/smoke-202606050000-enfermeira-rejane-quer-cpi-para-investigar-caos-nas-oss-da-saude-do-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606050000-enfermeira-rejane-quer-cpi-para-investigar-caos-nas-oss-da-saude-do-rio.jpg"
 ---
 A deputada federal Enfermeira Rejane (PCdoB-RJ) anunciou que pretende pressionar pela criação de uma Comissão Parlamentar de Inquérito (CPI) para investigar a atuação das organizações sociais responsáveis pela gestão de unidades públicas de saúde no Rio de Janeiro.
 
