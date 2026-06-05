@@ -848,7 +848,19 @@ if (commitAndPush) {
     'src/pages/tags/[tag].astro',
     ...changedArticleSet.map((file) => `src/content/blog/${file}`),
   ];
-  git(['add', ...changedFiles]);
+  for (const file of changedFiles) {
+    if (fs.existsSync(path.join(repo, file))) {
+      try {
+        git(['add', file]);
+      } catch {
+        try {
+          git(['add', '-f', file]);
+        } catch (forceError) {
+          console.warn(`Could not add file ${file}: ${forceError.message}`);
+        }
+      }
+    }
+  }
   const staged = git(['diff', '--cached', '--name-only']);
   if (staged) {
     const publishedTitles = publishSet.map((file) => path.basename(file, '.md')).join(', ');
