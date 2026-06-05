@@ -804,6 +804,18 @@ const changedArticleSet = auditCurrentOnly
   : [...new Set([...(reAuditVisible ? visible : []), ...nextBatch])];
 const publishSet = auditCurrentOnly ? visible : nextBatch;
 
+if (!auditCurrentOnly) {
+  try {
+    console.log('Migrando imagens hero para o Cloudflare R2 antes do build...');
+    const pythonBin = process.env.RIOCARTA_PYTHON || 'python3';
+    const migrationScript = path.join(repo, '..', 'root', 'riocarta_migrar_hero_r2.py');
+    execFileSync(pythonBin, [migrationScript, 'upload'], { cwd: repo, stdio: 'inherit' });
+    execFileSync(pythonBin, [migrationScript, 'rewrite'], { cwd: repo, stdio: 'inherit' });
+  } catch (err) {
+    console.error('Falha ao rodar riocarta_migrar_hero_r2.py:', err.message);
+  }
+}
+
 execFileSync('npm', ['run', 'build'], {
   cwd: repo,
   stdio: 'inherit',
