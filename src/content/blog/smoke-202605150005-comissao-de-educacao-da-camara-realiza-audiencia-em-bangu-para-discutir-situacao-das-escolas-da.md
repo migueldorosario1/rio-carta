@@ -4,7 +4,7 @@ description: "A Comissão de Educação da Câmara do Rio realiza, nesta sexta-f
 pubDate: "2026-05-15T03:05:25Z"
 draft: true
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "educacao", "camara-municipal", "rio-capital-zona-oeste", "politica-rj", "campo-grande", "deodoro", "guaratiba", "padre-miguel", "pedra-de-guaratiba", "realengo", "senador-camara"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150005-comissao-de-educacao-da-camara-realiza-audiencia-em-bangu-para-discutir-situacao-das-escolas-da.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-comissao-de-educacao-da-camara-realiza-audiencia-em-bangu-para-discutir-situacao-das-escolas-da.jpg"
 categoria_macro: politica
 ---
 A Comissão de Educação da Câmara do Rio realiza, nesta sexta-feira (15), uma audiência pública externa em Bangu para discutir a situação das escolas vinculadas à 8ª Coordenadoria Regional de Educação (CRE), uma das maiores da rede municipal.

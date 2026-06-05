@@ -4,7 +4,7 @@ description: "Rio Quer fazer mestrado? Sesc RJ abre vagas para curso preparatór
 pubDate: "2026-05-13T22:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "madureira", "zona-norte", "sesc-rj", "educacao", "mestrado", "curso-gratuito", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "sao-goncalo", "tijuca", "ramos", "duque-de-caxias"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131905-quer-fazer-mestrado-sesc-rj-abre-vagas-para-curso-preparatorio-gratuito-no-rio.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-quer-fazer-mestrado-sesc-rj-abre-vagas-para-curso-preparatorio-gratuito-no-rio.jpeg"
 categoria_macro: geral
 ---
 Rio

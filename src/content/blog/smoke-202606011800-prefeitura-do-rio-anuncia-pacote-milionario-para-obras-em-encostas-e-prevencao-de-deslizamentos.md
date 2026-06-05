@@ -4,7 +4,7 @@ description: "A Prefeitura do Rio anunciou nesta quarta-feira (20/05) a adesão 
 pubDate: "2026-06-01T18:02:03Z"
 draft: true
 tags: ["rio-de-janeiro", "prefeitura", "pac-encostas", "encostas", "prevencao", "politica-rj", "capital", "comunidade", "problemas-estruturais"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606011800-prefeitura-do-rio-anuncia-pacote-milionario-para-obras-em-encostas-e-prevencao-de-deslizamentos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-prefeitura-do-rio-anuncia-pacote-milionario-para-obras-em-encostas-e-prevencao-de-deslizamentos.jpg"
 ---
 A Prefeitura do Rio anunciou nesta quarta-feira (20/05) a adesão ao PAC Encostas, programa do governo federal voltado para obras de contenção e prevenção de desastres naturais em áreas de risco. O anúncio foi feito pelo prefeito Eduardo Cavaliere no Centro de Operações Rio.
 

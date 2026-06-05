@@ -4,7 +4,7 @@ description: "União de Maricá poderá receber até R$ 20 milhões após aprova
 pubDate: "2026-05-27T04:00:25Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-dos-lagos", "cultura-carnaval", "politica-rj", "regiao-metropolitana", "transporte-mobilidade", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605270400-uniao-de-marica-podera-receber-ate-r-20-milhoes-apos-aprovacao-de-projeto-na-camara.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605270400-uniao-de-marica-podera-receber-ate-r-20-milhoes-apos-aprovacao-de-projeto-na-camara.webp"
 ---
 A Câmara Municipal de Maricá aprovou, em primeira discussão nesta quinta-feira (22), o projeto enviado pela Prefeitura de Maricá que aumenta o limite anual de subvenção para escolas de samba da cidade que desfilarem no Grupo Especial do carnaval carioca. A proposta eleva o teto dos atuais R$ 8 milhões para até R$ 20 milhões por ano.
 

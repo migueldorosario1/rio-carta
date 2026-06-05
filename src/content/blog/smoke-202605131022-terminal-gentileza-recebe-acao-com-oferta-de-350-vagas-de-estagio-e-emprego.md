@@ -4,7 +4,7 @@ description: "O Terminal Gentileza receberá a Fundação Mudes, em parceria com
 pubDate: "2026-05-13T13:22:57Z"
 draft: true
 tags: ["rio-de-janeiro", "terminal-gentileza", "zona-portuaria", "emprego", "estagio", "mercado-de-trabalho", "rio-capital-centro", "capital", "seguranca-publica", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131022-terminal-gentileza-recebe-acao-com-oferta-de-350-vagas-de-estagio-e-emprego.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-terminal-gentileza-recebe-acao-com-oferta-de-350-vagas-de-estagio-e-emprego.jpg"
 categoria_macro: seguranca
 ---
 O Terminal Gentileza receberá a Fundação Mudes, em parceria com o VLT Carioca, na próxima quinta (14/05), das 8h às 14h, para a 3ª edição do Conecta Mudes. O evento oferecerá gratuitamente mais de 350 vagas de emprego, estágio e programas de formação, voltadas a jovens e adultos que buscam inserção ou recolocação no mercado de trabalho.

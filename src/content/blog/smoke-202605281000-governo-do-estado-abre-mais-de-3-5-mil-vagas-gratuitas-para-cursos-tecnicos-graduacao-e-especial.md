@@ -4,7 +4,7 @@ description: "Governo do Estado abre mais de 3,5 mil vagas gratuitas para cursos
 pubDate: "2026-05-28T10:00:26Z"
 draft: false
 tags: ["rio-de-janeiro", "faetec", "educacao", "governador-rj", "vagas-gratuitas", "sao-goncalo-itaborai", "regiao-metropolitana", "maracana", "mage", "sao-goncalo", "itaborai", "seguranca-publica", "saude", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605281000-governo-do-estado-abre-mais-de-3-5-mil-vagas-gratuitas-para-cursos-tecnicos-graduacao-e-especial.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605281000-governo-do-estado-abre-mais-de-3-5-mil-vagas-gratuitas-para-cursos-tecnicos-graduacao-e-especial.jpg"
 ---
 Processo seletivo da rede estadual oferece oportunidades em diversas áreas de formação, da educação profissional ao ensino superior
 

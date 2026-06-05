@@ -4,7 +4,7 @@ description: "A ministra da Cultura, Margareth Menezes, receberá no próximo di
 pubDate: "2026-05-30T22:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "lapa", "zona-centro", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "mare", "saude", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605302200-medalha-tiradentes-sera-entregue-a-ministra-margareth-menezes-no-circo-voador.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605302200-medalha-tiradentes-sera-entregue-a-ministra-margareth-menezes-no-circo-voador.png"
 ---
 A ministra da Cultura, Margareth Menezes, receberá no próximo dia 28 a Medalha Tiradentes, mais alta honraria concedida pela Assembleia Legislativa do Rio de Janeiro (Alerj). A cerimônia ocorrerá no Circo Voador, localizado na Lapa, e também marcará o reconhecimento do espaço como Patrimônio Cultural Imaterial do estado.
 

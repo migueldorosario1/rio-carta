@@ -4,7 +4,7 @@ description: "Caso Henry Borel: Justiça nega pedido da defesa de Jairinho para 
 pubDate: "2026-05-19T19:17:01Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "justica", "serrana", "regiao-metropolitana", "joa", "petropolis", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-caso-henry-borel-justica-nega-pedido-da-defesa-de-jairinho-para-adiar-julgamento.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-caso-henry-borel-justica-nega-pedido-da-defesa-de-jairinho-para-adiar-julgamento.jpg"
 ---
 O Tribunal de Justiça do Rio de Janeiro (TJ-RJ) negou um pedido da defesa do ex-vereador Jairo Souza Santos Júnior, o Dr. Jairinho, para adiar o julgamento marcado para o dia 25 de maio.
 

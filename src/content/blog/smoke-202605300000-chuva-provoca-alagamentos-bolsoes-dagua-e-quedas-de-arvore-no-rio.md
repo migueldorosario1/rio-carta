@@ -4,7 +4,7 @@ description: "A chuva que atinge o Rio e a Região Metropolitana na manhã desta
 pubDate: "2026-05-30T00:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "sepetiba", "sao-cristovao", "grande-meier", "madureira", "del-castilho", "vasco-da-gama", "estacio", "laranjeiras", "catete", "mangueira", "trinta-e-um-de-marco", "caribu", "gabinal"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605300000-chuva-provoca-alagamentos-bolsoes-dagua-e-quedas-de-arvore-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605300000-chuva-provoca-alagamentos-bolsoes-dagua-e-quedas-de-arvore-no-rio.jpg"
 ---
 A chuva que atinge o Rio e a Região Metropolitana na manhã desta quarta-feira (20) provocou bolsões d’água, alagamentos e alterou a dinâmica na rotina de quem trafega pela cidade, principalmente nas zonas Norte, Sul e Sudoeste. Segundo o Centro de Operações Rio (COR-Rio), núcleos de chuva atuam em várias regiões da capital ao longo desta manhã.
 

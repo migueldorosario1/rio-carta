@@ -4,7 +4,7 @@ description: "As sanções ao homem autointitulado Justiceiro de Copacabana Will
 pubDate: "2026-05-22T00:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "ipanema", "rocha", "mesquita", "mage", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605220023-as-sancoes-ao-homem-autointitulado-justiceiro-de-copacabana.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220023-as-sancoes-ao-homem-autointitulado-justiceiro-de-copacabana.jpg"
 ---
 William Correia é apontado pelo Ministério Público como fundador e chefe do grupo “Anjos da Guarda Vigilância Comunitária” (AGVC)
 

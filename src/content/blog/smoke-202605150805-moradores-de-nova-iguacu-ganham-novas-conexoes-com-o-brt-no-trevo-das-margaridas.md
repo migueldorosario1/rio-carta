@@ -4,7 +4,7 @@ description: "Seis novas linhas intermunicipais com origem em Nova Iguaçu passa
 pubDate: "2026-05-15T11:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "brt", "transporte-publico", "trevo-das-margaridas", "capital", "regiao-metropolitana", "cacuia", "iraja", "baixada", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150805-moradores-de-nova-iguacu-ganham-novas-conexoes-com-o-brt-no-trevo-das-margaridas.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150805-moradores-de-nova-iguacu-ganham-novas-conexoes-com-o-brt-no-trevo-das-margaridas.jpeg"
 categoria_macro: geral
 ---
 Seis novas linhas intermunicipais com origem em Nova Iguaçu passam a operar, a partir deste sábado, 16 de maio, no Terminal BRT Metropolitano, no Trevo das Margaridas, em Irajá. A mudança amplia a integração entre a Baixada Fluminense e o sistema de transporte do Rio de Janeiro.

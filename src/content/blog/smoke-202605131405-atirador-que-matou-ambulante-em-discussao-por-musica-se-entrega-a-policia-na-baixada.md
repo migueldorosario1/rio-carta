@@ -4,7 +4,7 @@ description: "Antônio Marcos Silva, suspeito de matar a ambulante Cristiane Lir
 pubDate: "2026-05-13T17:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "homicidio", "seguranca-publica", "politica-rj", "regiao-metropolitana", "baixada", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131405-atirador-que-matou-ambulante-em-discussao-por-musica-se-entrega-a-policia-na-baixada.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131405-atirador-que-matou-ambulante-em-discussao-por-musica-se-entrega-a-policia-na-baixada.jpg"
 categoria_macro: politica
 ---
 Antônio Marcos Silva, suspeito de matar a ambulante Cristiane Lira de Araújo, de 40 anos, se apresentou à Delegacia de Homicídios da Baixada Fluminense (DHBF) nesta quarta-feira (13). Ele chegou acompanhado de um advogado para prestar depoimento sobre o crime ocorrido no último sábado (9), em Belford Roxo, na Baixada Fluminense.

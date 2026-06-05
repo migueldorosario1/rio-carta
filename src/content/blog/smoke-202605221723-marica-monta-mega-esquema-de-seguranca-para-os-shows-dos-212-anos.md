@@ -4,7 +4,7 @@ description: "Maricá 212 AnosNotícias de MaricáSegurança Maricá monta mega 
 pubDate: "2026-05-22T17:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "barra-de-marica", "seguranca-publica", "regiao-metropolitana", "penha", "transporte-mobilidade", "saude", "cultura-carnaval", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605221723-marica-monta-mega-esquema-de-seguranca-para-os-shows-dos-212-anos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221723-marica-monta-mega-esquema-de-seguranca-para-os-shows-dos-212-anos.jpg"
 ---
 Maricá 212 AnosNotícias de MaricáSegurança
 

@@ -4,7 +4,7 @@ description: "O presidente Luiz Inácio Lula da Silva e o ministro da Saúde Ale
 pubDate: "2026-05-15T22:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "saude", "sus", "oncologia", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605152223-governo-anuncia-r-2-2-bi-para-tratamentos-contra-o-cancer-pelo-sus.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605152223-governo-anuncia-r-2-2-bi-para-tratamentos-contra-o-cancer-pelo-sus.webp"
 categoria_macro: servicos
 ---
 O presidente Luiz Inácio Lula da Silva e o ministro da Saúde Alexandre Padilha anunciaram nesta sexta-feira (15) um investimento de R$ 2,2 bilhões para ampliar o atendimento oncológico pelo Sistema Único de Saúde (SUS). De acordo com o governo federal, trata-se do maior aporte já realizado na área dentro da rede pública.

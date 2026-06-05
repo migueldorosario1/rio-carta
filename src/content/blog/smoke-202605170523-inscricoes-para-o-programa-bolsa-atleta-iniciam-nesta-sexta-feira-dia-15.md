@@ -4,7 +4,7 @@ description: "Iniciativa apoia atletas de rendimento de Rio das Ostras Iniciam n
 pubDate: "2026-05-17T05:23:16Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "educacao", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "mage", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170523-inscricoes-para-o-programa-bolsa-atleta-iniciam-nesta-sexta-feira-dia-15.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170523-inscricoes-para-o-programa-bolsa-atleta-iniciam-nesta-sexta-feira-dia-15.jpeg"
 ---
 Iniciativa apoia atletas de rendimento de Rio das Ostras
 

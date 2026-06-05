@@ -4,7 +4,7 @@ description: "VOLTA REDONDA Policiais do Grupamento de Ações Táticas (GAT) do
 pubDate: "2026-05-14T02:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "bairro-santa-cruz", "trafico-de-drogas", "seguranca-publica", "sul-fluminense", "sul-fluminense-costa-verde", "santa-cruz", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132305-homem-e-preso-com-grande-quantidade-de-drogas-em-condominio-de-volta-redonda.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-homem-e-preso-com-grande-quantidade-de-drogas-em-condominio-de-volta-redonda.jpeg"
 categoria_macro: seguranca
 ---
 VOLTA REDONDA

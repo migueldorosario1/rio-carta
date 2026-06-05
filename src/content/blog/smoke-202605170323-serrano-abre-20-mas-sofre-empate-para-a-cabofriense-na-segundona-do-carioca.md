@@ -4,7 +4,7 @@ description: "Serrano abre 2×0, mas sofre empate para a Cabofriense na Segundon
 pubDate: "2026-05-17T03:24:09Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "serrana", "regiao-metropolitana", "sao-goncalo", "bonsucesso", "olaria", "marica", "cabo-frio", "araruama", "resende"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170323-serrano-abre-20-mas-sofre-empate-para-a-cabofriense-na-segundona-do-carioca.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-serrano-abre-20-mas-sofre-empate-para-a-cabofriense-na-segundona-do-carioca.png"
 ---
 O Serrano deixou escapar dois pontos importantes, na tarde deste sábado (16), em duelo contra a Cabofriense, fora de casa, pela 4ª rodada da Série A2 do Campeonato Carioca. O Leão da Serra chegou a abrir 2×0 no placar, ainda na primeira etapa, mas viu a equipe adversária chegar ao empate na reta final da partida.
 

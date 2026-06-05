@@ -4,7 +4,7 @@ description: "A Inocentes de Belford Roxo anunciou o enredo que defenderá na Ma
 pubDate: "2026-06-04T18:55:21Z"
 draft: false
 tags: ["rio-de-janeiro", "belford-roxo", "inocentes-de-belford-roxo", "carnaval-2027", "sapucai", "cultura-carnaval", "regiao-metropolitana", "comunidade", "baixada", "educacao"]
-heroImage: "/hero/smoke-smoke-202606041853-carybe-sera-o-enredo-da-inocentes-de-belford-roxo-no-carnaval-2027.jpg"
+heroImage: "/hero/smoke-202606041853-carybe-sera-o-enredo-da-inocentes-de-belford-roxo-no-carnaval-2027.jpg"
 ---
 A Inocentes de Belford Roxo anunciou o enredo que defenderá na Marquês de Sapucaí no Carnaval 2027. A escola da Baixada Fluminense vai homenagear o artista plástico Hector Julio Páride Bernabó, eternizado como Carybé, um dos maiores expoentes das artes visuais brasileiras e referência na representação da cultura afro-brasileira.
 

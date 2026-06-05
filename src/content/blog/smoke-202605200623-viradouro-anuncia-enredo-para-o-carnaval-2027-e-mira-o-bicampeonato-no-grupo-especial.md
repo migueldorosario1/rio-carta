@@ -4,7 +4,7 @@ description: "Atual campeã do Grupo Especial do Rio de Janeiro, a Unidos do Vir
 pubDate: "2026-05-20T06:23:22Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "zona-norte", "cultura-carnaval", "regiao-metropolitana", "joa", "comunidade", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200623-viradouro-anuncia-enredo-para-o-carnaval-2027-e-mira-o-bicampeonato-no-grupo-especial.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200623-viradouro-anuncia-enredo-para-o-carnaval-2027-e-mira-o-bicampeonato-no-grupo-especial.jpg"
 ---
 Atual campeã do Grupo Especial do Rio de Janeiro, a Unidos do Viradouro já iniciou a caminhada rumo ao Carnaval 2027 e vai em busca do bicampeonato com um enredo de forte ligação com a ancestralidade africana e a tradição oral. A vermelho e branco de Niterói anunciou, por meio de publicação nas redes sociais, o tema que será desenvolvido pelo carnavalesco Tarcísio Zanon e pelo enredista João Gustavo Melo.
 

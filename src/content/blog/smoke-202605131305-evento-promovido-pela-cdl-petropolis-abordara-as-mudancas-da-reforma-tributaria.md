@@ -4,7 +4,7 @@ description: "A poucos meses do início da fase de transição da Reforma Tribut
 pubDate: "2026-05-13T16:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "reforma-tributaria", "cdl", "comercio", "serrana", "regiao-metropolitana", "leme", "complexo", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131305-evento-promovido-pela-cdl-petropolis-abordara-as-mudancas-da-reforma-tributaria.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-evento-promovido-pela-cdl-petropolis-abordara-as-mudancas-da-reforma-tributaria.jpeg"
 categoria_macro: politica
 ---
 A poucos meses do início da fase de transição da Reforma Tributária, empresários de diferentes setores ainda tentam compreender, na prática, como as mudanças irão impactar o caixa, a formação de preços, os contratos e a rotina financeira das empresas. Em meio a um dos temas mais complexos do ambiente econômico brasileiro, a Câmara de Dirigentes Lojistas de Petrópolis (CDL) promove, na quinta-feira (14), um encontro voltado justamente a traduzir os efeitos da nova legislação para o comércio e os pequenos negócios.

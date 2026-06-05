@@ -4,7 +4,7 @@ description: "O samba perdeu neste domingo (17) um de seus nomes mais importante
 pubDate: "2026-05-21T07:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "cultura-carnaval", "capital", "sao-cristovao", "maracana", "madureira", "padre-miguel", "comunidade", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605210723-morre-noca-da-portela-baluarte-do-samba-aos-93-anos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210723-morre-noca-da-portela-baluarte-do-samba-aos-93-anos.jpg"
 ---
 O samba perdeu neste domingo (17) um de seus nomes mais importantes. Noca da Portela morreu aos 93 anos, no Hospital Assim Medical, em São Cristóvão, na Zona Norte do Rio.
 

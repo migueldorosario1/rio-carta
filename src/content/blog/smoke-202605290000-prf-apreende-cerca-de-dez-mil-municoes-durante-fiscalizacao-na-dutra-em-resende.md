@@ -4,7 +4,7 @@ description: "RESENDE A Polícia Rodoviária Federal (PRF) apreendeu um carregam
 pubDate: "2026-05-29T00:00:28Z"
 draft: false
 tags: ["rio-de-janeiro", "resende", "sul-fluminense", "rodovia-dutra", "prf", "apreensao-municao", "sul-fluminense-costa-verde", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605290000-prf-apreende-cerca-de-dez-mil-municoes-durante-fiscalizacao-na-dutra-em-resende.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605290000-prf-apreende-cerca-de-dez-mil-municoes-durante-fiscalizacao-na-dutra-em-resende.jpeg"
 ---
 RESENDE
 

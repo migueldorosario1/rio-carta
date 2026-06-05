@@ -4,7 +4,7 @@ description: "RECEBEU DOUGLAS RUAS A coluna Boca Miúda desta sexta-feira (15) c
 pubDate: "2026-05-16T20:25:17Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162023-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-sexta-feira-15.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-sexta-feira-15.webp"
 ---
 RECEBEU DOUGLAS RUAS
 

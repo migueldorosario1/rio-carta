@@ -4,7 +4,7 @@ description: "Argentino procurado pela Interpol é preso em Búzios No Brasil, o
 pubDate: "2026-05-13T15:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "buzios", "regiao-dos-lagos", "policia-federal", "interpol", "seguranca-publica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131205-argentino-procurado-pela-interpol-e-preso-em-buzios.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131205-argentino-procurado-pela-interpol-e-preso-em-buzios.jpg"
 categoria_macro: seguranca
 ---
 Argentino procurado pela Interpol é preso em Búzios

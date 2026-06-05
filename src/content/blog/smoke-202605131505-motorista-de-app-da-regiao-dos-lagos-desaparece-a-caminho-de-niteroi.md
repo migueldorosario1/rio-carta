@@ -4,7 +4,7 @@ description: "Sem informações sobre o paradeiro da motorista de aplicativo Van
 pubDate: "2026-05-13T18:05:32Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "araruama", "niteroi", "saquarema", "desaparecimento", "motorista-de-app", "seguranca", "niteroi-metropolitana", "regiao-metropolitana", "sao-goncalo", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131505-motorista-de-app-da-regiao-dos-lagos-desaparece-a-caminho-de-niteroi.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-motorista-de-app-da-regiao-dos-lagos-desaparece-a-caminho-de-niteroi.png"
 categoria_macro: seguranca
 ---
 Sem informações sobre o paradeiro da motorista de aplicativo Vanessa Amaral, de 40 anos, familiares e amigos vivem momentos de desespero após o desaparecimento da mulher no último domingo (11). Segundo a família, Vanessa saiu de Araruama, na Região dos Lagos, com destino a um evento em Niterói, na Região Metropolitana do Rio.

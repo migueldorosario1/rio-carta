@@ -4,7 +4,7 @@ description: "Conservatória, distrito de Valença, no Vale do Café, recebe de 
 pubDate: "2026-05-15T10:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "conservatoria", "valenca", "vale-do-cafe", "sul-fluminense", "cultura", "sul-fluminense-costa-verde", "capital", "saude", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150705-conservatoria-recebe-3a-mostra-arte-sonora-com-musica-teatro-e-cultura-no-vale-do-cafe.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150705-conservatoria-recebe-3a-mostra-arte-sonora-com-musica-teatro-e-cultura-no-vale-do-cafe.jpg"
 categoria_macro: lazer
 ---
 Conservatória, distrito de Valença, no Vale do Café, recebe de 14 a 31 de maio a 3ª Mostra Arte Sonora, com uma programação que reúne música, teatro, ópera, ballet, cortejo e atrações gratuitas. O evento acontece no Teatro Sonora e também ocupa as ruas do distrito, conhecido pela tradição da seresta.

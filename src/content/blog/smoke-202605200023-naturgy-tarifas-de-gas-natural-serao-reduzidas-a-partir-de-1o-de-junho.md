@@ -4,7 +4,7 @@ description: "Rio Naturgy: Tarifas de gás natural serão reduzidas a partir de 
 pubDate: "2026-05-20T00:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "energia", "economia", "economia-local", "capital-estado", "regiao-metropolitana", "complexo", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200023-naturgy-tarifas-de-gas-natural-serao-reduzidas-a-partir-de-1o-de-junho.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200023-naturgy-tarifas-de-gas-natural-serao-reduzidas-a-partir-de-1o-de-junho.jpg"
 ---
 Rio
 

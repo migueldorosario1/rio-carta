@@ -4,7 +4,7 @@ description: "Em Guapimirim, a abertura da Temporada de Montanhismo do Parque Na
 pubDate: "2026-05-13T11:05:07Z"
 draft: true
 tags: ["rio-de-janeiro", "guapimirim", "regiao-serrana", "turismo", "montanhismo", "parque-nacional-da-serra-dos-orgaos", "pedra-do-sino", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130805-guapimirim-abre-temporada-de-montanhismo-no-aniversario-de185-anos-da-pedra-do-sino.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-guapimirim-abre-temporada-de-montanhismo-no-aniversario-de185-anos-da-pedra-do-sino.jpg"
 categoria_macro: lazer
 ---
 Em Guapimirim, a abertura da Temporada de Montanhismo do Parque Nacional da Serra dos Órgãos será realizada na sede local do parque, marcando a primeira vez que o município recebe a programação oficial. O evento integra celebrações relacionadas aos 185 anos da Trilha da Pedra do Sino, ponto mais alto da serra com 2.

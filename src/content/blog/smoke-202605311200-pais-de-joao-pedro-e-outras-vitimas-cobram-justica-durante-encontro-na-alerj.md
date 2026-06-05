@@ -4,7 +4,7 @@ description: "O silêncio carregado de lembranças e pedidos por justiça tomou 
 pubDate: "2026-05-31T12:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "seguranca-publica", "politica-rj", "regiao-metropolitana", "sao-goncalo", "centro-do-rio", "joa", "complexo", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605311200-pais-de-joao-pedro-e-outras-vitimas-cobram-justica-durante-encontro-na-alerj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605311200-pais-de-joao-pedro-e-outras-vitimas-cobram-justica-durante-encontro-na-alerj.jpg"
 ---
 O silêncio carregado de lembranças e pedidos por justiça tomou conta da Assembleia Legislativa do Rio nesta segunda-feira (18), data em que é celebrado o Dia de Luta Jovem Preto Vivo.
 

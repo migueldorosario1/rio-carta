@@ -4,7 +4,7 @@ description: "Rio Líder do tráfico do Buraco do Boi é neutralizado em Nova Ig
 pubDate: "2026-05-13T16:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "buraco-do-boi", "trafico", "seguranca-publica", "capital-estado", "regiao-metropolitana", "comunidade", "baixada", "problemas-estruturais", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131305-lider-do-trafico-do-buraco-do-boi-e-neutralizado-em-nova-iguacu.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-lider-do-trafico-do-buraco-do-boi-e-neutralizado-em-nova-iguacu.jpg"
 categoria_macro: seguranca
 ---
 Rio

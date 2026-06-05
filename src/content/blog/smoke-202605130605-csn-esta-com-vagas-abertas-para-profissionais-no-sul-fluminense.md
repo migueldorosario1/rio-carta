@@ -4,7 +4,7 @@ description: "SUL FLUMINENSE A Companhia Siderúrgica Nacional (CSN) está com p
 pubDate: "2026-05-13T09:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "volta-redonda", "porto-real", "resende", "valenca", "csn", "vagas", "emprego", "estagio", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130605-csn-esta-com-vagas-abertas-para-profissionais-no-sul-fluminense.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130605-csn-esta-com-vagas-abertas-para-profissionais-no-sul-fluminense.jpg"
 categoria_macro: geral
 ---
 SUL FLUMINENSE

@@ -4,7 +4,7 @@ description: "VALENÇA A solidariedade também foi protagonista durante a 19ª E
 pubDate: "2026-05-29T06:00:28Z"
 draft: false
 tags: ["rio-de-janeiro", "sul-fluminense", "valenca", "solidariedade", "exposicao-agropecuaria", "sul-fluminense-costa-verde", "cultura-carnaval", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605290600-quase-1-6-tonelada-de-alimentos-foi-arrecadada-duante-a-exposicao-agropecuaria-de-valenca.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605290600-quase-1-6-tonelada-de-alimentos-foi-arrecadada-duante-a-exposicao-agropecuaria-de-valenca.jpeg"
 ---
 VALENÇA
 

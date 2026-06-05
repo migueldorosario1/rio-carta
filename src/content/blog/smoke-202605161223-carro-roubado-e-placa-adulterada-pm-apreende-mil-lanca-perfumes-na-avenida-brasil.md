@@ -4,7 +4,7 @@ description: "Rio Carro roubado e placa adulterada: PM apreende mil lança-perfu
 pubDate: "2026-05-16T12:24:10Z"
 draft: false
 tags: ["rio-de-janeiro", "avenida-brasil", "caju", "seguranca-publica", "capital-estado", "sao-cristovao", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161223-carro-roubado-e-placa-adulterada-pm-apreende-mil-lanca-perfumes-na-avenida-brasil.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161223-carro-roubado-e-placa-adulterada-pm-apreende-mil-lanca-perfumes-na-avenida-brasil.jpg"
 categoria_macro: seguranca
 ---
 Rio

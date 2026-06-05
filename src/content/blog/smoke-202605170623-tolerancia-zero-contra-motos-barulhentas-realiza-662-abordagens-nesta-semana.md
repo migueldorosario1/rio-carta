@@ -4,7 +4,7 @@ description: "Ações aconteceram nos bairros do Mutondo e Alcântara A Operaç�
 pubDate: "2026-05-17T06:23:30Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade", "educacao", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170623-tolerancia-zero-contra-motos-barulhentas-realiza-662-abordagens-nesta-semana.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170623-tolerancia-zero-contra-motos-barulhentas-realiza-662-abordagens-nesta-semana.jpg"
 ---
 Ações aconteceram nos bairros do Mutondo e Alcântara
 

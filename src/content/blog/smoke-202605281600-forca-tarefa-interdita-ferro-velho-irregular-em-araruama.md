@@ -4,7 +4,7 @@ description: "Força-tarefa interdita ferro-velho irregular em Araruama Comérci
 pubDate: "2026-05-28T16:01:21Z"
 draft: false
 tags: ["rio-de-janeiro", "araruama", "regiao-dos-lagos", "fiscalizacao", "detran-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605281600-forca-tarefa-interdita-ferro-velho-irregular-em-araruama.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605281600-forca-tarefa-interdita-ferro-velho-irregular-em-araruama.jpg"
 ---
 Comércio já havia sido fechado em 2024 e voltou a funcionar clandestinamente
 

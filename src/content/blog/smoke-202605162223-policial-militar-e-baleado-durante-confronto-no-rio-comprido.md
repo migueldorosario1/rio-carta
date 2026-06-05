@@ -4,7 +4,7 @@ description: "Policial militar é baleado durante confronto no Rio Comprido Mora
 pubDate: "2026-05-16T22:24:20Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-comprido", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "estacio", "sao-cristovao", "comunidade", "sao-goncalo", "itaborai", "petropolis", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162223-policial-militar-e-baleado-durante-confronto-no-rio-comprido.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-policial-militar-e-baleado-durante-confronto-no-rio-comprido.jpg"
 ---
 Moradores prestaram socorro ao agente
 

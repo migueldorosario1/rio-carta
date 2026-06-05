@@ -4,7 +4,7 @@ description: "Investigação afirma que ex-presidente da Alerj influenciava nome
 pubDate: "2026-05-21T02:23:05Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "alerj", "rodrigo-bacellar", "claudio-castro", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605210223-pf-aponta-bacellar-como-eixo-de-poder-no-governo-do-rio.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210223-pf-aponta-bacellar-como-eixo-de-poder-no-governo-do-rio.png"
 ---
 Investigação afirma que ex-presidente da Alerj influenciava nomeações no primeiro escalão de Cláudio Castro e ampliou controle político sobre áreas estratégicas do Estado
 

@@ -4,7 +4,7 @@ description: "Para enfrentar um dos maiores desafios sanitários da atualidade, 
 pubDate: "2026-05-16T13:24:13Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "saude", "norte-noroeste-fluminense", "leme", "noroeste-fluminense", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161323-deputado-federal-ricardo-abrao-propoe-o-fim-das-filas-da-bariatrica-com-oferta-de-canetas-emagre.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161323-deputado-federal-ricardo-abrao-propoe-o-fim-das-filas-da-bariatrica-com-oferta-de-canetas-emagre.jpg"
 categoria_macro: politica
 ---
 Para enfrentar um dos maiores desafios sanitários da atualidade, o Deputado Federal Ricardo Abrão (PSDB/RJ) apresentou o Projeto de Lei 445/2026, que institui a Política Nacional de Ampliação do Tratamento Farmacológico da Obesidade.

@@ -4,7 +4,7 @@ description: "A inauguração das obras de reforma e revitalização do Píer do
 pubDate: "2026-05-15T05:05:36Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "prefeito", "obras", "turismo", "macae-norte-fluminense", "norte-fluminense", "saude", "cultura-carnaval", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150205-prefeito-de-rio-das-ostras-anuncia-reinauguracao-do-pier-de-costazul-para-4-de-junho.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150205-prefeito-de-rio-das-ostras-anuncia-reinauguracao-do-pier-de-costazul-para-4-de-junho.jpg"
 categoria_macro: politica
 ---
 A inauguração das obras de reforma e revitalização do Píer do Emissário de Costazul teve sua data definida para o próximo dia 4 de junho, mesmo dia do início do Rio das Ostras Jazz & Blues Festival, que acontece entre os dias 4 e 9 de junho.

@@ -4,7 +4,7 @@ description: "(2"
 pubDate: "2026-06-01T18:00:13Z"
 draft: true
 tags: ["rio-de-janeiro", "taquara", "freguesia", "catumbi", "vasco-da-gama", "rio-capital-zona-oeste", "capital", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606011800-mais-de-2000-raios-atingem-o-rio-em-dia-de-tempestade-veja-a-previsao.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-mais-de-2000-raios-atingem-o-rio-em-dia-de-tempestade-veja-a-previsao.jpg"
 ---
 Mais de 2000 raios atingem o Rio em dia de tempestade; veja a previsão
 

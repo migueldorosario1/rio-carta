@@ -4,7 +4,7 @@ description: "Na semana de aniversário da PMERJ, Douglas Ruas participa da entr
 pubDate: "2026-05-16T17:23:15Z"
 draft: false
 tags: ["rio-de-janeiro", "seguranca-publica", "sao-goncalo-itaborai", "regiao-metropolitana", "penha", "sao-goncalo", "itaborai", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161723-na-semana-de-aniversario-da-pmerj-douglas-ruas-participa-da-entrega-de-mais-de-900-fuzis-e-novos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161723-na-semana-de-aniversario-da-pmerj-douglas-ruas-participa-da-entrega-de-mais-de-900-fuzis-e-novos.jpg"
 ---
 Para Douglas Ruas, o investimento representa o reconhecimento ao trabalho desempenhado diariamente pela corporação e o fortalecimento da política de segurança pública no estado
 

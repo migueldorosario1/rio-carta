@@ -4,7 +4,7 @@ description: "Maricá: Feira da Agricultura Familiar leva produtos orgânicos e 
 pubDate: "2026-05-16T22:24:20Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "aracatiba", "sul-fluminense-costa-verde", "regiao-metropolitana", "saude", "educacao", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162223-marica-feira-da-agricultura-familiar-leva-produtos-organicos-e-gastronomia-artesanal-a-aracatiba.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-marica-feira-da-agricultura-familiar-leva-produtos-organicos-e-gastronomia-artesanal-a-aracatiba.jpg"
 ---
 A Maricá recebe neste sábado (16) mais uma edição da Feira da Agricultura Familiar, promovida pela Secretaria de Agricultura e Pecuária de Maricá. O evento acontece das 8h às 14h na Praça Agroecológica de Araçatiba e reunirá produtores rurais, agricultores familiares e expositores do município.
 

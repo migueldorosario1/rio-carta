@@ -4,7 +4,7 @@ description: "Clin promove atividades especiais em comemoração ao Dia do Gari 
 pubDate: "2026-05-16T10:23:57Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "dia-do-gari", "regiao-metropolitana", "sao-goncalo-itaborai", "complexo", "sao-goncalo", "itaborai", "saude", "educacao", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161023-clin-promove-atividades-especiais-em-comemoracao-ao-dia-do-gari.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161023-clin-promove-atividades-especiais-em-comemoracao-ao-dia-do-gari.jpg"
 categoria_macro: lazer
 ---
 Atividades esportivas, recreação, música e ações de integração celebraram os profissionais da limpeza urbana no Complexo Esportivo de Niterói

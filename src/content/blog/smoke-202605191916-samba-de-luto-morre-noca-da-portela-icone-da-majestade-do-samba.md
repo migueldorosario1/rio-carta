@@ -4,7 +4,7 @@ description: "O samba perdeu neste domingo um de seus maiores nomes. Morreu o ca
 pubDate: "2026-05-19T19:16:57Z"
 draft: false
 tags: ["rio-de-janeiro", "cultura-carnaval", "madureira", "oswaldo-cruz", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-samba-de-luto-morre-noca-da-portela-icone-da-majestade-do-samba.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-samba-de-luto-morre-noca-da-portela-icone-da-majestade-do-samba.jpg"
 ---
 O samba perdeu neste domingo um de seus maiores nomes. Morreu o cantor, compositor e instrumentista Noca da Portela, referência histórica da música popular brasileira e um dos autores mais vitoriosos da história da Portela.
 

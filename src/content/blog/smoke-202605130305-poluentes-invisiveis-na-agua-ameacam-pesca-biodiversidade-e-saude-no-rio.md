@@ -4,7 +4,7 @@ description: "Poluentes invisíveis na água ameaçam pesca, biodiversidade e sa
 pubDate: "2026-05-13T06:05:17Z"
 draft: false
 tags: ["rio-de-janeiro", "poluicao", "agua", "pesca", "biodiversidade", "saude", "unirio", "faperj", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "lagoa", "sao-goncalo", "itaborai"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130305-poluentes-invisiveis-na-agua-ameacam-pesca-biodiversidade-e-saude-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-poluentes-invisiveis-na-agua-ameacam-pesca-biodiversidade-e-saude-no-rio.jpg"
 categoria_macro: politica
 ---
 Poluentes invisíveis na água ameaçam pesca, biodiversidade e saúde no Rio

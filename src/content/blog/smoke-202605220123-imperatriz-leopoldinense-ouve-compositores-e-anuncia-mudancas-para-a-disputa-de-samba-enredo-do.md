@@ -4,7 +4,7 @@ description: "Sempre pautada pelo diálogo e pela valorização de seus poetas, 
 pubDate: "2026-05-22T01:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "imperatriz-leopoldinense", "ramos", "carnaval-2027", "samba-enredo", "zona-norte", "cultura-carnaval", "pilares", "comunidade", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605220123-imperatriz-leopoldinense-ouve-compositores-e-anuncia-mudancas-para-a-disputa-de-samba-enredo-do.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605220123-imperatriz-leopoldinense-ouve-compositores-e-anuncia-mudancas-para-a-disputa-de-samba-enredo-do.jpg"
 ---
 Sempre pautada pelo diálogo e pela valorização de seus poetas, a Imperatriz Leopoldinense utilizou suas redes sociais para anunciar um pacote de novidades e reformulações profundas no processo de escolha de seu samba-enredo para o Carnaval 2027. As medidas foram definidas após um encontro estratégico promovido entre a diretoria e a ala de compositores da agremiação, onde sugestões, opiniões e reflexões foram ouvidas e transformadas em ações práticas.
 

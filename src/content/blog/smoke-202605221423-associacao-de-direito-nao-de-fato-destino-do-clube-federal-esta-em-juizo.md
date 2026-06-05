@@ -4,7 +4,7 @@ description: "Associação de direito, não de fato: destino do Clube Federal es
 pubDate: "2026-05-22T14:25:01Z"
 draft: false
 tags: ["rio-de-janeiro", "leblon", "clubefederal", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "lagoa", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605221423-associacao-de-direito-nao-de-fato-destino-do-clube-federal-esta-em-juizo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221423-associacao-de-direito-nao-de-fato-destino-do-clube-federal-esta-em-juizo.jpg"
 ---
 Após longa crise institucional, decisão judicial determina convocação de eleições; movimento que pode influenciar a recuperação de outras agremiações cariocas
 

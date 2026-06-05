@@ -4,7 +4,7 @@ description: "Rio Mais de 1,4 milhão de famílias recebem Bolsa Família no RJ 
 pubDate: "2026-05-19T19:16:59Z"
 draft: false
 tags: ["rio-de-janeiro", "bolsa-familia", "assistencia-social", "saude", "capital-estado", "regiao-metropolitana", "leme", "joa", "duque-de-caxias", "nova-iguacu", "belford-roxo", "sao-joao-de-meriti", "mesquita", "sao-goncalo"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-mais-de-1-4-milhao-de-familias-recebem-bolsa-familia-no-rj-em-maio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-mais-de-1-4-milhao-de-familias-recebem-bolsa-familia-no-rj-em-maio.jpg"
 ---
 Rio
 

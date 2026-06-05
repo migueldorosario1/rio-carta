@@ -4,7 +4,7 @@ description: "Maricá: Pacientes relatam risco de ficar sem medicação em posto
 pubDate: "2026-05-21T16:25:28Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "cordeirinho", "regiao-metropolitana", "saude", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211623-marica-pacientes-relatam-risco-de-ficar-sem-medicacao-em-posto-de-cordeirinho-entenda.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211623-marica-pacientes-relatam-risco-de-ficar-sem-medicacao-em-posto-de-cordeirinho-entenda.jpg"
 ---
 Moradores de Marinelândia, em Cordeirinho, distrito de Maricá, relataram dificuldades para conseguir a renovação de receitas médicas na unidade de saúde da região.
 

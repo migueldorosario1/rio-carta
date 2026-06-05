@@ -4,7 +4,7 @@ description: "O “Maio Laranja”, mês de combate ao abuso e à exploração s
 pubDate: "2026-05-13T20:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "baixada-fluminense", "maio-laranja", "abuso-infantil", "cultura", "projeto-social", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "comunidade", "baixada", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131705-maio-laranja-projetos-culturais-na-baixada-se-tornam-escudo-contra-o-abuso-infantil.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-maio-laranja-projetos-culturais-na-baixada-se-tornam-escudo-contra-o-abuso-infantil.jpg"
 categoria_macro: lazer
 ---
 O “Maio Laranja”, mês de combate ao abuso e à exploração sexual de crianças e adolescentes, ganha um contorno de urgência em 2026. Dados do Disque 100 revelam que o Brasil registrou mais de 32,7 mil violações sexuais contra menores apenas entre janeiro e abril deste ano — uma alta assustadora de 49,48% comparado ao mesmo período de 2025.

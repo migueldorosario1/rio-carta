@@ -4,7 +4,7 @@ description: "A Unidos de Vila Isabel anunciou nesta quarta-feira (13/05) o enre
 pubDate: "2026-05-13T22:05:36Z"
 draft: true
 tags: ["rio-de-janeiro", "vila-isabel", "zona-norte", "carnaval", "cultura", "cultura-e-carnaval-rj", "capital", "abolicao", "educacao", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131905-vila-isabel-anuncia-enredo-inspirado-em-torto-arado-para-o-carnaval-2027.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-vila-isabel-anuncia-enredo-inspirado-em-torto-arado-para-o-carnaval-2027.webp"
 categoria_macro: lazer
 ---
 A Unidos de Vila Isabel anunciou nesta quarta-feira (13/05) o enredo que apresentará no Carnaval de 2027. A azul e branca da Zona Norte levará para a Marquês de Sapucaí o tema “Torto arado – sobre a terra há de viver sempre o mais forte”, inspirado no livro Torto Arado, do escritor Itamar Vieira Junior.

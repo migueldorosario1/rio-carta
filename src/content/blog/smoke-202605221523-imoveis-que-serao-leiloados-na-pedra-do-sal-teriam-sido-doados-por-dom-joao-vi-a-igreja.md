@@ -4,7 +4,7 @@ description: "Como muitos já sabem, dezenas de imóveis históricos no entorno 
 pubDate: "2026-05-22T15:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "pedra-do-sal", "saude", "regiao-portuaria", "rio-capital-centro", "capital", "portuguesa", "joa"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605221523-imoveis-que-serao-leiloados-na-pedra-do-sal-teriam-sido-doados-por-dom-joao-vi-a-igreja.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221523-imoveis-que-serao-leiloados-na-pedra-do-sal-teriam-sido-doados-por-dom-joao-vi-a-igreja.jpg"
 ---
 Como muitos já sabem, dezenas de imóveis históricos no entorno da Pedra do Sal, do Largo da Prainha e do Morro da Conceição serão levados a leilão nos próximos dias, em um dos maiores certames imobiliários recentes da Região Portuária do Rio. Mais de 70 imóveis espalhados pela área estão incluídos.
 

@@ -4,7 +4,7 @@ description: "O PT decidiu ampliar a pressão política contra o senador Flávio
 pubDate: "2026-05-14T01:05:57Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "pt", "congresso", "politica-rj", "seguranca-publica", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-caso-vorcaro-leva-pt-a-ampliar-ataques-contra-flavio-bolsonaro-no-congresso-e-nas-redes.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-caso-vorcaro-leva-pt-a-ampliar-ataques-contra-flavio-bolsonaro-no-congresso-e-nas-redes.jpg"
 categoria_macro: politica
 ---
 O PT decidiu ampliar a pressão política contra o senador Flávio Bolsonaro após a divulgação de áudios e mensagens que mostram negociações entre o parlamentar e o banqueiro Daniel Vorcaro para financiar o filme “Dark Horse”, produção sobre o ex-presidente Jair Bolsonaro.

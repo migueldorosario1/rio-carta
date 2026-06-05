@@ -4,7 +4,7 @@ description: "O prefeito da cidade de Maricá, na Região Metropolitana do Rio, 
 pubDate: "2026-05-14T01:05:31Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "pt", "washington-quaqua", "benedita-da-silva", "politica-rj", "niteroi-metropolitana", "niteroi", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-quaqua-anuncia-rompimento-de-apoio-a-candidatura-de-benedita-da-silva.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-quaqua-anuncia-rompimento-de-apoio-a-candidatura-de-benedita-da-silva.png"
 categoria_macro: politica
 ---
 O prefeito da cidade de Maricá, na Região Metropolitana do Rio, e também vice-presidente nacional do PT, Washington Quaquá, decidiu, nesta terça-feira (12), retirar o apoio à deputada federal Benedita da Silva, candidata do partido ao senado federal. A mudança de postura ocorre após um desentendimento de Quaquá com a Comissão Executiva Nacional do PT.

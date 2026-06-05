@@ -4,7 +4,7 @@ description: "A Comissão de Constituição e Justiça da Assembleia Legislativa
 pubDate: "2026-05-15T06:05:34Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150305-alerj-aprova-ccj-projeto-que-considera-porchat-persona-non-grata-no-estado-do-rj.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150305-alerj-aprova-ccj-projeto-que-considera-porchat-persona-non-grata-no-estado-do-rj.webp"
 categoria_macro: politica
 ---
 A Comissão de Constituição e Justiça da Assembleia Legislativa do Rio de Janeiro aprovou nesta quarta-feira um projeto de lei que declara o ator e humorista Fábio Porchat persona non grata no estado. A proposta segue agora para análise em plenário, onde será submetida à votação final dos deputados.

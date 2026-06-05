@@ -4,7 +4,7 @@ description: "Justiça decreta prisão da mãe de bebê internado em estado grav
 pubDate: "2026-05-14T01:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana-rj", "seguranca-publica", "violencia-infantil", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "leme", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-justica-decreta-prisao-da-mae-de-bebe-internado-em-estado-grave-apos-suspeita-de-abuso-em-marica.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-justica-decreta-prisao-da-mae-de-bebe-internado-em-estado-grave-apos-suspeita-de-abuso-em-marica.jpg"
 categoria_macro: seguranca
 ---
 Justiça decreta prisão da mãe de bebê internado em estado grave após suspeita de abuso em Maricá

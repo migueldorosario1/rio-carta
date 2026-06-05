@@ -4,7 +4,7 @@ description: "If food reaches plates in Rio de Janeiro, it comes—often unackno
 pubDate: "2026-05-15T16:08:09Z"
 draft: true
 tags: ["rio-de-janeiro", "baixada-fluminense", "mage", "surui", "soberania-alimentar", "clima", "regiao-metropolitana", "favelas-comunidades", "favela", "comunidade", "baixada", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151305-if-the-baixada-doesnt-plant-rio-de-janeiro-doesnt-eat-second-mage-climate-forum-puts-regional-fo-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-if-the-baixada-doesnt-plant-rio-de-janeiro-doesnt-eat-second-mage-climate-forum-puts-regional-fo-qwen.jpg"
 categoria_macro: geral
 ---
 If food reaches plates in Rio de Janeiro, it comes—often unacknowledged—from hands that sow, fish and resist in Greater Rio’s Baixada Fluminense, north of the city. It was in response to this that leaders, farmers, fishers, researchers and residents came together on March 21 at a public high school, CIEP 327, in Suruí, in the municipality of Magé’s fourth district, for the 2nd Magé Climate Forum with an essential question at the center of debate: who produces the food and who decides who eats?

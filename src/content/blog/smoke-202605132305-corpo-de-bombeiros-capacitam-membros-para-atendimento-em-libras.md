@@ -4,7 +4,7 @@ description: "Rio Corpo de Bombeiros capacitam membros para atendimento em Libra
 pubDate: "2026-05-14T02:05:29Z"
 draft: true
 tags: ["rio-de-janeiro", "corpo-de-bombeiros", "libras", "acessibilidade", "inclusao", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "comunidade", "mage", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132305-corpo-de-bombeiros-capacitam-membros-para-atendimento-em-libras.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132305-corpo-de-bombeiros-capacitam-membros-para-atendimento-em-libras.png"
 categoria_macro: geral
 ---
 Rio

@@ -4,7 +4,7 @@ description: "PM morto no Engenho Pequeno era compositor de samba enredo da Unid
 pubDate: "2026-05-13T12:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "engenho-pequeno", "pm-morto", "compositor", "viradouro", "seguranca-publica", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "itaborai", "transporte-mobilidade", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130905-pm-morto-no-engenho-pequeno-era-compositor-de-samba-enredo-da-unidos-do-viradouro.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130905-pm-morto-no-engenho-pequeno-era-compositor-de-samba-enredo-da-unidos-do-viradouro.jpg"
 categoria_macro: seguranca
 ---
 PM morto no Engenho Pequeno era compositor de samba enredo da Unidos do Viradouro

@@ -4,7 +4,7 @@ description: "A Fundação Cecierj, vinculada à Secretaria de Estado de Ciênci
 pubDate: "2026-05-13T05:05:25Z"
 draft: true
 tags: ["rio-de-janeiro", "cederj", "vestibular", "ensino-superior", "educacao", "interior-fluminense", "saude-e-educacao-rj", "norte-noroeste-fluminense", "regiao-serrana", "nova-friburgo", "sao-fidelis", "itaperuna", "miracema", "bom-jesus"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130205-vestibular-cederj-com-mais-de-7-500-vagas-em-17-cursos-de-graduacao.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-vestibular-cederj-com-mais-de-7-500-vagas-em-17-cursos-de-graduacao.jpg"
 categoria_macro: geral
 ---
 A Fundação Cecierj, vinculada à Secretaria de Estado de Ciência, Tecnologia e Inovação está com inscrições abertas no Vestibular Cederj 2026. 2 até o dia 17 de maio.

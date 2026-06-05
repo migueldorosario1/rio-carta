@@ -4,7 +4,7 @@ description: "A Polícia Civil prendeu nesta quinta-feira (14) o integrante de u
 pubDate: "2026-05-16T22:24:34Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "centro-do-rio", "zona-sul", "niteroi", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162223-falso-taxista-que-aplicava-golpe-em-idosos-e-preso-no-centro-do-rio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-falso-taxista-que-aplicava-golpe-em-idosos-e-preso-no-centro-do-rio.webp"
 ---
 A Polícia Civil prendeu nesta quinta-feira (14) o integrante de uma quadrilha de São Paulo especializada em fraudes contra passageiros de táxi na Zona Sul do Rio. A captura ocorreu na Avenida Rio Branco, região central da capital, após monitoramento do setor de inteligência.
 

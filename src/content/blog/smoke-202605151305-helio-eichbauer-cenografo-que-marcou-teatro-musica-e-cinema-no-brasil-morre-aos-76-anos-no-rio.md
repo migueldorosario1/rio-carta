@@ -4,7 +4,7 @@ description: "Helio Eichbauer, cenógrafo que marcou o teatro, a música e o cin
 pubDate: "2026-05-15T16:07:47Z"
 draft: true
 tags: ["rio-de-janeiro", "cultura-carnaval", "centro", "capital-estado", "regiao-metropolitana", "centro-do-rio", "mage", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151305-helio-eichbauer-cenografo-que-marcou-teatro-musica-e-cinema-no-brasil-morre-aos-76-anos-no-rio-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-helio-eichbauer-cenografo-que-marcou-teatro-musica-e-cinema-no-brasil-morre-aos-76-anos-no-rio-qwen.jpg"
 categoria_macro: lazer
 ---
 Helio Eichbauer, cenógrafo que marcou o teatro, a música e o cinema no Brasil, morreu aos 76 anos, nesta sexta-feira (20). Ele sofreu um infarto em sua casa, no Rio.

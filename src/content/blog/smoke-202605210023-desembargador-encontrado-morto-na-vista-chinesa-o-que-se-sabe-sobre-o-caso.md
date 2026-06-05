@@ -4,7 +4,7 @@ description: "Desembargador encontrado morto na Vista Chinesa: o que se sabe sob
 pubDate: "2026-05-21T00:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "tijuca", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605210023-desembargador-encontrado-morto-na-vista-chinesa-o-que-se-sabe-sobre-o-caso.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210023-desembargador-encontrado-morto-na-vista-chinesa-o-que-se-sabe-sobre-o-caso.jpg"
 ---
 Alcides Martins Ribeiro Filho estava desaparecido desde 14 de abril, quando sacou R$ 1 mil e embarcou em um táxi rumo ao mirante da Floresta da Tijuca
 

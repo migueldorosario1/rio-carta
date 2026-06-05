@@ -4,7 +4,7 @@ description: "O Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ) instauro
 pubDate: "2026-05-20T20:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "governo-rj", "capital", "regiao-metropolitana", "rocha", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605202023-uso-de-jatinhos-por-claudio-castro-entra-na-mira-do-tce-rj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202023-uso-de-jatinhos-por-claudio-castro-entra-na-mira-do-tce-rj.jpg"
 ---
 O Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ) instaurou um procedimento para apurar supostas irregularidades no uso de aeronaves oficiais e jatinhos fretados pelo estado durante a gestão do ex-governador Cláudio Castro.
 

@@ -4,7 +4,7 @@ description: "Maricá abre vagas para aulas gratuitas de tiro com arco; saiba ma
 pubDate: "2026-05-13T11:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "itapeba", "tiro-com-arco", "esporte", "prefeitura-de-marica", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "educacao", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130805-marica-abre-vagas-para-aulas-gratuitas-de-tiro-com-arco-saiba-mais.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-marica-abre-vagas-para-aulas-gratuitas-de-tiro-com-arco-saiba-mais.jpg"
 categoria_macro: politica
 ---
 Maricá abre vagas para aulas gratuitas de tiro com arco; saiba mais

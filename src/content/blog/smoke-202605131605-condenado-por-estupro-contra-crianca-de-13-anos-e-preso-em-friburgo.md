@@ -4,7 +4,7 @@ description: "Policiais civis da Delegacia Especializada de Atendimento à Mulhe
 pubDate: "2026-05-13T19:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-friburgo", "regiao-serrana", "conselheiro-paulino", "estupro", "seguranca-publica-rj", "norte-noroeste-fluminense", "penha", "noroeste-fluminense", "seguranca-publica"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131605-condenado-por-estupro-contra-crianca-de-13-anos-e-preso-em-friburgo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131605-condenado-por-estupro-contra-crianca-de-13-anos-e-preso-em-friburgo.jpg"
 categoria_macro: seguranca
 ---
 Policiais civis da Delegacia Especializada de Atendimento à Mulher (DEAM) de Nova Friburgo prenderam um homem condenado pelo crime de estupro de vulnerável. O mandado de prisão condenatória foi expedido pelo Juizado de Violência Doméstica e Familiar contra a Mulher da Comarca.

@@ -4,7 +4,7 @@ description: "A escritora e empreendedora cultural Izabelle Valladares, moradora
 pubDate: "2026-05-13T13:23:04Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "cultura", "literatura", "premio-internacional", "educacao", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131022-escritora-de-cabo-frio-recebe-premio-de-literatura-na-colombia-e-participara-de-forum-na-romenia.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131022-escritora-de-cabo-frio-recebe-premio-de-literatura-na-colombia-e-participara-de-forum-na-romenia.webp"
 categoria_macro: lazer
 ---
 A escritora e empreendedora cultural Izabelle Valladares, moradora de Cabo Frio, participará de dois eventos internacionais nas próximas semanas. No dia 15 de maio, ela receberá, em Cartagena das Índias, o Prêmio Pan-Americano de Literatura, concedido pela TV Cultural da Colômbia a autores da literatura latino-americana.

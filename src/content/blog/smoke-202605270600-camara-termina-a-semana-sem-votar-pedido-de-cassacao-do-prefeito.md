@@ -4,7 +4,7 @@ description: "A Câmara Municipal de Petrópolis encerrou, nessa quinta-feira (2
 pubDate: "2026-05-27T06:00:30Z"
 draft: false
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "politica-rj", "serrana", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605270600-camara-termina-a-semana-sem-votar-pedido-de-cassacao-do-prefeito.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605270600-camara-termina-a-semana-sem-votar-pedido-de-cassacao-do-prefeito.jpg"
 ---
 A Câmara Municipal de Petrópolis encerrou, nessa quinta-feira (21), as sessões da semana sem votar a denúncia de cassação do prefeito Hingo Hammes (PP). O vereador Léo França (PT) protocolou a denúncia no dia 11 deste mês e, desde então, havia a expectativa de que o tema entrasse em pauta, o que ainda não ocorreu.
 

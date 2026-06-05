@@ -4,7 +4,7 @@ description: "Rio Primeira vez em 23 anos: Niterói alcança recorde em reduçã
 pubDate: "2026-05-16T04:24:06Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "seguranca-publica", "regiao-metropolitana", "capital-estado", "sao-goncalo", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160423-primeira-vez-em-23-anos-niteroi-alcanca-recorde-em-reducao-de-roubos-de-rua.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160423-primeira-vez-em-23-anos-niteroi-alcanca-recorde-em-reducao-de-roubos-de-rua.jpg"
 categoria_macro: politica
 ---
 Rio

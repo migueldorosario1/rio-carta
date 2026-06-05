@@ -4,7 +4,7 @@ description: "A Polícia Federal realizou, na manhã desta quarta-feira (13), um
 pubDate: "2026-05-13T14:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "seguranca-publica-rj", "policia-federal", "abuso-infantil", "cabo-frio", "seguranca-publica", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131105-pf-mira-acusado-de-compartilhar-conteudo-de-abuso-infantil-ha-oito-anos-em-sao-pedro-da-aldeia.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131105-pf-mira-acusado-de-compartilhar-conteudo-de-abuso-infantil-ha-oito-anos-em-sao-pedro-da-aldeia.webp"
 categoria_macro: seguranca
 ---
 A Polícia Federal realizou, na manhã desta quarta-feira (13), uma operação em São Pedro da Aldeia para combater crimes de armazenamento e compartilhamento de conteúdos de exploração sexual infantil na internet. Durante a ação, agentes cumpriram um mandado de busca e apreensão na casa de um investigado e recolheram um celular e um HD que passarão por perícia.

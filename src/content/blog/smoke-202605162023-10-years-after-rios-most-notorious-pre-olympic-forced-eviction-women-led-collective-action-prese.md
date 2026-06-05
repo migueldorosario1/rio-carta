@@ -4,7 +4,7 @@ description: "This article is part of our series reflecting on the impacts of me
 pubDate: "2026-05-16T20:24:12Z"
 draft: true
 tags: ["rio-de-janeiro", "vila-autodromo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "saude", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-10-years-after-rios-most-notorious-pre-olympic-forced-eviction-women-led-collective-action-prese-qwen.jpg"
 ---
 This article is part of our series reflecting on the impacts of mega-events on Rio de Janeiro 10 years after the 2016 Olympic Games.
 

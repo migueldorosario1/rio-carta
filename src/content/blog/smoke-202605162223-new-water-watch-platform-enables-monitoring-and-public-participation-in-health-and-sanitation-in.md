@@ -4,7 +4,7 @@ description: "During the week marking World Water Day, the Water Watch Platform*
 pubDate: "2026-05-16T22:24:11Z"
 draft: true
 tags: ["rio-de-janeiro", "agua", "saneamento", "saude", "favelas-comunidades", "regiao-metropolitana", "joa", "favela", "comunidade", "duque-de-caxias", "belford-roxo", "sao-joao-de-meriti", "sao-goncalo", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-new-water-watch-platform-enables-monitoring-and-public-participation-in-health-and-sanitation-in-qwen.jpg"
 ---
 During the week marking World Water Day, the Water Watch Platform* was launched. The tool was created by the Popular Network for Sanitation and Health Monitoring of the Brazilian national health foundation’s (Fiocruz) Sergio Arouca National School of Public Health (ENSP).
 

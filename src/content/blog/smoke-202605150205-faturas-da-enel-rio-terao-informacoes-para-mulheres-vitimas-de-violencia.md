@@ -4,7 +4,7 @@ description: "Rio Faturas da Enel Rio terão informações para mulheres vítima
 pubDate: "2026-05-15T05:05:16Z"
 draft: true
 tags: ["rio-de-janeiro", "enel-rio", "violencia-domestica", "secretaria-da-mulher", "politica-rj", "capital-estado", "regiao-metropolitana", "seguranca-publica", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150205-faturas-da-enel-rio-terao-informacoes-para-mulheres-vitimas-de-violencia.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150205-faturas-da-enel-rio-terao-informacoes-para-mulheres-vitimas-de-violencia.jpg"
 categoria_macro: politica
 ---
 Rio

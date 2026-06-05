@@ -4,7 +4,7 @@ description: "A Polícia Civil anunciou nesta quinta-feira (28) que foi preso em
 pubDate: "2026-06-02T20:03:55Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "seguranca-publica", "feminicidio", "norte-noroeste-fluminense", "leme", "noroeste-fluminense", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606022000-policia-prende-suspeito-de-matar-mulher-em-sao-fidelis.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-policia-prende-suspeito-de-matar-mulher-em-sao-fidelis.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

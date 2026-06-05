@@ -4,7 +4,7 @@ description: "A Prefeitura de São João de Meriti, por meio da Secretaria de Ci
 pubDate: "2026-05-13T20:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-joao-de-meriti", "baixada-fluminense", "empreendedorismo-feminino", "qualificacao-profissional", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "mare", "joa", "transporte-mobilidade", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131705-mulheres-aprendem-producao-de-salgados-na-casa-da-mulher-meritiense.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131705-mulheres-aprendem-producao-de-salgados-na-casa-da-mulher-meritiense.jpeg"
 categoria_macro: politica
 ---
 A Prefeitura de São João de Meriti, por meio da Secretaria de Cidadania e Direitos Humanos, promove a oficina gratuita de Salgados, Modelagem e Fritura para Festas. As aulas ocorrem todas as segundas-feiras, das 10h às 12h, na Casa da Mulher Meritiense, com o objetivo de fomentar a autonomia financeira feminina.

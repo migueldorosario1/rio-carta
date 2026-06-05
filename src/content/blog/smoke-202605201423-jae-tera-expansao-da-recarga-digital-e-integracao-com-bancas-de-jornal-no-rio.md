@@ -4,7 +4,7 @@ description: "A Prefeitura do Rio publicou um novo decreto que amplia a estrutur
 pubDate: "2026-05-20T14:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-capital", "transporte-mobilidade", "politica-rj", "leme"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201423-jae-tera-expansao-da-recarga-digital-e-integracao-com-bancas-de-jornal-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201423-jae-tera-expansao-da-recarga-digital-e-integracao-com-bancas-de-jornal-no-rio.jpg"
 ---
 A Prefeitura do Rio publicou um novo decreto que amplia a estrutura de funcionamento do sistema municipal de bilhetagem eletrônica “Jaé”. A medida, assinada pelo prefeito Eduardo Cavaliere e publicada no Diário Oficial desta quarta-feira (20), prevê a expansão da rede de recarga digital e a integração de jornaleiros ao sistema utilizado no transporte público municipal.
 

@@ -4,7 +4,7 @@ description: "Barra Mansa – Agentes da 90ª Delegacia de Polícia, em ação c
 pubDate: "2026-05-13T07:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "operacao-policial", "trafico", "drone", "comando-vermelho", "sul-fluminense-costa-verde", "comunidade", "seguranca-publica", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130405-policia-usa-drone-em-operacao-com-tiroteio-em-bm.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130405-policia-usa-drone-em-operacao-com-tiroteio-em-bm.jpeg"
 categoria_macro: seguranca
 ---
 Barra Mansa – Agentes da 90ª Delegacia de Polícia, em ação conjunta com policiais do Grupamento de Ações Táticas (GAT) do 28º Batalhão de Polícia Militar, apreenderam grande quantidade de drogas e detiveram três suspeitos de envolvimento com o tráfico no bairro Getúlio Vargas.

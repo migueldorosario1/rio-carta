@@ -4,7 +4,7 @@ description: "Humorista reage com deboche a projeto aprovado em comissão da Ass
 pubDate: "2026-05-26T22:00:21Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605262200-porchat-ironiza-titulo-de-persona-non-grata-e-transforma-crise-na-alerj-em-palco-politico.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605262200-porchat-ironiza-titulo-de-persona-non-grata-e-transforma-crise-na-alerj-em-palco-politico.jpg"
 ---
 Humorista reage com deboche a projeto aprovado em comissão da Assembleia e amplia repercussão nacional do caso
 

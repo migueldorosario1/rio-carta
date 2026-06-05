@@ -4,7 +4,7 @@ description: "Enredo – Centenário do Berço do Samba: Onde o Samba Virou Esco
 pubDate: "2026-05-13T11:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "estacio", "carnaval", "escola-de-samba", "cultura", "cultura-e-carnaval-rj", "cultura-carnaval", "regiao-metropolitana", "mangueira", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130805-estacio-sinopse-do-enredo-para-o-carnaval-2027.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-estacio-sinopse-do-enredo-para-o-carnaval-2027.jpg"
 categoria_macro: lazer
 ---
 Enredo – Centenário do Berço do Samba: Onde o Samba Virou Escola e o Brasil se Fez Carnaval

@@ -4,7 +4,7 @@ description: "A Polícia Federal identificou que investigados na Operação Sem 
 pubDate: "2026-05-21T16:05:24Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "baixada-fluminense", "policia-federal", "claudio-castro", "regiao-metropolitana", "politica-rj", "baixada", "seguranca-publica", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211305-operacao-sem-refino-investigados-usavam-celulares-em-nome-de-mortos.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211305-operacao-sem-refino-investigados-usavam-celulares-em-nome-de-mortos.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

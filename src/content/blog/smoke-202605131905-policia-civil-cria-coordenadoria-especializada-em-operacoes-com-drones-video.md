@@ -4,7 +4,7 @@ description: "Polícia Civil cria coordenadoria especializada em operações com
 pubDate: "2026-05-13T22:05:22Z"
 draft: true
 tags: ["rio-de-janeiro", "policia-civil", "drones", "seguranca-publica", "seguranca-publica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "mage", "niteroi", "sao-goncalo", "itaborai", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131905-policia-civil-cria-coordenadoria-especializada-em-operacoes-com-drones-video.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131905-policia-civil-cria-coordenadoria-especializada-em-operacoes-com-drones-video.jpg"
 categoria_macro: seguranca
 ---
 Polícia Civil cria coordenadoria especializada em operações com drones (vídeo)

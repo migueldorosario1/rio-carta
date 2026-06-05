@@ -4,7 +4,7 @@ description: "Guarda Municipal de Niterói resgata jiboia de mais de 2 metros no
 pubDate: "2026-05-17T01:24:35Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-oceanica", "engenho-do-mato", "regiao-metropolitana", "sao-goncalo-itaborai", "sao-goncalo", "itaborai", "transporte-mobilidade", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170123-guarda-municipal-de-niteroi-resgata-jiboia-de-mais-de-2-metros-no-engenho-do-mato.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-guarda-municipal-de-niteroi-resgata-jiboia-de-mais-de-2-metros-no-engenho-do-mato.jpg"
 ---
 Animal foi devolvido à natureza em área de mata preservada em Itaipu
 

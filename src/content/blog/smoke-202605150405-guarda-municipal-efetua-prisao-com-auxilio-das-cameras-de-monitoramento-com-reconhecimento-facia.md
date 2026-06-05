@@ -4,7 +4,7 @@ description: "Homem tinha mandado de prisão em aberto e foi detido no Alcântar
 pubDate: "2026-05-15T07:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "alcantara", "guarda-municipal", "reconhecimento-facial", "seguranca-publica", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "leme", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150405-guarda-municipal-efetua-prisao-com-auxilio-das-cameras-de-monitoramento-com-reconhecimento-facia.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150405-guarda-municipal-efetua-prisao-com-auxilio-das-cameras-de-monitoramento-com-reconhecimento-facia.jpg"
 categoria_macro: seguranca
 ---
 Homem tinha mandado de prisão em aberto e foi detido no Alcântara

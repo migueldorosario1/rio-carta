@@ -4,7 +4,7 @@ description: "Mensagens obtidas na Operação Unha e Carne revelariam atuação 
 pubDate: "2026-05-19T19:16:55Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "educacao", "macae-norte-fluminense", "norte-noroeste-fluminense", "macae", "noroeste-fluminense", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-audios-atribuidos-a-thiago-rangel-expoem-suposta-interferencia-politica-na-seeduc.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-audios-atribuidos-a-thiago-rangel-expoem-suposta-interferencia-politica-na-seeduc.jpg"
 ---
 Mensagens obtidas na Operação Unha e Carne revelariam atuação direta do parlamentar em decisões internas da Educação estadual
 

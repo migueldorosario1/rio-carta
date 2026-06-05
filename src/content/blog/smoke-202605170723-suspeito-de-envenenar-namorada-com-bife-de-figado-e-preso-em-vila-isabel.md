@@ -4,7 +4,7 @@ description: "A Polícia Civil prendeu, na manhã desta sexta-feira (15/05), um 
 pubDate: "2026-05-17T07:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-isabel", "zona-norte", "rio-capital-zona-norte", "capital", "tijuca", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170723-suspeito-de-envenenar-namorada-com-bife-de-figado-e-preso-em-vila-isabel.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170723-suspeito-de-envenenar-namorada-com-bife-de-figado-e-preso-em-vila-isabel.png"
 ---
 A Polícia Civil prendeu, na manhã desta sexta-feira (15/05), um homem suspeito de matar a companheira por envenenamento em Vila Isabel, na Zona Norte do Rio. O acusado, identificado como Maurício Gaspara Viana, foi alvo de um mandado de prisão temporária por feminicídio cumprido por agentes da 20ª DP (Vila Isabel).
 

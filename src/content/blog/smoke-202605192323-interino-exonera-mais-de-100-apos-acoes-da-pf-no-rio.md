@@ -4,7 +4,7 @@ description: "Ricardo Couto promove cortes em secretarias atingidas por operaç�
 pubDate: "2026-05-19T23:23:04Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "gestao-publica", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense", "seguranca-publica", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605192323-interino-exonera-mais-de-100-apos-acoes-da-pf-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605192323-interino-exonera-mais-de-100-apos-acoes-da-pf-no-rio.jpg"
 ---
 Ricardo Couto promove cortes em secretarias atingidas por operações da Polícia Federal; Fazenda e Agricultura concentram maior número de dispensas
 

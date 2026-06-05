@@ -4,7 +4,7 @@ description: "O Supremo Tribunal Federal (STF) rejeitou, na última sexta-feira,
 pubDate: "2026-06-04T20:02:30Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "stf", "politica-rj", "governo-interino", "ricardo-couto", "douglas-ruas", "macae-norte-fluminense", "norte-noroeste-fluminense", "macae", "leme", "norte-fluminense", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-smoke-202606042000-ministro-do-stf-rejeita-pedido-da-alerj-e-mantem-ricardo-couto-como-governador-interino-do-rio.jpg"
+heroImage: "/hero/smoke-202606042000-ministro-do-stf-rejeita-pedido-da-alerj-e-mantem-ricardo-couto-como-governador-interino-do-rio.jpg"
 ---
 O Supremo Tribunal Federal (STF) rejeitou, na última sexta-feira, 29 de maio, o pedido para que o presidente da Casa, deputado estadual Douglas Ruas (PL), assumisse interinamente o Governo do Estado do Rio.
 

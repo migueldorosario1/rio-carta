@@ -4,7 +4,7 @@ description: "A deputada estadual Dani Monteiro (PSOL) deu um passo legislativo 
 pubDate: "2026-05-14T01:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "icms", "compras-internacionais", "dani-monteiro", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-dani-monteiro-protocola-pl-para-zerar-icms-de-compras-internacionais-de-ate-us-50-no-rio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-dani-monteiro-protocola-pl-para-zerar-icms-de-compras-internacionais-de-ate-us-50-no-rio.webp"
 categoria_macro: politica
 ---
 A deputada estadual Dani Monteiro (PSOL) deu um passo legislativo importante nesta quarta-feira (13/05) para aliviar o bolso do consumidor fluminense. Ela protocolou na Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) um Projeto de Lei (PL) que autoriza o Governo do Estado a conceder isenção de ICMS sobre remessas internacionais de até US$ 50.

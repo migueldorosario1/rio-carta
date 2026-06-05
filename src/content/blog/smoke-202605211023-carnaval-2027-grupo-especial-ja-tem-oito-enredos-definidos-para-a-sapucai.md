@@ -4,7 +4,7 @@ description: "O Carnaval 2027 já começou a ganhar forma no Rio de Janeiro. Oit
 pubDate: "2026-05-21T10:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "centro", "carnaval", "sapucai", "escolas-de-samba", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "mangueira", "tijuca", "vila-isabel", "madureira", "padre-miguel", "joa"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605211023-carnaval-2027-grupo-especial-ja-tem-oito-enredos-definidos-para-a-sapucai.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605211023-carnaval-2027-grupo-especial-ja-tem-oito-enredos-definidos-para-a-sapucai.jpeg"
 ---
 O Carnaval 2027 já começou a ganhar forma no Rio de Janeiro. Oito escolas do Grupo Especial anunciaram oficialmente os enredos que levarão para a Marquês de Sapucaí no próximo desfile, apostando em temas ligados à cultura popular, ancestralidade africana, literatura brasileira e identidade latino-americana.
 

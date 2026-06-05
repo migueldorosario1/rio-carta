@@ -4,7 +4,7 @@ description: "Após meses de recuperação, a capivara que foi espancada por um 
 pubDate: "2026-05-29T08:00:15Z"
 draft: false
 tags: ["rio-de-janeiro", "ilha-do-governador", "barra-de-guaratiba", "zona-norte", "zona-oeste", "meio-ambiente", "crime-ambiental", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "mage", "estacio", "jardim-guanabara", "guaratiba"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605290800-capivara-espancada-na-ilha-se-recupera-e-e-reintegrada-a-natureza.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605290800-capivara-espancada-na-ilha-se-recupera-e-e-reintegrada-a-natureza.png"
 ---
 Após meses de recuperação, a capivara que foi espancada por um grupo de oito homens na Ilha do Governador, foi reintegrada à natureza nesta quarta-feira (20). O roedor foi solto em uma reserva ecológica em Barra de Guaratiba, na Zona Oeste do Rio.
 

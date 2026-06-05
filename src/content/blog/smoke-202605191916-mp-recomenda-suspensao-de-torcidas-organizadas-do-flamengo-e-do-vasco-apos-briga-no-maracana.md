@@ -4,7 +4,7 @@ description: "O Ministério Público do Estado do Rio de Janeiro (MPRJ) recomend
 pubDate: "2026-05-19T19:16:57Z"
 draft: false
 tags: ["rio-de-janeiro", "zona-norte", "seguranca-publica", "niteroi-metropolitana", "regiao-metropolitana", "flamengo", "maracana", "niteroi", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-mp-recomenda-suspensao-de-torcidas-organizadas-do-flamengo-e-do-vasco-apos-briga-no-maracana.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-mp-recomenda-suspensao-de-torcidas-organizadas-do-flamengo-e-do-vasco-apos-briga-no-maracana.webp"
 ---
 O Ministério Público do Estado do Rio de Janeiro (MPRJ) recomendou a suspensão das torcidas organizadas Jovem do Flamengo e Força Jovem do Vasco pelo período de 10 jogos, em razão das brigas registradas durante o clássico do último dia 3, no Maracanã, na Zona Norte, que terminou com a morte de um torcedor vascaíno e deixou outro com perda da visão do olho direito.
 

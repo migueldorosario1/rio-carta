@@ -4,7 +4,7 @@ description: "IA pode gerar mais fake news nas eleições, alertam especialistas
 pubDate: "2026-05-16T23:24:04Z"
 draft: true
 tags: ["rio-de-janeiro", "eleicoes", "inteligencia-artificial", "fake-news", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162323-ia-pode-gerar-mais-fake-news-nas-eleicoes-alertam-especialistas.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-ia-pode-gerar-mais-fake-news-nas-eleicoes-alertam-especialistas.webp"
 ---
 Cuidado com a tecnologia está entre as prioridades de Nunes Marques
 

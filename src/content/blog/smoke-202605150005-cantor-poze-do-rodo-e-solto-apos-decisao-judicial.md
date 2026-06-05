@@ -4,7 +4,7 @@ description: "Poze deixou a penitenciária e postou uma foto nas redes sociais, 
 pubDate: "2026-05-15T03:05:14Z"
 draft: true
 tags: ["rio-de-janeiro", "mc-poze-do-rodo", "operacao-narco-fluxo", "lavagem-de-dinheiro", "justica-federal", "seguranca-publica", "estado", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150005-cantor-poze-do-rodo-e-solto-apos-decisao-judicial.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-cantor-poze-do-rodo-e-solto-apos-decisao-judicial.jpg"
 categoria_macro: seguranca
 ---
 Poze deixou a penitenciária e postou uma foto nas redes sociais, dentro do carro, fazendo um gesto de coração.

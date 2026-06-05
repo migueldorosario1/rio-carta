@@ -4,7 +4,7 @@ description: "BARRA MANSA O novo Hospital Municipal do Olho, em Barra Mansa, ser
 pubDate: "2026-05-16T22:24:25Z"
 draft: true
 tags: ["rio-de-janeiro", "barragensa", "sul-fluminense", "sul-fluminense-costa-verde", "barra-mansa", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162223-hospital-municipal-do-olho-sera-inaugurado-neste-sabado-em-barra-mansa.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-hospital-municipal-do-olho-sera-inaugurado-neste-sabado-em-barra-mansa.jpeg"
 ---
 BARRA MANSA
 

@@ -4,7 +4,7 @@ description: "ESTADO DO RIO A redução no preço do gás natural no Rio de Jane
 pubDate: "2026-06-02T20:01:58Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "sul-fluminense", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606022000-reducao-no-preco-do-gas-natural-entra-em-vigor-em-todo-o-estado-do-rio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-reducao-no-preco-do-gas-natural-entra-em-vigor-em-todo-o-estado-do-rio.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "O clima nos bastidores de Brasília e do Rio de Janeiro é de pân
 pubDate: "2026-05-20T03:23:04Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "capital", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200323-escandalo-maior-que-o-banco-master-deve-atingir-claudio-castro-e-flavio-bolsonaro-em-breve.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200323-escandalo-maior-que-o-banco-master-deve-atingir-claudio-castro-e-flavio-bolsonaro-em-breve.webp"
 ---
 O clima nos bastidores de Brasília e do Rio de Janeiro é de pânico generalizado no entorno do senador Flávio Bolsonaro, pré-candidato à Presidência da República pelo PL. Interlocutores jurídicos e políticos de alta patente emitiram um alerta vermelho ao parlamentar, ordenando seu afastamento imediato e absoluto de qualquer agenda pública ao lado do ex-governador fluminense Cláudio Castro.
 

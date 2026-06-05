@@ -4,7 +4,7 @@ description: "Prefeitura de Niterói reformará quadra da Acadêmicos do Cubango
 pubDate: "2026-05-17T01:23:19Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "academia", "cubango", "regiao-metropolitana", "sao-goncalo-itaborai", "bangu", "comunidade", "sao-goncalo", "itaborai", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170123-prefeitura-de-niteroi-reformara-quadra-da-academicos-do-cubango.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-prefeitura-de-niteroi-reformara-quadra-da-academicos-do-cubango.webp"
 ---
 Parceria marca um novo momento para a Verde e Branca, que segue firme na luta pelo retorno à Sapucaí em 2027
 

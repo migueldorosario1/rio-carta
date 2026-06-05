@@ -4,7 +4,7 @@ description: "A Polícia Civil prendeu, nesta terça-feira (19), um homem invest
 pubDate: "2026-05-20T10:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-capital-zona-oeste", "rio-das-pedras", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "zona-oeste", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201023-acusado-de-dopar-e-roubar-vitimas-e-preso-no-rio.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201023-acusado-de-dopar-e-roubar-vitimas-e-preso-no-rio.png"
 ---
 A Polícia Civil prendeu, nesta terça-feira (19), um homem investigado por aplicar golpes de “Boa noite, Cinderela” através de encontros em aplicativos de relacionamento. O suspeito possui mandados de prisão em aberto em São Paulo e Santa Cararina, e foi preso em Rio das Pedras, na Zona Oeste do Rio.
 

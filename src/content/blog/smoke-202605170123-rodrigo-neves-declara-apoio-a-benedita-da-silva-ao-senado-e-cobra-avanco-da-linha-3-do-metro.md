@@ -4,7 +4,7 @@ description: "O prefeito de Niterói, Rodrigo Neves (PDT), declarou nesta sexta-
 pubDate: "2026-05-17T01:24:30Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "politica-rj", "regiao-metropolitana", "favela", "comunidade", "sao-goncalo", "transporte-mobilidade", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170123-rodrigo-neves-declara-apoio-a-benedita-da-silva-ao-senado-e-cobra-avanco-da-linha-3-do-metro.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170123-rodrigo-neves-declara-apoio-a-benedita-da-silva-ao-senado-e-cobra-avanco-da-linha-3-do-metro.jpeg"
 ---
 O prefeito de Niterói, Rodrigo Neves (PDT), declarou nesta sexta-feira (15) apoio à pré-candidatura da deputada federal Benedita da Silva (PT-RJ) ao Senado Federal e aproveitou o encontro para reforçar a necessidade de avanços em projetos considerados estratégicos para a cidade, como a Linha 3 do Metrô e o programa Vida Nova no Morro. A agenda conjunta incluiu visitas a equipamentos públicos e projetos sociais em diferentes regiões do município.
 

@@ -4,7 +4,7 @@ description: "PARATY Os candidatos do Vestibular Cederj 2026.2 que conquistarem 
 pubDate: "2026-05-13T13:26:56Z"
 draft: true
 tags: ["rio-de-janeiro", "paraty", "fundacao-cecierj", "vestibular-cederj", "educacao", "ensino-superior", "sul-fluminense", "sul-fluminense-costa-verde"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131026-fundacao-cecierj-chega-a-paraty-com-inscricoes-abertas-para-o-vestibular-cederj-2026-segundo-sem.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-fundacao-cecierj-chega-a-paraty-com-inscricoes-abertas-para-o-vestibular-cederj-2026-segundo-sem.jpeg"
 categoria_macro: geral
 ---
 PARATY

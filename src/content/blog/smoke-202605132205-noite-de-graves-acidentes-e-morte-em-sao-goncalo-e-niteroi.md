@@ -4,7 +4,7 @@ description: "A colisão de três veículos, na noite desta quarta-feira (13), d
 pubDate: "2026-05-14T01:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "niteroi", "regiao-metropolitana", "acidente", "transito", "br-101", "rj-104", "ponte-rio-niteroi", "niteroi-sao-goncalo-metropolitana", "niteroi-metropolitana", "itaborai", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-noite-de-graves-acidentes-e-morte-em-sao-goncalo-e-niteroi.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-noite-de-graves-acidentes-e-morte-em-sao-goncalo-e-niteroi.png"
 categoria_macro: seguranca
 ---
 A colisão de três veículos, na noite desta quarta-feira (13), deixou uma pessoa morta na BR-101, na cidade de São Gonçalo, na Região Metropolitana do Rio. A fatalidade causou congestionamento e lentidão em parte significativa da via, comprometendo a volta para casa dos motoristas locais.

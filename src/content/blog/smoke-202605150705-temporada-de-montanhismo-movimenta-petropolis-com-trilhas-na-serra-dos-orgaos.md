@@ -4,7 +4,7 @@ description: "A temporada de montanhismo foi aberta em abril em todo o Brasil, e
 pubDate: "2026-05-15T10:05:35Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "regiao-serrana", "serra-dos-orgaos", "montanhismo", "ecoturismo", "capital", "teresopolis", "serrana", "seguranca-publica"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150705-temporada-de-montanhismo-movimenta-petropolis-com-trilhas-na-serra-dos-orgaos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150705-temporada-de-montanhismo-movimenta-petropolis-com-trilhas-na-serra-dos-orgaos.jpg"
 categoria_macro: seguranca
 ---
 A temporada de montanhismo foi aberta em abril em todo o Brasil, e Petrópolis aparece como um dos destinos mais procurados por quem busca trilhas, natureza e experiências ao ar livre. Só a sede petropolitana do Parque Nacional da Serra dos Órgãos recebeu 42.

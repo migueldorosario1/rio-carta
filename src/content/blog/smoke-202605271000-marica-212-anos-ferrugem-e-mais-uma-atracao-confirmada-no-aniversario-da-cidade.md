@@ -4,7 +4,7 @@ description: "Maricá 212 anos: Ferrugem é mais uma atração confirmada no ani
 pubDate: "2026-05-27T10:00:29Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "aniversario", "ferrugem", "fafa-de-belem", "prefeitura-de-marica", "regiao-metropolitana", "cultura-carnaval", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605271000-marica-212-anos-ferrugem-e-mais-uma-atracao-confirmada-no-aniversario-da-cidade.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605271000-marica-212-anos-ferrugem-e-mais-uma-atracao-confirmada-no-aniversario-da-cidade.jpg"
 ---
 A Prefeitura de Maricá confirmou o cantor Ferrugem como uma das grandes atrações da programação de aniversário pelos 212 anos da cidade. O artista se apresenta na próxima segunda-feira (25/05), a partir das 19h, na Arena da Barra de Maricá.
 

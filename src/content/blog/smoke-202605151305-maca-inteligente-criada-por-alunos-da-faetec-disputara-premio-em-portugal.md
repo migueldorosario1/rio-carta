@@ -4,7 +4,7 @@ description: "Alunos da Faetec de Niterói vão representar o Brasil em Portugal
 pubDate: "2026-05-15T16:08:25Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "barreto", "faetec", "educacao", "ciencia-tecnologia", "regiao-metropolitana", "capital-porto", "joa", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151305-maca-inteligente-criada-por-alunos-da-faetec-disputara-premio-em-portugal-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151305-maca-inteligente-criada-por-alunos-da-faetec-disputara-premio-em-portugal-qwen.jpg"
 categoria_macro: geral
 ---
 Alunos da Faetec de Niterói vão representar o Brasil em Portugal com um protótipo de maca hospitalar acionada por comando de voz. O projeto foi desenvolvido por estudantes do curso de Eletrônica da Escola Técnica Estadual Henrique Lage, no Barreto.

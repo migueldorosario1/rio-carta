@@ -4,7 +4,7 @@ description: "Evento faz alusão ao Dia Nacional de Combate ao Abuso e à Explor
 pubDate: "2026-05-17T03:24:12Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "comunidade", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170323-sao-goncalo-vai-realizar-acao-de-conscientizacao-sobre-cuidado-com-criancas-e-adolescentes.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-sao-goncalo-vai-realizar-acao-de-conscientizacao-sobre-cuidado-com-criancas-e-adolescentes.jpeg"
 ---
 Evento faz alusão ao Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes
 

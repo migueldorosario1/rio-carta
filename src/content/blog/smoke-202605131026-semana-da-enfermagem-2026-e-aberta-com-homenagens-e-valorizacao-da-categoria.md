@@ -4,7 +4,7 @@ description: "Com o tema \"Técnica, Ética e Política: Pilares InegociĂĄveis
 pubDate: "2026-05-13T13:27:06Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "enfermagem", "saude", "semana-da-enfermagem", "norte-noroeste-fluminense", "estado", "regiao-metropolitana", "leme", "pilares", "mage", "educacao", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131026-semana-da-enfermagem-2026-e-aberta-com-homenagens-e-valorizacao-da-categoria.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-semana-da-enfermagem-2026-e-aberta-com-homenagens-e-valorizacao-da-categoria.jpg"
 categoria_macro: lazer
 ---
 Com o tema "Técnica, Ética e Política: Pilares InegociĂĄveis do Cuidado de Enfermagem", a Coordenação Geral de Enfermagem da Secretaria de Saúde de Macaé iniciou nesta terça-feira (12) a programação da Semana da Enfermagem 2026. O evento acontece até sexta-feira (15), das 8h às 17h, no auditório da Universidade Federal do Rio de Janeiro, bloco B da Cidade UniversitĂĄria.

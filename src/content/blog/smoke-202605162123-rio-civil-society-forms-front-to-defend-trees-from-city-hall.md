@@ -4,7 +4,7 @@ description: "Last November, RioOnWatch reported on the dismantling of the award
 pubDate: "2026-05-16T21:24:15Z"
 draft: true
 tags: ["rio-de-janeiro", "urca", "zona-sul", "favelas", "meio-ambiente", "rio-capital-zona-sul-grande-tijuca", "favelas-comunidades", "regiao-metropolitana", "botafogo", "gavea", "ilha-do-governador", "jardim-guanabara", "favela", "comunidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162123-rio-civil-society-forms-front-to-defend-trees-from-city-hall-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162123-rio-civil-society-forms-front-to-defend-trees-from-city-hall-qwen.jpg"
 ---
 Last November, RioOnWatch reported on the dismantling of the award-winning Reforestation Collective Action Program, a rare example of an effective, historic public policy in the city’s favelas. Now, various movements are coming together to demand an end to deadly tree topping, a practice that is affecting diverse neighborhoods across Rio de Janeiro, alongside the dismantling of environmental protection agencies and the destruction of the city’s iconic green areas.
 

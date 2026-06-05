@@ -463,7 +463,8 @@ async function applyBrainFixes(file, context = {}) {
   let text = fs.readFileSync(fullPath, 'utf8');
   const { frontmatter, body } = splitFrontmatter(text);
   const heroImage = getField(frontmatter, 'heroImage');
-  const heroPath = path.join(publicDir, heroImage.replace(/^\//, ''));
+  const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
+  const heroPath = (!heroImage || isRemoteHero) ? null : path.join(publicDir, heroImage.replace(/^\//, ''));
   const applied = [];
 
   const cleanedBody = cleanBody(body, getField(frontmatter, 'title'))
@@ -475,7 +476,7 @@ async function applyBrainFixes(file, context = {}) {
     applied.push('limpeza de marcas internas/fonte conforme padrao Markdown Rio Carta');
   }
 
-  if (fs.existsSync(heroPath)) {
+  if (heroPath && fs.existsSync(heroPath)) {
     const meta = await sharp(heroPath).metadata();
     if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
       await sharp(heroPath)
@@ -616,7 +617,8 @@ async function auditAndFix(file, publish) {
   const heroImage = getField(frontmatter, 'heroImage');
   const description = getField(frontmatter, 'description');
   const tags = getField(frontmatter, 'tags');
-  const heroPath = path.join(publicDir, heroImage.replace(/^\//, ''));
+  const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
+  const heroPath = (!heroImage || isRemoteHero) ? null : path.join(publicDir, heroImage.replace(/^\//, ''));
   const warnings = [];
 
   if (!title || title.length < 20) warnings.push('titulo fraco ou ausente');
@@ -626,9 +628,8 @@ async function auditAndFix(file, publish) {
     warnings.push('categoria territorial fraca');
   }
   let imageSize = 'remote';
-  const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
 
-  if (!isRemoteHero) {
+  if (!isRemoteHero && heroPath) {
     if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
     const meta = await sharp(heroPath).metadata();
     imageSize = `${meta.width}x${meta.height}`;

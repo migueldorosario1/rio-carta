@@ -4,7 +4,7 @@ description: "Ressaca no Rio mata tilápias na Lagoa da Tijuca “Maré de sizí
 pubDate: "2026-05-13T11:05:26Z"
 draft: true
 tags: ["rio-de-janeiro", "lagoa-da-tijuca", "leblon", "ressaca", "tilapias", "degradacao-ambiental", "rio-capital-zona-oeste", "capital", "lagoa", "tijuca", "jacare", "mare", "vila-militar", "problemas-estruturais"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130805-ressaca-no-rio-mata-tilapias-na-lagoa-da-tijuca.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130805-ressaca-no-rio-mata-tilapias-na-lagoa-da-tijuca.jpeg"
 categoria_macro: geral
 ---
 Ressaca no Rio mata tilápias na Lagoa da Tijuca

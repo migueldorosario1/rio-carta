@@ -4,7 +4,7 @@ description: "Botafogo dá show com hat-trick de Arthur Cabral e afunda Corinthi
 pubDate: "2026-05-20T03:23:17Z"
 draft: false
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "serrana", "regiao-serrana", "petropolis", "estacio", "mare", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605200323-botafogo-da-show-com-hat-trick-de-arthur-cabral-e-afunda-corinthians-no-z-4-do-brasileirao.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605200323-botafogo-da-show-com-hat-trick-de-arthur-cabral-e-afunda-corinthians-no-z-4-do-brasileirao.jpg"
 ---
 O drama do Corinthians no Brasileirão continua. Neste domingo, dia 17, o time do Parque São Jorge visitou o Botafogo e acabou sendo derrotado por 3 a 1, com três gols marcados por Arthur Cabral.
 

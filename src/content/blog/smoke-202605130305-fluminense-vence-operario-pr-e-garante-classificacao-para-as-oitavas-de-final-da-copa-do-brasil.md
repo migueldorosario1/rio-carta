@@ -4,7 +4,7 @@ description: "Fluminense vence Operário-PR e garante classificação para as oi
 pubDate: "2026-05-13T06:05:23Z"
 draft: true
 tags: ["rio-de-janeiro", "fluminense", "maracana", "copa-do-brasil", "esporte", "rio-capital-zona-norte", "serrana", "regiao-serrana", "petropolis", "leme", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130305-fluminense-vence-operario-pr-e-garante-classificacao-para-as-oitavas-de-final-da-copa-do-brasil.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-fluminense-vence-operario-pr-e-garante-classificacao-para-as-oitavas-de-final-da-copa-do-brasil.jpg"
 categoria_macro: lazer
 ---
 Fluminense vence Operário-PR e garante classificação para as oitavas de final da Copa do Brasil

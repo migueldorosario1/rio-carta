@@ -4,7 +4,7 @@ description: "Guarda Municipal em Maricá: veja quanto pode ganhar um agente e o
 pubDate: "2026-05-20T16:23:16Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "leme", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605201623-guarda-municipal-em-marica-veja-quanto-pode-ganhar-um-agente-e-o-que-muda-com-o-armamento.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605201623-guarda-municipal-em-marica-veja-quanto-pode-ganhar-um-agente-e-o-que-muda-com-o-armamento.jpeg"
 ---
 Salário pode ultrapassar R$ 9 mil com adicionais; concurso com até 400 vagas está previsto para 2026 e guardas aguardam conclusão do processo junto à Polícia Federal para atuar armados
 

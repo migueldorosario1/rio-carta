@@ -4,7 +4,7 @@ description: "Rio Mulher acusada de aliciamento é presa em operação contra ex
 pubDate: "2026-05-15T09:05:38Z"
 draft: true
 tags: ["rio-de-janeiro", "jacare", "zona-norte", "seguranca-publica", "rio-capital-zona-norte", "capital-estado", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150605-mulher-acusada-de-aliciamento-e-presa-em-operacao-contra-exploracao-sexual-infantil.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150605-mulher-acusada-de-aliciamento-e-presa-em-operacao-contra-exploracao-sexual-infantil.jpg"
 categoria_macro: seguranca
 ---
 Rio

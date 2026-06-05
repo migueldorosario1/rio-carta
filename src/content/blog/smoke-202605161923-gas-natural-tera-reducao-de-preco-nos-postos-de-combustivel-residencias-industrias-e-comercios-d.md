@@ -4,7 +4,7 @@ description: "Gás natural terá redução de preço nos postos de combustível,
 pubDate: "2026-05-16T19:23:08Z"
 draft: false
 tags: ["rio-de-janeiro", "energia", "economia", "economia-local", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "problemas-estruturais", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161923-gas-natural-tera-reducao-de-preco-nos-postos-de-combustivel-residencias-industrias-e-comercios-d.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161923-gas-natural-tera-reducao-de-preco-nos-postos-de-combustivel-residencias-industrias-e-comercios-d.webp"
 ---
 Acordo entre Governo do Rio, Petrobras e Naturgy beneficiará 1,5 milhão de motoristas fluminenses
 

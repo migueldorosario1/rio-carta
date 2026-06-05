@@ -4,7 +4,7 @@ description: "Rio Soldado da PM é baleado após abordar suspeitos em moto no Ri
 pubDate: "2026-05-17T00:23:51Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-comprido", "seguranca-publica", "capital-estado", "regiao-serrana", "petropolis", "estacio", "sao-cristovao", "comunidade", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170023-soldado-da-pm-e-baleado-apos-abordar-suspeitos-em-moto-no-rio-comprido.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170023-soldado-da-pm-e-baleado-apos-abordar-suspeitos-em-moto-no-rio-comprido.jpg"
 ---
 Rio
 

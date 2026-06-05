@@ -4,7 +4,7 @@ description: "Um estudo publicado na revista científica Neotropical Ichthyology
 pubDate: "2026-06-02T20:02:02Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "arraial-do-cabo", "regiao-dos-lagos", "contaminacao-mercurio", "saude", "regiao-metropolitana", "seguranca-publica", "educacao", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606022000-estudo-aponta-niveis-elevados-de-mercurio-em-atum-vendido-em-cabo-frio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-estudo-aponta-niveis-elevados-de-mercurio-em-atum-vendido-em-cabo-frio.webp"
 ---
 Um estudo publicado na revista científica Neotropical Ichthyology identificou concentrações elevadas de mercúrio em exemplares de bonito-pintado (Euthynnus alletteratus), espécie de atum bastante consumida na Região dos Lagos. A pesquisa analisou peixes capturados na costa de Arraial do Cabo e comercializados em Cabo Frio.
 

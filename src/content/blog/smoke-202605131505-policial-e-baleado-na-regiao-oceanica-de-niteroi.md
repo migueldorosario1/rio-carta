@@ -4,7 +4,7 @@ description: "Policial é baleado na Região Oceânica de Niterói O sargento fo
 pubDate: "2026-05-13T18:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-oceanica", "engenho-do-mato", "seguranca-publica", "policia-militar", "niteroi-sao-goncalo-metropolitana", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131505-policial-e-baleado-na-regiao-oceanica-de-niteroi.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131505-policial-e-baleado-na-regiao-oceanica-de-niteroi.jpg"
 categoria_macro: seguranca
 ---
 Policial é baleado na Região Oceânica de Niterói

@@ -4,7 +4,7 @@ description: "“Deixa a vida me levar”, cinebiografia que vai levar para as t
 pubDate: "2026-05-16T22:24:46Z"
 draft: true
 tags: ["rio-de-janeiro", "samba", "cultura", "cultura-carnaval", "capital", "regiao-metropolitana", "rio-comprido", "copacabana"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162223-gente-do-rio-cinebiografia-de-zeca-pagodinho-comeca-a-ganhar-corpo-exposicao-de-vik-muniz-desemb.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-gente-do-rio-cinebiografia-de-zeca-pagodinho-comeca-a-ganhar-corpo-exposicao-de-vik-muniz-desemb.jpg"
 ---
 “Deixa a vida me levar”, cinebiografia que vai levar para as telas de cinema a história de Zeca Pagodinho, começou a ser filmada no Rio Comprido e na Serrinha nesta primeira quinzena de maio. O longa tem o músico Mosquito no papel principal, enquanto Arlindinho interpreta o pai, Arlindo Cruz, parceiro essencial na trajetória de Zeca.
 

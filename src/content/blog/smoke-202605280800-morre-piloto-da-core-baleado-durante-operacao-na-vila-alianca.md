@@ -4,7 +4,7 @@ description: "Rio Morre piloto da Core baleado durante operação na Vila Alian�
 pubDate: "2026-05-28T08:01:33Z"
 draft: false
 tags: ["rio-de-janeiro", "bangu", "zona-oeste", "seguranca-publica", "capital-estado", "comunidade", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605280800-morre-piloto-da-core-baleado-durante-operacao-na-vila-alianca.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605280800-morre-piloto-da-core-baleado-durante-operacao-na-vila-alianca.jpg"
 ---
 Rio
 

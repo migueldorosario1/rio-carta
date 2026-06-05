@@ -4,7 +4,7 @@ description: "A chegada do reforço de 390 radares para fiscalização eletrôni
 pubDate: "2026-05-17T03:24:18Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "seguranca-publica", "transporte-mobilidade", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "marica", "problemas-estruturais"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170323-radares-novos-para-rodovias-velhas-a-prioridade-do-estado-que-pode-virar-cpi-na-alerj.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-radares-novos-para-rodovias-velhas-a-prioridade-do-estado-que-pode-virar-cpi-na-alerj.webp"
 ---
 A chegada do reforço de 390 radares para fiscalização eletrônica em rodovias estaduais não acompanha a demanda por melhorias de infraestrutura e sinalização como, por exemplo, nas RJ-104 e RJ-106, que receberam a substituição de 143 equipamentos. Reivindicação antiga, motoristas apontam para verdadeiras crateras nas pistas, além de pavimentação irregular, mato alto nas margens e a falta de sinalização adequada em diversos trechos.
 

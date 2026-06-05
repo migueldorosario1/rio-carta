@@ -4,7 +4,7 @@ description: "Região Serrana – O Ministério Público do Estado do Rio de Jan
 pubDate: "2026-05-13T16:05:09Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-serrana", "teresopolis", "complexo-ppr", "faccao", "comando-vermelho", "operacao-policial", "seguranca-publica", "sul-fluminense", "regiao-metropolitana", "comunidade", "complexo", "serrana", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131305-faccao-e-alvo-de-operacao-na-regiao-serrana.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131305-faccao-e-alvo-de-operacao-na-regiao-serrana.jpeg"
 categoria_macro: seguranca
 ---
 Região Serrana – O Ministério Público do Estado do Rio de Janeiro, denunciou 46 integrantes da facção criminosa Comando Vermelho com atuação no Complexo PPR, em Teresópolis. Os mandados de prisão foram expedidos pela 2ª Vara Criminal do município e começaram a ser cumpridos nesta quarta-feira (12), pela Polícia Civil.

@@ -4,7 +4,7 @@ description: "O governo do estado do Rio de Janeiro firmou um acordo com a Petro
 pubDate: "2026-05-16T22:23:09Z"
 draft: true
 tags: ["rio-de-janeiro", "energia", "economia", "economia-local", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162223-rio-fecha-acordo-com-petrobras-e-concessionaria-para-reduzir-preco-do-gnv-em-6-5.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162223-rio-fecha-acordo-com-petrobras-e-concessionaria-para-reduzir-preco-do-gnv-em-6-5.png"
 ---
 O governo do estado do Rio de Janeiro firmou um acordo com a Petrobras e com a concessionária Naturgy para reduzir o preço do gás natural veicular (GNV) em cerca de 6,5%. A medida também alcança o gás de cozinha e o fornecimento destinado ao setor industrial, em percentuais menores.
 

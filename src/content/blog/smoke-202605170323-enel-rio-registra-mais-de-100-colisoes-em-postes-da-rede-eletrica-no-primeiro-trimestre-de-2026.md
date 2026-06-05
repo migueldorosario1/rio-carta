@@ -4,7 +4,7 @@ description: "Enel rio registra mais de 100 colisões em postes da rede elétric
 pubDate: "2026-05-17T03:24:14Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "seguranca-publica", "sao-goncalo-itaborai", "mare", "sao-goncalo", "itaborai", "petropolis", "teresopolis", "campos", "itaperuna", "angra", "problemas-estruturais"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170323-enel-rio-registra-mais-de-100-colisoes-em-postes-da-rede-eletrica-no-primeiro-trimestre-de-2026.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-enel-rio-registra-mais-de-100-colisoes-em-postes-da-rede-eletrica-no-primeiro-trimestre-de-2026.jpg"
 ---
 No mês de engajamento da campanha Maio Amarelo, a distribuidora alerta para os riscos deste tipo de acidente
 

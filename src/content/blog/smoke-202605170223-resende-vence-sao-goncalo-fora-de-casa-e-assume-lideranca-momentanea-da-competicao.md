@@ -4,7 +4,7 @@ description: "RESENDE O Resende Futebol Clube conquistou mais uma vitória impor
 pubDate: "2026-05-17T02:24:24Z"
 draft: false
 tags: ["rio-de-janeiro", "resende", "sao-goncalo", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170223-resende-vence-sao-goncalo-fora-de-casa-e-assume-lideranca-momentanea-da-competicao.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-resende-vence-sao-goncalo-fora-de-casa-e-assume-lideranca-momentanea-da-competicao.jpeg"
 ---
 RESENDE
 

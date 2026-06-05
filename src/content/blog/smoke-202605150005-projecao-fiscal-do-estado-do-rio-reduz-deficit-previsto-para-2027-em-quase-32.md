@@ -4,7 +4,7 @@ description: "A projeção fiscal do Estado do Rio de Janeiro para 2027 apresent
 pubDate: "2026-05-15T03:05:07Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "governo-rj", "orcamento", "deficit-fiscal", "politica-rj", "capital", "regiao-metropolitana", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150005-projecao-fiscal-do-estado-do-rio-reduz-deficit-previsto-para-2027-em-quase-32.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-projecao-fiscal-do-estado-do-rio-reduz-deficit-previsto-para-2027-em-quase-32.jpg"
 categoria_macro: politica
 ---
 A projeção fiscal do Estado do Rio de Janeiro para 2027 apresentou redução de quase 32% no déficit estimado, em comparação com o cálculo feito no ano passado. O dado consta no Projeto de Lei de Diretrizes Orçamentárias de 2027, enviado pelo governo estadual à Alerj em abril.

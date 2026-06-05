@@ -4,7 +4,7 @@ description: "A discussão sobre o projeto que prevê a criação de banheiros e
 pubDate: "2026-05-13T06:05:28Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "politica-rj", "direitos-lgbtqiapn", "projeto-de-lei", "regiao-metropolitana", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130305-projeto-sobre-banheiros-para-pessoas-trans-gera-tumulto-e-sai-de-pauta-na-alerj.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-projeto-sobre-banheiros-para-pessoas-trans-gera-tumulto-e-sai-de-pauta-na-alerj.png"
 categoria_macro: politica
 ---
 A discussão sobre o projeto que prevê a criação de banheiros e vestiários destinados a pessoas trans, não-binárias e que não realizaram cirurgia de afirmação de gênero provocou forte tensão na Assembleia Legislativa do Rio de Janeiro (Alerj) nesta terça-feira (12).

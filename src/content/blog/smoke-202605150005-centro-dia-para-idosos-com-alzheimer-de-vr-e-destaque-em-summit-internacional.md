@@ -4,7 +4,7 @@ description: "VOLTA REDONDA A Prefeitura de Volta Redonda, por meio da Secretari
 pubDate: "2026-05-15T03:05:12Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "centro-dia", "alzheimer", "assistencia-social", "saude", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "portuguesa", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150005-centro-dia-para-idosos-com-alzheimer-de-vr-e-destaque-em-summit-internacional.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-centro-dia-para-idosos-com-alzheimer-de-vr-e-destaque-em-summit-internacional.webp"
 categoria_macro: politica
 ---
 VOLTA REDONDA

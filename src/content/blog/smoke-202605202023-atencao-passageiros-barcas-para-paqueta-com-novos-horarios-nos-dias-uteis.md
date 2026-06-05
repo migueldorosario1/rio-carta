@@ -4,7 +4,7 @@ description: "Atenção passageiros: barcas para Paquetá com novos horários no
 pubDate: "2026-05-20T20:23:21Z"
 draft: false
 tags: ["rio-de-janeiro", "paqueta", "rio-capital-zona-oeste", "rio-capital-barra-recreio-jacarepagua", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "leme", "itaborai", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605202023-atencao-passageiros-barcas-para-paqueta-com-novos-horarios-nos-dias-uteis.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202023-atencao-passageiros-barcas-para-paqueta-com-novos-horarios-nos-dias-uteis.jpg"
 ---
 A medida prevê a inclusão de duas novas viagens
 

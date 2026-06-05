@@ -2,7 +2,7 @@
 title: "Não vai ter eleição no Rio: O silêncio conveniente sobre o mandato-tampão de Ricardo Couto"
 description: "No dia 26 de março o precandidato ao governo do Rio Eduardo Paes (PSD) defendeu que ocorressem eleições diretas no estado..."
 pubDate: "2026-05-14T18:30:02Z"
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131026-ricardo-couto-acelera-cortes-e-desliga-147-funcionarios-em-dois-dias.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-ricardo-couto-acelera-cortes-e-desliga-147-funcionarios-em-dois-dias.jpg"
 tags: ["eleicoes-2026", "Rio de Janeiro", "Eduardo Paes", "Ricardo Couto"]
 categoria_macro: politica
 ---

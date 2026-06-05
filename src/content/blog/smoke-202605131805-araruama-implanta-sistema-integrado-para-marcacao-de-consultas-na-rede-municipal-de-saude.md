@@ -4,7 +4,7 @@ description: "A rede municipal de saúde de Araruama iniciou a implantação de 
 pubDate: "2026-05-13T21:05:27Z"
 draft: true
 tags: ["rio-de-janeiro", "araruama", "regiao-dos-lagos", "saude", "sistema-integrado", "marcacao-de-consultas", "prefeitura", "leme"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131805-araruama-implanta-sistema-integrado-para-marcacao-de-consultas-na-rede-municipal-de-saude.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131805-araruama-implanta-sistema-integrado-para-marcacao-de-consultas-na-rede-municipal-de-saude.webp"
 categoria_macro: politica
 ---
 A rede municipal de saúde de Araruama iniciou a implantação de um sistema de informatização e marcação de atendimentos. A proposta é integrar os serviços de saúde do município e reorganizar os processos de atendimento.

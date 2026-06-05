@@ -4,7 +4,7 @@ description: "Sérgio Barcellos Com uma redução de cerca de 90% nos principais
 pubDate: "2026-05-13T03:31:00Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "seguranca-publica", "reducao-criminal", "norte-noroeste-fluminense", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130030-com-reducao-de-90-nos-principais-indices-criminais-macae-vive-nova-era-na-seguranca-publica.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130030-com-reducao-de-90-nos-principais-indices-criminais-macae-vive-nova-era-na-seguranca-publica.png"
 categoria_macro: politica
 ---
 Sérgio Barcellos

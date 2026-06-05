@@ -4,7 +4,7 @@ description: "Carnaval Admiradores se despedem de Noca da Portela, um dos maiore
 pubDate: "2026-05-19T20:23:11Z"
 draft: false
 tags: ["rio-de-janeiro", "madureira", "cultura-carnaval", "capital-estado", "sao-cristovao", "zona-norte", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605192023-admiradores-se-despedem-de-noca-da-portela-um-dos-maiores-nomes-da-historia-do-samba.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605192023-admiradores-se-despedem-de-noca-da-portela-um-dos-maiores-nomes-da-historia-do-samba.jpg"
 ---
 Carnaval
 

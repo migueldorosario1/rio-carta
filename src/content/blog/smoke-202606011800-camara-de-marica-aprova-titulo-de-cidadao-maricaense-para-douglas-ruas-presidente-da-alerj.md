@@ -4,7 +4,7 @@ description: "Câmara de Maricá aprova Título de Cidadão Maricaense para Doug
 pubDate: "2026-06-01T18:00:23Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "camara-municipal", "politica-rj", "alerj", "regiao-metropolitana", "sao-goncalo"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606011800-camara-de-marica-aprova-titulo-de-cidadao-maricaense-para-douglas-ruas-presidente-da-alerj.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-camara-de-marica-aprova-titulo-de-cidadao-maricaense-para-douglas-ruas-presidente-da-alerj.webp"
 ---
 Câmara de Maricá aprova Título de Cidadão Maricaense para Douglas Ruas, presidente da Alerj
 

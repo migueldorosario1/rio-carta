@@ -4,7 +4,7 @@ description: "Governo do Estado do Rio de Janeiro ampliará a formação de prof
 pubDate: "2026-05-22T10:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "educacao", "libras", "professores", "rede-estadual", "niteroi-metropolitana", "regiao-metropolitana", "comunidade", "niteroi", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605221023-professores-da-rede-estadual-terao-formacao-em-libras.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605221023-professores-da-rede-estadual-terao-formacao-em-libras.jpeg"
 ---
 Governo do Estado do Rio de Janeiro ampliará a formação de professores da rede pública com um novo curso de aperfeiçoamento em Libras, voltado ao fortalecimento da educação inclusiva e ao atendimento de estudantes surdos nas escolas estaduais. A iniciativa é realizada em parceria com a Fundação Cecierj, vinculada à Secretaria de Ciência, Tecnologia e Inovação, e prevê 600 vagas, sendo 100 destinadas a docentes da rede estadual.
 

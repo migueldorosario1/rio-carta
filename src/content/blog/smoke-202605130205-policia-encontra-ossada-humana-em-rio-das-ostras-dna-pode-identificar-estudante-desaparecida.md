@@ -4,7 +4,7 @@ description: "Rio Polícia encontra ossada humana em Rio das Ostras; DNA pode id
 pubDate: "2026-05-13T05:05:08Z"
 draft: false
 tags: ["rio-de-janeiro", "rio-das-ostras", "baixada-litoranea", "estudante-desaparecida", "ossada", "policia-civil", "dna", "regiao-dos-lagos", "capital-estado", "regiao-metropolitana", "mage", "baixada", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130205-policia-encontra-ossada-humana-em-rio-das-ostras-dna-pode-identificar-estudante-desaparecida.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130205-policia-encontra-ossada-humana-em-rio-das-ostras-dna-pode-identificar-estudante-desaparecida.jpg"
 categoria_macro: seguranca
 ---
 Rio

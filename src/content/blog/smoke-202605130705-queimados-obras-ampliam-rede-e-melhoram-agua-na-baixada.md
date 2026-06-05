@@ -4,7 +4,7 @@ description: "Em Queimados, na Baixada Fluminense, obras de ampliação da rede 
 pubDate: "2026-05-13T10:05:07Z"
 draft: true
 tags: ["rio-de-janeiro", "queimados", "baixada-fluminense", "obras", "agua", "saneamento", "vila-central", "vila-americana", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "baixada", "problemas-estruturais", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130705-queimados-obras-ampliam-rede-e-melhoram-agua-na-baixada.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-queimados-obras-ampliam-rede-e-melhoram-agua-na-baixada.jpg"
 categoria_macro: geral
 ---
 Em Queimados, na Baixada Fluminense, obras de ampliação da rede de água avançam

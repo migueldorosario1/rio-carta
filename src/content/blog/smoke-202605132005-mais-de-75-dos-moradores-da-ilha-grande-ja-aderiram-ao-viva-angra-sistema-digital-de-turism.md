@@ -4,7 +4,7 @@ description: "A adesão ao Viva Angra – Sistema Digital de Turismo já alcanç
 pubDate: "2026-05-13T23:05:19Z"
 draft: true
 tags: ["rio-de-janeiro", "angra-dos-reis", "ilha-grande", "turismo", "sistema-digital", "viva-angra", "sul-fluminense", "sul-fluminense-costa-verde", "comunidade", "angra"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132005-mais-de-75-dos-moradores-da-ilha-grande-ja-aderiram-ao-viva-angra-sistema-digital-de-turism.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132005-mais-de-75-dos-moradores-da-ilha-grande-ja-aderiram-ao-viva-angra-sistema-digital-de-turism.webp"
 categoria_macro: lazer
 ---
 A adesão ao Viva Angra – Sistema Digital de Turismo já alcança números expressivos na Ilha Grande. Segundo a TurisAngra, mais de 4.

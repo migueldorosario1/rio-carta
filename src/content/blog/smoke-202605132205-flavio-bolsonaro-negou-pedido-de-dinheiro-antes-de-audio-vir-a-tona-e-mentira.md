@@ -4,7 +4,7 @@ description: "O senador Flávio Bolsonaro negou publicamente ter pedido dinheiro
 pubDate: "2026-05-14T01:05:30Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "senador", "politica-rj", "dark-horse", "financiamento", "audio", "mensagens", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132205-flavio-bolsonaro-negou-pedido-de-dinheiro-antes-de-audio-vir-a-tona-e-mentira.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132205-flavio-bolsonaro-negou-pedido-de-dinheiro-antes-de-audio-vir-a-tona-e-mentira.webp"
 categoria_macro: politica
 ---
 O senador Flávio Bolsonaro negou publicamente ter pedido dinheiro ao banqueiro Daniel Vorcaro para financiar o filme “Dark Horse”, sobre a trajetória do ex-presidente Jair Bolsonaro, poucas horas antes do vazamento de mensagens e áudios atribuídos ao parlamentar.

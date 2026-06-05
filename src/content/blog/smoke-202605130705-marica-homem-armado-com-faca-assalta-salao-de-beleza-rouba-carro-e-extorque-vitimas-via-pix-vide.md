@@ -4,7 +4,7 @@ description: "Maricá: Homem armado com faca assalta salão de beleza, rouba car
 pubDate: "2026-05-13T10:05:17Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "niteroi", "assalto", "salao-de-beleza", "pix", "seguranca-publica", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "bancarios", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130705-marica-homem-armado-com-faca-assalta-salao-de-beleza-rouba-carro-e-extorque-vitimas-via-pix-vide.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130705-marica-homem-armado-com-faca-assalta-salao-de-beleza-rouba-carro-e-extorque-vitimas-via-pix-vide.jpg"
 categoria_macro: seguranca
 ---
 Maricá: Homem armado com faca assalta salão de beleza, rouba carro e extorque vítimas via PIX (VÍDEO)

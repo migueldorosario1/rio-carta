@@ -4,7 +4,7 @@ description: "A programação do Maio Amarelo em Cabo Frio ganha destaque neste 
 pubDate: "2026-05-13T13:26:59Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "maio-amarelo", "seguranca-no-transito", "passeio-ciclistico", "macae-norte-fluminense", "mare", "norte-fluminense", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131026-cabo-frio-promove-acao-do-maio-amarelo-com-percurso-ciclistico-neste-sabado.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-cabo-frio-promove-acao-do-maio-amarelo-com-percurso-ciclistico-neste-sabado.jpeg"
 categoria_macro: geral
 ---
 A programação do Maio Amarelo em Cabo Frio ganha destaque neste sábado (16) com a realização de um passeio ciclístico aberto à população, reunindo moradores e visitantes em uma ação voltada à conscientização sobre segurança no trânsito. A concentração acontece a partir das 7h, na Praça do Guta, com saída prevista para as 8h, em um trajeto que percorre vias importantes da cidade e retorna ao ponto inicial.

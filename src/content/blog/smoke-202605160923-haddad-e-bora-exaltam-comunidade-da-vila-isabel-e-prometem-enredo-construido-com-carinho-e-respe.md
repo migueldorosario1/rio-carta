@@ -4,7 +4,7 @@ description: "Gabriel Haddad e Leonardo Bora foram felizes ao realizar seu prime
 pubDate: "2026-05-16T09:25:11Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-isabel", "zona-norte", "rio-capital-zona-norte", "cultura-carnaval", "comunidade", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160923-haddad-e-bora-exaltam-comunidade-da-vila-isabel-e-prometem-enredo-construido-com-carinho-e-respe.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160923-haddad-e-bora-exaltam-comunidade-da-vila-isabel-e-prometem-enredo-construido-com-carinho-e-respe.jpg"
 categoria_macro: lazer
 ---
 Gabriel Haddad e Leonardo Bora foram felizes ao realizar seu primeiro trabalho na Unidos de Vila Isabel no último carnaval. A dupla foi responsável pelo terceiro lugar da agremiação com o enredo “Macumbembê, Samborembá: Sonhei que um Sambista Sonhou a África”, sobre a vida de Heitor dos Prazeres, um dos grandes nomes da história do samba, que esteve no surgimento das escolas e na consolidação do próprio samba.

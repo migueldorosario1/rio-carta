@@ -4,7 +4,7 @@ description: "Niterói registra queda em índices de criminalidade no mês de ab
 pubDate: "2026-05-16T14:24:20Z"
 draft: false
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "seguranca-publica", "sao-goncalo-itaborai", "sao-goncalo", "itaborai", "marica", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161423-niteroi-registra-queda-em-indices-de-criminalidade-no-mes-de-abril.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161423-niteroi-registra-queda-em-indices-de-criminalidade-no-mes-de-abril.jpg"
 categoria_macro: seguranca
 ---
 Dados do Observatório de Segurança do município mostram o menor número de roubos de rua desde o início da série histórica em 2003

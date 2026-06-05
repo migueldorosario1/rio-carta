@@ -4,7 +4,7 @@ description: "A pré-campanha do senador Flávio Bolsonaro acionou o Tribunal Su
 pubDate: "2026-05-30T16:00:14Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "eleicoes", "saude", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605301600-flavio-bolsonaro-aciona-tse-para-tentar-barrar-pesquisa-que-aponta-queda-nas-intencoes-de-voto.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605301600-flavio-bolsonaro-aciona-tse-para-tentar-barrar-pesquisa-que-aponta-queda-nas-intencoes-de-voto.jpg"
 ---
 A pré-campanha do senador Flávio Bolsonaro acionou o Tribunal Superior Eleitoral (TSE) para pedir a suspensão da divulgação de uma pesquisa Atlas/Bloomberg que aponta queda nas intenções de voto do parlamentar em um eventual segundo turno contra o presidente Luiz Inácio Lula da Silva.
 

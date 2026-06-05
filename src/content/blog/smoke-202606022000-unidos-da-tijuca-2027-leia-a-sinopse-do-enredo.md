@@ -4,7 +4,7 @@ description: "Enredo – A CABEÇA DO SANTO JUSTIFICATIVA “A Cabeça do Santo�
 pubDate: "2026-06-02T20:02:58Z"
 draft: true
 tags: ["rio-de-janeiro", "unidos-da-tijuca", "tijuca", "carnaval", "cultura-carnaval", "leme"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606022000-unidos-da-tijuca-2027-leia-a-sinopse-do-enredo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-unidos-da-tijuca-2027-leia-a-sinopse-do-enredo.jpg"
 ---
 Enredo – A CABEÇA DO SANTO JUSTIFICATIVA “A Cabeça do Santo”, uma proposta de releitura da obra homônima de Socorro Acioli, é o enredo que a Unidos da Tijuca aposta para potencializar a narrativa do brasileiro sertanejo e nordestino no carnaval de 2027. Entendemos que a Marquês de Sapucaí é um espaço de desmistificação de visões estereotipadas a respeito dos elementos culturais da identidade nacional.
 

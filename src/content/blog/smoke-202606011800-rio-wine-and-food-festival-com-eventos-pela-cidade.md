@@ -4,7 +4,7 @@ description: "O Rio Wine and Food Festival começa nesta sexta-feira (22) e segu
 pubDate: "2026-06-01T18:00:19Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "cultura-carnaval", "niteroi-metropolitana", "regiao-metropolitana", "flamengo", "ipanema", "lagoa", "leblon", "tijuca", "urca", "barra-da-tijuca", "niteroi"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606011800-rio-wine-and-food-festival-com-eventos-pela-cidade.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606011800-rio-wine-and-food-festival-com-eventos-pela-cidade.webp"
 ---
 O Rio Wine and Food Festival começa nesta sexta-feira (22) e segue até 31 de maio
 

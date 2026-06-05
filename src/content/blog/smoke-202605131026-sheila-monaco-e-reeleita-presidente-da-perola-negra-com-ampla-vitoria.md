@@ -4,7 +4,7 @@ description: "A chapa “Resistência”, liderada por Sheila Monaco, foi a venc
 pubDate: "2026-05-13T13:27:04Z"
 draft: true
 tags: ["rio-de-janeiro", "carnaval", "pegra-negra", "sheila-monaco", "cultura-e-carnaval-rj", "cultura-carnaval", "comunidade", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605131026-sheila-monaco-e-reeleita-presidente-da-perola-negra-com-ampla-vitoria.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605131026-sheila-monaco-e-reeleita-presidente-da-perola-negra-com-ampla-vitoria.jpg"
 categoria_macro: lazer
 ---
 A chapa “Resistência”, liderada por Sheila Monaco, foi a vencedora da eleição para a Diretoria Executiva e o Conselho Fiscal do G. R.

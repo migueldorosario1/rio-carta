@@ -4,7 +4,7 @@ description: "BARRA MANSA Ex-vereador por dois mandatos e prefeito por oito anos
 pubDate: "2026-05-20T21:24:26Z"
 draft: false
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "seguranca-publica", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605202123-rodrigo-drable-fala-de-pre-candidatura-a-deputado-estadual-neste-ano-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605202123-rodrigo-drable-fala-de-pre-candidatura-a-deputado-estadual-neste-ano-qwen.jpg"
 ---
 BARRA MANSA
 

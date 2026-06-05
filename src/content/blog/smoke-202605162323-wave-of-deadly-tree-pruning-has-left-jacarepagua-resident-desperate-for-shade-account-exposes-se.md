@@ -4,7 +4,7 @@ description: "Concerned with the felling of trees across the Taquara neighborhoo
 pubDate: "2026-05-16T23:24:03Z"
 draft: true
 tags: ["rio-de-janeiro", "jacarepagua", "taquara", "zona-oeste", "arvores", "poda-predatoria", "meio-ambiente", "urbanizacao", "rio-capital-barra-recreio-jacarepagua", "favelas-comunidades", "regiao-metropolitana", "jacare", "sampaio", "favela"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162323-wave-of-deadly-tree-pruning-has-left-jacarepagua-resident-desperate-for-shade-account-exposes-se-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162323-wave-of-deadly-tree-pruning-has-left-jacarepagua-resident-desperate-for-shade-account-exposes-se-qwen.jpg"
 ---
 Concerned with the felling of trees across the Taquara neighborhood, in Rio de Janeiro’s West Zone, not far from where the 2016 Olympics took place, community journalist Magnun Alves shared an account on social media about the merciless wave of tree “pruning” that has been devastating the region over the past two years, offering a heartbreaking local account that reinforces recent reporting on RioOnWatch, such as the must-read “Rio Mayor Eduardo Paes Sells Off Iconic Green Spaces” published earlier this month.
 

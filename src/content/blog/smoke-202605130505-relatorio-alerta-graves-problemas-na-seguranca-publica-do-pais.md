@@ -4,7 +4,7 @@ description: "Rio Relatório alerta graves problemas na segurança pública do p
 pubDate: "2026-05-13T08:05:05Z"
 draft: true
 tags: ["rio-de-janeiro", "seguranca-publica", "crime-organizado", "milicias", "faccoes", "seguranca-publica-rj", "capital-estado", "regiao-metropolitana", "leme", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130505-relatorio-alerta-graves-problemas-na-seguranca-publica-do-pais.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130505-relatorio-alerta-graves-problemas-na-seguranca-publica-do-pais.jpg"
 categoria_macro: seguranca
 ---
 Rio

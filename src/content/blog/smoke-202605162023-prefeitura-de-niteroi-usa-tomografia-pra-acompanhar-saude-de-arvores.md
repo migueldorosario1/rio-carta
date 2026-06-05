@@ -4,7 +4,7 @@ description: "Niterói passou a usar tomografia para avaliar a saúde das árvor
 pubDate: "2026-05-16T20:25:13Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "capital-porto", "mage", "problemas-estruturais", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162023-prefeitura-de-niteroi-usa-tomografia-pra-acompanhar-saude-de-arvores-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-prefeitura-de-niteroi-usa-tomografia-pra-acompanhar-saude-de-arvores-qwen.jpg"
 ---
 Niterói passou a usar tomografia para avaliar a saúde das árvores da cidade. A técnica funciona como uma espécie de exame interno dos troncos e permite identificar sinais de fragilidade que nem sempre aparecem em uma vistoria visual.
 

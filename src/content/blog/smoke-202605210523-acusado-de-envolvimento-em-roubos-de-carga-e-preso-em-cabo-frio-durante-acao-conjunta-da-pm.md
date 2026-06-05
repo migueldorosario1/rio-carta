@@ -4,7 +4,7 @@ description: "Um homem de 53 anos, considerado foragido da Justiça, foi preso n
 pubDate: "2026-05-21T05:23:41Z"
 draft: false
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "seguranca-publica", "roubo-de-carga", "policia-militar", "jacarepagua", "regiao-metropolitana", "jacare", "itaborai", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605210523-acusado-de-envolvimento-em-roubos-de-carga-e-preso-em-cabo-frio-durante-acao-conjunta-da-pm.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605210523-acusado-de-envolvimento-em-roubos-de-carga-e-preso-em-cabo-frio-durante-acao-conjunta-da-pm.webp"
 ---
 Um homem de 53 anos, considerado foragido da Justiça, foi preso na tarde desta terça-feira (19) no Centro de Cabo Frio, durante uma ação conjunta das equipes do Serviço Reservado do 25º BPM e do 35º BPM.
 

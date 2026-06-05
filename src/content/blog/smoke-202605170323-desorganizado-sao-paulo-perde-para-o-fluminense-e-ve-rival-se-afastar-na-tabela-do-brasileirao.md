@@ -4,7 +4,7 @@ description: "Desorganizado, São Paulo perde para o Fluminense e vê rival se a
 pubDate: "2026-05-17T03:23:06Z"
 draft: false
 tags: ["rio-de-janeiro", "fluminense", "sao-paulo", "rio-capital-centro", "serrana", "regiao-serrana", "petropolis", "estacio", "flamengo", "laranjeiras", "maracana", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170323-desorganizado-sao-paulo-perde-para-o-fluminense-e-ve-rival-se-afastar-na-tabela-do-brasileirao.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170323-desorganizado-sao-paulo-perde-para-o-fluminense-e-ve-rival-se-afastar-na-tabela-do-brasileirao.jpg"
 ---
 O São Paulo perdeu mais uma vez. O time paulista visitou o Fluminense no Maracanã neste sábado, dia 16, pela 16ª rodada do Brasileirão.
 

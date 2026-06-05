@@ -4,7 +4,7 @@ description: "Rio Comissão de Transportes vai notificar Prefeitura do Rio por p
 pubDate: "2026-05-15T03:05:28Z"
 draft: true
 tags: ["rio-de-janeiro", "prefeitura-do-rio", "alerj", "transporte-mobilidade", "politica-rj", "capital-estado", "regiao-metropolitana"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150005-comissao-de-transportes-vai-notificar-prefeitura-do-rio-por-proibir-pagamento-em-dinheiro-nos-on.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-comissao-de-transportes-vai-notificar-prefeitura-do-rio-por-proibir-pagamento-em-dinheiro-nos-on.jpg"
 categoria_macro: politica
 ---
 Rio

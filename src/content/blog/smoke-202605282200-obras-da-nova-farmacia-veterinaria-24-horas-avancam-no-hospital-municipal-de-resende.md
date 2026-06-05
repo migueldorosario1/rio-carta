@@ -4,7 +4,7 @@ description: "RESENDE As obras da nova Farmácia Veterinária 24 horas, que func
 pubDate: "2026-05-28T22:01:00Z"
 draft: false
 tags: ["rio-de-janeiro", "resende", "sul-fluminense", "saude-animal", "sul-fluminense-costa-verde", "leme", "pilares", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605282200-obras-da-nova-farmacia-veterinaria-24-horas-avancam-no-hospital-municipal-de-resende.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605282200-obras-da-nova-farmacia-veterinaria-24-horas-avancam-no-hospital-municipal-de-resende.jpg"
 ---
 RESENDE
 

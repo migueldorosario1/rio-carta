@@ -4,7 +4,7 @@ description: "Emicida em Maricá: cantor confirma show gratuito na Arena da Barr
 pubDate: "2026-05-19T19:18:04Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "show", "emicida", "sul-fluminense-costa-verde", "regiao-metropolitana", "leme", "cultura-carnaval", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605191916-emicida-em-marica-cantor-confirma-show-gratuito-na-arena-da-barra-pelo-aniversario-de-212-anos.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605191916-emicida-em-marica-cantor-confirma-show-gratuito-na-arena-da-barra-pelo-aniversario-de-212-anos.webp"
 ---
 A Prefeitura de Maricá confirmou mais uma atração de peso para a programação do aniversário de 212 anos do município: o cantor Emicida sobe ao palco da Arena da Barra de Maricá no dia 23 de maio, com a turnê “Racional”. A noite promete reunir rap, poesia e música brasileira numa apresentação gratuita aberta a toda a população.
 

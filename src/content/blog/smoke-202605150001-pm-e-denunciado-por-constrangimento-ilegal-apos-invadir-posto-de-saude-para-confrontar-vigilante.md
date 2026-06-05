@@ -4,7 +4,7 @@ description: "O Ministério Público do Estado do Rio de Janeiro denunciou o pol
 pubDate: "2026-05-15T03:01:56Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "itaipuacu", "regiao-metropolitana", "seguranca-publica", "regiao-dos-lagos", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150001-pm-e-denunciado-por-constrangimento-ilegal-apos-invadir-posto-de-saude-para-confrontar-vigilante.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150001-pm-e-denunciado-por-constrangimento-ilegal-apos-invadir-posto-de-saude-para-confrontar-vigilante.webp"
 categoria_macro: politica
 ---
 O Ministério Público do Estado do Rio de Janeiro denunciou o policial militar Everthon Silva dos Santos por constrangimento ilegal após ele invadir armado um posto de saúde em Maricá para confrontar um vigilante da unidade.

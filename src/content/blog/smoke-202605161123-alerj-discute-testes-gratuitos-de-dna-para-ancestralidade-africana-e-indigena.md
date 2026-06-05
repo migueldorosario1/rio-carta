@@ -4,7 +4,7 @@ description: "A Assembleia Legislativa do Estado do Rio de Janeiro discutiu, nes
 pubDate: "2026-05-16T11:24:14Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "ancestralidade", "politica-rj", "capital", "regiao-metropolitana", "leme", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161123-alerj-discute-testes-gratuitos-de-dna-para-ancestralidade-africana-e-indigena.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161123-alerj-discute-testes-gratuitos-de-dna-para-ancestralidade-africana-e-indigena.jpeg"
 categoria_macro: politica
 ---
 A Assembleia Legislativa do Estado do Rio de Janeiro discutiu, nesta sexta-feira (15/05), uma proposta que prevê a oferta gratuita de testes de DNA para identificação de ancestralidade africana e indígena. O tema foi debatido em reunião da Comissão do Cumpra-se, presidida pelo deputado Carlos Minc.

@@ -4,7 +4,7 @@ description: "Na tarde deste domingo (31), uma criança veio a óbito após ser 
 pubDate: "2026-06-02T20:03:05Z"
 draft: false
 tags: ["rio-de-janeiro", "pavuna", "zona-norte", "seguranca-publica", "rio-capital-zona-norte", "favelas-comunidades", "regiao-metropolitana", "sao-joao-de-meriti", "iraja", "zona-oeste", "joa", "favela", "comunidade", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606022000-crianca-morre-apos-ser-atingida-por-bala-perdida-enquanto-brincava-em-condominio-na-pavuna.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-crianca-morre-apos-ser-atingida-por-bala-perdida-enquanto-brincava-em-condominio-na-pavuna.jpg"
 ---
 Na tarde deste domingo (31), uma criança veio a óbito após ser atingida por uma bala perdida enquanto brincava em um parquinho na Pavuna, Zona Oeste do Rio.
 

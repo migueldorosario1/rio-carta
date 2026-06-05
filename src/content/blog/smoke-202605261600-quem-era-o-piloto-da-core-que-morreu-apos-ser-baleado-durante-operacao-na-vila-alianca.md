@@ -4,7 +4,7 @@ description: "Rio Quem era o piloto da Core que morreu após ser baleado durante
 pubDate: "2026-05-26T16:00:26Z"
 draft: false
 tags: ["rio-de-janeiro", "vila-alianca", "seguranca-publica", "capital-estado", "regiao-metropolitana", "zona-oeste", "bangu", "comunidade", "angra", "problemas-estruturais", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605261600-quem-era-o-piloto-da-core-que-morreu-apos-ser-baleado-durante-operacao-na-vila-alianca.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605261600-quem-era-o-piloto-da-core-que-morreu-apos-ser-baleado-durante-operacao-na-vila-alianca.jpg"
 ---
 Rio
 

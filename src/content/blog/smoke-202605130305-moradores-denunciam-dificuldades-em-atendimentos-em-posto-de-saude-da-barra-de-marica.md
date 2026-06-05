@@ -4,7 +4,7 @@ description: "Moradores denunciam dificuldades em atendimentos em posto de saúd
 pubDate: "2026-05-13T06:05:17Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "barra-de-marica", "saude", "posto-de-saude", "atendimento", "niteroi-sao-goncalo-metropolitana", "regiao-metropolitana", "transporte-mobilidade", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130305-moradores-denunciam-dificuldades-em-atendimentos-em-posto-de-saude-da-barra-de-marica.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-moradores-denunciam-dificuldades-em-atendimentos-em-posto-de-saude-da-barra-de-marica.png"
 categoria_macro: politica
 ---
 Moradores denunciam dificuldades em atendimentos em posto de saúde da Barra de Maricá

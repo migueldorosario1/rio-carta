@@ -4,7 +4,7 @@ description: "SUL FLUMINENSE O ex-presidente da Assembleia Legislativa do Estado
 pubDate: "2026-05-15T21:07:23Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "costa-verde", "pirai", "rio-claro", "barra-mansa", "volta-redonda", "angra-dos-reis", "andre-ceciliano", "politica-rj", "sul-fluminense-costa-verde", "regiao-metropolitana", "angra", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605151805-andre-ceciliano-intensifica-agenda-no-sul-fluminense-e-reforca-ponte-com-brasilia-para-novos-inv.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605151805-andre-ceciliano-intensifica-agenda-no-sul-fluminense-e-reforca-ponte-com-brasilia-para-novos-inv.jpg"
 categoria_macro: politica
 ---
 SUL FLUMINENSE

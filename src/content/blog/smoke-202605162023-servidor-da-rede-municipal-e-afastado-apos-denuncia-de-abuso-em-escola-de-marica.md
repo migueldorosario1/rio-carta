@@ -4,7 +4,7 @@ description: "Servidor da rede municipal é afastado após denúncia de abuso em
 pubDate: "2026-05-16T20:25:16Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "educacao", "regiao-metropolitana", "transporte-mobilidade", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605162023-servidor-da-rede-municipal-e-afastado-apos-denuncia-de-abuso-em-escola-de-marica.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605162023-servidor-da-rede-municipal-e-afastado-apos-denuncia-de-abuso-em-escola-de-marica.jpg"
 ---
 Um funcionário de uma escola municipal de Maricá foi afastado preventivamente pela Prefeitura após denúncias de um suposto caso de abuso sexual envolvendo o servidor e uma funcionária da unidade escolar. O caso está sendo investigado pela Secretaria Municipal de Educação por meio de um procedimento administrativo interno.
 

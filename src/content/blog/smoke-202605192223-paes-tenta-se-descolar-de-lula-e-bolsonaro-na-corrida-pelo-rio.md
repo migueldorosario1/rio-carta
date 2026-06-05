@@ -4,7 +4,7 @@ description: "Prefeito do Rio diz à BBC que eleição estadual será decidida p
 pubDate: "2026-05-19T22:23:07Z"
 draft: false
 tags: ["rio-de-janeiro", "politica-rj", "macae-norte-fluminense", "regiao-metropolitana", "penha", "complexo", "alemao", "norte-fluminense", "seguranca-publica", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605192223-paes-tenta-se-descolar-de-lula-e-bolsonaro-na-corrida-pelo-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605192223-paes-tenta-se-descolar-de-lula-e-bolsonaro-na-corrida-pelo-rio.jpg"
 ---
 Prefeito do Rio diz à BBC que eleição estadual será decidida por segurança, saúde e gestão; pré-candidato critica operações policiais de impacto eleitoral e evita alinhamento ideológico rígido
 

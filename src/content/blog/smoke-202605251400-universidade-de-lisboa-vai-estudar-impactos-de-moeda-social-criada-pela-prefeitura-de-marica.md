@@ -4,7 +4,7 @@ description: "A moeda social Mumbuca, criada pela prefeitura de Maricá em 2013,
 pubDate: "2026-05-25T14:00:14Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "moeda-social-mumbuca", "politica-rj", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605251400-universidade-de-lisboa-vai-estudar-impactos-de-moeda-social-criada-pela-prefeitura-de-marica.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605251400-universidade-de-lisboa-vai-estudar-impactos-de-moeda-social-criada-pela-prefeitura-de-marica.png"
 ---
 A moeda social Mumbuca, criada pela prefeitura de Maricá em 2013, ultrapassou as fronteiras brasileiras e passará a ser analisada por pesquisadores da Universidade de Lisboa. Segundo informa a coluna Painel, da Folha de S.
 

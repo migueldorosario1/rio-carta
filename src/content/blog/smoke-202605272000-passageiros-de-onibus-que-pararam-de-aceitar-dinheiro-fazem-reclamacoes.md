@@ -4,7 +4,7 @@ description: "Passageiros de ônibus que pararam de aceitar dinheiro fazem recla
 pubDate: "2026-05-27T20:00:12Z"
 draft: false
 tags: ["rio-de-janeiro", "ilha-do-governador", "tijuca", "onibus", "transporte", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "leme", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605272000-passageiros-de-onibus-que-pararam-de-aceitar-dinheiro-fazem-reclamacoes.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605272000-passageiros-de-onibus-que-pararam-de-aceitar-dinheiro-fazem-reclamacoes.png"
 ---
 Segundo levantamento da Secretaria Municipal de Transportes, cerca de 220 mil embarques por dia são afetados pela medida
 

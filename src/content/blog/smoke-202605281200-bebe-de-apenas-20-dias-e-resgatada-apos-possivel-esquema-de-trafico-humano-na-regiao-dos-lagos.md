@@ -4,7 +4,7 @@ description: "Bebê de apenas 20 dias é resgatada após possível esquema de tr
 pubDate: "2026-05-28T12:00:32Z"
 draft: false
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "regiao-dos-lagos", "cabo-frio", "policia-federal", "trafico-humano", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "buzios", "iguaba", "araruama", "seguranca-publica"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605281200-bebe-de-apenas-20-dias-e-resgatada-apos-possivel-esquema-de-trafico-humano-na-regiao-dos-lagos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605281200-bebe-de-apenas-20-dias-e-resgatada-apos-possivel-esquema-de-trafico-humano-na-regiao-dos-lagos.jpg"
 ---
 Na ação, a PF apreendeu celulares, os documentos da criança e a autorização de viagem ao exterior
 

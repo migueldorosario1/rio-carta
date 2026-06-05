@@ -4,7 +4,7 @@ description: "O ano de 2026 foi o início de uma trajetória em que Antônio Gon
 pubDate: "2026-05-13T06:05:20Z"
 draft: false
 tags: ["rio-de-janeiro", "carnaval", "grande-rio", "cultura", "cultura-e-carnaval-rj", "cultura-carnaval", "comunidade", "saude", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130305-antonio-gonzaga-comenta-sua-estreia-solo-na-grande-rio-e-os-planos-para-2027.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130305-antonio-gonzaga-comenta-sua-estreia-solo-na-grande-rio-e-os-planos-para-2027.jpg"
 categoria_macro: lazer
 ---
 O ano de 2026 foi o início de uma trajetória em que Antônio Gonzaga encarou o desafio de assinar sozinho o carnaval de uma grande agremiação do carnaval carioca. O carnavalesco define sua estreia na Acadêmicos do Grande Rio como uma transição profissional.

@@ -4,7 +4,7 @@ description: "A adesão do estado do Rio de Janeiro ao Programa de Pleno Pagamen
 pubDate: "2026-05-13T23:05:21Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "alerj", "governo-rj", "economia", "regiao-metropolitana", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605132005-propag-deve-aliviar-contas-do-rio-e-adesao-e-prevista-ate-junho-diz-secretario-de-fazenda.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605132005-propag-deve-aliviar-contas-do-rio-e-adesao-e-prevista-ate-junho-diz-secretario-de-fazenda.jpg"
 categoria_macro: politica
 ---
 A adesão do estado do Rio de Janeiro ao Programa de Pleno Pagamento de Dívidas dos Estados (Propag) deverá ocorrer até o fim de junho e é tratada pelo governo estadual como uma das principais alternativas para aliviar a pressão sobre as contas públicas.

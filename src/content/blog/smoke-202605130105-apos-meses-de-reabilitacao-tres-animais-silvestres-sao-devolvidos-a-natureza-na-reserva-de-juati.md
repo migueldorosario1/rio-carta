@@ -4,7 +4,7 @@ description: "Após meses de reabilitação, três animais silvestres são devol
 pubDate: "2026-05-13T04:05:13Z"
 draft: true
 tags: ["rio-de-janeiro", "paraty", "costa-verde", "reserva-ecologica-estadual-da-juatinga", "animais-silvestres", "reabilitacao", "inea", "sul-fluminense", "serrana", "regiao-serrana", "petropolis", "problemas-estruturais"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605130105-apos-meses-de-reabilitacao-tres-animais-silvestres-sao-devolvidos-a-natureza-na-reserva-de-juati.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605130105-apos-meses-de-reabilitacao-tres-animais-silvestres-sao-devolvidos-a-natureza-na-reserva-de-juati.jpeg"
 categoria_macro: geral
 ---
 Após meses de reabilitação, três animais silvestres são devolvidos à natureza na Reserva de Juatinga, em Paraty

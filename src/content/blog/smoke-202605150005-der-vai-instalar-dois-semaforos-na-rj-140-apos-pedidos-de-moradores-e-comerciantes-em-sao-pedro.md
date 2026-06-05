@@ -4,7 +4,7 @@ description: "O Departamento de Estradas de Rodagem (DER) vai instalar dois sem�
 pubDate: "2026-05-15T03:05:20Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-pedro-da-aldeia", "regiao-dos-lagos", "rj-140", "der", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150005-der-vai-instalar-dois-semaforos-na-rj-140-apos-pedidos-de-moradores-e-comerciantes-em-sao-pedro.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150005-der-vai-instalar-dois-semaforos-na-rj-140-apos-pedidos-de-moradores-e-comerciantes-em-sao-pedro.webp"
 categoria_macro: geral
 ---
 O Departamento de Estradas de Rodagem (DER) vai instalar dois semáforos na RJ-140, na altura da Rua Teixeira Brandão, entre os bairros Nova São Pedro e Fluminense, em São Pedro da Aldeia. A medida ocorre após solicitações feitas por moradores, comerciantes e frequentadores da região, que apontavam o risco constante de acidentes no trecho.

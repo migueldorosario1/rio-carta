@@ -4,7 +4,7 @@ description: "Ambientes públicos e privados, como hospitais, universidades, cen
 pubDate: "2026-06-02T20:01:52Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "projeto-lei", "banheiros-neutros", "direitos-trans", "politica-rj", "norte-noroeste-fluminense", "regiao-metropolitana", "noroeste-fluminense", "problemas-estruturais", "transporte-mobilidade", "educacao", "cultura-carnaval"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202606022000-alerj-aprova-projeto-que-cria-banheiros-neutros-em-espacos-publicos-e-privados-no-rj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606022000-alerj-aprova-projeto-que-cria-banheiros-neutros-em-espacos-publicos-e-privados-no-rj.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Exonerado nesta semana do comando do Departamento de Transportes R
 pubDate: "2026-05-16T16:24:47Z"
 draft: false
 tags: ["rio-de-janeiro", "alerj", "ricardo-couto", "politica-rj", "regiao-metropolitana", "leme", "transporte-mobilidade", "saude"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605161623-exonerado-do-detro-por-ricardo-couto-raphael-salgado-ganha-cargo-na-alerj.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605161623-exonerado-do-detro-por-ricardo-couto-raphael-salgado-ganha-cargo-na-alerj.jpg"
 categoria_macro: politica
 ---
 Exonerado nesta semana do comando do Departamento de Transportes Rodoviários do Estado do Rio de Janeiro (Detro), Raphael Silva Salgado voltou rapidamente à estrutura pública estadual. Dois dias após deixar a presidência do órgão, ele foi nomeado chefe de gabinete do deputado estadual Alan Lopes (PL), na Assembleia Legislativa do Estado do Rio de Janeiro.

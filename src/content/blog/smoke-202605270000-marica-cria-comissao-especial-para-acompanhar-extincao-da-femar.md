@@ -4,7 +4,7 @@ description: "Maricá cria comissão especial para acompanhar extinção da FEMA
 pubDate: "2026-05-27T00:00:24Z"
 draft: false
 tags: ["rio-de-janeiro", "marica", "saude", "politica-rj", "regiao-metropolitana", "transporte-mobilidade"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605270000-marica-cria-comissao-especial-para-acompanhar-extincao-da-femar.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605270000-marica-cria-comissao-especial-para-acompanhar-extincao-da-femar.jpeg"
 ---
 A Prefeitura de Maricá oficializou a criação de uma comissão especial para acompanhar o processo de extinção da Fundação Estatal de Saúde de Maricá (FEMAR). A medida foi publicada no Diário Oficial desta sexta-feira (22), por meio do Decreto nº 449, assinado pelo prefeito Washington Quaquá.
 

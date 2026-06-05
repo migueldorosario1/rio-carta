@@ -4,7 +4,7 @@ description: "A Câmara Municipal do Rio de Janeiro aprovou, nesta quarta-feira 
 pubDate: "2026-05-15T11:05:08Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "tea", "saude", "legislacao", "politica-rj", "capital", "regiao-metropolitana", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605150805-camara-aprova-salas-de-espera-adaptadas-para-pessoas-com-tea-em-hospitais-do-rio.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605150805-camara-aprova-salas-de-espera-adaptadas-para-pessoas-com-tea-em-hospitais-do-rio.png"
 categoria_macro: politica
 ---
 A Câmara Municipal do Rio de Janeiro aprovou, nesta quarta-feira (13/05), em 2ª discussão, o Projeto de Lei 296/2025, que obriga hospitais e unidades básicas de saúde da cidade a reservar e adaptar espaços de espera para pacientes diagnosticados com Transtorno do Espectro Autista (TEA).

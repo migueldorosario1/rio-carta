@@ -4,7 +4,7 @@ description: "O Camisa Verde e Branco apresentou oficialmente o enredo que levar
 pubDate: "2026-05-16T05:24:13Z"
 draft: false
 tags: ["rio-de-janeiro", "cultura-carnaval", "regiao-metropolitana", "mage", "ramos", "seguranca-publica", "educacao"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605160523-voo-pela-brasilidade-camisa-verde-e-branco-anuncia-ajuruetes-para-o-carnaval-2027.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605160523-voo-pela-brasilidade-camisa-verde-e-branco-anuncia-ajuruetes-para-o-carnaval-2027.jpg"
 categoria_macro: seguranca
 ---
 O Camisa Verde e Branco apresentou oficialmente o enredo que levará para o Carnaval de 2027, apostando em uma narrativa que mistura identidade nacional, crítica histórica e a simbologia de aves brasileiras para construir o tema “Ajuruetês – o voo da Terra Brazil”, que será desenvolvido pelo carnavalesco Marcus Ferreira. A proposta da agremiação da Barra Funda mergulha na figura do papagaio, animal-símbolo do país, como metáfora de brasilidade e resistência cultural.

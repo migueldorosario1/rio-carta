@@ -4,7 +4,7 @@ description: "Washington Quaquá negocia instalação de data center do BTG Pact
 pubDate: "2026-05-17T02:23:24Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "norte-noroeste-fluminense", "sao-goncalo-itaborai", "regiao-metropolitana", "niteroi", "sao-goncalo", "itaborai", "transporte-mobilidade", "politica-rj"]
-heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-smoke-202605170223-washington-quaqua-negocia-instalacao-de-data-center-do-btg-pactual-em-marica.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202605170223-washington-quaqua-negocia-instalacao-de-data-center-do-btg-pactual-em-marica.jpg"
 ---
 Prefeito conversou com o banqueiro André Esteves durante um evento em Nova York
 
