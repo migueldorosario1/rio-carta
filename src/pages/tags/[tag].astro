@@ -215,6 +215,30 @@ const deputadosFederaisRoster = tag === 'deputados-federais-rj' ? deputadosFeder
 const senadoresRoster = tag === 'senadores-rj' ? senadoresEleitos : [];
 
 const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace(/^camara-/, ''));
+
+const oficialUrls = new Map<string, string>();
+if (parlamentaresRj.deputadosEstaduais) {
+	for (const p of parlamentaresRj.deputadosEstaduais) {
+		if (p.slug && p.urlOficial) oficialUrls.set(p.slug, p.urlOficial);
+	}
+}
+if (parlamentaresRj.deputadosFederais) {
+	for (const p of parlamentaresRj.deputadosFederais) {
+		if (p.slug && p.urlOficial) oficialUrls.set(p.slug, p.urlOficial);
+	}
+}
+if (parlamentaresRj.senadores) {
+	for (const p of parlamentaresRj.senadores) {
+		if (p.slug && p.urlOficial) oficialUrls.set(p.slug, p.urlOficial);
+	}
+}
+
+function getPrefeituraUrl(slug: string) {
+	if (slug === 'rio-de-janeiro') return 'https://prefeitura.rio/';
+	if (slug === 'niteroi') return 'https://www.niteroi.rj.gov.br/';
+	if (slug === 'sao-goncalo') return 'https://www.pmsg.rj.gov.br/';
+	return `https://www.${slug}.rj.gov.br/`;
+}
 ---
 
 <!doctype html>
@@ -385,6 +409,15 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 				line-height: 1.25;
 				flex: 1;
 			}
+			.roster-name a {
+				color: #111;
+				text-decoration: none;
+				transition: color 0.2s ease;
+			}
+			.roster-name a:hover {
+				color: #0052D4;
+				text-decoration: underline;
+			}
 .roster-party {
 	font-size: 0.85rem;
 	font-weight: 700;
@@ -424,6 +457,20 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 				<div class="tag-icon">{meta.icon}</div>
 				<h3 class="tag-title">{meta.title}</h3>
 				<h1 class="tag-subtitle">{meta.subtitle}</h1>
+				{oficialUrls.has(tag) && (
+					<div class="tag-meta-info" style="margin-top: 1rem;">
+						<a href={oficialUrls.get(tag)} target="_blank" rel="noopener noreferrer" style="color: white; background: rgba(255, 255, 255, 0.2); padding: 0.6rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 0.5rem; transition: background 0.2s;" onmouseover="this.style.background='rgba(255, 255, 255, 0.3)'" onmouseout="this.style.background='rgba(255, 255, 255, 0.2)'">
+							🏛️ Página Oficial do Parlamentar ↗
+						</a>
+					</div>
+				)}
+				{tag.startsWith('prefeitura-') && (
+					<div class="tag-meta-info" style="margin-top: 1rem;">
+						<a href={getPrefeituraUrl(tag.replace(/^prefeitura-/, ''))} target="_blank" rel="noopener noreferrer" style="color: white; background: rgba(255, 255, 255, 0.2); padding: 0.6rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 0.5rem; transition: background 0.2s;" onmouseover="this.style.background='rgba(255, 255, 255, 0.3)'" onmouseout="this.style.background='rgba(255, 255, 255, 0.2)'">
+							🏢 Portal da Prefeitura ↗
+						</a>
+					</div>
+				)}
 				{cidadeCouncil && (
 					<p class="tag-counter">{cidadeCouncil.total} vereadores eleitos em 2024</p>
 				)}
@@ -451,7 +498,7 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 						{cidadeCouncil.vereadores.map((v) => (
 							<li class="roster-item">
 								<span class="roster-name">
-									{v.nome}
+									<a href={`/tags/${v.slug}`}>{v.nome}</a>
 									{v.votosNominaisValidos != null && (
 										<small class="roster-votes">{v.votosNominaisValidos.toLocaleString('pt-BR')} votos{v.percentualMunicipio != null ? ` · ${v.percentualMunicipio.toFixed(2)}%` : ''}</small>
 									)}
@@ -469,7 +516,7 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 					<ul class="roster-list roster-list-single">
 						<li class="roster-item">
 							<span class="roster-name">
-								{cidadePrefeitura.nome}
+								<a href={getPrefeituraUrl(cidadePrefeitura.municipioSlug)} target="_blank" rel="noopener noreferrer">{cidadePrefeitura.nome}</a>
 								<small class="roster-votes">
 									{cidadePrefeitura.votos.toLocaleString('pt-BR')} votos
 									{cidadePrefeitura.totalVotosMunicipio > 0 ? ` · ${cidadePrefeitura.percentualMunicipio.toFixed(2)}% dos votos nominais válidos do município` : ' · sem votação direta validada'}
@@ -488,11 +535,11 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 
 			{governoDoEstado && (
 				<section class="council-roster">
-					<h2 class="roster-title">Governo do Estado — Rio de Janeiro</h2>
+					<h2 class="roster-title">Government do Estado — Rio de Janeiro</h2>
 					<ul class="roster-list roster-list-single">
 						<li class="roster-item">
 							<span class="roster-name">
-								{governoDoEstado.nome}
+								<a href="https://www.rj.gov.br/" target="_blank" rel="noopener noreferrer">{governoDoEstado.nome}</a>
 								<small class="roster-votes">
 									{governoDoEstado.votos.toLocaleString('pt-BR')} votos · sem votação direta para o mandato-tampão
 								</small>
@@ -513,7 +560,11 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 						{deputadosEstaduaisRoster.map((deputado) => (
 							<li class="roster-item">
 								<span class="roster-name">
-									{deputado.nome}
+									{oficialUrls.has(deputado.slug) ? (
+										<a href={oficialUrls.get(deputado.slug)} target="_blank" rel="noopener noreferrer">{deputado.nome}</a>
+									) : (
+										deputado.nome
+									)}
 									<small class="roster-votes">
 										{deputado.votos.toLocaleString('pt-BR')} votos · {deputado.percentualEstado.toFixed(2)}% dos votos válidos estaduais · nº {deputado.numero}
 									</small>
@@ -532,7 +583,11 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 						{deputadosFederaisRoster.map((deputado) => (
 							<li class="roster-item">
 								<span class="roster-name">
-									{deputado.nome}
+									{oficialUrls.has(deputado.slug) ? (
+										<a href={oficialUrls.get(deputado.slug)} target="_blank" rel="noopener noreferrer">{deputado.nome}</a>
+									) : (
+										deputado.nome
+									)}
 									<small class="roster-votes">
 										{deputado.votos.toLocaleString('pt-BR')} votos · {deputado.percentualEstado.toFixed(2)}% dos votos nominais estaduais · nº {deputado.numero}
 									</small>
@@ -551,7 +606,11 @@ const isCidade = citySlugToLabel.has(tag) || cidadeVereadoresMap.has(tag.replace
 						{senadoresRoster.map((senador) => (
 							<li class="roster-item">
 								<span class="roster-name">
-									{senador.nome}
+									{oficialUrls.has(senador.slug) ? (
+										<a href={oficialUrls.get(senador.slug)} target="_blank" rel="noopener noreferrer">{senador.nome}</a>
+									) : (
+										senador.nome
+									)}
 									<small class="roster-votes">
 										{senador.votos.toLocaleString('pt-BR')} votos · {senador.percentualEstado.toFixed(2)}% dos votos nominais estaduais · nº {senador.numero}
 									</small>

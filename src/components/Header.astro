@@ -239,6 +239,9 @@ const senadoresEmExercicio = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 							<div class="dropdown-submenu">
 								<span class="submenu-title">Câmaras de Vereadores <span>▶</span></span>
 								<div class="submenu-content submenu-content-wide submenu-content-councils">
+									<div class="menu-instruction">
+										💡 Clique no nome da cidade para ter acesso a informações detalhadas sobre os vereadores.
+									</div>
 									{rjRegions.map((region) => (
 										<div class="submenu-section">
 											<span class="submenu-section-title">{region.label}</span>
@@ -589,6 +592,18 @@ const senadoresEmExercicio = (parlamentaresRj.senadores ?? []) as Parlamentar[];
 		.submenu-content-councils {
 			min-width: min(860px, 76vw);
 			grid-template-columns: repeat(2, minmax(260px, 1fr));
+		}
+
+		.menu-instruction {
+			grid-column: 1 / -1;
+			background: #f0f4f9;
+			border-left: 4px solid #0052D4;
+			padding: 0.6rem 0.8rem;
+			font-size: 0.85rem;
+			font-weight: 600;
+			color: #1e3a8a;
+			border-radius: 4px;
+			margin-bottom: 0.5rem;
 		}
 
 		.submenu-content-parliament {

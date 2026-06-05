@@ -51,7 +51,7 @@ const vereadores = (cidadeVereadores?.vereadores ?? []) as any[];
 			<a href={`/tags/camara-${citySlug}`} style="font-weight:700;border-bottom:1px solid #eee;margin-bottom:0.25rem;color:#0052D4;">Ver todos os vereadores →</a>
 			{vereadores.map((v: any) => (
 				<span style="display:block;padding:0.4rem 0.6rem;border-radius:6px;transition:background 0.15s;" onmouseover="this.style.background='#f0f2f5'" onmouseout="this.style.background='transparent'">
-					{v.nome} <span style="background:#e6eaf0;color:#2c3e50;padding:0.1rem 0.4rem;border-radius:4px;font-size:0.75rem;font-weight:700;margin-left:0.25rem;">{v.partido}</span>
+					<a href={`/tags/${v.slug}`} class="header-city-councilor-link">{v.nome}</a> <span style="background:#e6eaf0;color:#2c3e50;padding:0.1rem 0.4rem;border-radius:4px;font-size:0.75rem;font-weight:700;margin-left:0.25rem;">{v.partido}</span>
 					<small style="display:block;font-size:0.75rem;color:#888;margin-top:0.15rem;">{v.votosNominaisValidos?.toLocaleString('pt-BR')} votos · {v.percentualMunicipio?.toFixed(1)}%</small>
 				</span>
 			))}
@@ -271,6 +271,18 @@ const vereadores = (cidadeVereadores?.vereadores ?? []) as any[];
 	}
 
 	/* Submenu Core */
+	.header-city-councilor-link {
+		color: #111;
+		font-weight: 700;
+		text-decoration: none;
+		display: inline-block;
+		margin-right: 0.25rem;
+		transition: color 0.15s ease;
+	}
+	.header-city-councilor-link:hover {
+		color: #0052D4;
+	}
+
 	.dropdown-submenu {
 		position: relative;
 		padding: 0.2rem;
