@@ -2,16 +2,15 @@
 title: "Circuito Sesc Jazz & Blues estreia no Rio com shows gratuitos"
 description: "O Rio de Janeiro passa a integrar, pela primeira vez, a rota do Circuito Sesc Jazz & Blues, que chega na capital nos dias 26 e 27 de maio com uma programação gratuita no recém-rein"
 pubDate: "2026-06-07T01:06:07Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "sesc", "jazz", "blues", "cultura-carnaval", "capital", "regiao-metropolitana", "leme", "joa", "petropolis", "buzios", "rio-das-ostras", "paraty"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-circuito-sesc-jazz-blues-estreia-no-rio-com-shows-gratuitos.jpeg"
 ---
-
-> Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.
-
 O Rio de Janeiro passa a integrar, pela primeira vez, a rota do Circuito Sesc Jazz & Blues, que chega na capital nos dias 26 e 27 de maio com uma programação gratuita no recém-reinaugurado Teatro Sesc Ginástico, no Centro da cidade. Com shows que reúnem artistas brasileiros e internacionais, a etapa carioca funciona como um aquecimento para o Rio das Ostras Jazz & Blues, considerado o maior festival do gênero na América Latina.
 
-Com apresentações sempre a partir das 19h, o circuito aposta em encontros musicais que transitam entre tradição, experimentação e diferentes influências sonoras. A entrada é gratuita, mediante retirada de ingressos pelo site Ingresso.com, válida até o início de cada espetáculo.
+Com apresentações sempre a partir das 19h, o circuito aposta em encontros musicais que transitam entre tradição, experimentação e diferentes influências sonoras. A entrada é gratuita, mediante retirada de ingressos pelo site Ingresso.
+
+com, válida até o início de cada espetáculo.
 
 A programação começa no dia 26 de maio com o trombonista carioca Josiel Konrad, conhecido por misturar referências do jazz norte-americano com elementos do funk carioca. Na mesma noite, a cantora norte-americana Tia Carroll sobe ao palco ao lado do guitarrista Igor Prado, um dos principais representantes do blues brasileiro contemporâneo.
 
@@ -21,4 +20,4 @@ A edição de 2026 marca a quinta realização do Circuito Sesc Jazz & Blues, pr
 
 Antes de chegar à capital, o projeto passou por cidades como Paraty, Miguel Pereira, Armação dos Búzios e Barra de São João. Depois da etapa carioca, a programação segue para o tradicional Rio das Ostras Jazz & Blues, realizado durante o feriadão de Corpus Christi, antes de encerrar o circuito em Petrópolis e Ipiabas.
 
-*Fonte para revisão: [Diário do Rio](https://diariodorio.com/circuito-sesc-jazz-blues-estreia-no-rio-com-shows-gratuitos/).*
+*Fonte: [Diário do Rio](https://diariodorio.com/circuito-sesc-jazz-blues-estreia-no-rio-com-shows-gratuitos/).*
