@@ -4,7 +4,7 @@ description: "Rio Rio de Janeiro se destaca em transplantes e ocupa 2º lugar na
 pubDate: "2026-06-07T01:03:18Z"
 draft: true
 tags: ["rio-de-janeiro", "saude", "transplantes", "capital-estado", "regiao-metropolitana", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606070100-rio-de-janeiro-se-destaca-em-transplantes-e-ocupa-2o-lugar-nacional.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-rio-de-janeiro-se-destaca-em-transplantes-e-ocupa-2o-lugar-nacional.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

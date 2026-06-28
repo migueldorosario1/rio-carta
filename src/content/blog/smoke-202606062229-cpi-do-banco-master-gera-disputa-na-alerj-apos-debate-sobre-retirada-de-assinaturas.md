@@ -4,7 +4,7 @@ description: "A tentativa de instalação da CPI do Banco Master deflagrou uma g
 pubDate: "2026-06-06T22:30:19Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "banco-master", "cpi", "rioprevidencia", "cedae", "politica-rj", "regiao-metropolitana", "saude", "educacao"]
-heroImage: "/hero/smoke-202606062229-cpi-do-banco-master-gera-disputa-na-alerj-apos-debate-sobre-retirada-de-assinaturas.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-cpi-do-banco-master-gera-disputa-na-alerj-apos-debate-sobre-retirada-de-assinaturas.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

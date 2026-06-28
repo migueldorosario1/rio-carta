@@ -4,7 +4,7 @@ description: "Um novo tremor de terra foi registrado na costa do Rio de Janeiro 
 pubDate: "2026-06-07T01:06:19Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "tremor-de-terra", "regiao-metropolitana", "politica-rj", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606070100-rio-registra-novo-tremor-de-terra-no-mar-e-especialistas-monitoram-regiao.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-rio-registra-novo-tremor-de-terra-no-mar-e-especialistas-monitoram-regiao.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

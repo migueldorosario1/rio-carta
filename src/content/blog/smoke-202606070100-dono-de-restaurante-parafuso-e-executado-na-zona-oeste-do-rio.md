@@ -4,7 +4,7 @@ description: "Rio Dono de restaurante, “Parafuso” é executado na Zona Oeste
 pubDate: "2026-06-07T01:06:39Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-de-guaratiba", "zona-oeste", "seguranca-publica", "politica-rj", "rio-capital-zona-oeste", "capital-estado", "regiao-metropolitana", "guaratiba", "comunidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606070100-dono-de-restaurante-parafuso-e-executado-na-zona-oeste-do-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-dono-de-restaurante-parafuso-e-executado-na-zona-oeste-do-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

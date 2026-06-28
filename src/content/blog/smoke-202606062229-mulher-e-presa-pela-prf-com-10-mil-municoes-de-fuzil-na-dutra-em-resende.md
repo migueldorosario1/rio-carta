@@ -4,7 +4,7 @@ description: "Rio Mulher é presa pela PRF com 10 mil munições de fuzil na Dut
 pubDate: "2026-06-06T22:32:01Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "sul-fluminense", "dutra", "prf", "municoes", "seguranca", "sul-fluminense-costa-verde", "capital-estado", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606062229-mulher-e-presa-pela-prf-com-10-mil-municoes-de-fuzil-na-dutra-em-resende.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-mulher-e-presa-pela-prf-com-10-mil-municoes-de-fuzil-na-dutra-em-resende.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

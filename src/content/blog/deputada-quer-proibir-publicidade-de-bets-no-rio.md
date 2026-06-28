@@ -4,7 +4,7 @@ description: "Com o objetivo de enfrentar os impactos sociais das apostas online
 pubDate: "2026-06-28T12:05:36Z"
 category: ["Pol\u00edtica", "Esportes"]
 tags: ["dani-balbi", "bets", "alerj"]
-heroImage: "/hero/deputada-quer-proibir-publicidade-de-bets-no-rio.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/deputada-quer-proibir-publicidade-de-bets-no-rio.webp"
 author: "Redação"
 ---
 

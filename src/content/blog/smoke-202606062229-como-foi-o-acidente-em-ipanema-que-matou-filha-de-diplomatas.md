@@ -4,7 +4,7 @@ description: "Como foi o acidente em Ipanema que matou filha de diplomatas Maria
 pubDate: "2026-06-06T22:34:09Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "gavea", "leblon", "iraja", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606062229-como-foi-o-acidente-em-ipanema-que-matou-filha-de-diplomatas.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-como-foi-o-acidente-em-ipanema-que-matou-filha-de-diplomatas.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

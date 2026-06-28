@@ -4,7 +4,7 @@ description: "Mais de 1,4 milhão de famílias do Estado do Rio de Janeiro come�
 pubDate: "2026-06-07T09:01:14Z"
 draft: true
 tags: ["rio-de-janeiro", "bolsa-familia", "assistencia-social", "politica-rj", "capital", "regiao-metropolitana", "leme", "joa", "duque-de-caxias", "nova-iguacu", "belford-roxo", "sao-joao-de-meriti", "mesquita", "sao-goncalo"]
-heroImage: "/hero/smoke-202606070900-bolsa-familia-paga-mais-de-1-4-milhao-de-familias-no-rio-em-maio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-bolsa-familia-paga-mais-de-1-4-milhao-de-familias-no-rio-em-maio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

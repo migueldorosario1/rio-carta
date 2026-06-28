@@ -4,7 +4,7 @@ description: "Esportes Integrantes da Young Flu são denunciados por agressão e
 pubDate: "2026-06-08T01:02:56Z"
 draft: true
 tags: ["rio-de-janeiro", "laranjeiras", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606080100-integrantes-da-young-flu-sao-denunciados-por-agressao-e-roubo-contra-vascainos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-integrantes-da-young-flu-sao-denunciados-por-agressao-e-roubo-contra-vascainos.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

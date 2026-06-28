@@ -4,7 +4,7 @@ description: "Rio O que se sabe e o que falta saber sobre a investigação do at
 pubDate: "2026-06-08T01:00:54Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "leblon", "iraja", "mage", "problemas-estruturais", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606080100-o-que-se-sabe-e-o-que-falta-saber-sobre-a-investigacao-do-atropelamento-que-matou-mariana-tanaka.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-o-que-se-sabe-e-o-que-falta-saber-sobre-a-investigacao-do-atropelamento-que-matou-mariana-tanaka.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Rio Rodoviários batem o pé e confirmam greve no Rio a partir des
 pubDate: "2026-06-28T18:25:42Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "onibus", "rocha-miranda", "zona-norte", "transporte-mobilidade", "capital-estado", "regiao-metropolitana", "rocha", "santa-cruz", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606281823-rodoviarios-batem-o-pe-e-confirmam-greve-no-rio-a-partir-desta-segunda-feira.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-rodoviarios-batem-o-pe-e-confirmam-greve-no-rio-a-partir-desta-segunda-feira.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

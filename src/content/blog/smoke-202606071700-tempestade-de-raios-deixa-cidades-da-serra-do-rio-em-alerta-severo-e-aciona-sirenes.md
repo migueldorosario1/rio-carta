@@ -4,7 +4,7 @@ description: "A forte chuva que atingiu o estado do Rio de Janeiro nesta quarta-
 pubDate: "2026-06-07T17:04:08Z"
 draft: true
 tags: ["rio-de-janeiro", "petropolis", "teresopolis", "mage", "zona-norte", "zona-oeste", "regiao-serrana", "politica-rj", "regiao-metropolitana", "serrana", "sul-fluminense", "problemas-estruturais", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606071700-tempestade-de-raios-deixa-cidades-da-serra-do-rio-em-alerta-severo-e-aciona-sirenes.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-tempestade-de-raios-deixa-cidades-da-serra-do-rio-em-alerta-severo-e-aciona-sirenes.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

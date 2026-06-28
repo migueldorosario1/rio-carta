@@ -4,7 +4,7 @@ description: "O Governo do Estado do Rio de Janeiro iniciou nesta quinta-feira (
 pubDate: "2026-06-07T09:05:40Z"
 draft: true
 tags: ["rio-de-janeiro", "lapa", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606070900-arquivo-publico-do-rj-retira-documentos-historicos-do-antigo-iml-apos-video-causar-revolta.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-arquivo-publico-do-rj-retira-documentos-historicos-do-antigo-iml-apos-video-causar-revolta.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

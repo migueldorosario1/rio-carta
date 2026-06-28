@@ -4,7 +4,7 @@ description: "Karoline Rabello, de 27 anos, denunciou ter sido vítima de uma s�
 pubDate: "2026-06-07T09:00:18Z"
 draft: true
 tags: ["rio-de-janeiro", "cosmos", "zona-oeste", "rio-capital-zona-oeste", "politica-rj", "rocha", "angra", "saude"]
-heroImage: "/hero/smoke-202606070900-mulher-e-agredida-ao-terminar-relacionamento-em-cosmos.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-mulher-e-agredida-ao-terminar-relacionamento-em-cosmos.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

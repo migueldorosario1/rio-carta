@@ -4,7 +4,7 @@ description: "Um estudante de Direito foi agredido por integrantes de uma torcid
 pubDate: "2026-06-06T22:31:43Z"
 draft: true
 tags: ["rio-de-janeiro", "tijuca", "zona-norte", "agressao", "torcida-organizada", "fluminense", "rio-capital-zona-norte", "politica-rj", "maracana", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-202606062229-estudante-de-direito-e-agredido-por-torcedores-do-fluminense-na-tijuca.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-estudante-de-direito-e-agredido-por-torcedores-do-fluminense-na-tijuca.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

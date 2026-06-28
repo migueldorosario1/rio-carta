@@ -4,7 +4,7 @@ description: "As tarifas de gás natural da Naturgy no Estado do Rio de Janeiro 
 pubDate: "2026-06-07T01:02:57Z"
 draft: true
 tags: ["rio-de-janeiro", "energia", "gnv", "economia-local", "capital", "regiao-metropolitana", "complexo", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606070100-gnv-ficara-ate-6-4-mais-barato-no-estado-do-rio-a-partir-de-1o-de-junho.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-gnv-ficara-ate-6-4-mais-barato-no-estado-do-rio-a-partir-de-1o-de-junho.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

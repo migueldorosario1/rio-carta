@@ -4,7 +4,7 @@ description: "A eleição para a presidência do Império Serrano, que seria rea
 pubDate: "2026-06-28T18:30:11Z"
 draft: true
 tags: ["rio-de-janeiro", "imperio-serrano", "madureira", "cultura-carnaval", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "/hero/smoke-202606281823-justica-suspende-pela-segunda-vez-eleicao-presidencial-do-imperio-serrano.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-justica-suspende-pela-segunda-vez-eleicao-presidencial-do-imperio-serrano.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

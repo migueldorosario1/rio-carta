@@ -4,7 +4,7 @@ description: "ITATIAIA Dando continuidade a Campanha Maio Laranja, voltada ao en
 pubDate: "2026-06-07T01:05:44Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "sul-fluminense", "maio-laranja", "combate-violencia-infantil", "sul-fluminense-costa-verde", "transporte-mobilidade", "saude", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606070100-itatiaia-promove-encontro-de-combate-a-violencia-contra-criancas-e-adolescentes-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-itatiaia-promove-encontro-de-combate-a-violencia-contra-criancas-e-adolescentes-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

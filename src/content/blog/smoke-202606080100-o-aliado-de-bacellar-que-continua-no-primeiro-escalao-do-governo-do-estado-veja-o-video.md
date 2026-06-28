@@ -4,7 +4,7 @@ description: "A leva de exonerações promovidas pelo governador interino, Ricar
 pubDate: "2026-06-08T01:03:38Z"
 draft: true
 tags: ["rio-de-janeiro", "governo-estadual", "alerj", "corpo-de-bombeiros", "rodrigo-bacellar", "defensa-civil", "politica-rj", "seguranca-publica", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606080100-o-aliado-de-bacellar-que-continua-no-primeiro-escalao-do-governo-do-estado-veja-o-video.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-o-aliado-de-bacellar-que-continua-no-primeiro-escalao-do-governo-do-estado-veja-o-video.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

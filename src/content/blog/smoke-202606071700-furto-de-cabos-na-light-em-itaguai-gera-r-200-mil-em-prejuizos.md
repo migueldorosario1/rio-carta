@@ -4,7 +4,7 @@ description: "Rio Furto de cabos na Light em Itaguaí gera R$ 200 mil em prejuí
 pubDate: "2026-06-07T17:04:03Z"
 draft: true
 tags: ["rio-de-janeiro", "itaguai", "baixada-fluminense", "furto-de-cabos", "light", "regiao-metropolitana", "capital-estado", "nova-iguacu", "centro-do-rio", "sepetiba", "complexo", "baixada", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606071700-furto-de-cabos-na-light-em-itaguai-gera-r-200-mil-em-prejuizos.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-furto-de-cabos-na-light-em-itaguai-gera-r-200-mil-em-prejuizos.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

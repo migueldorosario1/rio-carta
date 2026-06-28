@@ -4,7 +4,7 @@ description: "Rio Capivara espancada na Ilha do Governador é solta após reabil
 pubDate: "2026-06-07T17:00:12Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "zona-oeste", "rio-capital-zona-oeste", "capital-estado", "regiao-metropolitana", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606071700-capivara-espancada-na-ilha-do-governador-e-solta-apos-reabilitacao.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-capivara-espancada-na-ilha-do-governador-e-solta-apos-reabilitacao.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

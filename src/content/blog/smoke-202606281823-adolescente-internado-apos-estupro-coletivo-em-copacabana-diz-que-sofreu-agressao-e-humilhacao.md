@@ -4,7 +4,7 @@ description: "A Polícia Civil do Rio de Janeiro investiga denúncias de agress�
 pubDate: "2026-06-28T18:24:59Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "ilha-do-governador", "sistema-socioeducativo", "seguranca-publica", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "mage", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-202606281823-adolescente-internado-apos-estupro-coletivo-em-copacabana-diz-que-sofreu-agressao-e-humilhacao.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-adolescente-internado-apos-estupro-coletivo-em-copacabana-diz-que-sofreu-agressao-e-humilhacao.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

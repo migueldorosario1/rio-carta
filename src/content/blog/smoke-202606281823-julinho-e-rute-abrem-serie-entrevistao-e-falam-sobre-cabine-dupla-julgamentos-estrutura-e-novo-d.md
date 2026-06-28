@@ -4,7 +4,7 @@ description: "Quase vinte anos. É o tempo que Julinho Nascimento e Rute Alves d
 pubDate: "2026-06-28T18:24:38Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "carnaval", "cultura-carnaval", "regiao-metropolitana", "tijuca", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-202606281823-julinho-e-rute-abrem-serie-entrevistao-e-falam-sobre-cabine-dupla-julgamentos-estrutura-e-novo-d.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-julinho-e-rute-abrem-serie-entrevistao-e-falam-sobre-cabine-dupla-julgamentos-estrutura-e-novo-d.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

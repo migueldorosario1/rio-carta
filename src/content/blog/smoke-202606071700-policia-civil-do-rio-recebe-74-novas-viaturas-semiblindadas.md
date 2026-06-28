@@ -4,7 +4,7 @@ description: "O Governo do Rio de Janeiro, por meio da Secretaria de Estado de P
 pubDate: "2026-06-07T17:02:54Z"
 draft: true
 tags: ["rio-de-janeiro", "seguranca-publica", "capital", "regiao-metropolitana", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-202606071700-policia-civil-do-rio-recebe-74-novas-viaturas-semiblindadas-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-policia-civil-do-rio-recebe-74-novas-viaturas-semiblindadas-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Uma disputa em torno da instalação de uma Comissão Parlamentar 
 pubDate: "2026-06-07T01:03:02Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "cpi", "banco-master", "rioprevidencia", "cedae", "politica-rj", "regiao-metropolitana", "saude"]
-heroImage: "/hero/smoke-202606070100-deputado-aciona-justica-para-obrigar-alerj-a-instalar-cpi-sobre-investimentos-no-banco-master.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-deputado-aciona-justica-para-obrigar-alerj-a-instalar-cpi-sobre-investimentos-no-banco-master.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

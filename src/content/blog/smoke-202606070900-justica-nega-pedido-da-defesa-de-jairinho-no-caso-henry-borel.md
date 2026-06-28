@@ -4,7 +4,7 @@ description: "A Justiça do Rio de Janeiro negou pedido de liminar da defesa de 
 pubDate: "2026-06-07T09:01:04Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "rio-capital-zona-oeste", "niteroi-metropolitana", "regiao-metropolitana", "tijuca", "niteroi", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606070900-justica-nega-pedido-da-defesa-de-jairinho-no-caso-henry-borel.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-justica-nega-pedido-da-defesa-de-jairinho-no-caso-henry-borel.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

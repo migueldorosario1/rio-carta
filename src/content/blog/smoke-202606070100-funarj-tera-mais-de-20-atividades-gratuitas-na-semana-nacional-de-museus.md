@@ -4,7 +4,7 @@ description: "A Fundação Anita Mantuano de Artes do Estado do Rio de Janeiro (
 pubDate: "2026-06-07T01:07:04Z"
 draft: true
 tags: ["rio-de-janeiro", "funarj", "niteroi", "cantagalo", "museus", "cultura", "cultura-carnaval", "niteroi-metropolitana", "regiao-metropolitana", "zumbi", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606070100-funarj-tera-mais-de-20-atividades-gratuitas-na-semana-nacional-de-museus.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-funarj-tera-mais-de-20-atividades-gratuitas-na-semana-nacional-de-museus.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

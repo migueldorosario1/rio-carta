@@ -4,7 +4,7 @@ description: "Inscrições irão até o próximo dia 25 em escola municipal de S
 pubDate: "2026-06-06T22:31:29Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "santa-izabel", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "transporte-mobilidade", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-202606062229-sao-goncalo-abre-vagas-para-novo-curso-gratuito-de-assistente-administrativo.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-sao-goncalo-abre-vagas-para-novo-curso-gratuito-de-assistente-administrativo.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

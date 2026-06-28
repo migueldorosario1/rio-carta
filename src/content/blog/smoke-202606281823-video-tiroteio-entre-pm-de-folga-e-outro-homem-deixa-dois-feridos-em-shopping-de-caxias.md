@@ -4,7 +4,7 @@ description: "Uma troca de tiros entre um policial militar de folga e outro home
 pubDate: "2026-06-28T18:27:48Z"
 draft: true
 tags: ["rio-de-janeiro", "duque-de-caxias", "baixada-fluminense", "tiroteio", "regiao-metropolitana", "politica-rj", "estacio", "baixada", "mage", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606281823-video-tiroteio-entre-pm-de-folga-e-outro-homem-deixa-dois-feridos-em-shopping-de-caxias.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-video-tiroteio-entre-pm-de-folga-e-outro-homem-deixa-dois-feridos-em-shopping-de-caxias.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

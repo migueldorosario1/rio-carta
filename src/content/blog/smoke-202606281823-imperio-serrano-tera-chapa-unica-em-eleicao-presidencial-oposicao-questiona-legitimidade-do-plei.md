@@ -4,7 +4,7 @@ description: "O processo eleitoral do Império Serrano ganhou mais um capítulo 
 pubDate: "2026-06-28T18:27:21Z"
 draft: true
 tags: ["rio-de-janeiro", "imperio-serrano", "madureira", "zona-norte", "carnaval", "eleicao", "rio-capital-zona-norte", "cultura-carnaval", "saude", "educacao"]
-heroImage: "/hero/smoke-202606281823-imperio-serrano-tera-chapa-unica-em-eleicao-presidencial-oposicao-questiona-legitimidade-do-plei.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-imperio-serrano-tera-chapa-unica-em-eleicao-presidencial-oposicao-questiona-legitimidade-do-plei.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

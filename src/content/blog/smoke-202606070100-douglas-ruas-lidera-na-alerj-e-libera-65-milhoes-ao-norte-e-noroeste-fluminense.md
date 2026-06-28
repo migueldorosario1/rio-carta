@@ -4,7 +4,7 @@ description: "A Assembleia Legislativa do Estado do Rio de Janeiro aprovou e exe
 pubDate: "2026-06-07T01:03:42Z"
 draft: true
 tags: ["rio-de-janeiro", "norte-noroeste-fluminense", "alerj", "politica-rj", "niteroi-metropolitana", "regiao-metropolitana", "baixada", "niteroi", "serrana", "noroeste-fluminense", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606070100-douglas-ruas-lidera-na-alerj-e-libera-65-milhoes-ao-norte-e-noroeste-fluminense.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-douglas-ruas-lidera-na-alerj-e-libera-65-milhoes-ao-norte-e-noroeste-fluminense.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

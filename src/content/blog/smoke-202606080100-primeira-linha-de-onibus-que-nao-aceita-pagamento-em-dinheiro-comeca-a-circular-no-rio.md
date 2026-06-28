@@ -4,7 +4,7 @@ description: "A linha de ônibus 634 (Bananal–Saens Peña) começou a operar n
 pubDate: "2026-06-08T01:03:20Z"
 draft: true
 tags: ["rio-de-janeiro", "transporte", "mobilidade", "transporte-mobilidade", "capital", "regiao-metropolitana", "tijuca", "ilha-do-governador", "politica-rj"]
-heroImage: "/hero/smoke-202606080100-primeira-linha-de-onibus-que-nao-aceita-pagamento-em-dinheiro-comeca-a-circular-no-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-primeira-linha-de-onibus-que-nao-aceita-pagamento-em-dinheiro-comeca-a-circular-no-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

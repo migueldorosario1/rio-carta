@@ -4,7 +4,7 @@ description: "O Rio de Janeiro passa a integrar, pela primeira vez, a rota do Ci
 pubDate: "2026-06-07T01:06:07Z"
 draft: true
 tags: ["rio-de-janeiro", "sesc", "jazz", "blues", "cultura-carnaval", "capital", "regiao-metropolitana", "leme", "joa", "petropolis", "buzios", "rio-das-ostras", "paraty"]
-heroImage: "/hero/smoke-202606070100-circuito-sesc-jazz-blues-estreia-no-rio-com-shows-gratuitos.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-circuito-sesc-jazz-blues-estreia-no-rio-com-shows-gratuitos.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

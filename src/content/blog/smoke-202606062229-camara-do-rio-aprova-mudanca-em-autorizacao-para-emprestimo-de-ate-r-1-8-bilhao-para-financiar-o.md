@@ -4,7 +4,7 @@ description: "A Câmara Municipal do Rio de Janeiro aprovou, em 1ª discussão, 
 pubDate: "2026-06-06T22:31:09Z"
 draft: true
 tags: ["rio-de-janeiro", "camara-municipal", "transporte-mobilidade", "politica-rj", "capital", "regiao-metropolitana", "leme"]
-heroImage: "/hero/smoke-202606062229-camara-do-rio-aprova-mudanca-em-autorizacao-para-emprestimo-de-ate-r-1-8-bilhao-para-financiar-o.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-camara-do-rio-aprova-mudanca-em-autorizacao-para-emprestimo-de-ate-r-1-8-bilhao-para-financiar-o.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

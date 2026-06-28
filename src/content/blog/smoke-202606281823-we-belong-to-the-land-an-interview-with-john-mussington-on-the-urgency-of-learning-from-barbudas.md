@@ -4,7 +4,7 @@ description: "In April 2026, Barbudan environmentalist, community leader and act
 pubDate: "2026-06-28T18:29:28Z"
 draft: true
 tags: ["rio-de-janeiro", "favela", "terra-comunitaria", "especulacao-imobiliaria", "deslocamento", "politica-rj", "favelas-comunidades", "regiao-metropolitana", "comunidade", "seguranca-publica", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606281823-we-belong-to-the-land-an-interview-with-john-mussington-on-the-urgency-of-learning-from-barbudas-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-we-belong-to-the-land-an-interview-with-john-mussington-on-the-urgency-of-learning-from-barbudas-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

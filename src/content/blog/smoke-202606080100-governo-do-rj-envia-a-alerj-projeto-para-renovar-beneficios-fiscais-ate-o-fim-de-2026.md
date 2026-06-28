@@ -4,7 +4,7 @@ description: "O Governo estadual encaminhou à Assembleia Legislativa do Rio (Al
 pubDate: "2026-06-08T01:01:40Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "governo-rj", "beneficios-fiscais", "politica-rj", "regiao-metropolitana", "comunidade", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606080100-governo-do-rj-envia-a-alerj-projeto-para-renovar-beneficios-fiscais-ate-o-fim-de-2026.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-governo-do-rj-envia-a-alerj-projeto-para-renovar-beneficios-fiscais-ate-o-fim-de-2026.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

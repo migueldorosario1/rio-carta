@@ -4,7 +4,7 @@ description: "O bebê de 1 ano e 3 meses baleado durante um tiroteio entre crimi
 pubDate: "2026-06-07T17:04:01Z"
 draft: true
 tags: ["rio-de-janeiro", "costa-barros", "zona-norte", "rio-capital-zona-norte", "politica-rj", "realengo", "comunidade", "complexo", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-202606071700-bebe-baleado-em-tiroteio-em-costa-barros-segue-internado.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-bebe-baleado-em-tiroteio-em-costa-barros-segue-internado.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

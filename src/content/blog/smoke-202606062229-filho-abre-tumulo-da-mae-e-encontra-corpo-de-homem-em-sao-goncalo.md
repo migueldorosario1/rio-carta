@@ -4,7 +4,7 @@ description: "A família de Vera Lúcia Ribeiro da Silva, de 68 anos, denunciou 
 pubDate: "2026-06-06T22:35:57Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "regiao-metropolitana", "politica-rj", "niteroi", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606062229-filho-abre-tumulo-da-mae-e-encontra-corpo-de-homem-em-sao-goncalo.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-filho-abre-tumulo-da-mae-e-encontra-corpo-de-homem-em-sao-goncalo.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

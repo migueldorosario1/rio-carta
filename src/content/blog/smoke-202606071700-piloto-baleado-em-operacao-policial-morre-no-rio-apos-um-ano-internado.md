@@ -4,7 +4,7 @@ description: "Piloto baleado em operação policial morre no Rio após um ano in
 pubDate: "2026-06-07T17:00:07Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-oeste", "copacabana", "seguranca-publica", "capital", "regiao-metropolitana", "mage", "comunidade", "saude"]
-heroImage: "/hero/smoke-202606071700-piloto-baleado-em-operacao-policial-morre-no-rio-apos-um-ano-internado.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-piloto-baleado-em-operacao-policial-morre-no-rio-apos-um-ano-internado.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

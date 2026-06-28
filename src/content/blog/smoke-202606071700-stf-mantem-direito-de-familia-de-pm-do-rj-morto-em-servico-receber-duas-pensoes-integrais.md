@@ -4,7 +4,7 @@ description: "O ministro Edson Fachin, presidente do Supremo Tribunal Federal (S
 pubDate: "2026-06-07T17:01:39Z"
 draft: true
 tags: ["rio-de-janeiro", "stf", "policia-militar", "pensao", "seguranca-publica", "politica-rj", "regiao-metropolitana", "olaria"]
-heroImage: "/hero/smoke-202606071700-stf-mantem-direito-de-familia-de-pm-do-rj-morto-em-servico-receber-duas-pensoes-integrais.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-stf-mantem-direito-de-familia-de-pm-do-rj-morto-em-servico-receber-duas-pensoes-integrais.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

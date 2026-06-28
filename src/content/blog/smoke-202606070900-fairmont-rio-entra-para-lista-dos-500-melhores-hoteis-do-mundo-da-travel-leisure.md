@@ -4,7 +4,7 @@ description: "O Fairmont Rio de Janeiro Copacabana foi incluído na lista dos 50
 pubDate: "2026-06-07T09:02:29Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606070900-fairmont-rio-entra-para-lista-dos-500-melhores-hoteis-do-mundo-da-travel-leisure.webp"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-fairmont-rio-entra-para-lista-dos-500-melhores-hoteis-do-mundo-da-travel-leisure.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

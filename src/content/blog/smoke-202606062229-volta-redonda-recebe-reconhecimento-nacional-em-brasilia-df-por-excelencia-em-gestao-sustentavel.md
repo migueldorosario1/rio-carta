@@ -4,7 +4,7 @@ description: "VOLTA REDONDA A Prefeitura de Volta Redonda, por meio da Secretari
 pubDate: "2026-06-06T22:30:57Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "gestao-sustentavel", "selo-caixa", "prefeitura", "sul-fluminense-costa-verde", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606062229-volta-redonda-recebe-reconhecimento-nacional-em-brasilia-df-por-excelencia-em-gestao-sustentavel.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606062229-volta-redonda-recebe-reconhecimento-nacional-em-brasilia-df-por-excelencia-em-gestao-sustentavel.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

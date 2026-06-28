@@ -4,7 +4,7 @@ description: "As obras de duplicação do trecho de 20 quilômetros da rodovia B
 pubDate: "2026-06-07T01:00:52Z"
 draft: true
 tags: ["rio-de-janeiro", "mage", "itaborai", "regiao-metropolitana", "br-493", "obras", "meio-ambiente", "transporte-mobilidade", "niteroi-metropolitana", "anil", "complexo", "niteroi", "saude", "educacao"]
-heroImage: "/hero/smoke-202606070100-desafios-ambientais-marcam-as-obras-da-rodovia-entre-mage-e-manilha.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-desafios-ambientais-marcam-as-obras-da-rodovia-entre-mage-e-manilha.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

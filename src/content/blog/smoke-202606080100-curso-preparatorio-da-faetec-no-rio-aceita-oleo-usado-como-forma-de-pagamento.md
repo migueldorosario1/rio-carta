@@ -4,7 +4,7 @@ description: "A Escola Técnica Estadual Juscelino Kubitschek, da Faetec, locali
 pubDate: "2026-06-08T01:00:10Z"
 draft: true
 tags: ["rio-de-janeiro", "jardim-america", "zona-norte", "educacao", "capital", "portuguesa", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606080100-curso-preparatorio-da-faetec-no-rio-aceita-oleo-usado-como-forma-de-pagamento.gif"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-curso-preparatorio-da-faetec-no-rio-aceita-oleo-usado-como-forma-de-pagamento.gif"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

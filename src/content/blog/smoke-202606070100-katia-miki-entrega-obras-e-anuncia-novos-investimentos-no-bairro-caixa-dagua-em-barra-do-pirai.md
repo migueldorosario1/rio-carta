@@ -4,7 +4,7 @@ description: "BARRA DO PIRAÍ A Prefeitura de Barra do Piraí segue avançando c
 pubDate: "2026-06-07T01:02:48Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "caixa-dagua", "sul-fluminense", "sul-fluminense-costa-verde", "regiao-serrana", "trajano-de-moraes", "joa", "comunidade", "pirai", "problemas-estruturais", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606070100-katia-miki-entrega-obras-e-anuncia-novos-investimentos-no-bairro-caixa-dagua-em-barra-do-pirai-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-katia-miki-entrega-obras-e-anuncia-novos-investimentos-no-bairro-caixa-dagua-em-barra-do-pirai-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

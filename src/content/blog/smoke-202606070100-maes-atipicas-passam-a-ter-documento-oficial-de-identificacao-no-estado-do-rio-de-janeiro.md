@@ -4,7 +4,7 @@ description: "VOLTA REDONDA Após sanção do Poder Executivo e publicação no 
 pubDate: "2026-06-07T01:07:22Z"
 draft: true
 tags: ["rio-de-janeiro", "lei", "maes-atipicas", "politica-rj", "sul-fluminense", "regiao-metropolitana", "volta-redonda", "saude", "educacao"]
-heroImage: "/hero/smoke-202606070100-maes-atipicas-passam-a-ter-documento-oficial-de-identificacao-no-estado-do-rio-de-janeiro.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-maes-atipicas-passam-a-ter-documento-oficial-de-identificacao-no-estado-do-rio-de-janeiro.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

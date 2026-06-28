@@ -4,7 +4,7 @@ description: "Museus e centros culturais do Rio de Janeiro terão uma programaç
 pubDate: "2026-06-08T01:04:23Z"
 draft: true
 tags: ["rio-de-janeiro", "cultura", "museus", "cultura-carnaval", "capital", "regiao-metropolitana", "gamboa", "gavea", "mare", "politica-rj"]
-heroImage: "/hero/smoke-202606080100-confira-museus-do-rio-com-programacao-gratuita-na-semana-nacional-de-museus.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-confira-museus-do-rio-com-programacao-gratuita-na-semana-nacional-de-museus.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "A Assembleia Legislativa do Rio (Alerj) aprovou, nesta quarta-feir
 pubDate: "2026-06-08T01:04:46Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "politica", "politica-rj", "rocha", "saude"]
-heroImage: "/hero/smoke-202606080100-alerj-aprova-mudanca-no-regimento-que-acelera-indicacoes-para-o-tce-psol-ameaca-recorrer-a-justi.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-alerj-aprova-mudanca-no-regimento-que-acelera-indicacoes-para-o-tce-psol-ameaca-recorrer-a-justi.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

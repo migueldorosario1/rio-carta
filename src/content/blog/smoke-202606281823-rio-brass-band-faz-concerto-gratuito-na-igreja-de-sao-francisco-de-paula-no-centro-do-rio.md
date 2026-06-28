@@ -4,7 +4,7 @@ description: "A Igreja de São Francisco de Paula, no Centro do Rio, recebe nest
 pubDate: "2026-06-28T18:27:30Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "cultura", "rio-capital-centro", "capital", "regiao-metropolitana", "centro-do-rio", "campos", "saude", "educacao", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606281823-rio-brass-band-faz-concerto-gratuito-na-igreja-de-sao-francisco-de-paula-no-centro-do-rio.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-rio-brass-band-faz-concerto-gratuito-na-igreja-de-sao-francisco-de-paula-no-centro-do-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

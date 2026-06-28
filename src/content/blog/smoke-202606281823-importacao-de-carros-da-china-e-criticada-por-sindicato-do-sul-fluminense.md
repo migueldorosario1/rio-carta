@@ -4,7 +4,7 @@ description: "A decisão do Governo Federal de prorrogar por mais seis meses a i
 pubDate: "2026-06-28T18:29:50Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "porto-real", "resende", "sindicato-metalurgicos", "industria-automotiva", "sul-fluminense-costa-verde", "capital-porto", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606281823-importacao-de-carros-da-china-e-criticada-por-sindicato-do-sul-fluminense.png"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-importacao-de-carros-da-china-e-criticada-por-sindicato-do-sul-fluminense.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

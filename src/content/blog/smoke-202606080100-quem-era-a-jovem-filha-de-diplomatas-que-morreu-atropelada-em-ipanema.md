@@ -4,7 +4,7 @@ description: "Rio Quem era a jovem filha de diplomatas que morreu atropelada em 
 pubDate: "2026-06-08T01:02:02Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "gavea", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606080100-quem-era-a-jovem-filha-de-diplomatas-que-morreu-atropelada-em-ipanema.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-quem-era-a-jovem-filha-de-diplomatas-que-morreu-atropelada-em-ipanema.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

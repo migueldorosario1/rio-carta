@@ -4,7 +4,7 @@ description: "A Prefeitura do Rio regulamentou o Corredor Cultural de Jacarepagu
 pubDate: "2026-06-07T17:04:07Z"
 draft: true
 tags: ["rio-de-janeiro", "jacarepagua", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "jacare", "taquara", "problemas-estruturais", "saude", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606071700-corredor-cultural-de-jacarepagua-e-regulamentado-e-passa-a-integrar-roteiro-oficial-do-rio.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-corredor-cultural-de-jacarepagua-e-regulamentado-e-passa-a-integrar-roteiro-oficial-do-rio.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

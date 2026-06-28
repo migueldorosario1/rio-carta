@@ -4,7 +4,7 @@ description: "A Justiça determinou que a Prefeitura de Barra do Piraí suspenda
 pubDate: "2026-06-08T01:02:45Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "transporte-publico", "mp-rj", "justica", "sul-fluminense-costa-verde", "politica-rj", "regiao-metropolitana", "pirai", "saude"]
-heroImage: "/hero/smoke-202606080100-justica-manda-prefeitura-de-barra-do-pirai-suspender-contrato-do-transporte-publico.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606080100-justica-manda-prefeitura-de-barra-do-pirai-suspender-contrato-do-transporte-publico.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

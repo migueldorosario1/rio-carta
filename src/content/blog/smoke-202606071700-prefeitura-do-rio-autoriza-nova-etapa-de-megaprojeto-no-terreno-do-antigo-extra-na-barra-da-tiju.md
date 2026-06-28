@@ -4,7 +4,7 @@ description: "O terreno que por décadas abrigou o antigo Hipermercado Extra da 
 pubDate: "2026-06-07T17:03:58Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "zona-oeste", "rio-capital-zona-oeste", "capital", "estacio", "tijuca", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606071700-prefeitura-do-rio-autoriza-nova-etapa-de-megaprojeto-no-terreno-do-antigo-extra-na-barra-da-tiju-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606071700-prefeitura-do-rio-autoriza-nova-etapa-de-megaprojeto-no-terreno-do-antigo-extra-na-barra-da-tiju-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

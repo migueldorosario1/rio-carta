@@ -4,7 +4,7 @@ description: "O Estado do Rio de Janeiro não possui nenhuma cidade entre as 200
 pubDate: "2026-06-07T09:04:23Z"
 draft: true
 tags: ["rio-de-janeiro", "resende", "ips-brasil", "qualidade-de-vida", "politica-rj", "regiao-metropolitana", "leme", "baixada", "nilopolis", "japeri", "niteroi", "itaborai", "teresopolis", "nova-friburgo"]
-heroImage: "/hero/smoke-202606070900-indice-de-qualidade-de-vida-2026-mostra-que-rio-nao-tem-cidades-entre-as-200-melhores-resende-li-qwen.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-indice-de-qualidade-de-vida-2026-mostra-que-rio-nao-tem-cidades-entre-as-200-melhores-resende-li-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

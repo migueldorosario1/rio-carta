@@ -4,7 +4,7 @@ description: "Rio PF investiga crimes de tráfico de pessoas e de trabalho anál
 pubDate: "2026-06-07T09:00:41Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "pinheiral", "resende", "policia-federal", "trafico-de-pessoas", "sul-fluminense-costa-verde", "capital-estado", "regiao-metropolitana", "sao-joao-de-meriti", "joa", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-202606070900-pf-investiga-crimes-de-trafico-de-pessoas-e-de-trabalho-analogo-a-escravidao-no-sul-fluminense.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-pf-investiga-crimes-de-trafico-de-pessoas-e-de-trabalho-analogo-a-escravidao-no-sul-fluminense.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

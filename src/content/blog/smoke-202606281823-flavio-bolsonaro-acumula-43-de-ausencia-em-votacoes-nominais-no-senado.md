@@ -4,7 +4,7 @@ description: "O senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidênci
 pubDate: "2026-06-28T18:25:21Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "senado", "ausencias", "politica-rj", "regiao-metropolitana", "leme", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606281823-flavio-bolsonaro-acumula-43-de-ausencia-em-votacoes-nominais-no-senado.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281823-flavio-bolsonaro-acumula-43-de-ausencia-em-votacoes-nominais-no-senado.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

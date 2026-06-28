@@ -4,7 +4,7 @@ description: "A peça A serpente, último texto escrito por Nelson Rodrigues, ch
 pubDate: "2026-06-07T09:05:00Z"
 draft: true
 tags: ["rio-de-janeiro", "lapa", "zona-centro", "rio-capital-centro", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606070900-espetaculo-criado-por-nelson-rodrigues-a-peca-a-serpente-estreia-na-lapa-nesta-quarta.jpeg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-espetaculo-criado-por-nelson-rodrigues-a-peca-a-serpente-estreia-na-lapa-nesta-quarta.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

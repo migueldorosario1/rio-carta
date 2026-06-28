@@ -4,7 +4,7 @@ description: "A região histórica da Pedra do Sal, na Zona Portuária do Rio de
 pubDate: "2026-06-07T09:01:36Z"
 draft: true
 tags: ["rio-de-janeiro", "saude", "zona-portuaria", "pedra-do-sal", "morro-da-conceicao", "rio-capital-centro", "politica-rj", "regiao-metropolitana", "mare", "comunidade", "transporte-mobilidade", "educacao", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606070900-leilao-vai-vender-112-imoveis-na-regiao-historica-da-pedra-do-sal-na-zona-portuaria.jpg"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070900-leilao-vai-vender-112-imoveis-na-regiao-historica-da-pedra-do-sal-na-zona-portuaria.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.
