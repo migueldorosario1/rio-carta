@@ -2,7 +2,7 @@
 title: "Cruzada São Sebastião—70 Years of Public Housing in the Heart of Rio de Janeiro’s Upscale South Zone Neighborhood of Leblon"
 description: "For much of the 20th century, between the shores of the Rodrigo de Freitas Lagoon and Rio de Janeiro’s Leblon neighborhood, stood one of the largest favelas in the city’s upscale S"
 pubDate: "2026-06-28T19:24:41Z"
-draft: false
+draft: true
 tags: ["rio-de-janeiro", "leblon", "zona-sul", "habitacao-publica", "favela", "rio-capital-zona-sul-grande-tijuca", "favelas-comunidades", "regiao-metropolitana", "comunidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606281923-cruzada-sao-sebastiao70-years-of-public-housing-in-the-heart-of-rio-de-janeiros-upscale-south-zo-qwen.jpg"
 ---

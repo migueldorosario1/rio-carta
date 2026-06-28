@@ -94,20 +94,11 @@ function primaryCategoryFromTags(tags) {
 }
 
 const PORTUGUESE_MARKERS = new Set([
-  'a', 'o', 'as', 'os', 'um', 'uma', 'de', 'da', 'do', 'das', 'dos', 'e', 'em', 'no', 'na', 'nos', 'nas',
-  'que', 'para', 'com', 'por', 'sobre', 'como', 'mais', 'foi', 'sao', 'são', 'esta', 'está', 'este',
-  'nesta', 'neste', 'ao', 'aos', 'pela', 'pelo', 'pelas', 'pelos', 'entre', 'contra', 'apos', 'após',
-  'ate', 'até', 'rio', 'janeiro', 'prefeitura', 'governo', 'policia', 'polícia', 'alerj', 'camara',
-  'câmara', 'cidade', 'estado', 'moradores', 'municipio', 'município', 'fluminense', 'seguranca',
-  'segurança', 'saude', 'saúde', 'educacao', 'educação', 'transporte', 'justica', 'justiça'
+  'que', 'com', 'para', 'uma', 'uns', 'umas', 'mais', 'não', 'na', 'no', 'nas', 'nos', 'se', 'por', 'como', 'foi', 'foram', 'está', 'estão', 'ao', 'aos', 'pelo', 'pela', 'ou', 'sua', 'seu', 'suas', 'seus', 'mas', 'também', 'ele', 'ela', 'eles', 'elas'
 ]);
 
 const ENGLISH_MARKERS = new Set([
-  'the', 'and', 'of', 'to', 'in', 'for', 'with', 'without', 'from', 'this', 'that', 'what', 'why', 'who',
-  'have', 'has', 'been', 'are', 'is', 'was', 'were', 'claim', 'claims', 'residents', 'social', 'costs',
-  'data', 'centers', 'big', 'tech', 'hub', 'water', 'day', 'movements', 'right', 'began', 'occupation',
-  'talks', 'waste', 'pickers', 'sustainability', 'retraining', 'after', 'before', 'police', 'city',
-  'hall', 'favela', 'favelas', 'rio', 'janeiro', 'olympic', 'women', 'memory'
+  'the', 'and', 'of', 'to', 'in', 'for', 'with', 'on', 'at', 'this', 'that', 'from', 'was', 'were', 'is', 'are', 'it', 'its', 'they', 'them', 'he', 'she', 'his', 'her', 'but', 'not', 'have', 'has', 'had', 'been', 'about'
 ]);
 
 function countMarkers(text, markers) {
@@ -127,10 +118,10 @@ function languageCheck(article) {
   const portuguese = countMarkers(sample, PORTUGUESE_MARKERS) + portugueseAccentBonus(sample);
   const titleEnglish = countMarkers(title, ENGLISH_MARKERS);
   const titlePortuguese = countMarkers(title, PORTUGUESE_MARKERS) + portugueseAccentBonus(title);
-  const titleLooksEnglish = titleEnglish >= 3 && titleEnglish > titlePortuguese + 1;
-  const bodyLooksEnglish = english >= 14 && english > portuguese * 1.25;
+  const titleLooksEnglish = titleEnglish >= 2 && titleEnglish > titlePortuguese + 1;
+  const bodyLooksEnglish = english >= 10 && english > portuguese * 1.5;
 
-  if (titleLooksEnglish && bodyLooksEnglish) {
+  if (titleLooksEnglish || bodyLooksEnglish) {
     return {
       ok: false,
       reason: `materia em ingles/nao traduzida: marcadores_en=${english}, marcadores_pt=${portuguese}`,
