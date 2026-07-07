@@ -6,8 +6,6 @@ draft: true
 tags: ["rio-de-janeiro", "educacao", "capital", "joa", "baixada", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606051532-rio-lidera-gastos-com-alunos-e-qualidade-da-aprendizagem-e-a-penultima-no-pais.jpeg"
 ---
-Rio lidera gastos com alunos e qualidade da aprendizagem é a penúltima no país
-
 Despesas correntes informadas pelo estado do Rio avançaram em mais de 110% em cinco anos, mas não chegaram na valorização dos professores
 
 O caso é de reprovação: o estado lidera os gastos com ensino público no Brasil, mas ocupa a penúltima posição no indicador que mede a qualidade da aprendizagem no país, o Índice de Desenvolvimento da Educação Básica (Ideb). Por aqui, gasta-se R$ 19.
