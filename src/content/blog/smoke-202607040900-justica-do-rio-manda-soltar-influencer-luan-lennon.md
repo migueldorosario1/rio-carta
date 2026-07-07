@@ -2,7 +2,7 @@
 title: "Justiça do Rio manda soltar influencer Luan Lennon"
 description: "O Tribunal de Justiça do Rio de Janeiro determinou, nesta quinta-feira (14), a soltura do influenciador digital Luan Lennon Camacho Braga Oliveira, de 23 anos, além de outros dois"
 pubDate: "2026-07-04T12:01:16Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "centro", "justica", "influenciador", "rio-capital-centro", "niteroi-metropolitana", "regiao-metropolitana", "centro-do-rio", "estacio", "niteroi", "seguranca-publica", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-justica-do-rio-manda-soltar-influencer-luan-lennon.webp"
 ---

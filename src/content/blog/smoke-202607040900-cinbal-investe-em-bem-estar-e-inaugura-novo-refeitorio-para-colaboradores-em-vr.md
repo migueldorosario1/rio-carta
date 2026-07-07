@@ -2,7 +2,7 @@
 title: "Cinbal investe em bem-estar e inaugura novo refeitório para colaboradores em VR"
 description: "Sul Fluminense – A qualidade de vida tem sido um fator decisivo para cerca de 85% dos colaboradores, em recente pesquisa divulgada pela empresa americana Wellhub. O novo olhar das"
 pubDate: "2026-07-04T12:01:12Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "sul-fluminense", "volta-redonda", "sul-fluminense-costa-verde", "comunidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-cinbal-investe-em-bem-estar-e-inaugura-novo-refeitorio-para-colaboradores-em-vr.jpeg"
 ---

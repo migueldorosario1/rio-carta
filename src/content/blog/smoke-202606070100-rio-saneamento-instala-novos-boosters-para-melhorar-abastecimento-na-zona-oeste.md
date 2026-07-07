@@ -2,7 +2,7 @@
 title: "Rio+Saneamento instala novos boosters para melhorar abastecimento na Zona Oeste"
 description: "A Rio+Saneamento está ampliando a distribuição de água na Zona Oeste do Rio com a implantação de novas unidades de bombeamento em diferentes bairros da região. Os equipamentos, con"
 pubDate: "2026-06-07T01:00:10Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "zona-oeste", "saneamento", "rio-capital-zona-oeste", "capital", "iraja", "campo-grande", "cosmos", "guaratiba", "inhoaiba", "paciencia", "santa-cruz", "sepetiba", "problemas-estruturais"]
 heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/hero/smoke-202606070100-rio-saneamento-instala-novos-boosters-para-melhorar-abastecimento-na-zona-oeste.jpeg"
 ---

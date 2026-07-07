@@ -2,7 +2,7 @@
 title: "Firjan Senai abre mais de mil vagas gratuitas em cursos técnicos no Sul Fluminense e Centro-Sul"
 description: "VOLTA REDONDA Com aulas em diferentes turnos e 20% delas à distância, a Firjan SENAI está com inscrições abertas para 1.040 vagas gratuitas em cursos técnicos de nível médio no Sul"
 pubDate: "2026-07-06T12:02:35Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "sul-fluminense", "centro-sul", "volta-redonda", "barra-mansa", "barra-do-pirai", "resende", "tres-rios", "valenca", "educacao", "cursos-tecnicos", "sul-fluminense-costa-verde", "pirai"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-firjan-senai-abre-mais-de-mil-vagas-gratuitas-em-cursos-tecnicos-no-sul-fluminense-e-centro-sul.jpeg"
 ---

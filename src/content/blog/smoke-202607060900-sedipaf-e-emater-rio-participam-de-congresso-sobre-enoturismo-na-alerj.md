@@ -2,7 +2,7 @@
 title: "SEDIPAF e EMATER-RIO participam de congresso sobre enoturismo na Alerj"
 description: "Rio de Janeiro – A Secretaria de Estado de Desenvolvimento Regional do Interior, Pesca e Agricultura Familiar (SEDIPAF) e a Empresa de Assistência Técnica e Extensão Rural do Estad"
 pubDate: "2026-07-06T12:02:17Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "alerj", "areal", "regiao-serrana", "sul-fluminense", "regiao-metropolitana", "comunidade", "serrana", "cultura-carnaval", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-sedipaf-e-emater-rio-participam-de-congresso-sobre-enoturismo-na-alerj.jpeg"
 ---

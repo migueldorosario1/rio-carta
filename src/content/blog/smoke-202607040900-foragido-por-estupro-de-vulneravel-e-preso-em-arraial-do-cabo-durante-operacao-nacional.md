@@ -2,7 +2,7 @@
 title: "Foragido por estupro de vulnerável é preso em Arraial do Cabo durante operação nacional"
 description: "A Polícia Civil do Estado do Rio de Janeiro, por meio da 126ª Delegacia de Polícia, prendeu nesta quinta-feira (14) um homem acusado de estupro de vulnerável durante a Operação Cam"
 pubDate: "2026-07-04T12:00:25Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "policia-civil", "seguranca-publica", "regiao-metropolitana", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607040900-foragido-por-estupro-de-vulneravel-e-preso-em-arraial-do-cabo-durante-operacao-nacional.webp"
 ---

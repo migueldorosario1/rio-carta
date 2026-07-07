@@ -2,7 +2,7 @@
 title: "Fim do dinheiro nos ônibus: Vereador cobra ampliação dos postos de recarga do Jaé"
 description: "A Câmara Municipal do Rio realiza, na próxima terça-feira (10h), uma audiência pública para discutir a transição para o pagamento digital nos ônibus da capital. O debate, no Paláci"
 pubDate: "2026-07-06T12:02:16Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "camara-municipal", "vereador", "transporte", "jae", "onibus", "pagamento-digital", "politica-rj", "capital", "leme", "tijuca", "comunidade", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-fim-do-dinheiro-nos-onibus-vereador-cobra-ampliacao-dos-postos-de-recarga-do-jae.png"
 ---
