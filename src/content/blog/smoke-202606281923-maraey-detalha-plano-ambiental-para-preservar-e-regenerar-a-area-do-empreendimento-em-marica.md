@@ -2,7 +2,7 @@
 title: "MARAEY detalha plano ambiental para preservar e regenerar a área do empreendimento em Maricá"
 description: "MARAEY detalha plano ambiental para preservar e regenerar a área do empreendimento em Maricá Projeto prevê reserva permanente de restinga, regeneração de áreas degradadas, pesquisa"
 pubDate: "2026-06-28T19:25:58Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "marica", "meio-ambiente", "restinga", "desenvolvimento", "regiao-metropolitana", "lagoa", "problemas-estruturais", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-maraey-detalha-plano-ambiental-para-preservar-e-regenerar-a-area-do-empreendimento-em-marica.png"
 ---

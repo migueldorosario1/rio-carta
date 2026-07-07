@@ -2,7 +2,7 @@
 title: "Série de invasões a casas assusta moradores de bairro de Maricá; saiba mais!"
 description: "Série de invasões a casas assusta moradores de bairro de Maricá; saiba mais! Uma sequência de furtos registrada em um curto intervalo de tempo tem preocupado moradores do Jardim At"
 pubDate: "2026-06-28T19:55:25Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "marica", "itaipuacu", "seguranca-publica", "invasao-residencial", "regiao-dos-lagos", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281951-serie-de-invasoes-a-casas-assusta-moradores-de-bairro-de-marica-saiba-mais.jpg"
 ---

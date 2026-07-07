@@ -2,7 +2,7 @@
 title: "Falso taxista é preso por aplicar golpes contra idosos na Zona Sul"
 description: "Um falso taxista foi preso nesta quinta-feira (14) por aplicar golpes contra passageiros, principalmente idosos, na Zona Sul do Rio. Gabriel de Souza Vera estava na Avenida Rio Bra"
 pubDate: "2026-07-06T12:03:10Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "zona-sul", "botafogo", "centro", "seguranca-publica", "politica-rj"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-falso-taxista-e-preso-por-aplicar-golpes-contra-idosos-na-zona-sul.png"
 ---

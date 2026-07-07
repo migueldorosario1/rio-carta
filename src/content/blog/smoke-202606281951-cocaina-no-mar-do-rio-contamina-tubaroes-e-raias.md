@@ -2,7 +2,7 @@
 title: "Cocaína no mar do Rio contamina tubarões e raias"
 description: "Nem a imensidão do Atlântico tem conseguido diluir o volume de cocaína, medicamentos e inseticidas que chega ao mar pelo esgoto no Rio de Janeiro. Um estudo recém-publicado mostra"
 pubDate: "2026-06-28T19:57:36Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "recreio-dos-bandeirantes", "zona-oeste", "contaminacao-marinha", "cocaina", "tubaroes", "raias", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "oswaldo-cruz", "recreio", "problemas-estruturais", "transporte-mobilidade"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281951-cocaina-no-mar-do-rio-contamina-tubaroes-e-raias-qwen.jpg"
 ---

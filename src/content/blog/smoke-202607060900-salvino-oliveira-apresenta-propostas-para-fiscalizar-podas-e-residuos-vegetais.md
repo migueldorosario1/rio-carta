@@ -2,7 +2,7 @@
 title: "Salvino Oliveira apresenta propostas para fiscalizar podas e resíduos vegetais"
 description: "A Câmara Municipal do Rio de Janeiro recebeu dois projetos de lei que miram a gestão da arborização urbana da cidade. As propostas, apresentadas pelo vereador Salvino Oliveira, tra"
 pubDate: "2026-07-06T12:03:12Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "camara-municipal", "arborizacao-urbana", "poda", "residuos-vegetais", "salvino-oliveira", "politica-rj", "capital", "regiao-metropolitana", "saude"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202607060900-salvino-oliveira-apresenta-propostas-para-fiscalizar-podas-e-residuos-vegetais.jpg"
 ---

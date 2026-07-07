@@ -2,7 +2,7 @@
 title: "Cemeaes celebra 27 anos com evento sobre inclusão em Macaé"
 description: "O Centro Municipal Especializado de Atendimento ao Escolar de Macaé (Cemeaes) celebra 27 anos de atuação com uma programação especial neste sábado (27), a partir das 9h, no Anfitea"
 pubDate: "2026-06-28T19:26:43Z"
-draft: true
+draft: false
 tags: ["rio-de-janeiro", "macae", "educacao", "inclusao", "cemeaes", "norte-fluminense", "norte-noroeste-fluminense", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "comunidade", "transporte-mobilidade", "saude", "cultura-carnaval"]
 heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606281923-cemeaes-celebra-27-anos-com-evento-sobre-inclusao-em-macae.png"
 ---
