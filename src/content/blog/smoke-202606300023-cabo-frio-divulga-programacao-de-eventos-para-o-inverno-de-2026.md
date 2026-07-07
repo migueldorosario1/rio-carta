@@ -4,7 +4,7 @@ description: "Cabo Frio divulgou nesta segunda-feira (29) a programação do “
 pubDate: "2026-06-30T00:24:50Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "sao-cristovao", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606300023-cabo-frio-divulga-programacao-de-eventos-para-o-inverno-de-2026.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-cabo-frio-divulga-programacao-de-eventos-para-o-inverno-de-2026.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

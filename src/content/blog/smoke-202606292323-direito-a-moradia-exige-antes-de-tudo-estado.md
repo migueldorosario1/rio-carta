@@ -4,7 +4,7 @@ description: "Li com atenção o artigo de Josier Vilar sobre a tragédia que vi
 pubDate: "2026-06-29T23:24:27Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "direito-a-moradia", "seguranca-publica", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "comunidade", "problemas-estruturais", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606292323-direito-a-moradia-exige-antes-de-tudo-estado.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-direito-a-moradia-exige-antes-de-tudo-estado.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

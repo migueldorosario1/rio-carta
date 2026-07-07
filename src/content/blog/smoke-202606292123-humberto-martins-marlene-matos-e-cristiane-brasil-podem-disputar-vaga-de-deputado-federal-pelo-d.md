@@ -4,7 +4,7 @@ description: "O Democracia Cristã (DC) planeja lançar o ator Humberto Martins,
 pubDate: "2026-06-29T21:24:37Z"
 draft: true
 tags: ["rio-de-janeiro", "nova-iguacu", "politica-rj", "democracia-crista", "eleicoes-2026", "capital", "regiao-metropolitana", "joa", "saude"]
-heroImage: "/hero/smoke-202606292123-humberto-martins-marlene-matos-e-cristiane-brasil-podem-disputar-vaga-de-deputado-federal-pelo-d.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-humberto-martins-marlene-matos-e-cristiane-brasil-podem-disputar-vaga-de-deputado-federal-pelo-d.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

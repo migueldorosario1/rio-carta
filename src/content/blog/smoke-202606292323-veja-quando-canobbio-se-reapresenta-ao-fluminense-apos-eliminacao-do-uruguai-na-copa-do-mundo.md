@@ -4,7 +4,7 @@ description: "Eliminado da Copa do Mundo 2026 com o Uruguai após a derrota da C
 pubDate: "2026-06-29T23:26:32Z"
 draft: true
 tags: ["rio-de-janeiro", "fluminense", "maracana", "futebol", "zona-norte", "rio-capital-zona-norte", "capital", "regiao-metropolitana", "nova-iguacu"]
-heroImage: "/hero/smoke-202606292323-veja-quando-canobbio-se-reapresenta-ao-fluminense-apos-eliminacao-do-uruguai-na-copa-do-mundo.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-veja-quando-canobbio-se-reapresenta-ao-fluminense-apos-eliminacao-do-uruguai-na-copa-do-mundo.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

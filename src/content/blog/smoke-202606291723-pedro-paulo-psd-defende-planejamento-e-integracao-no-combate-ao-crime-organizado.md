@@ -4,7 +4,7 @@ description: "Pedro Paulo (PSD) defende planejamento e integração no combate a
 pubDate: "2026-06-29T17:25:38Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "politica", "seguranca-publica", "politica-rj", "sao-goncalo-itaborai", "regiao-metropolitana", "itaborai"]
-heroImage: "/hero/smoke-202606291723-pedro-paulo-psd-defende-planejamento-e-integracao-no-combate-ao-crime-organizado.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-pedro-paulo-psd-defende-planejamento-e-integracao-no-combate-ao-crime-organizado.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

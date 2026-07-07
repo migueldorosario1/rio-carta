@@ -4,7 +4,7 @@ description: "Dois homens foram presos e um adolescente apreendido pela Força M
 pubDate: "2026-06-29T16:26:19Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "aterro-do-flamengo", "catete", "zona-sul", "rio-capital-centro", "politica-rj", "centro-do-rio", "flamengo", "seguranca-publica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606291623-homens-sao-presos-e-adolescente-apreendido-por-roubo-no-centro.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-homens-sao-presos-e-adolescente-apreendido-por-roubo-no-centro.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "BARRA MANSA Um homem de 42 anos foi baleado na cabeça durante um 
 pubDate: "2026-06-29T14:24:23Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "sul-fluminense", "sul-fluminense-costa-verde", "seguranca-publica", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606291423-homem-e-baleado-na-cabeca-durante-ataque-a-tiros-em-barra-mansa.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-homem-e-baleado-na-cabeca-durante-ataque-a-tiros-em-barra-mansa.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

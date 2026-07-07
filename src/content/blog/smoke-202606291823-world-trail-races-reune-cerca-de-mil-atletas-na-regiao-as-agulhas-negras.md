@@ -4,7 +4,7 @@ description: "AGULHAS NEGRAS A estreia da etapa Agulhas Negras da World Trail Ra
 pubDate: "2026-06-29T18:24:04Z"
 draft: true
 tags: ["rio-de-janeiro", "itatiaia", "resende", "agulhas-negras", "sul-fluminense-costa-verde", "sul-fluminense", "norte-noroeste-fluminense", "campos", "ramos", "problemas-estruturais", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606291823-world-trail-races-reune-cerca-de-mil-atletas-na-regiao-as-agulhas-negras.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-world-trail-races-reune-cerca-de-mil-atletas-na-regiao-as-agulhas-negras.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

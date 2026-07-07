@@ -4,7 +4,7 @@ description: "Uma lancha de alto padrão foi completamente destruída por um inc
 pubDate: "2026-06-29T13:24:58Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "incendio", "lancha", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "/hero/smoke-202606291323-lancha-de-luxo-pega-fogo-e-e-destruida-pelas-chamas-em-cabo-frio.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-lancha-de-luxo-pega-fogo-e-e-destruida-pelas-chamas-em-cabo-frio.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

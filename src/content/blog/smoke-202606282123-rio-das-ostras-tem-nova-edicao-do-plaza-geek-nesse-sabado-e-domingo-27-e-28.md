@@ -4,7 +4,7 @@ description: "Começa nesse sábado, 27, mais uma edição do Plaza Geek, que ac
 pubDate: "2026-06-28T21:26:17Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "cultura-pop", "macae-norte-fluminense", "norte-fluminense", "educacao", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606282123-rio-das-ostras-tem-nova-edicao-do-plaza-geek-nesse-sabado-e-domingo-27-e-28.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-rio-das-ostras-tem-nova-edicao-do-plaza-geek-nesse-sabado-e-domingo-27-e-28.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

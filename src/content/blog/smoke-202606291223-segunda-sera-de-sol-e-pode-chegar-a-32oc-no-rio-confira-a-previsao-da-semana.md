@@ -4,7 +4,7 @@ description: "O frio e a chuva darão uma trégua para os cariocas nesta semana 
 pubDate: "2026-06-29T12:25:34Z"
 draft: true
 tags: ["rio-de-janeiro", "clima", "previsao-do-tempo", "rio-capital-centro", "politica-rj", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606291223-segunda-sera-de-sol-e-pode-chegar-a-32oc-no-rio-confira-a-previsao-da-semana.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291223-segunda-sera-de-sol-e-pode-chegar-a-32oc-no-rio-confira-a-previsao-da-semana.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

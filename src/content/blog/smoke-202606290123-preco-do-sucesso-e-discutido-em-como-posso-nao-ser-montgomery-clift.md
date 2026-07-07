@@ -4,7 +4,7 @@ description: "Preço do sucesso é discutido em Como Posso Não Ser Montgomery C
 pubDate: "2026-06-29T01:25:09Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "cultura", "teatro", "cultura-carnaval", "capital"]
-heroImage: "/hero/smoke-202606290123-preco-do-sucesso-e-discutido-em-como-posso-nao-ser-montgomery-clift.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290123-preco-do-sucesso-e-discutido-em-como-posso-nao-ser-montgomery-clift.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

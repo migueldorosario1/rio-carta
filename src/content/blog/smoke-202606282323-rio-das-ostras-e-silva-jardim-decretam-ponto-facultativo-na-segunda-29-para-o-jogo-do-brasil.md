@@ -4,7 +4,7 @@ description: "As prefeituras de Rio das Ostras e Silva Jardim decretaram ponto f
 pubDate: "2026-06-28T23:27:15Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "silva-jardim", "regiao-dos-lagos", "macae-norte-fluminense", "regiao-metropolitana", "mage", "norte-fluminense", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-202606282323-rio-das-ostras-e-silva-jardim-decretam-ponto-facultativo-na-segunda-29-para-o-jogo-do-brasil.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282323-rio-das-ostras-e-silva-jardim-decretam-ponto-facultativo-na-segunda-29-para-o-jogo-do-brasil.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

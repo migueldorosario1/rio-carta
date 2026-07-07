@@ -4,7 +4,7 @@ description: "BARRA MANSA Um novo espaço voltado ao cuidado e ao bem-estar da p
 pubDate: "2026-06-29T16:28:16Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "antonio-rocha", "saude", "sul-fluminense-costa-verde", "sul-fluminense", "rocha", "comunidade", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-202606291623-prefeitura-inaugura-ponto-de-atendimento-em-saude-no-distrito-de-antonio-rocha-qwen.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-prefeitura-inaugura-ponto-de-atendimento-em-saude-no-distrito-de-antonio-rocha-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Voluntários vão participar, no próximo sábado (27), de um muti
 pubDate: "2026-06-28T20:24:14Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "gloria", "conservacao-marinha", "mutirao", "meio-ambiente", "rio-capital-centro", "capital-porto", "sul-fluminense-costa-verde", "angra-dos-reis", "mare", "anil", "joa", "angra"]
-heroImage: "/hero/smoke-202606282023-mutirao-reune-voluntarios-em-acao-de-conservacao-marinha-no-rio.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-mutirao-reune-voluntarios-em-acao-de-conservacao-marinha-no-rio.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

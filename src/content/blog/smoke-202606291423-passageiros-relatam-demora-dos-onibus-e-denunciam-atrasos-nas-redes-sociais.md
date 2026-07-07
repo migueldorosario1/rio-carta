@@ -4,7 +4,7 @@ description: "Passageiros enfrentaram dificuldades para chegar ao trabalho nas p
 pubDate: "2026-06-29T14:25:44Z"
 draft: true
 tags: ["rio-de-janeiro", "madureira", "praca-seca", "barra-da-tijuca", "greve-onibus", "brt", "transporte-mobilidade", "capital", "regiao-metropolitana"]
-heroImage: "/hero/smoke-202606291423-passageiros-relatam-demora-dos-onibus-e-denunciam-atrasos-nas-redes-sociais.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-passageiros-relatam-demora-dos-onibus-e-denunciam-atrasos-nas-redes-sociais.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

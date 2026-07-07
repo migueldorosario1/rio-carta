@@ -4,7 +4,7 @@ description: "VOLTA REDONDA No próximo dia 4 de julho, o vereador Sidney Dinho,
 pubDate: "2026-06-29T22:27:15Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "politica", "eleicoes", "pre-candidatura", "alerj", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606292223-vereador-dinho-oficializa-pre-candidatura-a-deputado-estadual-pelo-prd-25-no-proximo-dia-4.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-vereador-dinho-oficializa-pre-candidatura-a-deputado-estadual-pelo-prd-25-no-proximo-dia-4.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

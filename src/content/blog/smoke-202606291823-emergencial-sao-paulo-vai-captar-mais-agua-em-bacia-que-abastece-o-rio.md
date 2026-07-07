@@ -4,7 +4,7 @@ description: "Emergencial! São Paulo vai captar mais água em bacia que abastec
 pubDate: "2026-06-29T18:26:34Z"
 draft: true
 tags: ["rio-de-janeiro", "paraiba-do-sul", "guandu", "abastecimento-de-agua", "politica-rj", "capital", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606291823-emergencial-sao-paulo-vai-captar-mais-agua-em-bacia-que-abastece-o-rio.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-emergencial-sao-paulo-vai-captar-mais-agua-em-bacia-que-abastece-o-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

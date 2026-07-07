@@ -4,7 +4,7 @@ description: "O grupo acusado de reativar de forma irregular o Banco de Crédito
 pubDate: "2026-06-29T18:25:04Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "campo-de-golfe-olimpico", "fraude", "prefeitura-do-rio", "crf-empreendimentos", "rio-capital-barra-recreio-jacarepagua", "capital", "tijuca", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606291823-grupo-acusado-de-fraude-anuncia-sede-no-campo-de-golfe-olimpico-na-barra.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-grupo-acusado-de-fraude-anuncia-sede-no-campo-de-golfe-olimpico-na-barra.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

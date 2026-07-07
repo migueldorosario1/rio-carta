@@ -4,7 +4,7 @@ description: "Na primeira quinzena de julho, o “CCBB Educativo – Lugar de En
 pubDate: "2026-06-29T21:26:41Z"
 draft: true
 tags: ["rio-de-janeiro", "centro", "ccbb-rio", "cultura", "exposicao", "vik-muniz", "rio-capital-centro", "capital", "regiao-metropolitana", "mage", "encantado", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606292123-ccbb-rio-reune-atividades-inspiradas-na-exposicao-vik-muniz-a-olho-nu.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-ccbb-rio-reune-atividades-inspiradas-na-exposicao-vik-muniz-a-olho-nu.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

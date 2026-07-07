@@ -4,7 +4,7 @@ description: "Durante muitos anos, a Zona Portuária do Rio de Janeiro foi vista
 pubDate: "2026-06-28T20:23:06Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-portuaria", "centro", "rio-capital-centro", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606282023-o-renascimento-da-zona-portuaria-lazer-cultura-e-turismo-em-uma-nova-regiao-do-rio.png"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-o-renascimento-da-zona-portuaria-lazer-cultura-e-turismo-em-uma-nova-regiao-do-rio.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

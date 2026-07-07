@@ -4,7 +4,7 @@ description: "O ministro Alexandre de Moraes, do Supremo Tribunal Federal, encam
 pubDate: "2026-06-29T22:26:52Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "calunia", "pgr", "moraes", "lula", "politica-rj", "capital", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606292223-moraes-aciona-pgr-apos-pf-indiciar-flavio-bolsonaro-por-calunia-contra-lula.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-moraes-aciona-pgr-apos-pf-indiciar-flavio-bolsonaro-por-calunia-contra-lula.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

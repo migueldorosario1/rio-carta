@@ -4,7 +4,7 @@ description: "Reconhecimento celebra trajetória de artista responsável por mur
 pubDate: "2026-06-29T19:24:21Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "cultura", "arte-urbana", "vini-jr", "regiao-metropolitana", "sao-goncalo-itaborai", "mage", "itaborai", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606291923-reconhecimento-celebra-trajetoria-de-artista-responsavel-por-mural-de-vini-jr-em-sao-goncalo.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-reconhecimento-celebra-trajetoria-de-artista-responsavel-por-mural-de-vini-jr-em-sao-goncalo.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

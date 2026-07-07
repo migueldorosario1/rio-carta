@@ -4,7 +4,7 @@ description: "A Procuradoria-Geral da República (PGR) recebeu um pedido para qu
 pubDate: "2026-06-30T00:24:11Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "intervencao-federal", "crime-organizado", "politica-rj", "capital", "regiao-metropolitana", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-202606300023-pgr-recebe-pedido-de-intervencao-federal-na-alerj-por-suposta-captura-pelo-crime-organizado.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-pgr-recebe-pedido-de-intervencao-federal-na-alerj-por-suposta-captura-pelo-crime-organizado.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

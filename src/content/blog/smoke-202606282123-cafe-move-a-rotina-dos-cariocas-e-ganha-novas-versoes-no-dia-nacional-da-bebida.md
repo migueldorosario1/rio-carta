@@ -4,7 +4,7 @@ description: "Ele jamais sai de cena. Seja pela manhã, depois das refeições, 
 pubDate: "2026-06-28T21:26:43Z"
 draft: true
 tags: ["rio-de-janeiro", "cultura-carnaval", "estado", "regiao-metropolitana", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606282123-cafe-move-a-rotina-dos-cariocas-e-ganha-novas-versoes-no-dia-nacional-da-bebida.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-cafe-move-a-rotina-dos-cariocas-e-ganha-novas-versoes-no-dia-nacional-da-bebida.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

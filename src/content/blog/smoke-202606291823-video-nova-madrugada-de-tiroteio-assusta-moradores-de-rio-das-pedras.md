@@ -4,7 +4,7 @@ description: "Moradores de Rio das Pedras e da Muzema, na Zona Sudoeste do Rio, 
 pubDate: "2026-06-29T18:26:56Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-pedras", "muzema", "tiroteio", "seguranca-publica", "rio-capital-barra-recreio-jacarepagua", "politica-rj", "sul-fluminense-costa-verde", "areal", "recreio-dos-bandeirantes", "recreio", "itanhanga", "comunidade", "saude"]
-heroImage: "/hero/smoke-202606291823-video-nova-madrugada-de-tiroteio-assusta-moradores-de-rio-das-pedras.png"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-video-nova-madrugada-de-tiroteio-assusta-moradores-de-rio-das-pedras.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

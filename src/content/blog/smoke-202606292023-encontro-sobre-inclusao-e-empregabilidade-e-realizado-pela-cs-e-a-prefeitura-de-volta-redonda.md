@@ -4,7 +4,7 @@ description: "VOLTA REDONDA Acontece neste terça-feira, dia 30, em Volta Redond
 pubDate: "2026-06-29T20:26:09Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "inclusao", "empregabilidade", "prefeitura-de-volta-redonda", "csn", "sul-fluminense-costa-verde", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606292023-encontro-sobre-inclusao-e-empregabilidade-e-realizado-pela-cs-e-a-prefeitura-de-volta-redonda.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-encontro-sobre-inclusao-e-empregabilidade-e-realizado-pela-cs-e-a-prefeitura-de-volta-redonda.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

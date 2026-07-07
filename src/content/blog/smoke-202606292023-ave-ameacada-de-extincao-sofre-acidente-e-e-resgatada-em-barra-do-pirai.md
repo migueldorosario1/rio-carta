@@ -4,7 +4,7 @@ description: "BARRA DO PIRAÍ Uma ave de rapina rara e ameaçada de extinção f
 pubDate: "2026-06-29T20:25:09Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "sul-fluminense", "meio-ambiente", "fauna", "resgate-animal", "gaviao-pombo-pequeno", "sul-fluminense-costa-verde", "pirai", "problemas-estruturais", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606292023-ave-ameacada-de-extincao-sofre-acidente-e-e-resgatada-em-barra-do-pirai.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-ave-ameacada-de-extincao-sofre-acidente-e-e-resgatada-em-barra-do-pirai.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

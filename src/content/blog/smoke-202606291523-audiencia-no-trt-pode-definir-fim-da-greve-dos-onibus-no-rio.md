@@ -4,7 +4,7 @@ description: "A greve dos motoristas de ônibus do Rio de Janeiro, iniciada à 0
 pubDate: "2026-06-29T15:25:39Z"
 draft: true
 tags: ["rio-de-janeiro", "greve-onibus", "transporte-publico", "trt-rj", "sindicato-rodoviarios", "transporte-mobilidade", "capital", "regiao-metropolitana", "ramos", "politica-rj"]
-heroImage: "/hero/smoke-202606291523-audiencia-no-trt-pode-definir-fim-da-greve-dos-onibus-no-rio.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-audiencia-no-trt-pode-definir-fim-da-greve-dos-onibus-no-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

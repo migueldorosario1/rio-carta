@@ -4,7 +4,7 @@ description: "O Hospital Ferreira Machado, em Campos, divulgou uma nota à impre
 pubDate: "2026-06-28T21:25:58Z"
 draft: true
 tags: ["rio-de-janeiro", "campos-dos-goytacazes", "hospital", "saude", "norte-noroeste-fluminense", "campos", "noroeste-fluminense", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606282123-hospital-ferreira-machado-procura-por-familiares-de-paciente-internado-em-estado-grave.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-hospital-ferreira-machado-procura-por-familiares-de-paciente-internado-em-estado-grave.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Uma baleia foi flagrada nesta segunda-feira (29) a cerca de 300 me
 pubDate: "2026-06-29T20:24:14Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "baia-de-guanabara", "ponte-rio-niteroi", "baleia", "regiao-metropolitana", "politica-rj", "botafogo", "flamengo", "mage", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606292023-video-baleia-e-flagrada-na-baia-de-guanabara-perto-da-ponte-rio-niteroi.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-video-baleia-e-flagrada-na-baia-de-guanabara-perto-da-ponte-rio-niteroi.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

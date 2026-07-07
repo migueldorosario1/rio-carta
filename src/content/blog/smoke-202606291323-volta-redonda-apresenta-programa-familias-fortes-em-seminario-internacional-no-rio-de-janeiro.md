@@ -4,7 +4,7 @@ description: "VOLTA REDONDA A Prefeitura de Volta Redonda, por meio da Secretari
 pubDate: "2026-06-29T13:25:41Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "assistencia-social", "prevencao-drogas", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "leme", "politica-rj"]
-heroImage: "/hero/smoke-202606291323-volta-redonda-apresenta-programa-familias-fortes-em-seminario-internacional-no-rio-de-janeiro.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-volta-redonda-apresenta-programa-familias-fortes-em-seminario-internacional-no-rio-de-janeiro.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

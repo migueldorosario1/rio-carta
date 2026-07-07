@@ -4,7 +4,7 @@ description: "Vini Jr. já foi da categoria “chupetinha” e usava camisa 10 e
 pubDate: "2026-06-29T19:23:29Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "canto-do-rio", "futebol", "cultura", "regiao-metropolitana", "capital", "flamengo", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606291923-vini-jr-ja-foi-da-categoria-chupetinha-e-usava-camisa-10-em-niteroi.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-vini-jr-ja-foi-da-categoria-chupetinha-e-usava-camisa-10-em-niteroi.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "O domingo (28) na Ilha dos Japoneses, em Cabo Frio, recebeu uma vi
 pubDate: "2026-06-29T15:25:10Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "macae-norte-fluminense", "norte-fluminense"]
-heroImage: "/hero/smoke-202606291523-avistamento-de-tubarao-movimenta-a-ilha-dos-japoneses-em-cabo-frio.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-avistamento-de-tubarao-movimenta-a-ilha-dos-japoneses-em-cabo-frio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

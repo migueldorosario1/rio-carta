@@ -4,7 +4,7 @@ description: "Detran-RJ começa a exigir exame toxicológico para candidatos da 
 pubDate: "2026-06-29T16:26:00Z"
 draft: true
 tags: ["rio-de-janeiro", "detran-rj", "cnh", "exame-toxicologico", "transporte-mobilidade", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai"]
-heroImage: "/hero/smoke-202606291623-detran-rj-comeca-a-exigir-exame-toxicologico-para-candidatos-da-1a-habilitacao-a-e-b-a-partir-de.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-detran-rj-comeca-a-exigir-exame-toxicologico-para-candidatos-da-1a-habilitacao-a-e-b-a-partir-de.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

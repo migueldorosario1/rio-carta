@@ -4,7 +4,7 @@ description: "Rio Homem de 40 anos é espancado até a morte na Ilha do Governad
 pubDate: "2026-06-28T21:27:43Z"
 draft: true
 tags: ["rio-de-janeiro", "ilha-do-governador", "zona-norte", "rio-capital-zona-norte", "capital-estado", "centro-do-rio", "cocota", "olaria", "joa", "seguranca-publica", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606282123-homem-de-40-anos-e-espancado-ate-a-morte-na-ilha-do-governador.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-homem-de-40-anos-e-espancado-ate-a-morte-na-ilha-do-governador.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

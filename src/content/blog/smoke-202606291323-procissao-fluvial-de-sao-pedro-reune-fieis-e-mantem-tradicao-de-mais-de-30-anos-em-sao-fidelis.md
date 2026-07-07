@@ -4,7 +4,7 @@ description: "A tradição e a fé navegaram juntas pelas águas do Rio Paraíba
 pubDate: "2026-06-29T13:24:48Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "procissao-fluvial", "sao-pedro", "religiao", "catolicismo", "norte-noroeste-fluminense", "noroeste-fluminense", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606291323-procissao-fluvial-de-sao-pedro-reune-fieis-e-mantem-tradicao-de-mais-de-30-anos-em-sao-fidelis.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-procissao-fluvial-de-sao-pedro-reune-fieis-e-mantem-tradicao-de-mais-de-30-anos-em-sao-fidelis.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

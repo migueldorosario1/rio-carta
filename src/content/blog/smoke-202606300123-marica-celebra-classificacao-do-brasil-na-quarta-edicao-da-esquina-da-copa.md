@@ -4,7 +4,7 @@ description: "Maricá celebra classificação do Brasil na quarta edição da 'E
 pubDate: "2026-06-30T01:23:51Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "sao-goncalo-itaborai", "sao-goncalo", "mare", "itaborai", "transporte-mobilidade", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606300123-marica-celebra-classificacao-do-brasil-na-quarta-edicao-da-esquina-da-copa.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300123-marica-celebra-classificacao-do-brasil-na-quarta-edicao-da-esquina-da-copa.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

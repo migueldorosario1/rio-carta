@@ -4,7 +4,7 @@ description: "DC quer lançar ator Humberto Martins e filha de Roberto Jefferson
 pubDate: "2026-06-29T22:25:14Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "serrana", "regiao-metropolitana", "abolicao", "joa", "petropolis", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-202606292223-dc-quer-lancar-ator-humberto-martins-e-filha-de-roberto-jefferson-para-deputado-federal-no-rio.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-dc-quer-lancar-ator-humberto-martins-e-filha-de-roberto-jefferson-para-deputado-federal-no-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

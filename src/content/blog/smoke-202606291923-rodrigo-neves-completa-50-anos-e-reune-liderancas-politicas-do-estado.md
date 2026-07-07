@@ -4,7 +4,7 @@ description: "Rodrigo Neves completa 50 anos e reúne lideranças políticas do 
 pubDate: "2026-06-29T19:25:54Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "politica-rj", "regiao-metropolitana", "sao-goncalo-itaborai", "sao-goncalo", "itaborai", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606291923-rodrigo-neves-completa-50-anos-e-reune-liderancas-politicas-do-estado.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-rodrigo-neves-completa-50-anos-e-reune-liderancas-politicas-do-estado.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

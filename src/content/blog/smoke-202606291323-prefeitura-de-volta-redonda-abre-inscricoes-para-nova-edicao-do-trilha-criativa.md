@@ -4,7 +4,7 @@ description: "VOLTA REDONDA A Prefeitura de Volta Redonda, por meio da Secretari
 pubDate: "2026-06-29T13:26:50Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "sul-fluminense", "prefeitura", "juventude", "capacitacao", "trilha-criativa", "sul-fluminense-costa-verde", "estacio", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-202606291323-prefeitura-de-volta-redonda-abre-inscricoes-para-nova-edicao-do-trilha-criativa.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-prefeitura-de-volta-redonda-abre-inscricoes-para-nova-edicao-do-trilha-criativa.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Uma nova crise no núcleo familiar do ex-presidente Jair Bolsonaro
 pubDate: "2026-06-29T21:25:00Z"
 draft: true
 tags: ["rio-de-janeiro", "carlos-bolsonaro", "vereador", "cla-bolsonaro", "politica-rj", "regiao-metropolitana", "mage", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606292123-michelle-deixa-de-seguir-enteados-nas-redes-sociais-e-amplia-racha-no-cla-bolsonaro.png"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-michelle-deixa-de-seguir-enteados-nas-redes-sociais-e-amplia-racha-no-cla-bolsonaro.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

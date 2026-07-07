@@ -4,7 +4,7 @@ description: "A Festa do Divino Espírito Santo será realizada entre os dias 2 
 pubDate: "2026-06-28T22:27:30Z"
 draft: true
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "festa-do-divino", "cultura", "regiao-dos-lagos", "buzios", "saquarema", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606282223-buzios-realiza-festa-do-divino-espirito-santo-entre-os-dias-2-e-5-de-julho.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282223-buzios-realiza-festa-do-divino-espirito-santo-entre-os-dias-2-e-5-de-julho.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

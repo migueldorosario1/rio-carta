@@ -4,7 +4,7 @@ description: "O Rock in Rio 2026 apresentou as novidades da Área VIP, dos pacot
 pubDate: "2026-06-29T23:27:06Z"
 draft: true
 tags: ["rio-de-janeiro", "rock-in-rio", "barra-da-tijuca", "cultura", "cidade-do-rock", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "transporte-mobilidade", "saude", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606292323-rock-in-rio-2026-tera-hospitalidade-camarotes-vip-e-experiencias-exclusivas.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-rock-in-rio-2026-tera-hospitalidade-camarotes-vip-e-experiencias-exclusivas.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

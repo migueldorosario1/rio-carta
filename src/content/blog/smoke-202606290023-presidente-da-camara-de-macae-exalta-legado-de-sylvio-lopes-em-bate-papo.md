@@ -4,7 +4,7 @@ description: "Após a Câmara Municipal de Macaé conceder o título de Mérito 
 pubDate: "2026-06-29T00:25:51Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "politica-rj", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense"]
-heroImage: "/hero/smoke-202606290023-presidente-da-camara-de-macae-exalta-legado-de-sylvio-lopes-em-bate-papo.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290023-presidente-da-camara-de-macae-exalta-legado-de-sylvio-lopes-em-bate-papo.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

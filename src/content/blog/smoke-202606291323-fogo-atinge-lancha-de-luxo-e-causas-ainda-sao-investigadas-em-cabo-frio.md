@@ -4,7 +4,7 @@ description: "Uma lancha de luxo foi completamente destruída por um incêndio n
 pubDate: "2026-06-29T13:26:08Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "incendio", "lancha", "ilha-do-japones", "macae-norte-fluminense", "regiao-metropolitana", "mage", "norte-fluminense", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606291323-fogo-atinge-lancha-de-luxo-e-causas-ainda-sao-investigadas-em-cabo-frio.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-fogo-atinge-lancha-de-luxo-e-causas-ainda-sao-investigadas-em-cabo-frio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

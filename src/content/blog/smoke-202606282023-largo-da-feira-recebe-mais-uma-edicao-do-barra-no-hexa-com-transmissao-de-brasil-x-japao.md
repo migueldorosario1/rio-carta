@@ -4,7 +4,7 @@ description: "Barra do Piraí A emoção da fase de mata-mata da Copa do Mundo d
 pubDate: "2026-06-28T20:26:00Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "sul-fluminense", "copa-do-mundo", "evento", "prefeitura", "sul-fluminense-costa-verde", "pirai", "ramos", "educacao", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606282023-largo-da-feira-recebe-mais-uma-edicao-do-barra-no-hexa-com-transmissao-de-brasil-x-japao.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-largo-da-feira-recebe-mais-uma-edicao-do-barra-no-hexa-com-transmissao-de-brasil-x-japao.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

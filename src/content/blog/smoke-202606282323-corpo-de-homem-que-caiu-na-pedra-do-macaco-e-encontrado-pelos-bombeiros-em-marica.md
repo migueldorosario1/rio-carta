@@ -4,7 +4,7 @@ description: "Corpo de homem que caiu na Pedra do Macaco é encontrado pelos Bom
 pubDate: "2026-06-28T23:24:13Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "sao-jose-do-imbassai", "regiao-dos-lagos", "regiao-metropolitana", "rocha", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606282323-corpo-de-homem-que-caiu-na-pedra-do-macaco-e-encontrado-pelos-bombeiros-em-marica.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282323-corpo-de-homem-que-caiu-na-pedra-do-macaco-e-encontrado-pelos-bombeiros-em-marica.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

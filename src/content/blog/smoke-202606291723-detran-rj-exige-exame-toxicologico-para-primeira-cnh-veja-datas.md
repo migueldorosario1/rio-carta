@@ -4,7 +4,7 @@ description: "Rio Detran-RJ exige exame toxicológico para primeira CNH; veja da
 pubDate: "2026-06-29T17:25:59Z"
 draft: true
 tags: ["rio-de-janeiro", "detran-rj", "primeira-cnh", "exame-toxicologico", "transporte-mobilidade", "capital-estado", "regiao-metropolitana"]
-heroImage: "/hero/smoke-202606291723-detran-rj-exige-exame-toxicologico-para-primeira-cnh-veja-datas.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-detran-rj-exige-exame-toxicologico-para-primeira-cnh-veja-datas.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

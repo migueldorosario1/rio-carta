@@ -4,7 +4,7 @@ description: "Douglas Ruas reúne apoiadores em Belford Roxo e projeta transform
 pubDate: "2026-06-29T13:26:23Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "politica-rj", "regiao-metropolitana", "sao-goncalo-itaborai", "sao-goncalo", "baixada", "itaborai", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606291323-douglas-ruas-reune-apoiadores-em-belford-roxo-e-projeta-transformacao-no-estado-do-rio.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-douglas-ruas-reune-apoiadores-em-belford-roxo-e-projeta-transformacao-no-estado-do-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

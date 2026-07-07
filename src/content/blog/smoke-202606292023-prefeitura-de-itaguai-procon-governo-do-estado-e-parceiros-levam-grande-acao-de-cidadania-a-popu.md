@@ -4,7 +4,7 @@ description: "A Prefeitura Municipal de Itaguaí, por meio do Procon Itaguaí, r
 pubDate: "2026-06-29T20:26:31Z"
 draft: true
 tags: ["rio-de-janeiro", "itaguai", "procon", "acao-cidadania", "governo-do-estado-rj", "regiao-metropolitana", "capital", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606292023-prefeitura-de-itaguai-procon-governo-do-estado-e-parceiros-levam-grande-acao-de-cidadania-a-popu.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-prefeitura-de-itaguai-procon-governo-do-estado-e-parceiros-levam-grande-acao-de-cidadania-a-popu.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

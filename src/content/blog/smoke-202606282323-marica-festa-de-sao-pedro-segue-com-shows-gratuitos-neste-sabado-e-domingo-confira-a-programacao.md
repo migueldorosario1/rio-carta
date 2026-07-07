@@ -4,7 +4,7 @@ description: "Maricá: Festa de São Pedro segue com shows gratuitos neste sába
 pubDate: "2026-06-28T23:26:53Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "aracatiba", "ponta-negra", "festa-de-sao-pedro", "cultura-carnaval", "regiao-metropolitana", "mare", "comunidade"]
-heroImage: "/hero/smoke-202606282323-marica-festa-de-sao-pedro-segue-com-shows-gratuitos-neste-sabado-e-domingo-confira-a-programacao.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282323-marica-festa-de-sao-pedro-segue-com-shows-gratuitos-neste-sabado-e-domingo-confira-a-programacao.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

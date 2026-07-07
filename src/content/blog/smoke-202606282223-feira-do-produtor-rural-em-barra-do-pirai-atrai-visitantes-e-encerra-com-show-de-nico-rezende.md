@@ -4,7 +4,7 @@ description: "Barra do Piraí A Feira do Produtor Rural do Vale do Café chegou 
 pubDate: "2026-06-28T22:23:30Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-do-pirai", "feira-produtor-rural", "vale-do-cafe", "turismo", "cultura", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "mesquita", "pirai", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606282223-feira-do-produtor-rural-em-barra-do-pirai-atrai-visitantes-e-encerra-com-show-de-nico-rezende.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282223-feira-do-produtor-rural-em-barra-do-pirai-atrai-visitantes-e-encerra-com-show-de-nico-rezende.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

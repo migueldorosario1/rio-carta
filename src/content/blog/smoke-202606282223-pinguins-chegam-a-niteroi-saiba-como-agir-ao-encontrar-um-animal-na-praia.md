@@ -4,7 +4,7 @@ description: "Guarda Ambiental orienta moradores a não tocar, não alimentar, n
 pubDate: "2026-06-28T22:28:36Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "prainha-de-piratininga", "meio-ambiente", "regiao-metropolitana", "niteroi-metropolitana", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606282223-pinguins-chegam-a-niteroi-saiba-como-agir-ao-encontrar-um-animal-na-praia-qwen.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282223-pinguins-chegam-a-niteroi-saiba-como-agir-ao-encontrar-um-animal-na-praia-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

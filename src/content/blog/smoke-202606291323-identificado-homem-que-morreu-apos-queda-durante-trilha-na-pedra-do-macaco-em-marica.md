@@ -4,7 +4,7 @@ description: "Identificado homem que morreu após queda durante trilha na Pedra 
 pubDate: "2026-06-29T13:23:53Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "sao-jose-do-imbassai", "pedra-do-macaco", "acidente", "trilha", "regiao-metropolitana", "rocha", "regiao-dos-lagos", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606291323-identificado-homem-que-morreu-apos-queda-durante-trilha-na-pedra-do-macaco-em-marica.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-identificado-homem-que-morreu-apos-queda-durante-trilha-na-pedra-do-macaco-em-marica.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

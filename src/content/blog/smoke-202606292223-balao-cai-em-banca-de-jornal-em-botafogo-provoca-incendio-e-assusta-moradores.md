@@ -4,7 +4,7 @@ description: "Um balão caiu na manhã deste domingo (28) na Rua General Polidor
 pubDate: "2026-06-29T22:29:10Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "incendio", "balao", "rio-capital-zona-sul-grande-tijuca", "capital", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606292223-balao-cai-em-banca-de-jornal-em-botafogo-provoca-incendio-e-assusta-moradores.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-balao-cai-em-banca-de-jornal-em-botafogo-provoca-incendio-e-assusta-moradores.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

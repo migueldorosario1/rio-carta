@@ -4,7 +4,7 @@ description: "Uma família teve a casa danificada na noite de domingo (28), em u
 pubDate: "2026-06-29T19:24:43Z"
 draft: true
 tags: ["rio-de-janeiro", "botafogo", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "seguranca-publica"]
-heroImage: "/hero/smoke-202606291923-familia-tem-casa-danificada-apos-confusao-com-entregador-na-zona-sul.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-familia-tem-casa-danificada-apos-confusao-com-entregador-na-zona-sul.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

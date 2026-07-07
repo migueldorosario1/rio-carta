@@ -4,7 +4,7 @@ description: "A Prefeitura do Rio anunciou neste domingo (28) o início da impla
 pubDate: "2026-06-28T23:23:28Z"
 draft: true
 tags: ["rio-de-janeiro", "jacarepagua", "meio-ambiente", "rio-capital-barra-recreio-jacarepagua", "politica-rj", "regiao-metropolitana", "lagoa", "tijuca", "jacare", "problemas-estruturais", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606282323-rio-tera-novas-areas-de-protecao-em-jacarepagua-para-conectar-floresta-da-tijuca-e-pedra-branca.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282323-rio-tera-novas-areas-de-protecao-em-jacarepagua-para-conectar-floresta-da-tijuca-e-pedra-branca.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Um homem foi preso em flagrante por tráfico de drogas na sexta-fe
 pubDate: "2026-06-28T20:25:02Z"
 draft: true
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "seguranca-publica", "trafico-de-drogas", "regiao-dos-lagos", "bento-ribeiro", "buzios", "saude"]
-heroImage: "/hero/smoke-202606282023-homem-e-preso-por-trafico-de-drogas-em-pousada-de-buzios.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-homem-e-preso-por-trafico-de-drogas-em-pousada-de-buzios.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

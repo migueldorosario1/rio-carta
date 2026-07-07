@@ -4,7 +4,7 @@ description: "Localizado entre a Praia da Barra da Tijuca e a Lagoa de Marapendi
 pubDate: "2026-06-29T23:26:52Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "gastronomia", "evento", "brunch-julino", "rio-capital-barra-recreio-jacarepagua", "capital", "regiao-metropolitana", "caju", "lagoa", "tijuca", "politica-rj"]
-heroImage: "/hero/smoke-202606292323-grand-hyatt-rio-tera-brunch-julino-com-musica-ao-vivo.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-grand-hyatt-rio-tera-brunch-julino-com-musica-ao-vivo.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

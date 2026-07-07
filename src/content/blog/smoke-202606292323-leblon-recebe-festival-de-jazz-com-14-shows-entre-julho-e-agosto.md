@@ -4,7 +4,7 @@ description: "O Teatro Café Pequeno, no Leblon, volta a ser palco do jazz a par
 pubDate: "2026-06-29T23:23:30Z"
 draft: true
 tags: ["rio-de-janeiro", "leblon", "zona-sul", "rio-capital-zona-sul-grande-tijuca", "capital", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606292323-leblon-recebe-festival-de-jazz-com-14-shows-entre-julho-e-agosto.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-leblon-recebe-festival-de-jazz-com-14-shows-entre-julho-e-agosto.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

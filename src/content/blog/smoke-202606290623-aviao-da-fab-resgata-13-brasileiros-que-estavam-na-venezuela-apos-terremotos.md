@@ -4,7 +4,7 @@ description: "Um avião da Força Aérea Brasileira (FAB) trouxe ao Rio de Janei
 pubDate: "2026-06-29T06:23:36Z"
 draft: true
 tags: ["rio-de-janeiro", "venezuela", "terremoto", "resgate", "forca-aerea-brasileira", "seguranca-publica", "politica-rj", "regiao-metropolitana", "acari", "comunidade", "baixada", "problemas-estruturais", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606290623-aviao-da-fab-resgata-13-brasileiros-que-estavam-na-venezuela-apos-terremotos.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290623-aviao-da-fab-resgata-13-brasileiros-que-estavam-na-venezuela-apos-terremotos.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Pedro Paulo comenta pré-candidatura ao Senado e desafios do Rio e
 pubDate: "2026-06-28T23:25:38Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "pedro-paulo", "politica-rj", "eleicoes", "sao-goncalo-itaborai", "regiao-metropolitana", "itaborai"]
-heroImage: "/hero/smoke-202606282323-pedro-paulo-comenta-pre-candidatura-ao-senado-e-desafios-do-rio-em-entrevista-a-radio-mania.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282323-pedro-paulo-comenta-pre-candidatura-ao-senado-e-desafios-do-rio-em-entrevista-a-radio-mania.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

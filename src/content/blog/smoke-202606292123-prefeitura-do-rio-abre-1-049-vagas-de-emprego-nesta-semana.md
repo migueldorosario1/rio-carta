@@ -4,7 +4,7 @@ description: "A Prefeitura do Rio está com 1.049 vagas de emprego abertas nesta
 pubDate: "2026-06-29T21:25:15Z"
 draft: true
 tags: ["rio-de-janeiro", "prefeitura-do-rio", "empregos", "vagas", "politica-rj", "capital", "cidade-nova", "campo-grande", "saude", "educacao"]
-heroImage: "/hero/smoke-202606292123-prefeitura-do-rio-abre-1-049-vagas-de-emprego-nesta-semana.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-prefeitura-do-rio-abre-1-049-vagas-de-emprego-nesta-semana.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

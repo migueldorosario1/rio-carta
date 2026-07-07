@@ -4,7 +4,7 @@ description: "São Gonçalo iniciou uma capacitação de primeiros socorros para
 pubDate: "2026-06-28T23:26:16Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "educacao", "saude", "primeiros-socorros", "escolas", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606282323-sao-goncalo-treina-socorro-nas-escolas.png"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282323-sao-goncalo-treina-socorro-nas-escolas.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Câmeras de segurança registraram um homem vandalizando um carro 
 pubDate: "2026-06-29T13:26:15Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "itauna", "regiao-dos-lagos", "regiao-metropolitana", "mage", "estacio", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "/hero/smoke-202606291323-homem-e-flagrado-quebrando-retrovisor-de-carro-durante-a-madrugada-em-saquarema.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-homem-e-flagrado-quebrando-retrovisor-de-carro-durante-a-madrugada-em-saquarema.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Enredo: Ciata, a mãe preta do samba Compositores: Claudio Russo, 
 pubDate: "2026-06-28T20:25:38Z"
 draft: true
 tags: ["rio-de-janeiro", "carnaval-2027", "paraiso-do-tuiuti", "sapucai", "cultura-carnaval", "gamboa", "saude", "ouvidor", "politica-rj"]
-heroImage: "/hero/smoke-202606282023-conheca-o-samba-enredo-que-o-paraiso-do-tuiuti-levara-para-a-sapucai-no-carnaval-2027.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-conheca-o-samba-enredo-que-o-paraiso-do-tuiuti-levara-para-a-sapucai-no-carnaval-2027.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

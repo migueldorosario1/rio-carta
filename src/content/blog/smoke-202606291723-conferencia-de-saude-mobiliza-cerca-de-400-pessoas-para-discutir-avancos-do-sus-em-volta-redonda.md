@@ -4,7 +4,7 @@ description: "VOLTA REDONDA A Prefeitura de Volta Redonda, por meio da Secretari
 pubDate: "2026-06-29T17:24:26Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "saude", "sus", "conferencia-municipal", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-serrana", "carmo", "ramos", "transporte-mobilidade", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606291723-conferencia-de-saude-mobiliza-cerca-de-400-pessoas-para-discutir-avancos-do-sus-em-volta-redonda.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-conferencia-de-saude-mobiliza-cerca-de-400-pessoas-para-discutir-avancos-do-sus-em-volta-redonda.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

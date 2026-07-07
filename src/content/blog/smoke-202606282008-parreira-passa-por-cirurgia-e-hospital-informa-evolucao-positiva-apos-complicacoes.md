@@ -4,7 +4,7 @@ description: "A cirurgia realizada pelo ex-técnico da seleção brasileira Carl
 pubDate: "2026-06-28T20:11:58Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-da-tijuca", "saude", "rio-capital-barra-recreio-jacarepagua", "politica-rj", "regiao-metropolitana", "tijuca", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606282008-parreira-passa-por-cirurgia-e-hospital-informa-evolucao-positiva-apos-complicacoes.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282008-parreira-passa-por-cirurgia-e-hospital-informa-evolucao-positiva-apos-complicacoes.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

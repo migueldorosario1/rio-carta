@@ -4,7 +4,7 @@ description: "A greve dos rodoviários transformou a manhã desta segunda-feira 
 pubDate: "2026-06-29T12:23:50Z"
 draft: true
 tags: ["rio-de-janeiro", "greve-rodoviarios", "transporte-publico", "vandalismo", "brt", "transporte-mobilidade", "capital", "regiao-metropolitana", "ramos", "deodoro", "santa-cruz", "belford-roxo", "japeri"]
-heroImage: "/hero/smoke-202606291223-greve-dos-rodoviarios-causa-caos-no-rio-com-lotacao-atraso-e-vandalismo-em-onibus.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291223-greve-dos-rodoviarios-causa-caos-no-rio-com-lotacao-atraso-e-vandalismo-em-onibus.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

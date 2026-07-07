@@ -4,7 +4,7 @@ description: "SUL FLUMINENSE A esposa do ex-vereador de Barra Mansa e empresári
 pubDate: "2026-06-29T22:28:00Z"
 draft: true
 tags: ["rio-de-janeiro", "barra-mansa", "pinheiral", "volta-redonda", "sul-fluminense", "sul-fluminense-costa-verde", "catete", "joa", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606292223-esposa-atualiza-estado-de-saude-de-guto-nader-apos-acidente-em-fazenda.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-esposa-atualiza-estado-de-saude-de-guto-nader-apos-acidente-em-fazenda.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

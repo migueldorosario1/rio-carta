@@ -4,7 +4,7 @@ description: "Rio Greve de ônibus no Rio: 5 pontos para entender a paralisaçã
 pubDate: "2026-06-29T20:25:44Z"
 draft: true
 tags: ["rio-de-janeiro", "greve-onibus", "transporte", "transporte-mobilidade", "capital-estado", "regiao-metropolitana", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606292023-greve-de-onibus-no-rio-5-pontos-para-entender-a-paralisacao.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-greve-de-onibus-no-rio-5-pontos-para-entender-a-paralisacao.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

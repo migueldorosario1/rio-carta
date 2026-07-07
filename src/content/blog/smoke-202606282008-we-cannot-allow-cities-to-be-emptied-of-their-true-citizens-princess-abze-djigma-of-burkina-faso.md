@@ -4,7 +4,7 @@ description: "Residents of the Cândido Mendes Mansion in Santa Teresa, a neighb
 pubDate: "2026-06-28T20:09:35Z"
 draft: true
 tags: ["rio-de-janeiro", "santa-teresa", "candido-mendes-mansion", "rocinha", "princesa-abze-djigma", "burkina-faso", "ocupacao", "moradia-social", "rio-capital-centro", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "seguranca-publica"]
-heroImage: "/hero/smoke-202606282008-we-cannot-allow-cities-to-be-emptied-of-their-true-citizens-princess-abze-djigma-of-burkina-faso-qwen.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282008-we-cannot-allow-cities-to-be-emptied-of-their-true-citizens-princess-abze-djigma-of-burkina-faso-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

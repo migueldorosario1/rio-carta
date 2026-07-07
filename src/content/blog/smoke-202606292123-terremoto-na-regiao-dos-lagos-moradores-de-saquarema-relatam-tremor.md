@@ -4,7 +4,7 @@ description: "Terremoto na Região dos Lagos? Moradores de Saquarema relatam tre
 pubDate: "2026-06-29T21:26:13Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "terremoto", "capital", "regiao-metropolitana", "marica", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606292123-terremoto-na-regiao-dos-lagos-moradores-de-saquarema-relatam-tremor.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-terremoto-na-regiao-dos-lagos-moradores-de-saquarema-relatam-tremor.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

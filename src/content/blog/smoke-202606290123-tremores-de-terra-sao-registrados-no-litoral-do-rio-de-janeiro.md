@@ -4,7 +4,7 @@ description: "Uma série de tremores de terra de baixa magnitude foi registrada 
 pubDate: "2026-06-29T01:24:32Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "capital", "regiao-metropolitana", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606290123-tremores-de-terra-sao-registrados-no-litoral-do-rio-de-janeiro.png"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290123-tremores-de-terra-sao-registrados-no-litoral-do-rio-de-janeiro.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

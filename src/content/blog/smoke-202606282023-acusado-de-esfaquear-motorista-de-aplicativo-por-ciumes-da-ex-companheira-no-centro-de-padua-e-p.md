@@ -4,7 +4,7 @@ description: "A Polícia Civil cumpriu um mandado de prisão preventiva contra o
 pubDate: "2026-06-28T20:26:23Z"
 draft: true
 tags: ["rio-de-janeiro", "santo-antonio-de-padua", "policia-civil", "crime", "norte-noroeste-fluminense", "noroeste-fluminense", "seguranca-publica", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606282023-acusado-de-esfaquear-motorista-de-aplicativo-por-ciumes-da-ex-companheira-no-centro-de-padua-e-p.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-acusado-de-esfaquear-motorista-de-aplicativo-por-ciumes-da-ex-companheira-no-centro-de-padua-e-p.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

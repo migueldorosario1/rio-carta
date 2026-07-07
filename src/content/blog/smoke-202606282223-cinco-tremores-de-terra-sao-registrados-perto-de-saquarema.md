@@ -4,7 +4,7 @@ description: "Cinco tremores de terra foram registrados na costa do estado do Ri
 pubDate: "2026-06-28T22:24:01Z"
 draft: true
 tags: ["rio-de-janeiro", "saquarema", "regiao-dos-lagos", "tremores", "terremotos", "regiao-metropolitana", "marica", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606282223-cinco-tremores-de-terra-sao-registrados-perto-de-saquarema.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282223-cinco-tremores-de-terra-sao-registrados-perto-de-saquarema.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

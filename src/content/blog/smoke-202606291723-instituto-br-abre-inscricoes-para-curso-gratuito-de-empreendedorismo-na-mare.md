@@ -4,7 +4,7 @@ description: "Empreendedores do Complexo da Maré já podem se inscrever na Jorn
 pubDate: "2026-06-29T17:26:57Z"
 draft: true
 tags: ["rio-de-janeiro", "mare", "zona-norte", "rio-capital-zona-norte", "politica-rj", "comunidade", "complexo"]
-heroImage: "/hero/smoke-202606291723-instituto-br-abre-inscricoes-para-curso-gratuito-de-empreendedorismo-na-mare.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-instituto-br-abre-inscricoes-para-curso-gratuito-de-empreendedorismo-na-mare.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

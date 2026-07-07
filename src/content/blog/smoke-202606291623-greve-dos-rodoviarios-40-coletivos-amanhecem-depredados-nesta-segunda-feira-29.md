@@ -4,7 +4,7 @@ description: "Greve dos rodoviários: 40 coletivos amanhecem depredados nesta se
 pubDate: "2026-06-29T16:23:53Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "rodoviarios", "depredacao", "onibus", "transporte-mobilidade", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "itaborai", "marica", "politica-rj"]
-heroImage: "/hero/smoke-202606291623-greve-dos-rodoviarios-40-coletivos-amanhecem-depredados-nesta-segunda-feira-29.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-greve-dos-rodoviarios-40-coletivos-amanhecem-depredados-nesta-segunda-feira-29.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

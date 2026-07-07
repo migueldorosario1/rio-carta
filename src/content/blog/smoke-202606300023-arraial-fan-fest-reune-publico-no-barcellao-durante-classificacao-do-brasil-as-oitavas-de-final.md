@@ -4,7 +4,7 @@ description: "O município de Arraial do Cabo realizou, nesta segunda-feira (29)
 pubDate: "2026-06-30T00:23:36Z"
 draft: true
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "copa-do-mundo", "evento-gratuito", "seguranca-publica", "saude", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606300023-arraial-fan-fest-reune-publico-no-barcellao-durante-classificacao-do-brasil-as-oitavas-de-final.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300023-arraial-fan-fest-reune-publico-no-barcellao-durante-classificacao-do-brasil-as-oitavas-de-final.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

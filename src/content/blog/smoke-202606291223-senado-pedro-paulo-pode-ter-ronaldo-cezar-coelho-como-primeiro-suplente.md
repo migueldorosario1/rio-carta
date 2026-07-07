@@ -4,7 +4,7 @@ description: "A pré-candidatura do deputado federal Pedro Paulo ao Senado Feder
 pubDate: "2026-06-29T12:26:52Z"
 draft: true
 tags: ["rio-de-janeiro", "sul-fluminense", "politica-rj", "regiao-metropolitana", "saude"]
-heroImage: "/hero/smoke-202606291223-senado-pedro-paulo-pode-ter-ronaldo-cezar-coelho-como-primeiro-suplente-qwen.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291223-senado-pedro-paulo-pode-ter-ronaldo-cezar-coelho-como-primeiro-suplente-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

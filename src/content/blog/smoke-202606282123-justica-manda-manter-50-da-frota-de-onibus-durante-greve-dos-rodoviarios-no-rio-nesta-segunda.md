@@ -4,7 +4,7 @@ description: "Às vésperas da greve dos rodoviários no Rio de Janeiro, marcada
 pubDate: "2026-06-28T21:23:06Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "transporte-publico", "trt-1", "transporte-mobilidade", "capital", "regiao-metropolitana"]
-heroImage: "/hero/smoke-202606282123-justica-manda-manter-50-da-frota-de-onibus-durante-greve-dos-rodoviarios-no-rio-nesta-segunda.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-justica-manda-manter-50-da-frota-de-onibus-durante-greve-dos-rodoviarios-no-rio-nesta-segunda.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "No Rio (e Brasil), a fila do perdão a Casemiro, destaque da parti
 pubDate: "2026-06-29T23:25:53Z"
 draft: true
 tags: ["rio-de-janeiro", "baixo-gavea", "futebol", "casemiro", "rio-capital-zona-sul-grande-tijuca", "capital", "gavea", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606292323-no-rio-e-brasil-a-fila-do-perdao-a-casemiro-destaque-da-partida.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292323-no-rio-e-brasil-a-fila-do-perdao-a-casemiro-destaque-da-partida.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

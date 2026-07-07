@@ -4,7 +4,7 @@ description: "Um acidente entre uma motocicleta e um carro de passeio foi regist
 pubDate: "2026-06-29T15:26:01Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "porto-do-carro", "regiao-dos-lagos", "regiao-metropolitana", "mage", "problemas-estruturais", "transporte-mobilidade", "saude", "educacao"]
-heroImage: "/hero/smoke-202606291523-acidente-entre-moto-e-carro-e-registrado-no-porto-do-carro-em-cabo-frio.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-acidente-entre-moto-e-carro-e-registrado-no-porto-do-carro-em-cabo-frio.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

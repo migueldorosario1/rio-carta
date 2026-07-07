@@ -4,7 +4,7 @@ description: "A Prefeitura de Rio das Ostras reconheceu, na última semana, a tr
 pubDate: "2026-06-29T16:25:47Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "regiao-dos-lagos", "cultura", "patrimonio-cultural", "macae-norte-fluminense", "norte-fluminense", "cultura-carnaval", "politica-rj"]
-heroImage: "/hero/smoke-202606291623-feirinha-do-centro-se-torna-patrimonio-cultural-imaterial-de-rio-das-ostras.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-feirinha-do-centro-se-torna-patrimonio-cultural-imaterial-de-rio-das-ostras.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

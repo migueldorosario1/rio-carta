@@ -4,7 +4,7 @@ description: "A Operação Lei Seca vai intensificar as fiscalizações no Rio a
 pubDate: "2026-06-29T19:26:38Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "tijuca", "operacao-lei-seca", "rio-capital-zona-sul-grande-tijuca", "capital", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606291923-lei-seca-reforca-blitzes-no-rio-apos-jogo-da-selecao-brasileira-nesta-segunda.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-lei-seca-reforca-blitzes-no-rio-apos-jogo-da-selecao-brasileira-nesta-segunda.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

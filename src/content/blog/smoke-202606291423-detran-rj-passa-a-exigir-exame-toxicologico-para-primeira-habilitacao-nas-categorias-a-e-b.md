@@ -4,7 +4,7 @@ description: "O Detran-RJ passou a exigir, a partir desta segunda-feira (29), re
 pubDate: "2026-06-29T14:27:29Z"
 draft: true
 tags: ["rio-de-janeiro", "detran-rj", "cnh", "exame-toxicologico", "transporte-mobilidade", "capital"]
-heroImage: "/hero/smoke-202606291423-detran-rj-passa-a-exigir-exame-toxicologico-para-primeira-habilitacao-nas-categorias-a-e-b.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-detran-rj-passa-a-exigir-exame-toxicologico-para-primeira-habilitacao-nas-categorias-a-e-b.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

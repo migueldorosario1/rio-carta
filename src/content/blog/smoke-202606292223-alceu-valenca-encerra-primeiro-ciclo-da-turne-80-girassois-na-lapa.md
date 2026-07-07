@@ -4,7 +4,7 @@ description: "Alceu Valença completa 8 décadas de vida no dia 1º de julho, li
 pubDate: "2026-06-29T22:28:24Z"
 draft: true
 tags: ["rio-de-janeiro", "lapa", "cultura", "show", "alceu-valenca", "rio-capital-centro", "capital", "sul-fluminense-costa-verde", "valenca", "ipanema", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606292223-alceu-valenca-encerra-primeiro-ciclo-da-turne-80-girassois-na-lapa.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-alceu-valenca-encerra-primeiro-ciclo-da-turne-80-girassois-na-lapa.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "O Ministério Público Eleitoral (MPE) deu início a uma ofensiva 
 pubDate: "2026-06-29T15:26:55Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "eleicoes-2026", "crime-organizado", "justica-eleitoral", "regiao-metropolitana", "politica-rj", "leme", "mesquita", "seguranca-publica", "saude"]
-heroImage: "/hero/smoke-202606291523-ministerio-publico-eleitoral-cobra-acoes-de-partidos-para-barrar-crime-organizado-nas-eleicoes-d.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-ministerio-publico-eleitoral-cobra-acoes-de-partidos-para-barrar-crime-organizado-nas-eleicoes-d.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

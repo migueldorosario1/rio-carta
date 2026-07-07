@@ -4,7 +4,7 @@ description: "Entretenimento Após furto, Manuela Cit diz ter pânico e frustra 
 pubDate: "2026-06-29T20:24:44Z"
 draft: true
 tags: ["rio-de-janeiro", "zona-sul", "furto", "manuela-cit", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606292023-apos-furto-manuela-cit-diz-ter-panico-e-frustra-golpes-em-suas-contas.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292023-apos-furto-manuela-cit-diz-ter-panico-e-frustra-golpes-em-suas-contas.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "INVERNO “QUENTE” EM CABO FRIO A coluna Boca Miúda desta segun
 pubDate: "2026-06-29T22:23:06Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "politica", "enchente", "prolagos", "dr-serginho", "jardim-excelsior", "sao-cristovao", "paciencia", "problemas-estruturais", "transporte-mobilidade", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-202606292223-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-segunda-feira-29.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-boca-miuda-os-bastidores-da-politica-na-regiao-dos-lagos-nesta-segunda-feira-29.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

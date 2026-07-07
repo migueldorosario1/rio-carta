@@ -4,7 +4,7 @@ description: "O perfil pessoal do prefeito de Cabo Frio, Dr. Serginho, anunciou 
 pubDate: "2026-06-29T17:24:42Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "macae-norte-fluminense", "paciencia", "norte-fluminense", "problemas-estruturais", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-202606291723-prefeito-de-cabo-frio-anuncia-multa-milionaria-contra-prolagos-por-falhas-no-escoamento.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-prefeito-de-cabo-frio-anuncia-multa-milionaria-contra-prolagos-por-falhas-no-escoamento.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

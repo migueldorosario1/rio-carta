@@ -4,7 +4,7 @@ description: "Com o tema “Não deixe para amanhã a vida que você pode salvar
 pubDate: "2026-06-28T20:12:36Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "saude", "doacao-de-sangue", "norte-noroeste-fluminense", "macae-norte-fluminense", "norte-fluminense", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-202606282008-macae-promove-dia-d-de-doacao-de-sangue-com-horario-especial-neste-sabado-27.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282008-macae-promove-dia-d-de-doacao-de-sangue-com-horario-especial-neste-sabado-27.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

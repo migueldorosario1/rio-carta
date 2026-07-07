@@ -4,7 +4,7 @@ description: "Um adolescente de 16 anos foi detido na madrugada deste domingo (2
 pubDate: "2026-06-29T18:26:18Z"
 draft: true
 tags: ["rio-de-janeiro", "armacao-dos-buzios", "regiao-dos-lagos", "seguranca-publica", "manguinhos", "buzios", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606291823-adolescente-e-flagrado-ao-tentar-fugir-com-carro-apos-serie-de-furtos-em-buzios.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-adolescente-e-flagrado-ao-tentar-fugir-com-carro-apos-serie-de-furtos-em-buzios.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Copa do Mundo Brasil x Japão: veja locais gratuitos para assistir
 pubDate: "2026-06-29T14:27:07Z"
 draft: true
 tags: ["rio-de-janeiro", "tijuca", "copacabana", "lapa", "sao-goncalo", "sao-joao-de-meriti", "niteroi", "rio-capital-zona-sul-grande-tijuca", "capital-estado", "regiao-metropolitana", "joa", "baixada", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606291423-brasil-x-japao-veja-locais-gratuitos-para-assistir-no-rio-baixada-e-sao-goncalo.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-brasil-x-japao-veja-locais-gratuitos-para-assistir-no-rio-baixada-e-sao-goncalo.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

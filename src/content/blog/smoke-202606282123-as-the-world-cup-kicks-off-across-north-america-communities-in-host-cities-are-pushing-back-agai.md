@@ -4,7 +4,7 @@ description: "This article is part of our series reflecting on the impacts of me
 pubDate: "2026-06-28T21:25:16Z"
 draft: true
 tags: ["rio-de-janeiro", "legado-olimpico", "especulacao-imobiliaria", "mega-eventos", "politica-rj", "favelas-comunidades", "regiao-metropolitana", "favela", "comunidade", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606282123-as-the-world-cup-kicks-off-across-north-america-communities-in-host-cities-are-pushing-back-agai-qwen.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-as-the-world-cup-kicks-off-across-north-america-communities-in-host-cities-are-pushing-back-agai-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

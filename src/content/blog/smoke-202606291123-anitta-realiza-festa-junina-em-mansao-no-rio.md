@@ -4,7 +4,7 @@ description: "Anitta realiza festa junina em mansão no Rio A celebração reuni
 pubDate: "2026-06-29T11:23:50Z"
 draft: true
 tags: ["rio-de-janeiro", "anitta", "festa-junina", "sao-goncalo-itaborai", "regiao-metropolitana", "mage", "sao-goncalo", "itaborai", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606291123-anitta-realiza-festa-junina-em-mansao-no-rio.png"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291123-anitta-realiza-festa-junina-em-mansao-no-rio.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Trilheiro morre ao cair da Pedra do Macaco, em Maricá Ele perdeu 
 pubDate: "2026-06-29T13:25:15Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-dos-lagos", "acidente", "trilha", "sao-goncalo-itaborai", "regiao-metropolitana", "sao-goncalo", "rocha", "belford-roxo", "itaborai", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606291323-trilheiro-morre-ao-cair-da-pedra-do-macaco-em-marica.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-trilheiro-morre-ao-cair-da-pedra-do-macaco-em-marica.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

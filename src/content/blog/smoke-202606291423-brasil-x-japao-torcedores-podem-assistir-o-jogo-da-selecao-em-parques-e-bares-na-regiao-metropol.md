@@ -4,7 +4,7 @@ description: "Brasil x Japão: Torcedores podem assistir o jogo da seleção em 
 pubDate: "2026-06-29T14:23:58Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "niteroi", "itaborai", "marica", "regiao-metropolitana", "sao-goncalo-itaborai", "mare", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606291423-brasil-x-japao-torcedores-podem-assistir-o-jogo-da-selecao-em-parques-e-bares-na-regiao-metropol.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-brasil-x-japao-torcedores-podem-assistir-o-jogo-da-selecao-em-parques-e-bares-na-regiao-metropol.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

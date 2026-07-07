@@ -4,7 +4,7 @@ description: "O confronto entre Brasil e Japão, válido pela Copa do Mundo de 2
 pubDate: "2026-06-29T06:23:53Z"
 draft: true
 tags: ["rio-de-janeiro", "servicos-publicos", "copa-do-mundo-2026", "brasil-x-japao", "expediente", "bancos", "inss", "politica-rj", "regiao-metropolitana", "bancarios", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606290623-brasil-x-japao-altera-expediente-no-rio-veja-funcionamento-dos-servicos-publicos-e-privados.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290623-brasil-x-japao-altera-expediente-no-rio-veja-funcionamento-dos-servicos-publicos-e-privados.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

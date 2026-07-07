@@ -4,7 +4,7 @@ description: "As praças de Copacabana, Leme e Ipanema estão passando por uma a
 pubDate: "2026-06-29T21:25:37Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "leme", "ipanema", "zona-sul", "pracas", "revitalizacao", "prefeitura-do-rio", "rio-capital-zona-sul-grande-tijuca", "capital", "problemas-estruturais", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606292123-pracas-de-copacabana-leme-e-ipanema-passam-por-revitalizacao-com-brinquedos-inclusivos-e-areas-p.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-pracas-de-copacabana-leme-e-ipanema-passam-por-revitalizacao-com-brinquedos-inclusivos-e-areas-p.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

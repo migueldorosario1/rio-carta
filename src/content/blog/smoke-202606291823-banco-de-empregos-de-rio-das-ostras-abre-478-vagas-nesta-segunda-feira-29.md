@@ -4,7 +4,7 @@ description: "Quem está em busca de uma oportunidade de trabalho em Rio das Ost
 pubDate: "2026-06-29T18:24:26Z"
 draft: true
 tags: ["rio-de-janeiro", "rio-das-ostras", "empregos", "regiao-dos-lagos", "prefeitura", "problemas-estruturais", "educacao", "politica-rj"]
-heroImage: "/hero/smoke-202606291823-banco-de-empregos-de-rio-das-ostras-abre-478-vagas-nesta-segunda-feira-29.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-banco-de-empregos-de-rio-das-ostras-abre-478-vagas-nesta-segunda-feira-29.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

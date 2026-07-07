@@ -4,7 +4,7 @@ description: "O prefeito de Niterói, Rodrigo Neves, comemorou no domingo (28) s
 pubDate: "2026-06-29T19:27:07Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "regiao-metropolitana", "politica-rj", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606291923-aniversario-de-50-anos-de-rodrigo-neves-reune-nomes-de-peso-da-politica-fluminense.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-aniversario-de-50-anos-de-rodrigo-neves-reune-nomes-de-peso-da-politica-fluminense.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

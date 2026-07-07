@@ -4,7 +4,7 @@ description: "A greve dos rodoviários do Rio de Janeiro vai continuar nesta ter
 pubDate: "2026-06-29T21:23:27Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "rodoviarios", "transporte-mobilidade", "capital", "regiao-metropolitana", "saude"]
-heroImage: "/hero/smoke-202606292123-greve-dos-rodoviarios-no-rio-continua-nesta-terca.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-greve-dos-rodoviarios-no-rio-continua-nesta-terca.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

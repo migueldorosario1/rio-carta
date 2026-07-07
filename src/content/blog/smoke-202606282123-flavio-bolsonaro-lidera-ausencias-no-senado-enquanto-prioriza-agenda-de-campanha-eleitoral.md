@@ -4,7 +4,7 @@ description: "O senador Flávio Bolsonaro registrou ausência em 43% das votaç�
 pubDate: "2026-06-28T21:27:22Z"
 draft: true
 tags: ["rio-de-janeiro", "flavio-bolsonaro", "senado-federal", "politica-rj", "capital", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606282123-flavio-bolsonaro-lidera-ausencias-no-senado-enquanto-prioriza-agenda-de-campanha-eleitoral.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-flavio-bolsonaro-lidera-ausencias-no-senado-enquanto-prioriza-agenda-de-campanha-eleitoral.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Maricá cortaria 22 cargos comissionados e R$ 504 mil por mês com
 pubDate: "2026-06-29T22:25:21Z"
 draft: true
 tags: ["rio-de-janeiro", "marica", "regiao-metropolitana", "politica", "reforma-administrativa", "leme", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-202606292223-marica-cortaria-22-cargos-comissionados-e-r-504-mil-por-mes-com-a-reforma-administrativa-entenda.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-marica-cortaria-22-cargos-comissionados-e-r-504-mil-por-mes-com-a-reforma-administrativa-entenda.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

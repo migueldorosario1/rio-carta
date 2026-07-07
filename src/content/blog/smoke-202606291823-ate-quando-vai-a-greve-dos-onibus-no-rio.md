@@ -4,7 +4,7 @@ description: "Até quando vai a greve dos ônibus no Rio? Paralisação por temp
 pubDate: "2026-06-29T18:27:42Z"
 draft: true
 tags: ["rio-de-janeiro", "greve-onibus", "transporte-publico", "capital", "transporte-mobilidade", "regiao-metropolitana", "politica-rj"]
-heroImage: "/hero/smoke-202606291823-ate-quando-vai-a-greve-dos-onibus-no-rio.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291823-ate-quando-vai-a-greve-dos-onibus-no-rio.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

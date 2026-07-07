@@ -4,7 +4,7 @@ description: "Obras de reforma e modernização na Praça da Trindade estão 60%
 pubDate: "2026-06-29T14:26:04Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-goncalo", "praca-da-trindade", "regiao-metropolitana", "sao-goncalo-itaborai", "itaborai", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-202606291423-obras-de-reforma-e-modernizacao-na-praca-da-trindade-estao-60-concluidas.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-obras-de-reforma-e-modernizacao-na-praca-da-trindade-estao-60-concluidas.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

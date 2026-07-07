@@ -4,7 +4,7 @@ description: "As homenagens a São Pedro, padroeiro dos pescadores, mobilizam mu
 pubDate: "2026-06-29T16:25:09Z"
 draft: true
 tags: ["rio-de-janeiro", "regiao-dos-lagos", "sao-pedro-da-aldeia", "iguaba-grande", "arraial-do-cabo", "buzios", "marica", "festa-de-sao-pedro", "pescadores", "tradicao", "regiao-metropolitana", "lagoa", "manguinhos", "guaratiba"]
-heroImage: "/hero/smoke-202606291623-festa-de-sao-pedro-reune-fieis-e-pescadores-em-cidades-da-regiao-dos-lagos.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-festa-de-sao-pedro-reune-fieis-e-pescadores-em-cidades-da-regiao-dos-lagos.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

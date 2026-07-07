@@ -4,7 +4,7 @@ description: "Uma baleia surpreendeu praticantes de canoa havaiana ao se aproxim
 pubDate: "2026-06-29T19:25:11Z"
 draft: true
 tags: ["rio-de-janeiro", "gloria", "prainha-da-gloria", "baia-de-guanabara", "rio-capital-zona-sul-grande-tijuca", "capital", "regiao-metropolitana", "mage", "niteroi", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606291923-baleia-faz-aparicao-inedita-perto-de-canoa-havaiana-na-prainha-da-gloria.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-baleia-faz-aparicao-inedita-perto-de-canoa-havaiana-na-prainha-da-gloria.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "Pré-candidato ao Governo do Estado percorreu a feira livre de Are
 pubDate: "2026-06-29T14:24:31Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "politica-rj", "douglas-ruas", "regiao-metropolitana", "niteroi-metropolitana", "niteroi", "baixada", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606291423-douglas-ruas-faz-caminhada-em-belford-roxo-e-defende-dialogo-com-moradores.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291423-douglas-ruas-faz-caminhada-em-belford-roxo-e-defende-dialogo-com-moradores.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

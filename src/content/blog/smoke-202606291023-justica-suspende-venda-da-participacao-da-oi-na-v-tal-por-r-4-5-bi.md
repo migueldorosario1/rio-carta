@@ -4,7 +4,7 @@ description: "Justiça suspende venda da participação da Oi na V.tal por R$ 4,
 pubDate: "2026-06-29T10:23:31Z"
 draft: true
 tags: ["rio-de-janeiro", "justica", "oi", "v-tal", "politica-rj", "serrana", "regiao-metropolitana", "petropolis", "saude"]
-heroImage: "/hero/smoke-202606291023-justica-suspende-venda-da-participacao-da-oi-na-v-tal-por-r-4-5-bi.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291023-justica-suspende-venda-da-participacao-da-oi-na-v-tal-por-r-4-5-bi.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

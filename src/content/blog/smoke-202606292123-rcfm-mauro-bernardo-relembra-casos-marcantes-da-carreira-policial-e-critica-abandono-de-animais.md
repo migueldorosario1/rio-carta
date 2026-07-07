@@ -4,7 +4,7 @@ description: "O programa Renata Cristiane Online, exibido em formato multiplataf
 pubDate: "2026-06-29T21:23:33Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "maus-tratos-animais", "meio-ambiente", "politica-rj", "seguranca-publica", "saude", "educacao"]
-heroImage: "/hero/smoke-202606292123-rcfm-mauro-bernardo-relembra-casos-marcantes-da-carreira-policial-e-critica-abandono-de-animais.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292123-rcfm-mauro-bernardo-relembra-casos-marcantes-da-carreira-policial-e-critica-abandono-de-animais.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

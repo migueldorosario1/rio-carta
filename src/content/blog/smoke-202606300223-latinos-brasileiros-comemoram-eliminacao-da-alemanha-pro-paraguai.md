@@ -4,7 +4,7 @@ description: "Latinos! Brasileiros comemoram eliminação da Alemanha pro Paragu
 pubDate: "2026-06-30T02:24:11Z"
 draft: true
 tags: ["rio-de-janeiro", "copa-do-mundo", "paraguai", "alemanha", "celebracao", "rio-capital-centro", "capital", "regiao-metropolitana", "mage"]
-heroImage: "/hero/smoke-202606300223-latinos-brasileiros-comemoram-eliminacao-da-alemanha-pro-paraguai.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606300223-latinos-brasileiros-comemoram-eliminacao-da-alemanha-pro-paraguai.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

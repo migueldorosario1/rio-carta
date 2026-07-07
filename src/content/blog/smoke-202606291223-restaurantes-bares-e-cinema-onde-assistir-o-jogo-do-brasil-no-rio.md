@@ -4,7 +4,7 @@ description: "O Brasil enfrenta o Japão nesta segunda-feira (29), às 14h, em f
 pubDate: "2026-06-29T12:27:26Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "tijuca", "vila-isabel", "barra-da-tijuca", "niteroi", "regiao-metropolitana", "rio-capital", "politica-rj", "estacio", "gavea", "campo-grande", "transporte-mobilidade", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606291223-restaurantes-bares-e-cinema-onde-assistir-o-jogo-do-brasil-no-rio.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291223-restaurantes-bares-e-cinema-onde-assistir-o-jogo-do-brasil-no-rio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

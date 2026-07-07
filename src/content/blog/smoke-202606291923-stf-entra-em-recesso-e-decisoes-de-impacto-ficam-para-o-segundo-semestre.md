@@ -4,7 +4,7 @@ description: "STF entra em recesso e decisões de impacto ficam para o segundo s
 pubDate: "2026-06-29T19:24:49Z"
 draft: true
 tags: ["rio-de-janeiro", "politica-rj", "stf", "serrana", "regiao-metropolitana", "petropolis", "saude"]
-heroImage: "/hero/smoke-202606291923-stf-entra-em-recesso-e-decisoes-de-impacto-ficam-para-o-segundo-semestre.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291923-stf-entra-em-recesso-e-decisoes-de-impacto-ficam-para-o-segundo-semestre.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

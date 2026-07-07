@@ -4,7 +4,7 @@ description: "O pré-candidato ao Governo do Estado do Rio de Janeiro, Eduardo P
 pubDate: "2026-06-29T17:26:31Z"
 draft: true
 tags: ["rio-de-janeiro", "cabo-frio", "regiao-dos-lagos", "politica-rj", "macae-norte-fluminense", "regiao-metropolitana", "norte-fluminense"]
-heroImage: "/hero/smoke-202606291723-eduardo-paes-diz-que-pretende-trabalhar-ao-lado-de-dr-serginho-se-for-eleito.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291723-eduardo-paes-diz-que-pretende-trabalhar-ao-lado-de-dr-serginho-se-for-eleito.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

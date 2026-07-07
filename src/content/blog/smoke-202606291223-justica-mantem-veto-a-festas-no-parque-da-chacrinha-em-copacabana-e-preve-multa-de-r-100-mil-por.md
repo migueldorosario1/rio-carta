@@ -4,7 +4,7 @@ description: "O Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ) manteve 
 pubDate: "2026-06-29T12:25:13Z"
 draft: true
 tags: ["rio-de-janeiro", "copacabana", "zona-sul", "meio-ambiente", "rio-capital-zona-sul-grande-tijuca", "politica-rj", "regiao-metropolitana", "problemas-estruturais", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606291223-justica-mantem-veto-a-festas-no-parque-da-chacrinha-em-copacabana-e-preve-multa-de-r-100-mil-por.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291223-justica-mantem-veto-a-festas-no-parque-da-chacrinha-em-copacabana-e-preve-multa-de-r-100-mil-por.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

@@ -4,7 +4,7 @@ description: "VOLTA REDONDA Dezenas de alunos, professoras e familiares particip
 pubDate: "2026-06-29T22:24:52Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "ifrj", "protesto", "inteligencia-artificial", "educacao", "sul-fluminense", "regiao-metropolitana", "mage", "transporte-mobilidade", "saude", "politica-rj"]
-heroImage: "/hero/smoke-202606292223-denuncia-de-imagens-sexualizadas-geradas-por-ia-provoca-protesto-em-escola-de-volta-redonda-qwen.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606292223-denuncia-de-imagens-sexualizadas-geradas-por-ia-provoca-protesto-em-escola-de-volta-redonda-qwen.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

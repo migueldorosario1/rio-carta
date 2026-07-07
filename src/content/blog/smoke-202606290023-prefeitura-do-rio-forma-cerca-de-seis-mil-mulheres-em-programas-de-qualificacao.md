@@ -4,7 +4,7 @@ description: "A Prefeitura do Rio realizou a formatura de cerca de seis mil mulh
 pubDate: "2026-06-29T00:27:03Z"
 draft: true
 tags: ["rio-de-janeiro", "mulheres", "qualificacao", "prefeitura", "politica-rj", "capital", "estacio", "seguranca-publica", "educacao"]
-heroImage: "/hero/smoke-202606290023-prefeitura-do-rio-forma-cerca-de-seis-mil-mulheres-em-programas-de-qualificacao.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290023-prefeitura-do-rio-forma-cerca-de-seis-mil-mulheres-em-programas-de-qualificacao.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

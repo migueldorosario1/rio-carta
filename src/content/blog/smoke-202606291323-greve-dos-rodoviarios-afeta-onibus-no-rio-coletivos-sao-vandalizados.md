@@ -4,7 +4,7 @@ description: "Paralisação começou à meia-noite; Justiça determinou frota m�
 pubDate: "2026-06-29T13:24:12Z"
 draft: true
 tags: ["rio-de-janeiro", "greve", "onibus", "vandalismo", "transporte-mobilidade", "niteroi-metropolitana", "regiao-metropolitana", "niteroi", "ramos", "politica-rj"]
-heroImage: "/hero/smoke-202606291323-greve-dos-rodoviarios-afeta-onibus-no-rio-coletivos-sao-vandalizados.png"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291323-greve-dos-rodoviarios-afeta-onibus-no-rio-coletivos-sao-vandalizados.png"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

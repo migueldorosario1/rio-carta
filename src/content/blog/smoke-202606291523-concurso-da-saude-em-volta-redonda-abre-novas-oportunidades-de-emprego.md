@@ -4,7 +4,7 @@ description: "VOLTA REDONDA A Prefeitura de Volta Redonda, por meio da Secretari
 pubDate: "2026-06-29T15:26:12Z"
 draft: true
 tags: ["rio-de-janeiro", "volta-redonda", "concursos", "saude", "sul-fluminense-costa-verde", "sul-fluminense", "regiao-metropolitana", "mage", "politica-rj"]
-heroImage: "/hero/smoke-202606291523-concurso-da-saude-em-volta-redonda-abre-novas-oportunidades-de-emprego.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-concurso-da-saude-em-volta-redonda-abre-novas-oportunidades-de-emprego.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

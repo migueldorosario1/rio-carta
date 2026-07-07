@@ -4,7 +4,7 @@ description: "Parintins: a ponte de cores entre a Amazônia e o Carnaval carioca
 pubDate: "2026-06-29T16:24:56Z"
 draft: true
 tags: ["rio-de-janeiro", "parintins", "carnaval", "cultura-carnaval", "capital", "regiao-metropolitana", "vila-isabel", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606291623-parintins-a-ponte-de-cores-entre-a-amazonia-e-o-carnaval-carioca.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-parintins-a-ponte-de-cores-entre-a-amazonia-e-o-carnaval-carioca.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

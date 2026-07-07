@@ -4,7 +4,7 @@ description: "Um homem, de 26 anos, foi preso após policiais militares do Patam
 pubDate: "2026-06-29T15:24:56Z"
 draft: true
 tags: ["rio-de-janeiro", "sao-fidelis", "norte-noroeste-fluminense", "seguranca-publica", "regiao-metropolitana", "mage", "campos", "noroeste-fluminense", "saude"]
-heroImage: "/hero/smoke-202606291523-homem-e-preso-com-arma-maconha-pedras-de-crack-e-dinheiro-em-sao-fidelis.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-homem-e-preso-com-arma-maconha-pedras-de-crack-e-dinheiro-em-sao-fidelis.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

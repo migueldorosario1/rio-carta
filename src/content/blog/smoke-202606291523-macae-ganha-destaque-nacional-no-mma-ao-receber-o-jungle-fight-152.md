@@ -4,7 +4,7 @@ description: "Macaé mais uma vez ganhou destaque nacional no âmbito esportivo 
 pubDate: "2026-06-29T15:26:34Z"
 draft: true
 tags: ["rio-de-janeiro", "macae", "esporte", "mma", "jungle-fight", "bolsa-atleta", "norte-noroeste-fluminense", "macae-norte-fluminense", "pilares", "joa", "norte-fluminense"]
-heroImage: "/hero/smoke-202606291523-macae-ganha-destaque-nacional-no-mma-ao-receber-o-jungle-fight-152.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291523-macae-ganha-destaque-nacional-no-mma-ao-receber-o-jungle-fight-152.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

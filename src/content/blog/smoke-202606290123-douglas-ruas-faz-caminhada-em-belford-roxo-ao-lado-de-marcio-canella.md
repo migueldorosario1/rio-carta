@@ -4,7 +4,7 @@ description: "O pré-candidato ao Governo do Estado, Douglas Ruas, participou, n
 pubDate: "2026-06-29T01:24:49Z"
 draft: true
 tags: ["rio-de-janeiro", "belford-roxo", "baixada-fluminense", "politica-rj", "eleicoes", "regiao-metropolitana", "capital", "baixada", "transporte-mobilidade"]
-heroImage: "/hero/smoke-202606290123-douglas-ruas-faz-caminhada-em-belford-roxo-ao-lado-de-marcio-canella.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290123-douglas-ruas-faz-caminhada-em-belford-roxo-ao-lado-de-marcio-canella.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

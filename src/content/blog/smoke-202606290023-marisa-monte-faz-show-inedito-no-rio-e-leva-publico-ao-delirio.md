@@ -4,7 +4,7 @@ description: "Marisa Monte faz show inédito no Rio e leva público ao delírio 
 pubDate: "2026-06-29T00:26:07Z"
 draft: true
 tags: ["rio-de-janeiro", "gavea", "zona-sul", "marisa-monte", "rio-capital-zona-sul-grande-tijuca", "capital", "cultura-carnaval"]
-heroImage: "/hero/smoke-202606290023-marisa-monte-faz-show-inedito-no-rio-e-leva-publico-ao-delirio.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606290023-marisa-monte-faz-show-inedito-no-rio-e-leva-publico-ao-delirio.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

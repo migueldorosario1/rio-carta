@@ -4,7 +4,7 @@ description: "Arraial do Cabo recebe, entre os dias 2 e 5 de julho, o 3º Encont
 pubDate: "2026-06-28T21:28:01Z"
 draft: true
 tags: ["rio-de-janeiro", "arraial-do-cabo", "regiao-dos-lagos", "cultura-carnaval", "mare", "transporte-mobilidade", "politica-rj"]
-heroImage: "/hero/smoke-202606282123-arraial-do-cabo-recebe-3o-encontro-latino-americano-de-musica-danca-e-coros.webp"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282123-arraial-do-cabo-recebe-3o-encontro-latino-americano-de-musica-danca-e-coros.webp"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

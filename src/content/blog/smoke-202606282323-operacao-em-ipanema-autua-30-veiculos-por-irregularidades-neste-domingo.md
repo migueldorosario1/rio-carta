@@ -4,7 +4,7 @@ description: "Ação da Subprefeitura da Zona Sul e Guarda Municipal também apr
 pubDate: "2026-06-28T23:23:51Z"
 draft: true
 tags: ["rio-de-janeiro", "ipanema", "zona-sul", "transporte-mobilidade", "rio-capital-zona-sul-grande-tijuca", "capital", "estacio", "iraja", "seguranca-publica", "politica-rj"]
-heroImage: "/hero/smoke-202606282323-operacao-em-ipanema-autua-30-veiculos-por-irregularidades-neste-domingo.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282323-operacao-em-ipanema-autua-30-veiculos-por-irregularidades-neste-domingo.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

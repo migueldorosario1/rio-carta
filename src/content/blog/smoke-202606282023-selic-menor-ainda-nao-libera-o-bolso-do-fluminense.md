@@ -4,7 +4,7 @@ description: "Juro caiu para 14,25%, mas inflação, crédito caro e renda apert
 pubDate: "2026-06-28T20:24:00Z"
 draft: true
 tags: ["rio-de-janeiro", "niteroi", "sao-goncalo", "regiao-metropolitana", "economia", "credito", "niteroi-metropolitana", "transporte-mobilidade", "saude"]
-heroImage: "/hero/smoke-202606282023-selic-menor-ainda-nao-libera-o-bolso-do-fluminense.jpeg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606282023-selic-menor-ainda-nao-libera-o-bolso-do-fluminense.jpeg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.

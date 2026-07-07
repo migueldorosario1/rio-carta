@@ -4,7 +4,7 @@ description: "Os deputados da Assembleia Legislativa do Rio de Janeiro (Alerj) r
 pubDate: "2026-06-29T16:24:14Z"
 draft: true
 tags: ["rio-de-janeiro", "alerj", "servidores-publicos", "uerj", "politica-rj", "regiao-metropolitana", "colegio", "transporte-mobilidade", "educacao"]
-heroImage: "/hero/smoke-202606291623-alerj-convoca-colegio-de-lideres-para-evitar-que-emendas-comprometam-adicional-de-servidores.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/smoke-202606291623-alerj-convoca-colegio-de-lideres-para-evitar-que-emendas-comprometam-adicional-de-servidores.jpg"
 ---
 
 > Rascunho técnico de smoke. Revisar edição, categoria e imagem antes de publicar.
