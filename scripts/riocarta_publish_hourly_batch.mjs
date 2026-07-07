@@ -621,13 +621,17 @@ async function auditAndFix(file, publish) {
   let imageSize = 'remote';
 
   if (!isRemoteHero && heroPath) {
-    if (!fs.existsSync(heroPath)) throw new Error(`imagem destacada ausente: ${heroImage}`);
-    const meta = await sharp(heroPath).metadata();
-    imageSize = `${meta.width}x${meta.height}`;
-    if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
-      const warning = `imagem destacada pequena: ${heroImage} ${imageSize}`;
-      if (publish) throw new Error(warning);
-      warnings.push(warning);
+    if (!fs.existsSync(heroPath)) {
+      if (publish) throw new Error(`imagem destacada ausente: ${heroImage}`);
+      warnings.push(`imagem destacada ausente: ${heroImage}`);
+    } else {
+      const meta = await sharp(heroPath).metadata();
+      imageSize = `${meta.width}x${meta.height}`;
+      if ((meta.width || 0) < 600 || (meta.height || 0) < 315) {
+        const warning = `imagem destacada pequena: ${heroImage} ${imageSize}`;
+        if (publish) throw new Error(warning);
+        warnings.push(warning);
+      }
     }
   }
 
