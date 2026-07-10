@@ -886,6 +886,11 @@ if (commitAndPush) {
     const publishedTitles = publishSet.map((file) => path.basename(file, '.md')).join(', ');
     git(['commit', '-m', `Publish Rio Carta hourly batch (${publishSet.length})`, '-m', publishedTitles]);
     if (!skipGitPush) {
+      try { git(['pull', '--rebase', 'origin', 'main']); } catch (e) { console.warn('Pull failed:', e.message); } try {
+        git(['pull', '--rebase', 'origin', 'main']);
+      } catch (err) {
+        console.warn('Pull failed:', err.message);
+      }
       git(['push', 'origin', 'main']);
     }
     if (publishSet.length) {
