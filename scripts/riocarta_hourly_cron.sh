@@ -24,6 +24,11 @@ fi
   printf '\n[%s] Rio Carta hourly publish start\n' "$(date -Is)"
   "$RIOCARTA_PYTHON" scripts/riocarta_zelador_destaques.py
   "$RIOCARTA_PYTHON" "../root/riocarta_smoke_markdown.py" 15 --queue
+
+  # Upload new hero images to R2 and rewrite Markdown frontmatter to remote URLs
+  "$RIOCARTA_PYTHON" "../root/riocarta_migrar_hero_r2.py" upload
+  "$RIOCARTA_PYTHON" "../root/riocarta_migrar_hero_r2.py" rewrite
+
   "$RIOCARTA_NPM" run riocarta:publish-hourly
   printf '[%s] Rio Carta hourly publish done\n' "$(date -Is)"
 } >> logs/rio_carta_hourly_cron.log 2>&1

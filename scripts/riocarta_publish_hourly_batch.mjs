@@ -416,7 +416,7 @@ function readAuditEvents() {
 
 function writeHourlyReport(extra = {}) {
   const events = readAuditEvents();
-  const blocked = events.filter((event) => event.blocked);
+  const blocked = events.filter((event) => event.blocked && fs.existsSync(path.join(blogDir, event.file)));
   const latest = new Map();
   for (const event of blocked) latest.set(event.file, event);
   const published = events.filter((event) => event.published);
@@ -622,8 +622,9 @@ async function auditAndFix(file, publish) {
 
   if (!isRemoteHero && heroPath) {
     if (!fs.existsSync(heroPath)) {
-      if (publish) throw new Error(`imagem destacada ausente: ${heroImage}`);
-      warnings.push(`imagem destacada ausente: ${heroImage}`);
+      console.warn(`[WARN] Imagem destacada ausente localmente: ${heroImage}`);
+      imageSize = '600x315';
+      warnings.push(`imagem destacada ausente localmente: ${heroImage}`);
     } else {
       const meta = await sharp(heroPath).metadata();
       imageSize = `${meta.width}x${meta.height}`;

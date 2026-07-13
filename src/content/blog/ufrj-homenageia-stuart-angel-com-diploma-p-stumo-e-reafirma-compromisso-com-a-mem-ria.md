@@ -4,7 +4,7 @@ description: "Com a presença da deputada Dani Balbi, do ex-ministro Franklin Ma
 pubDate: "2026-07-08T20:35:02Z"
 category: ["Pol\u00edtica", "UFRJ"]
 tags: ["ditadura", "ufrj", "dani-balbi", "franklin-martins", "stuart-angel", "hildegard-angel"]
-heroImage: "/hero/ufrj-homenageia-stuart-angel-com-diploma-p-stumo-e-reafirma-compromisso-com-a-mem-ria.jpg"
+heroImage: "https://pub-7c53d388419e4d44b17eace540ae7e22.r2.dev/hero/ufrj-homenageia-stuart-angel-com-diploma-p-stumo-e-reafirma-compromisso-com-a-mem-ria.jpg"
 author: "Redação"
 ---
 
