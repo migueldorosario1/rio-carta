@@ -416,9 +416,23 @@ function readAuditEvents() {
 
 function writeHourlyReport(extra = {}) {
   const events = readAuditEvents();
-  const blocked = events.filter((event) => event.blocked && fs.existsSync(path.join(blogDir, event.file)));
-  const latest = new Map();
-  for (const event of blocked) latest.set(event.file, event);
+  const latestEvents = new Map();
+  for (const event of events) {
+    if (event.file) latestEvents.set(event.file, event);
+  }
+  const blocked = [];
+  for (const [file, event] of latestEvents.entries()) {
+    const fullPath = path.join(blogDir, file);
+    if (event.blocked && fs.existsSync(fullPath)) {
+      try {
+        const text = fs.readFileSync(fullPath, 'utf8');
+        const isDraft = !text.match(/^draft:\s*false\s*$/m);
+        if (isDraft) {
+          blocked.push(event);
+        }
+      } catch {}
+    }
+  }
   const published = events.filter((event) => event.published);
   const notes = brainNotes();
   const lines = [
@@ -426,17 +440,17 @@ function writeHourlyReport(extra = {}) {
     '',
     `Atualizado em: ${new Date().toISOString()}`,
     `Publicadas/auditadas com sucesso no historico: ${published.length}`,
-    `Materias com bloqueio acumulado: ${latest.size}`,
+    `Materias com bloqueio acumulado: ${blocked.length}`,
     '',
     '## Solucoes do cerebro aplicadas',
     ...notes.map((note) => `- ${note}`),
     '',
     '## Bloqueios acumulados',
   ];
-  if (latest.size === 0) {
+  if (blocked.length === 0) {
     lines.push('- Nenhum bloqueio acumulado ate agora.');
   } else {
-    for (const event of latest.values()) {
+    for (const event of blocked) {
       lines.push(`- ${event.file}: ${summarizeReason(event.reason)}`);
     }
   }
@@ -608,6 +622,7 @@ async function auditAndFix(file, publish) {
   const heroImage = getField(frontmatter, 'heroImage');
   const description = getField(frontmatter, 'description');
   const tags = getField(frontmatter, 'tags');
+  const lang = getField(frontmatter, 'lang');
   const isRemoteHero = heroImage && (heroImage.startsWith('http://') || heroImage.startsWith('https://'));
   const heroPath = (!heroImage || isRemoteHero) ? null : path.join(publicDir, heroImage.replace(/^\//, ''));
   const warnings = [];
@@ -639,7 +654,7 @@ async function auditAndFix(file, publish) {
   let nextBody = cleanBody(body, title);
   const nextDescription = stripTitlePrefix(description, title);
   const source = extractSource(nextBody);
-  const language = languageCheck({ title, description, body: nextBody });
+  const language = languageCheck({ title, description, body: nextBody, lang });
   if (!language.ok) warnings.push(language.reason);
   const articleForAudit = {
         title,
@@ -650,6 +665,7 @@ async function auditAndFix(file, publish) {
         imageSize,
         sourceName: source.name,
         sourceUrl: source.url,
+        lang,
   };
   const consensus = publish
     ? await expandedConsensus(articleForAudit, warnings)
